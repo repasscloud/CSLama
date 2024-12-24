@@ -1,80 +1,82 @@
-I'm so tired of waiting for my flight tomorrow morning.
-Hey, I just checked my email and there's an update on my flight.
-Can you help me with a new flight to Paris?
-Just got a notification that my original flight has been cancelled.
-My schedule is really tight this week - can I book a new flight now?
-How do I go about rebooking my entire trip?
-Hi, I was wondering if it's possible to find me a new flight today?
-I just got word that my previous flight was delayed - what are my options?
-What's the process for booking a last-minute flight on short notice?
-Can you assist me with rebooking flights due to unforeseen circumstances?
-My airline just informed me that my flight has been rescheduled.
-Can I book a direct flight instead of the layover I have now?
-I'm having trouble getting in touch with the airline, can you help me?
-How do I change my flight if I've already paid for it?
-Is there any way to get an upgrade on my new flight?
-Can you check availability and book a flight from Los Angeles to Chicago?
-My travel plans have changed - can I rebook flights tomorrow?
-What's the best way to find alternative flights due to weather conditions?
-Do you offer any discounts for same-day bookings?
-Hi, I'm looking for a new flight to Tokyo but I don't know where to start.
-My connecting flight is delayed - what are my options now?
-Can I book a one-way ticket instead of the round-trip I had planned?
-What's the policy on rebooking flights due to illness or injury?
-How do I request a refund for my cancelled flight?
-Can you help me with finding affordable last-minute flights?
-My travel dates have changed - can I book a new flight tonight?
-Is there any way to get a complimentary upgrade on my future flight?
-What's the process for checking in and boarding a new flight?
-Do you offer any loyalty program benefits that could help me rebook?
-Can I request a specific seat or aisle on my new flight?
-My original flight was cancelled due to mechanical issues - what are my options now?
-How do I know when it's the right time to book a new flight?
-Is there any way to find cheaper flights by flying at different times of day?
-Can you assist me with rebooking flights for multiple people in my party?
-What's the best way to communicate with your airline if I'm having issues?
-Do you offer any packages or deals that include hotel and car rental?
-My flight has been delayed twice already - what are my next steps?
-Can I book a same-day international flight on short notice?
-How do I request a change in flight status due to personal reasons?
-Is there any way to get compensation for my cancelled flight?
-What's the process for checking in online and printing my boarding pass?
-Do you offer any special discounts or promotions that could help me rebook?
-Can I book a new flight as a non-refundable ticket option?
-How do I know if I'm eligible for your airline's loyalty program?
-My travel plans have changed multiple times this week - what should I do next?
-Can you help me find an alternative route or destination if mine is cancelled?
-What's the best way to get in touch with my airline's customer service team?
-Do you offer any perks like free Wi-Fi or priority boarding on new flights?
-How do I request a special meal or accommodation due to dietary restrictions?
-Can I book a new flight using my frequent flyer miles?
-What's the process for checking in at the airport and going through security?
-Do you offer any discounts for booking multiple flights at once?
-My connecting flight is delayed - can I get a refund or voucher?
-How do I know when to book a new flight based on my travel dates and destinations?
-Can I book a same-day return flight if mine has been cancelled?
-What's the best way to find last-minute flights using your airline's app?
-Do you offer any partnerships with hotels or car rental companies that could help me rebook?
-Can I request a specific type of seat, like business class, on my new flight?
-How do I communicate with your airline if I have special needs or requirements?
-Is there any way to get compensation for my cancelled flight due to weather conditions?
-What's the policy on rebooking flights due to illness or medical reasons?
-Can you help me find an alternative flight schedule that works better for me?
-Do you offer any discounts for students, seniors, or military personnel on new flights?
-How do I know if my travel plans are eligible for your airline's loyalty program rewards?
-Can I book a new flight using cash instead of miles or points?
-What's the process for checking in online and printing my boarding pass on mobile?
-Do you offer any free amenities like airport lounges or in-flight entertainment?
-How do I request a refund or voucher due to airline errors or mistakes?
-Can I book a new flight that fits within my existing travel budget?
-What's the best way to find last-minute flights using your airline's website?
-Do you offer any discounts for booking multiple flights at different airports?
-My connecting flight is delayed - can I get assistance with rebooking?
-How do I know if my new flight is eligible for TSA Pre-Check or CLEAR?
-Can I book a same-day international return flight on short notice?
-What's the policy on rebooking flights due to personal reasons like family emergencies?
-Do you offer any perks like priority check-in or boarding on new flights?
-How do I communicate with your airline if I have concerns about safety or security?
-Can I book a new flight that includes hotel stays and car rentals in my package?
-What's the process for checking in online and printing my boarding pass at the airport?
-Do you offer any discounts for booking flights during off-peak seasons?
+Here are 80 statements to train a corporate travel chatbot:
+
+I'm flying out tomorrow.
+Can you book me on a flight?
+Need help with booking a trip.
+I want to rebook my flight due to schedule change.
+Flight cancelled, find new one ASAP.
+How do I get in touch with your travel department?
+Looking for alternative flights.
+Is there availability for a same-day flight?
+What's the policy on last-minute flight changes?
+Can you recommend a good airline?
+My original flight is overbooked, help me find one now.
+Rebooking assistance needed.
+Can I get a refund if I cancel my trip?
+I'm having trouble finding flights that fit my schedule.
+What's the earliest possible departure time?
+Book a non-stop flight for me please.
+Do you have any deals on flights this week?
+Help me find a same-day international flight.
+Can you book a business class ticket for me?
+Need to rebook due to family emergency.
+How do I get a voucher for my cancelled trip?
+What's the cancellation fee for your services?
+My flight was delayed, help me reschedule.
+Book a morning flight for me please.
+Can you book a same-day flight from multiple airports?
+Need assistance with rebooking due to illness.
+How do I check-in for my flight online?
+Can you find the cheapest flights for me?
+I want to upgrade to first class, can you help?
+Flight changed, need new itinerary.
+What's your policy on seat selection?
+Can you book a flight with a specific aircraft type?
+Looking for last-minute deals on flights tonight.
+How do I track the status of my flight booking?
+Rebooking assistance required immediately.
+Can you recommend a travel agent to assist me?
+My original flight was cancelled, can you rebook it?
+Book a red-eye flight for me please.
+What's your policy on fare changes due to fuel surcharges?
+Need help finding flights that arrive before 6 am.
+Can you book a same-day domestic flight?
+How do I get in touch with the travel department via phone?
+Rebooking assistance needed urgently.
+Can you book an international flight from [specific airport]?
+What's the policy on seat selection upgrades?
+My original flight was overbooked, can you rebook it now?
+Book a morning flight for my colleague today.
+Need to rebook due to unexpected work trip.
+Can you find flights that fit my schedule and budget?
+How do I track the status of my cancelled trip booking?
+Looking for a same-day flight with layovers.
+My original flight was delayed, can you reschedule it?
+Can you book an international business class ticket for me?
+Need assistance with rebooking due to illness or injury.
+What's your policy on cancellations and refunds?
+Book a non-stop morning flight for my colleague today.
+How do I check-in for my flight at the airport?
+Can you book an early morning flight for me please?
+Looking for last-minute deals on flights this weekend.
+Need to rebook due to unexpected travel plans.
+Can you find same-day international flights that depart from [specific airport]?
+My original flight was cancelled, can you rebook a new one today?
+Book an afternoon flight for my colleague please.
+What's the policy on seat selection during peak travel seasons?
+Need help finding flights that fit my budget and schedule.
+How do I get in touch with your customer support team?
+Can you book an evening flight for me today?
+Looking for same-day domestic flights from [specific airport].
+My original flight was delayed, can you reschedule it now?
+Can you find business class seats available on my preferred airline?
+Need to rebook due to unexpected work commitment.
+What's your policy on seat upgrades during peak travel seasons?
+Book a morning flight for me today please.
+Can you recommend an airline that offers frequent flyers benefits?
+Looking for last-minute deals on flights this week.
+How do I check-in for my flight and print my boarding pass?
+Rebooking assistance required for emergency reasons.
+Can you book an early morning international flight for me today?
+Need to rebook due to unexpected travel plans or cancellations.
+Book a red-eye morning flight for my colleague please.

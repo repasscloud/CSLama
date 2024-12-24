@@ -1,82 +1,97 @@
-Here are 80 statements to train a corporate travel chatbot:
-
 I'm running late for my meeting.
-My flight was cancelled, can you help me?
-I need to book a new ticket for next week.
-My current flight is too expensive, can you suggest alternatives?
-Can I get a refund for my cancelled trip?
-I just got an unexpected bill from my airline.
-I'm having trouble with my travel documents.
-My family member's flight was delayed, what do I do?
-Can I change my flight date without penalty?
-I need help with a last-minute business trip.
-I've been having issues with my credit card for travel expenses.
-My company requires me to stay overnight in another city.
-I'm looking for ways to save money on flights.
-I just got an email from the airline, what does it say?
-Can you book a flight for me on short notice?
-My luggage was lost, can I get it back?
-I need to rebook my trip due to unforeseen circumstances.
-Is there any availability for same-day flights?
-I'm worried about my flight being cancelled due to weather.
-Can you help me with a travel insurance claim?
-My company has changed our travel policy, can you explain?
-Can I get an upgrade on my flight without asking?
-My trip was affected by a natural disaster, what do I do?
-Can you recommend any alternative airports for my destination?
-Is there a way to avoid airport security lines?
-I'm trying to book a last-minute weekend getaway.
-My company requires me to take a different route on business trips.
-Can you assist with obtaining visas or passports?
-I need help finding the cheapest flights to Europe.
-My flight is leaving too early, can I get an extension?
-Is there any option for me to fly out of my home city?
-Can you book a round-trip ticket for me?
-My company has suspended all travel due to COVID-19.
-Can you provide information on travel restrictions and guidelines?
-I just got a call from the airline, what does it say about my flight?
-Can you help me find flights with minimal layovers?
-My luggage was damaged during transit, can I get compensation?
-Is there any availability for same-sex cabins?
-Can you book an overnight stay in another city for business purposes?
-My company requires me to attend a conference on the other side of the country.
-Can you provide information on airport parking and transportation options?
-I'm looking for flights with a specific meal option, can you help?
-Can you assist with obtaining travel documents such as passports?
-My flight was delayed due to mechanical issues, what's happening?
-Is there any way to get an exclusive airline lounge access for my family members?
-Can you book a connecting flight on the same day?
-I need help finding the cheapest flights to Asia.
-My company has implemented new travel policies, can you explain them?
-Can you provide information on airport security procedures and requirements?
-Is there any option for me to fly with my pet?
-Can you book a flight with an early morning wake-up call?
-I just got a confirmation email from the airline, what does it say about my booking?
-Can you assist with obtaining travel insurance for my trip?
-My company has suspended all business travel due to economic downturn.
-Is there any availability for flights with no-change fees?
-Can you book an airport car rental for me?
-I'm trying to book a last-minute flight on short notice, can you help?
-My flight was cancelled due to inclement weather, what's next?
-Can you provide information on airport amenities such as restaurants and shops?
-Is there any option for me to get an extra legroom seat upgrade?
-My company requires me to attend a conference in another country.
-Can you book an overnight stay in another city with access to my workplace?
-I need help finding the cheapest flights to Africa.
-Can you assist with obtaining travel visas or passports for non-US citizens?
-Is there any availability for same-sex rooms?
-My flight is leaving too late, can I get a later departure time?
-Can you book an airport hotel room for me overnight?
-I just got an email from the airline about my trip, what does it say about changes?
-Can you provide information on travel restrictions and requirements during holidays?
-My company has implemented new travel policies related to work hours.
-Is there any option for me to get a free upgrade to first class?
-I'm trying to book a round-trip flight with minimal layovers, can you help?
-Can you book an airport taxi or shuttle service for me?
-My company requires me to attend a meeting in another city on short notice.
-Can you assist with obtaining travel insurance that covers my specific needs?
-Is there any availability for flights with a free breakfast option?
-I just got a call from the airline, can you help me with my booking?
-Can you provide information on airport baggage policies and restrictions?
-My flight was delayed due to air traffic control issues, what's happening?
-Can you book an overnight stay in another city for business purposes?
+
+My flight has been cancelled due to bad weather.
+
+I just found out I have a scheduling conflict on my upcoming trip.
+
+Need help with booking a new flight as soon as possible.
+
+The airline lost my luggage and I need a replacement flight.
+
+My original flight is tomorrow, but it's too expensive now.
+
+Can you book me a new flight to the same destination?
+
+I'm not sure what time my flight leaves, can you tell me?
+
+I have a conflicting schedule with another appointment on the day of my flight.
+
+The hotel where I'll be staying has cancelled their shuttle service.
+
+My original flight was for two people but now it's just me.
+
+Can you help me find a new flight to match my existing itinerary?
+
+I was looking forward to relaxing at home instead of flying today.
+
+The weather is terrible and I'd rather not fly in this condition.
+
+I have a doctor's appointment on the day of my flight that can't be rescheduled.
+
+My original flight was for 5 days but now it's only 3 days.
+
+Can you book me a new flight to a different airport?
+
+I'm trying to save money by flying at off-peak times, but I need to change flights.
+
+The airline didn't have seats available on the new flight so can you find another option?
+
+My original travel plans were for 4 people but now it's just me and my partner.
+
+I was supposed to arrive at my destination last night, but there's been a delay.
+
+Can you help me book a same-day replacement flight?
+
+The airline is being unreasonable about changing the flight date and time.
+
+I need a new flight ASAP as I have an urgent meeting that can't be rescheduled.
+
+My original flight was for business class, but now it's just economy.
+
+I'm trying to minimize my travel time by taking an earlier flight, can you help?
+
+The airport is closed due to bad weather, what should I do?
+
+Can you book a new flight to the same destination with similar amenities?
+
+I just found out that my favorite flight has been cancelled and re-routed.
+
+My original flight was for 7 days but now it's only 5 days.
+
+I have a doctor's appointment on the day of my flight and can't reschedule.
+
+Can you book me a new flight to a different city?
+
+The airline wouldn't give me any information about why my flight was cancelled.
+
+I'm trying to save money by flying with a different airline, but I need to change flights.
+
+My original travel plans were for one person but now it's just me and another friend.
+
+Can you help me book a new flight with the same layover?
+
+The airport is very busy and crowded today.
+
+Can you find me a new flight that matches my existing travel dates?
+
+I'm not sure what time I arrived at the airport because of the bad traffic.
+
+My original flight was for leisure but now it's business.
+
+The airline lost my baggage and I need to book a replacement flight.
+
+Can you help me find a new flight with better amenities than my old one?
+
+I have a conflicting schedule with another appointment on the day of my return flight.
+
+My original travel plans were for 3 people but now it's just me and my family.
+
+Can you book me a same-day replacement flight to a nearby airport?
+
+The weather forecast says there will be heavy rain tomorrow, I'd rather not fly then.
+
+I was supposed to receive an important package by today's mail, what should I do?
+
+My original flight was for 5 days but now it's only 2 days.
+
+Can you book me a new flight with more legroom than my old one?
