@@ -1,5 +1,4 @@
 Here are 80 statements for training a corporate travel chatbot to recognize when someone wants to modify an existing booking:
-
 Hi, I'd like to make some changes to my upcoming trip.
 Can you update my flight reservation?
 My hotel room is too small, can I upgrade?
