@@ -1,0 +1,77 @@
+name: NGPT4 Pipeline
+
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  push:
+    branches: [ "ngpt4-pipeline" ]
+  workflow_dispatch: # Allow manual triggering with input
+    inputs:
+      model_name:
+        description: "Override model name (e.g., llama3.2:3b)"
+        required: false
+        default: "llama3.2:3b"
+
+env:
+  DEFAULT_MODEL: "llama3.2:3b" # Default model name
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    if: ${{ !contains(github.event.head_commit.message, 'Automated update') }}
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore
+
+    - name: Pull and run Ollama Docker container
+      run: |
+        docker pull ollama/ollama
+        docker run -d -v ollama-local:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+        sleep 10 # Give the container time to initialize
+
+    - name: Pull model
+      run: |
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        docker exec ollama ollama pull "$MODEL_NAME"
+
+    - name: Create prompt dataset and check output
+      run: |
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "$todayDate"
+        for i in {1..10}; do
+          outputFile="$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone needs to book a new flight. Use different styles of language, temperaments, and levels of friendliness. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+  
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git add .
+        git commit -m "Automated update" || echo "No changes to commit"
+        git push || echo "No changes to push"
