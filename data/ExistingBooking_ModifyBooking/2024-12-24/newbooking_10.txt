@@ -1,0 +1,81 @@
+Here are 80 statements for training a corporate travel chatbot to recognize when someone wants to modify an existing booking:
+Hi, I need to change my flight.
+Can you update my hotel reservation?
+I'm having second thoughts about this trip.
+Modify my booking please.
+Something's not right with my itinerary.
+Can I make changes to my travel plans?
+I'd like to cancel and reschedule, but keep the rest the same.
+Update my flight details.
+This isn't what I booked.
+How do I change my booking?
+I made a mistake on my reservation.
+Help me fix this trip's itinerary.
+Can you assist with modifications to my travel plans?
+What if I want to switch hotels?
+Need help with an existing booking modification.
+My flight is tomorrow and it's not as expected.
+Update my hotel room type.
+Can I swap my seat on the plane?
+Travel plans gone wrong, can you fix?
+Change my dates and travel arrangements.
+Something went wrong with my itinerary.
+How do I make a change to an existing booking?
+Need help making changes to my trip.
+My flight is too early, what if I want to leave tomorrow instead?
+Travel plans are not as expected.
+Modify my travel dates and destinations.
+Can you update my booking details?
+What do I need to do to change my hotel reservation?
+Can I cancel one part of the trip and keep others intact?
+Need assistance with changes to existing bookings.
+Travel plans have changed, can you help me modify?
+My travel itinerary is not what I booked.
+Want to make a change to my flight or hotel?
+Can I change the dates on my booking?
+Something's not as expected with my trip.
+Update my accommodation type.
+Travel plans are not working out, can you help me modify?
+Need help making changes to an existing travel arrangement.
+What if I want to leave a part of the trip and keep others?
+Can you assist with modifying my flight arrangements?
+Want to change one part of the booking and keep others intact.
+Travel plans are not going as planned, can you help me modify?
+Modify my travel dates.
+Something went wrong with my hotel reservation.
+Change my seat on the plane.
+Need help making changes to an existing travel plan.
+Can I change the destination for my trip?
+What if I want to switch hotels or flights?
+Travel plans are not as expected, can you help me modify?
+Want to make a change to my hotel reservation.
+How do I make modifications to my existing booking?
+Need assistance with changes to an existing travel arrangement.
+Can I cancel one part of the trip and keep others intact?
+My flight is tomorrow but it's not as expected.
+Travel plans gone wrong, can you fix my booking?
+Modify my travel dates and destinations.
+Want to change one part of the booking and keep others intact.
+Can I update my accommodation type?
+Something went wrong with my itinerary.
+Need help making changes to an existing booking.
+My flight is too early, what if I want to leave tomorrow instead?
+Travel plans are not working out, can you help me modify?
+Want to make a change to my hotel reservation.
+How do I change my travel dates and destinations?
+Can I cancel one part of the trip and keep others intact?
+Something went wrong with my flight reservation.
+Need assistance with changes to existing bookings.
+Travel plans are not going as planned, can you help me modify?
+Can I update my seat on the plane?
+Want to make a change to my travel arrangement.
+My hotel room type is not what I booked.
+Travel plans are not as expected, can you help me modify?
+Need help making changes to an existing booking.
+What if I want to leave a part of the trip and keep others intact?
+Can I change my travel dates and destinations?
+Something went wrong with my flight arrangement.
+Want to make a change to my hotel reservation.
+How do I modify my existing travel plan?
+Need assistance with changes to an existing booking.
+Travel plans are not working out, can you help me modify?
