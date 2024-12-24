@@ -51,12 +51,13 @@ jobs:
       run: |
         MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
         todayDate=$(date +"%Y-%m-%d")
-        mkdir -p "$todayDate"
+        mkdir -p "data/$todayDate"
         for i in {1..10}; do
-          outputFile="$todayDate/newbooking_$i.txt"
+          outputFile="data/$todayDate/newbooking_$i.txt"
           dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone needs to book a new flight. Use different styles of language, temperaments, and levels of friendliness. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
           if test -f "$outputFile"; then
             echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
           else
             echo "Output file $outputFile does not exist!"
             exit 1
