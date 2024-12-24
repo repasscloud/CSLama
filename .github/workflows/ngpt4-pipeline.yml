@@ -64,6 +64,114 @@ jobs:
           fi
         done
 
+    - name: Create ExistingBooking_CancelBooking dataset and check output
+      run: |
+        INTENT="ExistingBooking_CancelBooking"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone wants to cancel an existing booking. Use different styles of language, temperaments, and levels of clarity. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+    
+    - name: Create ExistingBooking_ModifyBooking dataset and check output
+      run: |
+        INTENT="ExistingBooking_ModifyBooking"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone wants to modify an existing booking. Use different styles of language, temperaments, and levels of clarity. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
+    - name: Create ExistingBooking_ViewBookingData dataset and check output
+      run: |
+        INTENT="ExistingBooking_ViewBookingData"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone wants to view details of an existing booking. Use different styles of language, temperaments, and levels of clarity. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
+    - name: Create Help_Faq dataset and check output
+      run: |
+        INTENT="Help_Faq"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone is asking for frequently asked questions. Use different styles of language, temperaments, and levels of friendliness. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
+    - name: Create Help_LiveAgent dataset and check output
+      run: |
+        INTENT="Help_LiveAgent"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone needs help from a live agent. Use different styles of language, temperaments, and levels of urgency. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
+    - name: Create Help_Restart dataset and check output
+      run: |
+        INTENT="Help_Restart"
+        MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+        todayDate=$(date +"%Y-%m-%d")
+        mkdir -p "data/$INTENT/$todayDate"
+        for i in {1..10}; do
+          outputFile="data/$INTENT/$todayDate/newbooking_$i.txt"
+          dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone wants to restart a conversation or process. Use different styles of language, temperaments, and levels of clarity. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+          if test -f "$outputFile"; then
+            echo "Output file $outputFile exists."
+            sed -i -E 's/^[0-9]+\. //' "$outputFile"
+          else
+            echo "Output file $outputFile does not exist!"
+            exit 1
+          fi
+        done
+
     - name: Configure Git
       run: |
         git config user.name "github-actions"
