@@ -1,0 +1,81 @@
+Here are 80 statements for training a corporate travel chatbot to recognize when someone wants to modify an existing booking:
+I need to change my flight from tomorrow morning.
+Can you update my hotel reservation to be two nights instead of one?
+We booked the wrong day for our meeting.
+I'd like to swap my car rental dates.
+My assistant needs to change the airport pickup time.
+Can we modify the room category in my booking?
+The conference room is not available on our new date.
+Please update my airfare to reflect a later flight.
+We booked the wrong number of attendees for our meeting space.
+I need to add an extra night to my stay.
+Can you change the airport code for my return flight?
+The team's schedule has changed and we'll be departing two days earlier.
+I'd like to downgrade my hotel room type to a standard double.
+We booked the wrong number of beds in our meeting space.
+Please update my car rental dates to reflect a longer rental period.
+My assistant needs to change the transportation method from taxi to Uber.
+Can we modify the breakfast package for my group booking?
+The conference room is not available on our new date, what's an alternative?
+I need to add a guest to my hotel reservation.
+We booked the wrong time zone for our meeting space.
+Please update my airfare to reflect a later return flight.
+The team's schedule has changed and we'll be departing two days earlier, can you adjust accordingly?
+Can you change the airport pickup time from 8am to 10am?
+We booked the wrong number of people for our meeting space.
+I'd like to upgrade my hotel room type to a suite.
+The conference room is not available on our new date, what's an alternative location?
+Please update my car rental dates to reflect a shorter rental period.
+My assistant needs to change the transportation method from Uber to taxi.
+Can we modify the meeting space package for our group booking?
+We booked the wrong number of attendees for our event space.
+I need to add an extra night to my stay, can you confirm availability?
+The team's schedule has changed and we'll be departing two days earlier, what's an alternative airport pickup time?
+Can you change the airport code for my outgoing flight?
+We booked the wrong room category in our hotel reservation.
+I'd like to downgrade my car rental type from luxury to standard.
+The conference room is not available on our new date, can you recommend an alternative venue?
+Please update my airfare to reflect a shorter flight duration.
+My assistant needs to change the meeting time from 2pm to 4pm.
+Can we modify the breakfast package for our group booking to include more options?
+We booked the wrong number of beds in our hotel reservation.
+I need to add a guest to my hotel reservation, can you confirm availability?
+The team's schedule has changed and we'll be departing two days earlier, what's an alternative time zone?
+Can you change the airport pickup time from 8am to 10am for my assistant?
+We booked the wrong number of people for our event space.
+I'd like to upgrade my hotel room type to a club level room.
+The conference room is not available on our new date, can you recommend an alternative location?
+Please update my car rental dates to reflect a longer rental period.
+My assistant needs to change the transportation method from taxi to Uber for me.
+Can we modify the meeting space package for our group booking to include more amenities?
+We booked the wrong room category in our hotel reservation, can you confirm availability?
+I need to add an extra night to my stay, what's the total cost?
+The team's schedule has changed and we'll be departing two days earlier, what's an alternative airport pickup time for my assistant?
+Can you change the airport code for my return flight from SFO to LAS?
+We booked the wrong number of attendees for our meeting space.
+I'd like to downgrade my hotel room type from deluxe to standard.
+The conference room is not available on our new date, what's an alternative location?
+Please update my airfare to reflect a shorter flight duration.
+My assistant needs to change the transportation method from Uber to taxi for me.
+Can we modify the meeting space package for our group booking to include more options?
+We booked the wrong number of beds in our hotel reservation, can you confirm availability?
+I need to add a guest to my hotel reservation, what's the total cost?
+The team's schedule has changed and we'll be departing two days earlier, what's an alternative time zone for me?
+Can you change the airport pickup time from 8am to 10am for our group booking?
+We booked the wrong number of people for our event space.
+I'd like to upgrade my hotel room type to a suite with a view.
+The conference room is not available on our new date, can you recommend an alternative venue?
+Please update my car rental dates to reflect a shorter rental period.
+My assistant needs to change the meeting time from 2pm to 4pm for me.
+Can we modify the breakfast package for our group booking to include more options?
+We booked the wrong room category in our hotel reservation, can you confirm availability?
+I need to add an extra night to my stay, what's the total cost?
+The team's schedule has changed and we'll be departing two days earlier, what's an alternative airport pickup time for my assistant?
+Can you change the airport code for my outgoing flight from LAX to SFO?
+We booked the wrong number of attendees for our meeting space.
+I'd like to downgrade my car rental type from luxury to standard.
+The conference room is not available on our new date, can you recommend an alternative location?
+Please update my airfare to reflect a shorter flight duration.
+My assistant needs to change the transportation method from taxi to Uber for me.
+Can we modify the meeting space package for our group booking to include more amenities?
+We booked the wrong number of beds in our hotel reservation, can you confirm availability?
