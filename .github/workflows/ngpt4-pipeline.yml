@@ -16,7 +16,7 @@ env:
   DEFAULT_MODEL: "llama3.2:3b" # Default model name
 
 jobs:
-  build:
+  ngpt4-build:
 
     runs-on: ubuntu-latest
 
