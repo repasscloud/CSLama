@@ -128,9 +128,9 @@ jobs:
           ./_scripts_to_be_run/remove_duplicates.sh "$file"
         done
 
-    - name: Create ExistingBooking_ViewBookingData dataset
+    - name: Create ExistingBooking_ViewBooking dataset
       run: |
-        INTENT="ExistingBooking_ViewBookingData"
+        INTENT="ExistingBooking_ViewBooking"
         MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
         todayDate=$(date +"%Y-%m-%d")
         outDir="$(pwd)/data/$INTENT/$todayDate"
