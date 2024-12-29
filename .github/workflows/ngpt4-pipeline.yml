@@ -135,20 +135,20 @@ jobs:
             textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
         done
 
-    - name: Clean up intermediate files
-      run: |
-        INTENT="NewBooking_SelectFlight"
-        todayDate=$(date +"%Y-%m-%d")
-        outDir="$(pwd)/data/$INTENT/$todayDate"
-        find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
+    # - name: Clean up intermediate files
+    #   run: |
+    #     INTENT="NewBooking_SelectFlight"
+    #     todayDate=$(date +"%Y-%m-%d")
+    #     outDir="$(pwd)/data/$INTENT/$todayDate"
+    #     find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
 
-    - name: Merge files into master
-      run: |
-        INTENT="NewBooking_SelectFlight"
-        todayDate=$(date +"%Y-%m-%d")
-        outDir="$(pwd)/data/$INTENT/$todayDate"
-        ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
-        
+    # - name: Merge files into master
+    #   run: |
+    #     INTENT="NewBooking_SelectFlight"
+    #     todayDate=$(date +"%Y-%m-%d")
+    #     outDir="$(pwd)/data/$INTENT/$todayDate"
+    #     ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
+
     # - name: Create ExistingBooking_CancelBooking dataset and check output
     #   run: |
     #     INTENT="ExistingBooking_CancelBooking"
