@@ -87,7 +87,7 @@ jobs:
             textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
         done
         find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
-        ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/$INTENT_MasterFile.txt" "$INTENT"
+        ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
       
 
     # - name: Create ExistingBooking_CancelBooking dataset and check output
