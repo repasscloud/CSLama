@@ -1,0 +1,608 @@
+NewBooking_SelectFlight	Am I eligible for a same-day ticket refund on this escape?
+NewBooking_SelectFlight	Am I eligible for a same-day ticket return on this flight?
+NewBooking_SelectFlight	Am i eligible for a same-day ticket refund on this flight?
+NewBooking_SelectFlight	follow I eligible for a same-day ticket refund on this flight?
+NewBooking_SelectFlight	Am I too late for a last-minute slate change in Atlanta?
+NewBooking_SelectFlight	Am I too late for a last-minute ticket modification in Atlanta?
+NewBooking_SelectFlight	Am I too latterly for a last-minute ticket change in Atlanta?
+NewBooking_SelectFlight	Am i too late for a last-minute ticket change in Atlanta?
+NewBooking_SelectFlight	Am 1 too late for a same-day ticket to Washington D.C.?
+NewBooking_SelectFlight	Am I too recent for a same-day ticket to Washington D.C.?
+NewBooking_SelectFlight	Am I too tardy for a same-day ticket to Washington D.C.?
+NewBooking_SelectFlight	live I too late for a same-day ticket to Washington D.C.?
+NewBooking_SelectFlight	Am I too former for an emergency ticket change in Chicago?
+NewBooking_SelectFlight	Am I too late for an emergency ticket vary in Chicago?
+NewBooking_SelectFlight	Am i too late for an emergency ticket change in Chicago?
+NewBooking_SelectFlight	equal I too late for an emergency ticket change in Chicago?
+NewBooking_SelectFlight	Am I too late for an emergency ticket interchange in Miami?
+NewBooking_SelectFlight	Am I too late for an emergency ticket switch in Miami?
+NewBooking_SelectFlight	Am ane too late for an emergency ticket change in Miami?
+NewBooking_SelectFlight	Am i too late for an emergency ticket change in Miami?
+NewBooking_SelectFlight	Am I too late for an emergency ticket change in raw York City?
+NewBooking_SelectFlight	Am I too lately for an emergency ticket change in New York City?
+NewBooking_SelectFlight	Am I too later for an emergency ticket change in New York City?
+NewBooking_SelectFlight	Am single too late for an emergency ticket change in New York City?
+NewBooking_SelectFlight	Am I too late for an emergency ticket interchange in San Francisco?
+NewBooking_SelectFlight	Am I too late for an emergency ticket modification in San Francisco?
+NewBooking_SelectFlight	Am I too late for an emergency ticket variety in San Francisco?
+NewBooking_SelectFlight	Am I too tardy for an emergency ticket change in San Francisco?
+NewBooking_SelectFlight	Am I too late for an emergency ticket modification in Seattle?
+NewBooking_SelectFlight	Am I too recent for an emergency ticket change in Seattle?
+NewBooking_SelectFlight	Am ace too late for an emergency ticket change in Seattle?
+NewBooking_SelectFlight	exist I too late for an emergency ticket change in Seattle?
+NewBooking_SelectFlight	Business family ticket to Boston, can you quote it for me.
+NewBooking_SelectFlight	Business form ticket to Boston, can you quote it for me.
+NewBooking_SelectFlight	Business stratum ticket to Boston, can you quote it for me.
+NewBooking_SelectFlight	line class ticket to Boston, can you quote it for me.
+NewBooking_SelectFlight	Business grade ticket to Los Angeles, can you quote it for me?
+NewBooking_SelectFlight	Business stratum ticket to Los Angeles, can you quote it for me?
+NewBooking_SelectFlight	job class ticket to Los Angeles, can you quote it for me?
+NewBooking_SelectFlight	patronage class ticket to Los Angeles, can you quote it for me?
+NewBooking_SelectFlight	Business classify ticket to New York City, can you quote it for me?
+NewBooking_SelectFlight	business class ticket to New York City, can you quote it for me?
+NewBooking_SelectFlight	job class ticket to New York City, can you quote it for me?
+NewBooking_SelectFlight	line class ticket to New York City, can you quote it for me?
+NewBooking_SelectFlight	Business assort ticket to San Francisco, can you quote it for me?
+NewBooking_SelectFlight	Business family ticket to San Francisco, can you quote it for me?
+NewBooking_SelectFlight	Business form ticket to San Francisco, can you quote it for me?
+NewBooking_SelectFlight	clientele class ticket to San Francisco, can you quote it for me?
+NewBooking_SelectFlight	Business class ticket to Washington D.C., can you quotation it for me?
+NewBooking_SelectFlight	Business class ticket to Washington D.snow., can you quote it for me?
+NewBooking_SelectFlight	Business class ticket to Washington cholecalciferol.C., can you quote it for me?
+NewBooking_SelectFlight	Business class ticket to Washington d.C., can you quote it for me?
+NewBooking_SelectFlight	Business trip to Dallas, what's the best trajectory schedule?
+NewBooking_SelectFlight	Business trip to Dallas, what's the dear flight schedule?
+NewBooking_SelectFlight	Business trip to Dallas, what's the dependable flight schedule?
+NewBooking_SelectFlight	Business trip to Dallas, what's the respectable flight schedule?
+NewBooking_SelectFlight	Business trip to Denver, what's the Best airport to fly into tonight.
+NewBooking_SelectFlight	Business trip to Denver, what's the easily airport to fly into tonight.
+NewBooking_SelectFlight	Business trip to Denver, what's the scoop airport to fly into tonight.
+NewBooking_SelectFlight	Business trip to Denver, what's the serious airport to fly into tonight.
+NewBooking_SelectFlight	Business trip to Houston, what's the advantageously airport to fly into tonight?
+NewBooking_SelectFlight	Business trip to Houston, what's the right airport to fly into tonight?
+NewBooking_SelectFlight	Business trip to Houston, what's the serious airport to fly into tonight?
+NewBooking_SelectFlight	Business trip to Houston, what's the trump airport to fly into tonight?
+NewBooking_SelectFlight	Business jaunt to Houston, what's the best airport to fly into?
+NewBooking_SelectFlight	Business misstep to Houston, what's the best airport to fly into?
+NewBooking_SelectFlight	Business travel to Houston, what's the best airport to fly into?
+NewBooking_SelectFlight	Business trip to Houston, what's the full airport to fly into?
+NewBooking_SelectFlight	Can I book a last-minute flight home due to fellowship reasons.
+NewBooking_SelectFlight	Can I book a last-minute flight home due to folk reasons.
+NewBooking_SelectFlight	keister I book a last-minute flight home due to family reasons.
+NewBooking_SelectFlight	tin I book a last-minute flight home due to family reasons.
+NewBooking_SelectFlight	Can I book a last-minute flight to Washington ergocalciferol.C. today?
+NewBooking_SelectFlight	butt I book a last-minute flight to Washington D.C. today?
+NewBooking_SelectFlight	posterior I book a last-minute flight to Washington D.C. today?
+NewBooking_SelectFlight	tin I book a last-minute flight to Washington D.C. today?
+NewBooking_SelectFlight	Can I book a last-minute ticket home due to family cause.
+NewBooking_SelectFlight	Can I book a last-minute ticket home due to family grounds.
+NewBooking_SelectFlight	Can I book a last-minute ticket home due to kinsperson reasons.
+NewBooking_SelectFlight	Can I reserve a last-minute ticket home due to family reasons.
+NewBooking_SelectFlight	Can ace book a quick same-day ticket from Boston to New York City.
+NewBooking_SelectFlight	arse I book a quick same-day ticket from Boston to New York City.
+NewBooking_SelectFlight	can I book a quick same-day ticket from Boston to New York City.
+NewBooking_SelectFlight	seat I book a quick same-day ticket from Boston to New York City.
+NewBooking_SelectFlight	Can I book a quick same-day fine from San Francisco to LA?
+NewBooking_SelectFlight	Can I book a quickly same-day ticket from San Francisco to LA?
+NewBooking_SelectFlight	Can I script a quick same-day ticket from San Francisco to LA?
+NewBooking_SelectFlight	rump I book a quick same-day ticket from San Francisco to LA?
+NewBooking_SelectFlight	Can one cancel and rebook my current ticket to Chicago.
+NewBooking_SelectFlight	bottom I cancel and rebook my current ticket to Chicago.
+NewBooking_SelectFlight	nates I cancel and rebook my current ticket to Chicago.
+NewBooking_SelectFlight	toilet I cancel and rebook my current ticket to Chicago.
+NewBooking_SelectFlight	bathroom I cancel and rebook my current ticket to Los Angeles.
+NewBooking_SelectFlight	sack I cancel and rebook my current ticket to Los Angeles.
+NewBooking_SelectFlight	toilet I cancel and rebook my current ticket to Los Angeles.
+NewBooking_SelectFlight	tooshie I cancel and rebook my current ticket to Los Angeles.
+NewBooking_SelectFlight	Can I cancel and rebook my current ticket to New York metropolis?
+NewBooking_SelectFlight	Can one cancel and rebook my current ticket to New York City?
+NewBooking_SelectFlight	can I cancel and rebook my current ticket to New York City?
+NewBooking_SelectFlight	tin I cancel and rebook my current ticket to New York City?
+NewBooking_SelectFlight	Can I scratch and rebook my current ticket to Tokyo?
+NewBooking_SelectFlight	behind I cancel and rebook my current ticket to Tokyo?
+NewBooking_SelectFlight	bum I cancel and rebook my current ticket to Tokyo?
+NewBooking_SelectFlight	toilet I cancel and rebook my current ticket to Tokyo?
+NewBooking_SelectFlight	Can I go an upgrade on my same-day ticket from Miami to Los Angeles?
+NewBooking_SelectFlight	Can I stupefy an upgrade on my same-day ticket from Miami to Los Angeles?
+NewBooking_SelectFlight	Can unity get an upgrade on my same-day ticket from Miami to Los Angeles?
+NewBooking_SelectFlight	fanny I get an upgrade on my same-day ticket from Miami to Los Angeles?
+NewBooking_SelectFlight	Can I cause the cheapest one-way ticket from Miami to Boston?
+NewBooking_SelectFlight	Can I come the cheapest one-way ticket from Miami to Boston?
+NewBooking_SelectFlight	Can I drive the cheapest one-way ticket from Miami to Boston?
+NewBooking_SelectFlight	Can I get the bum one-way ticket from Miami to Boston?
+NewBooking_SelectFlight	Can you Bible a flight from Dallas to Chicago for tonight?
+NewBooking_SelectFlight	Can you book a flying from Dallas to Chicago for tonight?
+NewBooking_SelectFlight	Can you book a trajectory from Dallas to Chicago for tonight?
+NewBooking_SelectFlight	sack you book a flight from Dallas to Chicago for tonight?
+NewBooking_SelectFlight	Can you hold a flight from NYC to LA ASAP?
+NewBooking_SelectFlight	butt you book a flight from NYC to LA ASAP?
+NewBooking_SelectFlight	dismiss you book a flight from NYC to LA ASAP?
+NewBooking_SelectFlight	posterior you book a flight from NYC to LA ASAP?
+NewBooking_SelectFlight	Can you find me a cheap backside on a same-day flight from Boston to Miami.
+NewBooking_SelectFlight	Can you find me a cheap behind on a same-day flight from Boston to Miami.
+NewBooking_SelectFlight	hindquarters you find me a cheap seat on a same-day flight from Boston to Miami.
+NewBooking_SelectFlight	terminate you find me a cheap seat on a same-day flight from Boston to Miami.
+NewBooking_SelectFlight	Can you find me a cheap backside on a same-day flight from Dallas to Chicago.
+NewBooking_SelectFlight	Can you notice me a cheap seat on a same-day flight from Dallas to Chicago.
+NewBooking_SelectFlight	backside you find me a cheap seat on a same-day flight from Dallas to Chicago.
+NewBooking_SelectFlight	lavatory you find me a cheap seat on a same-day flight from Dallas to Chicago.
+NewBooking_SelectFlight	Can you find me a cheap buns on a same-day flight from Miami to Atlanta?
+NewBooking_SelectFlight	Can you find me a cheap nates on a same-day flight from Miami to Atlanta?
+NewBooking_SelectFlight	Can you find me a cheap stern on a same-day flight from Miami to Atlanta?
+NewBooking_SelectFlight	Can you uncovering me a cheap seat on a same-day flight from Miami to Atlanta?
+NewBooking_SelectFlight	Can you acquire me a direct flight from Chicago to Denver tomorrow?
+NewBooking_SelectFlight	Can you drive me a direct flight from Chicago to Denver tomorrow?
+NewBooking_SelectFlight	Can you sustain me a direct flight from Chicago to Denver tomorrow?
+NewBooking_SelectFlight	arse you get me a direct flight from Chicago to Denver tomorrow?
+NewBooking_SelectFlight	Can you get me a direct fledge from Los Angeles to Dallas tomorrow?
+NewBooking_SelectFlight	Can you get me a organize flight from Los Angeles to Dallas tomorrow?
+NewBooking_SelectFlight	Can you get me a take flight from Los Angeles to Dallas tomorrow?
+NewBooking_SelectFlight	lav you get me a direct flight from Los Angeles to Dallas tomorrow?
+NewBooking_SelectFlight	Can you help me ascertain the cheapest flight from Los Angeles to Chicago?
+NewBooking_SelectFlight	commode you help me find the cheapest flight from Los Angeles to Chicago?
+NewBooking_SelectFlight	prat you help me find the cheapest flight from Los Angeles to Chicago?
+NewBooking_SelectFlight	stool you help me find the cheapest flight from Los Angeles to Chicago?
+NewBooking_SelectFlight	Flying solo today, can you recommend brassy flights to Chicago.
+NewBooking_SelectFlight	Flying solo today, can you recommend cheap flights to Michigan.
+NewBooking_SelectFlight	Flying solo today, can you recommend cheesy flights to Chicago.
+NewBooking_SelectFlight	flight solo today, can you recommend cheap flights to Chicago.
+NewBooking_SelectFlight	Flying solo today, can you urge cheap flights to Chicago?
+NewBooking_SelectFlight	fast solo today, can you recommend cheap flights to Chicago?
+NewBooking_SelectFlight	fly solo today, can you recommend cheap flights to Chicago?
+NewBooking_SelectFlight	vaporize solo today, can you recommend cheap flights to Chicago?
+NewBooking_SelectFlight	Flying solo now, can you recommend cheap flights to Dallas.
+NewBooking_SelectFlight	Flying solo nowadays, can you recommend cheap flights to Dallas.
+NewBooking_SelectFlight	Flying solo today, can you recommend tinny flights to Dallas.
+NewBooking_SelectFlight	fast solo today, can you recommend cheap flights to Dallas.
+NewBooking_SelectFlight	Flying solo today, can you commend cheap flights to Seattle?
+NewBooking_SelectFlight	Flying solo today, can you recommend chinchy flights to Seattle?
+NewBooking_SelectFlight	Flying solo today, can you recommend punk flights to Seattle?
+NewBooking_SelectFlight	aviate solo today, can you recommend cheap flights to Seattle?
+NewBooking_SelectFlight	Flying solo now, can you recommend cheap flights to Washington D.C.
+NewBooking_SelectFlight	Flying solo today, can you recommend cheap flights to Washington D.carbon.
+NewBooking_SelectFlight	Flying solo today, can you recommend tacky flights to Washington D.C.
+NewBooking_SelectFlight	vanish solo today, can you recommend cheap flights to Washington D.C.
+NewBooking_SelectFlight	Flying with knead, what are the best options for flights to Seattle?
+NewBooking_SelectFlight	Flying with process, what are the best options for flights to Seattle?
+NewBooking_SelectFlight	Flying with work, what are the best option for flights to Seattle?
+NewBooking_SelectFlight	Flying with work, what are the good options for flights to Seattle?
+NewBooking_SelectFlight	develop an emergency flight from Boston to Miami, can you assist?
+NewBooking_SelectFlight	have an emergency flight from Boston to Miami, can you assist?
+NewBooking_SelectFlight	receive an emergency flight from Boston to Miami, can you assist?
+NewBooking_SelectFlight	take an emergency flight from Boston to Miami, can you assist?
+NewBooking_SelectFlight	How lots does it cost for a last-minute ticket to Los Angeles?
+NewBooking_SelectFlight	How much does it cost for a last-minute fine to Los Angeles?
+NewBooking_SelectFlight	How much does it cost for a last-minute slate to Los Angeles?
+NewBooking_SelectFlight	How much does it price for a last-minute ticket to Los Angeles?
+NewBooking_SelectFlight	I have a chore interview in San Francisco and can't change it.
+NewBooking_SelectFlight	I have a job interview in San Francisco and can't alter it.
+NewBooking_SelectFlight	I have a task interview in San Francisco and can't change it.
+NewBooking_SelectFlight	i have a job interview in San Francisco and can't change it.
+NewBooking_SelectFlight	I necessitate to get home tonight for dinner with family.
+NewBooking_SelectFlight	I need to engender home tonight for dinner with family.
+NewBooking_SelectFlight	I need to get home tonight for dinner with menage.
+NewBooking_SelectFlight	I need to puzzle home tonight for dinner with family.
+NewBooking_SelectFlight	I'm expect for the cheapest return flight from New York City to London.
+NewBooking_SelectFlight	I'm looking for the brassy return flight from New York City to London.
+NewBooking_SelectFlight	I'm looking for the cheapest retort flight from New York City to London.
+NewBooking_SelectFlight	I'm looking for the meretricious return flight from New York City to London.
+NewBooking_SelectFlight	I'm functional late for my meeting tomorrow.
+NewBooking_SelectFlight	I'm operate late for my meeting tomorrow.
+NewBooking_SelectFlight	I'm running late for my see tomorrow.
+NewBooking_SelectFlight	I'm scat late for my meeting tomorrow.
+NewBooking_SelectFlight	Just catch a job offer in Boston and need to book ASAP.
+NewBooking_SelectFlight	Just dumbfound a job offer in Boston and need to book ASAP.
+NewBooking_SelectFlight	Just got a speculate offer in Boston and need to book ASAP.
+NewBooking_SelectFlight	Just let a job offer in Boston and need to book ASAP.
+NewBooking_SelectFlight	Just got a job offer in Denver and demand to book ASAP.
+NewBooking_SelectFlight	Just got a task offer in Denver and need to book ASAP.
+NewBooking_SelectFlight	Just vex a job offer in Denver and need to book ASAP.
+NewBooking_SelectFlight	equitable got a job offer in Denver and need to book ASAP.
+NewBooking_SelectFlight	Just contract an unexpected work trip to Denver, can you help?
+NewBooking_SelectFlight	Just got an unexpected form trip to Denver, can you help?
+NewBooking_SelectFlight	Just got an unexpected run trip to Denver, can you help?
+NewBooking_SelectFlight	Just mystify an unexpected work trip to Denver, can you help?
+NewBooking_SelectFlight	My Bos is breathing down my neck about that meeting in Seattle.
+NewBooking_SelectFlight	My boss is breathing down my neck about that fulfil in Seattle.
+NewBooking_SelectFlight	My boss is breathing down my neck about that receive in Seattle.
+NewBooking_SelectFlight	My hirer is breathing down my neck about that meeting in Seattle.
+NewBooking_SelectFlight	My boss is expect me at an emergency meeting in Los Angeles.
+NewBooking_SelectFlight	My boss is expecting me at an pinch meeting in Los Angeles.
+NewBooking_SelectFlight	My boss is look me at an emergency meeting in Los Angeles.
+NewBooking_SelectFlight	My gaffer is expecting me at an emergency meeting in Los Angeles.
+NewBooking_SelectFlight	My bozo has an emergency vet visit scheduled in Chicago.
+NewBooking_SelectFlight	My cat has an emergency vet chaffer scheduled in Chicago.
+NewBooking_SelectFlight	My cat has an emergency vet inspect scheduled in Chicago.
+NewBooking_SelectFlight	My cat has an emergency vet visit schedule in Chicago.
+NewBooking_SelectFlight	My company is defend an emergency meeting in Chicago.
+NewBooking_SelectFlight	My company is holding an exigency meeting in Chicago.
+NewBooking_SelectFlight	My company is moderate an emergency meeting in Chicago.
+NewBooking_SelectFlight	My company is oblige an emergency meeting in Chicago.
+NewBooking_SelectFlight	My family's come into town and I need a last-minute seat.
+NewBooking_SelectFlight	My family's coming into town and I need a last-minute hindquarters.
+NewBooking_SelectFlight	My family's coming into townspeople and I need a last-minute seat.
+NewBooking_SelectFlight	My family's hail into town and I need a last-minute seat.
+NewBooking_SelectFlight	My grandma is arrive in for a visit and I need to get her here tonight.
+NewBooking_SelectFlight	My grandma is coming in for a chaffer and I need to get her here tonight.
+NewBooking_SelectFlight	My grandma is coming in for a visit and I indigence to get her here tonight.
+NewBooking_SelectFlight	My grandma is coming in for a visit and I pauperization to get her here tonight.
+NewBooking_SelectFlight	Need a last-minute flight home for family cause.
+NewBooking_SelectFlight	Need a last-minute flight home for menage reasons.
+NewBooking_SelectFlight	Need a last-minute flight internal for family reasons.
+NewBooking_SelectFlight	necessitate a last-minute flight home for family reasons.
+NewBooking_SelectFlight	Need a quick invest upgrade on my flight from New York City to Miami.
+NewBooking_SelectFlight	Need a quick seat upgrade on my flight from New York metropolis to Miami.
+NewBooking_SelectFlight	Need a quick seat upgrade on my flight from fresh York City to Miami.
+NewBooking_SelectFlight	Need a straightaway seat upgrade on my flight from New York City to Miami.
+NewBooking_SelectFlight	Need to book a promptly same-day ticket from Dallas to Houston.
+NewBooking_SelectFlight	Need to script a quick same-day ticket from Dallas to Houston.
+NewBooking_SelectFlight	pauperism to book a quick same-day ticket from Dallas to Houston.
+NewBooking_SelectFlight	want to book a quick same-day ticket from Dallas to Houston.
+NewBooking_SelectFlight	Need to ledger a same-day flight from Boston to New York City ASAP.
+NewBooking_SelectFlight	Need to leger a same-day flight from Boston to New York City ASAP.
+NewBooking_SelectFlight	involve to book a same-day flight from Boston to New York City ASAP.
+NewBooking_SelectFlight	take to book a same-day flight from Boston to New York City ASAP.
+NewBooking_SelectFlight	Need to al-Qur'an a same-day flight from Miami to Washington D.C. ASAP.
+NewBooking_SelectFlight	Need to book a same-day flight from Miami to Capital D.C. ASAP.
+NewBooking_SelectFlight	Need to book a same-day flight from Miami to Washington cholecalciferol.C. ASAP.
+NewBooking_SelectFlight	Need to record a same-day flight from Miami to Washington D.C. ASAP.
+NewBooking_SelectFlight	Need to Koran a same-day flight from Seattle to Los Angeles.
+NewBooking_SelectFlight	Need to book a same-day trajectory from Seattle to Los Angeles.
+NewBooking_SelectFlight	Need to leger a same-day flight from Seattle to Los Angeles.
+NewBooking_SelectFlight	motivation to book a same-day flight from Seattle to Los Angeles.
+NewBooking_SelectFlight	Need to draw back home for a family gathering on Friday.
+NewBooking_SelectFlight	Need to get back menage for a family gathering on Friday.
+NewBooking_SelectFlight	Need to get backwards home for a family gathering on Friday.
+NewBooking_SelectFlight	Need to sire back home for a family gathering on Friday.
+NewBooking_SelectFlight	What are the bum one-way flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the cheap one-way flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the cheapest one-way flights from Michigan to San Francisco?
+NewBooking_SelectFlight	What are the loud one-way flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the cheapest one-way flight from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the cheapest one-way flights from Los Angeles to Michigan?
+NewBooking_SelectFlight	What are the inexpensive one-way flights from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the trashy one-way flights from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the bum one-way flights from Los Angeles to New York City?
+NewBooking_SelectFlight	What are the cheap one-way flights from Los Angeles to New York City?
+NewBooking_SelectFlight	What are the cheapest one-way flights from Los Angeles to unexampled York City?
+NewBooking_SelectFlight	What are the crummy one-way flights from Los Angeles to New York City?
+NewBooking_SelectFlight	What are the brassy one-way flights from NYC to Dallas?
+NewBooking_SelectFlight	What are the cheapest one-way flying from NYC to Dallas?
+NewBooking_SelectFlight	What are the garish one-way flights from NYC to Dallas?
+NewBooking_SelectFlight	What are the meretricious one-way flights from NYC to Dallas?
+NewBooking_SelectFlight	What's the best flight schedule for business traveling to Denver?
+NewBooking_SelectFlight	What's the best flight schedule for patronage travel to Denver?
+NewBooking_SelectFlight	What's the considerably flight schedule for business travel to Denver?
+NewBooking_SelectFlight	What's the near flight schedule for business travel to Denver?
+NewBooking_SelectFlight	What's the cheapest revert flight from Chicago to San Francisco?
+NewBooking_SelectFlight	What's the cheapest take flight from Chicago to San Francisco?
+NewBooking_SelectFlight	What's the cheapest yield flight from Chicago to San Francisco?
+NewBooking_SelectFlight	What's the punk return flight from Chicago to San Francisco?
+NewBooking_SelectFlight	What's the cheapest give flight from San Francisco to Denver?
+NewBooking_SelectFlight	What's the cheapest regaining flight from San Francisco to Denver?
+NewBooking_SelectFlight	What's the sleazy return flight from San Francisco to Denver?
+NewBooking_SelectFlight	What's the trashy return flight from San Francisco to Denver?
+NewBooking_SelectFlight	Where are the approximate airports to my current location in Atlanta?
+NewBooking_SelectFlight	Where are the cheeseparing airports to my current location in Atlanta?
+NewBooking_SelectFlight	Where are the nearest airports to my current fix in Atlanta?
+NewBooking_SelectFlight	Where are the nearest airports to my current locating in Atlanta?
+NewBooking_SelectFlight	Where are the approximate airports to my current location in Boston?
+NewBooking_SelectFlight	Where are the cheeseparing airports to my current location in Boston?
+NewBooking_SelectFlight	Where are the nearest airports to my current positioning in Boston?
+NewBooking_SelectFlight	Where are the nearest airports to my flow location in Boston?
+NewBooking_SelectFlight	Where are the near airports to my current location in Houston?
+NewBooking_SelectFlight	Where are the nearest aerodrome to my current location in Houston?
+NewBooking_SelectFlight	Where are the nearest airports to my flow location in Houston?
+NewBooking_SelectFlight	Where are the nearest airports to my stream location in Houston?
+NewBooking_SelectFlight	Where are the nearest airdrome to my current location in New York City?
+NewBooking_SelectFlight	Where are the nearest airports to my current location in freshly York City?
+NewBooking_SelectFlight	Where are the nearest airports to my current location in unexampled York City?
+NewBooking_SelectFlight	Where are the skinny airports to my current location in New York City?
+NewBooking_SelectFlight	Where are the nearest airports to my freshly client's location in Atlanta?
+NewBooking_SelectFlight	Where are the nigh airports to my new client's location in Atlanta?
+NewBooking_SelectFlight	Where are the nighest airports to my new client's location in Atlanta?
+NewBooking_SelectFlight	Where are the penny-pinching airports to my new client's location in Atlanta?
+NewBooking_SelectFlight	Where's the cheapest last-minute escape to Boston?
+NewBooking_SelectFlight	Where's the cheapest last-minute flying to Boston?
+NewBooking_SelectFlight	Where's the tatty last-minute flight to Boston?
+NewBooking_SelectFlight	Where's the tinny last-minute flight to Boston?
+NewBooking_SelectFlight	Where's the cheapest last-minute trajectory to San Diego?
+NewBooking_SelectFlight	Where's the flash last-minute flight to San Diego?
+NewBooking_SelectFlight	Where's the tatty last-minute flight to San Diego?
+NewBooking_SelectFlight	Where's the tinny last-minute flight to San Diego?
+NewBooking_SelectFlight	Can I book a flight for iii people today?
+NewBooking_SelectFlight	can I book a flight for 3 people today?
+NewBooking_SelectFlight	privy I book a flight for 3 people today?
+NewBooking_SelectFlight	tail I book a flight for 3 people today?
+NewBooking_SelectFlight	Can I Bible a same-day return flight today?
+NewBooking_SelectFlight	Can I book a same-day recall flight today?
+NewBooking_SelectFlight	bottom I book a same-day return flight today?
+NewBooking_SelectFlight	terminate I book a same-day return flight today?
+NewBooking_SelectFlight	Can I al-Qur'an me and a friend on separate flights today?
+NewBooking_SelectFlight	Can I book me and a friend on freestanding flights today?
+NewBooking_SelectFlight	Can I book me and a friend on offprint flights today?
+NewBooking_SelectFlight	lavatory I book me and a friend on separate flights today?
+NewBooking_SelectFlight	Can I bring a refund for my cancelled flight immediately?
+NewBooking_SelectFlight	Can I develop a refund for my cancelled flight immediately?
+NewBooking_SelectFlight	Can I go a refund for my cancelled flight immediately?
+NewBooking_SelectFlight	buttocks I get a refund for my cancelled flight immediately?
+NewBooking_SelectFlight	Can I drive a refund for my cancelled flight?
+NewBooking_SelectFlight	Can I dumbfound a refund for my cancelled flight?
+NewBooking_SelectFlight	buttocks I get a refund for my cancelled flight?
+NewBooking_SelectFlight	rear I get a refund for my cancelled flight?
+NewBooking_SelectFlight	Can I pay with a credit plug-in online?
+NewBooking_SelectFlight	bottom I pay with a credit card online?
+NewBooking_SelectFlight	fundament I pay with a credit card online?
+NewBooking_SelectFlight	toilet I pay with a credit card online?
+NewBooking_SelectFlight	Can I purchase travel insurance for my dearie today?
+NewBooking_SelectFlight	crapper I purchase travel insurance for my pet today?
+NewBooking_SelectFlight	privy I purchase travel insurance for my pet today?
+NewBooking_SelectFlight	sack I purchase travel insurance for my pet today?
+NewBooking_SelectFlight	fanny I purchase travel insurance online?
+NewBooking_SelectFlight	potty I purchase travel insurance online?
+NewBooking_SelectFlight	rump I purchase travel insurance online?
+NewBooking_SelectFlight	tail I purchase travel insurance online?
+NewBooking_SelectFlight	Can I request a bum with more legroom today?
+NewBooking_SelectFlight	Can I request a tail with more legroom today?
+NewBooking_SelectFlight	commode I request a seat with more legroom today?
+NewBooking_SelectFlight	dismiss I request a seat with more legroom today?
+NewBooking_SelectFlight	buttocks you assist me in booking a last-minute flight today?
+NewBooking_SelectFlight	fundament you assist me in booking a last-minute flight today?
+NewBooking_SelectFlight	potty you assist me in booking a last-minute flight today?
+NewBooking_SelectFlight	terminate you assist me in booking a last-minute flight today?
+NewBooking_SelectFlight	Can you book me on a last-minute flying?
+NewBooking_SelectFlight	prat you book me on a last-minute flight?
+NewBooking_SelectFlight	throne you book me on a last-minute flight?
+NewBooking_SelectFlight	tooshie you book me on a last-minute flight?
+NewBooking_SelectFlight	Can you hold me on a morning flight to Los Angeles?
+NewBooking_SelectFlight	Can you leger me on a morning flight to Los Angeles?
+NewBooking_SelectFlight	Can you playscript me on a morning flight to Los Angeles?
+NewBooking_SelectFlight	canful you book me on a morning flight to Los Angeles?
+NewBooking_SelectFlight	Can you book me on a morn flight to New York City?
+NewBooking_SelectFlight	Can you book me on a morning escape to New York City?
+NewBooking_SelectFlight	tooshie you book me on a morning flight to New York City?
+NewBooking_SelectFlight	tush you book me on a morning flight to New York City?
+NewBooking_SelectFlight	Can you book me on a morning escape?
+NewBooking_SelectFlight	Can you reserve me on a morning flight?
+NewBooking_SelectFlight	bottom you book me on a morning flight?
+NewBooking_SelectFlight	pot you book me on a morning flight?
+NewBooking_SelectFlight	bottom you book me on a red-eye flight tonight?
+NewBooking_SelectFlight	dismiss you book me on a red-eye flight tonight?
+NewBooking_SelectFlight	hindquarters you book me on a red-eye flight tonight?
+NewBooking_SelectFlight	toilet you book me on a red-eye flight tonight?
+NewBooking_SelectFlight	Can you help me find escape for tomorrow?
+NewBooking_SelectFlight	Can you help me incur flights for tomorrow?
+NewBooking_SelectFlight	Can you help me regain flights for tomorrow?
+NewBooking_SelectFlight	lav you help me find flights for tomorrow?
+NewBooking_SelectFlight	Can you help me breakthrough the cheapest flights?
+NewBooking_SelectFlight	Can you help me determine the cheapest flights?
+NewBooking_SelectFlight	Can you help me find the flash flights?
+NewBooking_SelectFlight	Can you help me find the gimcrack flights?
+NewBooking_SelectFlight	Flight price are not competitive, can you suggest alternative airlines today?
+NewBooking_SelectFlight	Flight prices are not competitive, can you hint alternative airlines today?
+NewBooking_SelectFlight	Flight prices are not competitive, can you suggest alternative airlines now?
+NewBooking_SelectFlight	Flight toll are not competitive, can you suggest alternative airlines today?
+NewBooking_SelectFlight	Flight cost are not competitive, can you suggest alternative airlines?
+NewBooking_SelectFlight	Flight damage are not competitive, can you suggest alternative airlines?
+NewBooking_SelectFlight	Flight prices are not competitive, can you advise alternative airlines?
+NewBooking_SelectFlight	Flight prices are not competitive, can you suggest choice airlines?
+NewBooking_SelectFlight	Flight Price are not competitive.
+NewBooking_SelectFlight	Flight damage are not competitive.
+NewBooking_SelectFlight	escape prices are not competitive.
+NewBooking_SelectFlight	flying prices are not competitive.
+NewBooking_SelectFlight	Flight price are too high for my budget, can you help me find cheaper options today?
+NewBooking_SelectFlight	Flight prices are too gamy for my budget, can you help me find cheaper options today?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you help me find tatty options today?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you help me find tinny options today?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you facilitate me find cheaper options?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you help me bump cheaper options?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you help me receive cheaper options?
+NewBooking_SelectFlight	Flight prices are too high for my budget, can you help me regain cheaper options?
+NewBooking_SelectFlight	Flight prices are too eminent for my budget.
+NewBooking_SelectFlight	Flight prices are too gamey for my budget.
+NewBooking_SelectFlight	Flight terms are too high for my budget.
+NewBooking_SelectFlight	Flight toll are too high for my budget.
+NewBooking_SelectFlight	Flight docket are not available online, can you provide an estimate of arrival times?
+NewBooking_SelectFlight	Flight schedules are not available online, can you provide an appraisal of arrival times?
+NewBooking_SelectFlight	Flight schedules are not available online, can you provide an reckon of arrival times?
+NewBooking_SelectFlight	escape schedules are not available online, can you provide an estimate of arrival times?
+NewBooking_SelectFlight	Flight agenda are not available online.
+NewBooking_SelectFlight	Flight schedule are not available online.
+NewBooking_SelectFlight	Flight schedules are not uncommitted online.
+NewBooking_SelectFlight	Flight schedules are not usable online.
+NewBooking_SelectFlight	Flight times are not accurate online, can you leave an estimate of arrival times?
+NewBooking_SelectFlight	Flight times are not accurate online, can you provide an estimate of arrival metre?
+NewBooking_SelectFlight	Flight times are not accurate online, can you render an estimate of arrival times?
+NewBooking_SelectFlight	Flight times are not accurate online, can you supply an estimate of arrival times?
+NewBooking_SelectFlight	Flight clock are not accurate online.
+NewBooking_SelectFlight	Flight meter are not accurate online.
+NewBooking_SelectFlight	Flight times are not precise online.
+NewBooking_SelectFlight	flight times are not accurate online.
+NewBooking_SelectFlight	Flight sentence are not listed on your website.
+NewBooking_SelectFlight	Flight times are not list on your website.
+NewBooking_SelectFlight	Flight times are not listed on your site.
+NewBooking_SelectFlight	trajectory times are not listed on your website.
+NewBooking_SelectFlight	How do I break if my flight has been delayed?
+NewBooking_SelectFlight	How do I chit if my flight has been delayed?
+NewBooking_SelectFlight	How do I deterrent if my flight has been delayed?
+NewBooking_SelectFlight	How do I tick if my flight has been delayed?
+NewBooking_SelectFlight	How do I bed if my flight has been delayed multiple times?
+NewBooking_SelectFlight	How do I bonk if my flight has been delayed multiple times?
+NewBooking_SelectFlight	How do ace know if my flight has been delayed multiple times?
+NewBooking_SelectFlight	How do ane know if my flight has been delayed multiple times?
+NewBooking_SelectFlight	How do I fuck if my flight has been delayed or cancelled due to bad weather?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to spoiled weather?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or off due to bad weather?
+NewBooking_SelectFlight	How do I recognize if my flight has been delayed or cancelled due to bad weather?
+NewBooking_SelectFlight	How do I hump if my flight has been delayed or cancelled due to maintenance issues?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to care issues?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to maintenance exit?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to maintenance outcome?
+NewBooking_SelectFlight	How do I cognise if my flight has been delayed or cancelled due to mechanical issues?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to mechanical issuing?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to mechanical yield?
+NewBooking_SelectFlight	How do one know if my flight has been delayed or cancelled due to mechanical issues?
+NewBooking_SelectFlight	How do I eff if my flight has been delayed or cancelled due to security issues?
+NewBooking_SelectFlight	How do I know if my escape has been delayed or cancelled due to security issues?
+NewBooking_SelectFlight	How do I know if my flight has been check or cancelled due to security issues?
+NewBooking_SelectFlight	How do I know if my flight has been delayed or cancelled due to security emerge?
+NewBooking_SelectFlight	How do I acknowledge if my flight has been delayed or cancelled?
+NewBooking_SelectFlight	How do I bang if my flight has been delayed or cancelled?
+NewBooking_SelectFlight	How do I recognise if my flight has been delayed or cancelled?
+NewBooking_SelectFlight	How do I recognize if my flight has been delayed or cancelled?
+NewBooking_SelectFlight	How do I know if my escape is secure?
+NewBooking_SelectFlight	How do I know if my flight is impregnable?
+NewBooking_SelectFlight	How do I recognise if my flight is secure?
+NewBooking_SelectFlight	How do I screw if my flight is secure?
+NewBooking_SelectFlight	How do I cognise my flight is on time?
+NewBooking_SelectFlight	How do I hump my flight is on time?
+NewBooking_SelectFlight	How do I jazz my flight is on time?
+NewBooking_SelectFlight	How do I know my trajectory is on time?
+NewBooking_SelectFlight	How long does it pack to get a boarding pass printed at the airport?
+NewBooking_SelectFlight	How long does it take to aim a boarding pass printed at the airport?
+NewBooking_SelectFlight	How long does it take to flummox a boarding pass printed at the airport?
+NewBooking_SelectFlight	How long does it take to get a boarding pass print at the airport?
+NewBooking_SelectFlight	How long does it bring to process a same-day flight change?
+NewBooking_SelectFlight	How long does it conduct to process a same-day flight change?
+NewBooking_SelectFlight	How long does it deal to process a same-day flight change?
+NewBooking_SelectFlight	How recollective does it take to process a same-day flight change?
+NewBooking_SelectFlight	How long will it adopt to get me on the next available flight?
+NewBooking_SelectFlight	How long will it take to drive me on the next available flight?
+NewBooking_SelectFlight	How long will it take to father me on the next available flight?
+NewBooking_SelectFlight	How long will it take to make me on the next available flight?
+NewBooking_SelectFlight	I bury to check-in online, what can I do?
+NewBooking_SelectFlight	I forgot to check-in on-line, what can I do?
+NewBooking_SelectFlight	I forgot to check-in online, what can single do?
+NewBooking_SelectFlight	i forgot to check-in online, what can I do?
+NewBooking_SelectFlight	I have a confluence in Chicago and need to book a flight today.
+NewBooking_SelectFlight	I have a encounter in Chicago and need to book a flight today.
+NewBooking_SelectFlight	I have a meeting in Chicago and need to book a trajectory today.
+NewBooking_SelectFlight	I have a meeting in Chicago and need to leger a flight today.
+NewBooking_SelectFlight	I have a forgather in another city next week.
+NewBooking_SelectFlight	I have a touch in another city next week.
+NewBooking_SelectFlight	ane have a meeting in another city next week.
+NewBooking_SelectFlight	i have a meeting in another city next week.
+NewBooking_SelectFlight	I ask assistance booking a wheelchair-accessible seat.
+NewBooking_SelectFlight	I need assist booking a wheelchair-accessible seat.
+NewBooking_SelectFlight	I need assistance booking a wheelchair-accessible arse.
+NewBooking_SelectFlight	I need assistance booking a wheelchair-accessible fundament.
+NewBooking_SelectFlight	I'm front for flights from New York to LA.
+NewBooking_SelectFlight	I'm looking for flights from Modern York to LA.
+NewBooking_SelectFlight	I'm looking for trajectory from New York to LA.
+NewBooking_SelectFlight	I'm see for flights from New York to LA.
+NewBooking_SelectFlight	I'm expect for flights with extra legroom today.
+NewBooking_SelectFlight	I'm looking for flights with superfluous legroom today.
+NewBooking_SelectFlight	I'm looking for flying with extra legroom today.
+NewBooking_SelectFlight	I'm sounding for flights with extra legroom today.
+NewBooking_SelectFlight	I'm guide late because my flight is delayed.
+NewBooking_SelectFlight	I'm running belated because my flight is delayed.
+NewBooking_SelectFlight	I'm running late because my flight is stay.
+NewBooking_SelectFlight	I'm running latterly because my flight is delayed.
+NewBooking_SelectFlight	I've missed my colligate flight and need help rebooking.
+NewBooking_SelectFlight	I've missed my connecting flight and necessitate help rebooking.
+NewBooking_SelectFlight	I've missed my connecting flight and need assistant rebooking.
+NewBooking_SelectFlight	I've missed my connecting flight and need helper rebooking.
+NewBooking_SelectFlight	My cad is with me and needs special assistance when traveling.
+NewBooking_SelectFlight	My dog is with me and inevitably special assistance when traveling.
+NewBooking_SelectFlight	My dog is with me and needs special assistance when move.
+NewBooking_SelectFlight	My dog is with me and needs special assistance when trip.
+NewBooking_SelectFlight	My dog is with me and necessitate special assistance.
+NewBooking_SelectFlight	My dog is with me and pauperism special assistance.
+NewBooking_SelectFlight	My dog is with me and want special assistance.
+NewBooking_SelectFlight	My firedog is with me and needs special assistance.
+NewBooking_SelectFlight	My bounder is with me and needs to be transported.
+NewBooking_SelectFlight	My dog is with me and ask to be transported.
+NewBooking_SelectFlight	My dog is with me and necessitate to be transported.
+NewBooking_SelectFlight	My dog is with me and pauperization to be transported.
+NewBooking_SelectFlight	My dog is with me, can I book a pet-friendly butt?
+NewBooking_SelectFlight	My dog is with me, can I book a pet-friendly posterior?
+NewBooking_SelectFlight	My dog is with me, can I book a pet-friendly rear?
+NewBooking_SelectFlight	My tail is with me, can I book a pet-friendly seat?
+NewBooking_SelectFlight	My flight has been delay multiple times and I need help rebooking.
+NewBooking_SelectFlight	My flight has been delayed multiple clock and I need help rebooking.
+NewBooking_SelectFlight	My flight has been delayed multiple times and I motive help rebooking.
+NewBooking_SelectFlight	My flight has been delayed multiple times and I need assistance rebooking.
+NewBooking_SelectFlight	My flight was cancelled due to defective weather.
+NewBooking_SelectFlight	My flight was cancelled due to unfit weather.
+NewBooking_SelectFlight	My flight was offset due to bad weather.
+NewBooking_SelectFlight	My flight was scratch due to bad weather.
+NewBooking_SelectFlight	My flight was cancelled due to care issues.
+NewBooking_SelectFlight	My flight was cancelled due to maintenance egress.
+NewBooking_SelectFlight	My flight was cancelled due to maintenance release.
+NewBooking_SelectFlight	My trajectory was cancelled due to maintenance issues.
+NewBooking_SelectFlight	My flight was overbooked and I need a freshly seat.
+NewBooking_SelectFlight	My flight was overbooked and I need a new sit.
+NewBooking_SelectFlight	My flight was overbooked and I require a new seat.
+NewBooking_SelectFlight	My flight was overbooked and single need a new seat.
+NewBooking_SelectFlight	My journey companion has a medical condition and needs special assistance.
+NewBooking_SelectFlight	My travel companion has a medical condition and necessarily special assistance.
+NewBooking_SelectFlight	My travel companion has a medical condition and pauperism special assistance.
+NewBooking_SelectFlight	My travel companion has a medical condition and postulate special assistance.
+NewBooking_SelectFlight	My jaunt companion is unable to fly today.
+NewBooking_SelectFlight	My move companion is unable to fly today.
+NewBooking_SelectFlight	My travel accompany is unable to fly today.
+NewBooking_SelectFlight	My travel companion is unable to wing today.
+NewBooking_SelectFlight	My jaunt was rescheduled and I need a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I penury a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I require a new date.
+NewBooking_SelectFlight	My trip was rescheduled and iodin need a new date.
+NewBooking_SelectFlight	My activate was rescheduled and I need help booking a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I need assist booking a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I need assistant booking a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I need helper booking a new date.
+NewBooking_SelectFlight	My trip was rescheduled and I demand help rebooking.
+NewBooking_SelectFlight	My trip was rescheduled and I need assist rebooking.
+NewBooking_SelectFlight	My trip was rescheduled and ace need help rebooking.
+NewBooking_SelectFlight	My trip was rescheduled and iodin need help rebooking.
+NewBooking_SelectFlight	My actuate was rescheduled due to bad weather and I need help rebooking.
+NewBooking_SelectFlight	My trip was rescheduled due to bad weather and I need facilitate rebooking.
+NewBooking_SelectFlight	My trip was rescheduled due to bad weather and I postulate help rebooking.
+NewBooking_SelectFlight	My trip was rescheduled due to regretful weather and I need help rebooking.
+NewBooking_SelectFlight	What's the best style to get to an airport if I have mobility issues?
+NewBooking_SelectFlight	What's the best way to get to an airport if I have mobility issuing?
+NewBooking_SelectFlight	What's the best way to gravel to an airport if I have mobility issues?
+NewBooking_SelectFlight	What's the estimable way to get to an airport if I have mobility issues?
+NewBooking_SelectFlight	What's the best fashion to get to an airport with public transportation?
+NewBooking_SelectFlight	What's the best way to baffle to an airport with public transportation?
+NewBooking_SelectFlight	What's the best way to grow to an airport with public transportation?
+NewBooking_SelectFlight	What's the trump way to get to an airport with public transportation?
+NewBooking_SelectFlight	What's the be of buying extra legroom on a flight?
+NewBooking_SelectFlight	What's the cost of buying excess legroom on a flight?
+NewBooking_SelectFlight	What's the cost of buying extra legroom on a escape?
+NewBooking_SelectFlight	What's the cost of buying special legroom on a flight?
+NewBooking_SelectFlight	What's the belated flight schedule available?
+NewBooking_SelectFlight	What's the latest fledge schedule available?
+NewBooking_SelectFlight	What's the latest flight schedule usable?
+NewBooking_SelectFlight	What's the latest flight schedule useable?
+NewBooking_SelectFlight	What's the insurance on cancellations for flights with layovers?
+NewBooking_SelectFlight	What's the policy on cancellations for escape with layovers?
+NewBooking_SelectFlight	What's the policy on cancellations for fledge with layovers?
+NewBooking_SelectFlight	What's the policy on cancellations for flights with layover?
+NewBooking_SelectFlight	What's the policy on cancelling or change flights?
+NewBooking_SelectFlight	What's the policy on cancelling or changing trajectory?
+NewBooking_SelectFlight	What's the policy on cancelling or deepen flights?
+NewBooking_SelectFlight	What's the policy on invalidate or changing flights?
+NewBooking_SelectFlight	What's the policy on best-loved travel in economy class?
+NewBooking_SelectFlight	What's the policy on dearie travel in economy class?
+NewBooking_SelectFlight	What's the policy on pet locomote in economy class?
+NewBooking_SelectFlight	What's the policy on pet travel in economy year?
+NewBooking_SelectFlight	What's the policy on refund for flights with layovers?
+NewBooking_SelectFlight	What's the policy on refunds for flights with layover?
+NewBooking_SelectFlight	What's the policy on refunds for flights with stopover?
+NewBooking_SelectFlight	What's the policy on refunds for trajectory with layovers?
+NewBooking_SelectFlight	What's the policy on refunds for escape flights due to weather conditions?
+NewBooking_SelectFlight	What's the policy on refunds for missed flights due to endure conditions?
+NewBooking_SelectFlight	What's the policy on refunds for missed flights due to upwind conditions?
+NewBooking_SelectFlight	What's the policy on refunds for missed flights due to weather precondition?
+NewBooking_SelectFlight	What's the policy on refunds for lose flights?
+NewBooking_SelectFlight	What's the policy on refunds for lost flights?
+NewBooking_SelectFlight	What's the policy on refunds for missed fledge?
+NewBooking_SelectFlight	What's the policy on repayment for missed flights?
+NewBooking_SelectFlight	What's the appendage for changing my flight itinerary immediately?
+NewBooking_SelectFlight	What's the procedure for changing my flight itinerary immediately?
+NewBooking_SelectFlight	What's the process for changing my flight itinerary forthwith?
+NewBooking_SelectFlight	What's the summons for changing my flight itinerary immediately?
+NewBooking_SelectFlight	What's the operation for changing my flight itinerary?
+NewBooking_SelectFlight	What's the process for alter my flight itinerary?
+NewBooking_SelectFlight	What's the process for changing my escape itinerary?
+NewBooking_SelectFlight	What's the process for switch my flight itinerary?
