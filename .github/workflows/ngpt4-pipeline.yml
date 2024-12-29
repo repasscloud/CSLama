@@ -38,8 +38,6 @@ jobs:
 
     - name: Pull and run Ollama Docker container
       run: |
-        docker system prune -af || true
-        docker volume prune -f || true
         docker pull ollama/ollama
         docker run -d -v ollama-local:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
         sleep 10 # Give the container time to initialize
@@ -49,14 +47,42 @@ jobs:
         MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
         docker exec ollama ollama pull "$MODEL_NAME"
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@f95db51fddba0c2d1ec667646a06c2ce06100226 # v3.0.0
-  
-    - name: Build textattack docker image
-      run: |
-        docker build -t textattack -f _docker_images/_textattack/Dockerfile _docker_images/_textattack
+    # - name: Create NewBooking_SelectFlight dataset and check output
+    #   run: |
+    #     INTENT="NewBooking_SelectFlight"
+    #     MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+    #     todayDate=$(date +"%Y-%m-%d")
+    #     outDir="$(pwd)/data/$INTENT/$todayDate"
+    #     mkdir -p "$outDir"
+    #     for i in {1..2}; do
+    #       outputFile="$outDir/$INTENT_$i.txt"
+    #       if test -f "$outputFile"; then
+    #         echo "File '$outputFile' exists, removing..."
+    #         rm -rf "$outputFile"
+    #       fi
+    #       dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone needs to book a new flight. Use different styles of language, temperaments, and levels of friendliness. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
+    #       if test -f "$outputFile"; then
+    #         echo "Output file $outputFile exists."
+    #         sed -i -E 's/^[0-9]+\. //' "$outputFile"
+    #       else
+    #         echo "Output file $outputFile does not exist!"
+    #         exit 1
+    #       fi
+    #     done
+    #     find "$outDir" -type f -name "*.txt" -exec sed -i '/^$/d' {} +
+    #     find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
+    #       ./_scripts_to_be_run/remove_duplicates.sh "$file"
+    #     done
+    #     find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
+    #       docker run --rm \
+    #         -v "$outDir:/data" \
+    #         -v "$(pwd)/_docker_images/_textattack:/app" \
+    #         textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
+    #     done
+    #     find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
+    #     ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
     
-    - name: Create NewBooking_SelectFlight dataset and check output
+    - name: Create NewBooking_SelectFlight dataset
       run: |
         INTENT="NewBooking_SelectFlight"
         MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
@@ -82,16 +108,47 @@ jobs:
         find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
           ./_scripts_to_be_run/remove_duplicates.sh "$file"
         done
+    
+    - name: Clean up Docker before textattack
+      run: |
+        docker stop $(docker ps -aq) || true
+        docker rm $(docker ps -aq) || true
+        docker system prune -af || true
+        docker volume prune -f || true
+
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@f95db51fddba0c2d1ec667646a06c2ce06100226 # v3.0.0
+    
+    - name: Build textattack docker image
+      run: |
+        docker build -t textattack -f _docker_images/_textattack/Dockerfile _docker_images/_textattack
+
+    - name: Process with textattack
+      run: |
+        INTENT="NewBooking_SelectFlight"
+        todayDate=$(date +"%Y-%m-%d")
+        outDir="$(pwd)/data/$INTENT/$todayDate"
         find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
           docker run --rm \
             -v "$outDir:/data" \
             -v "$(pwd)/_docker_images/_textattack:/app" \
             textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
         done
-        find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
-        ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
-      
 
+    - name: Clean up intermediate files
+      run: |
+        INTENT="NewBooking_SelectFlight"
+        todayDate=$(date +"%Y-%m-%d")
+        outDir="$(pwd)/data/$INTENT/$todayDate"
+        find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
+
+    - name: Merge files into master
+      run: |
+        INTENT="NewBooking_SelectFlight"
+        todayDate=$(date +"%Y-%m-%d")
+        outDir="$(pwd)/data/$INTENT/$todayDate"
+        ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/${INTENT}_MasterFile.txt" "$INTENT"
+        
     # - name: Create ExistingBooking_CancelBooking dataset and check output
     #   run: |
     #     INTENT="ExistingBooking_CancelBooking"
