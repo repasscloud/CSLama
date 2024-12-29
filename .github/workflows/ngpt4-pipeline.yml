@@ -126,8 +126,7 @@ jobs:
     - name: Process with textattack
       run: |
         INTENT="NewBooking_SelectFlight"
-        
-        
+        todayDate=$(date +"%Y-%m-%d")
         outDir="$(pwd)/data/$INTENT/$todayDate"
         find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
           docker run --rm \
