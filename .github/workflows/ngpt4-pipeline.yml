@@ -77,7 +77,7 @@ jobs:
           ./_scripts_to_be_run/remove_duplicates.sh "$file"
         done
         find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
-          docker run --rm -v "$(outDir):/app" textattack:latest python /app/text_attack_augmenter.py "/app/$file" "/app/$file_updated.txt --transformations 4
+          docker run --rm -v "$(outDir):/app" textattack:latest python /app/text_attack_augmenter.py "/app/$file" "/app/$file_updated.txt" --transformations 4
         done
         find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
         ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/$INTENT_MasterFile.txt" "$INTENT"
