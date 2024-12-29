@@ -40,6 +40,7 @@ jobs:
       run: |
         docker pull ollama/ollama
         docker run -d -v ollama-local:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+        sleep 10 # Give the container time to initialize
 
     - name: Pull model
       run: |
