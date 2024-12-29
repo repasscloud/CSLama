@@ -64,6 +64,7 @@ jobs:
         for i in {1..2}; do
           outputFile="$outDir/$INTENT_$i.txt"
           if test -f "$outputFile"; then
+            echo "File '$outputFile' exists, removing..."
             rm -rf "$outputFile"
           fi
           dotnet run -- generate --model:"$MODEL_NAME" --prompt:"Write 80 statements, one per line, to train a corporate travel chatbot to recognize when someone needs to book a new flight. Use different styles of language, temperaments, and levels of friendliness. Do not include explanations, introductions, summaries, or additional data. Write the statements directly and concisely. No single or double quotes unless necessary in the sentence." --save:$outputFile
@@ -80,7 +81,7 @@ jobs:
           ./_scripts_to_be_run/remove_duplicates.sh "$file"
         done
         find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
-          docker run --rm -v "$(pwd)/${outDir}:/app" textattack:latest python /app/text_attack_augmenter.py "/app/$file" "/app/$file_updated.txt" --transformations 4
+          docker run --rm -v "$(pwd)/${outDir}:/data" -v "$(pwd)/_docker_images/_textattack:/app" textattack:latest python /app/text_attack_augmenter.py "/data/$file" "/data/$file_updated.txt" --transformations 4
         done
         find "$outDir" -type f -name "*.txt" ! -name "*_updated.txt" -exec rm -f {} +
         ./_scripts_to_be_run/merge_all_files_with_tab_value.sh "$outDir" "$outDir/$INTENT_MasterFile.txt" "$INTENT"
