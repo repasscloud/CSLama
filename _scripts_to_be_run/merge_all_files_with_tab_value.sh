@@ -21,8 +21,13 @@ echo "Prepended text: $prepended_text"
 
 # Check if there are any .txt files in the input directory
 if compgen -G "$input_dir/*.txt" > /dev/null; then
-  # Loop through all .txt files in the directory
+  # Loop through all .txt files in the directory, excluding the output file
   for file in "$input_dir"/*.txt; do
+    # Skip the output file if it exists in the input directory
+    if [ "$file" == "$output_file" ]; then
+      continue
+    fi
+
     # Read each line from the file and append modified lines to the output file
     while IFS= read -r line; do
       echo -e "${prepended_text}\t${line}" >> "$output_file"
