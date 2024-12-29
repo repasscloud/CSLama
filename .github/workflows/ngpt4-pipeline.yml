@@ -53,8 +53,6 @@ jobs:
     - name: Build textattack docker image
       run: |
         docker build -t textattack -f _docker_images/_textattack/Dockerfile _docker_images/_textattack
-        docker run --rm -v "$(pwd)/data/ExistingBooking_CancelBooking/2024-12-24:/data" -v "$(pwd)/_docker_images/_textattack:/app" textattack:latest bash -c "ls -la /data && ls -la /app && echo 'File check complete.'"
-        exit 0
 
     - name: Create NewBooking_SelectFlight dataset and check output
       run: |
