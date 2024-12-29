@@ -151,6 +151,9 @@ jobs:
     
     - name: Cleanup master file output
       run: |
+        INTENT="NewBooking_SelectFlight"
+        todayDate=$(date +"%Y-%m-%d")
+        outDir="$(pwd)/data/$INTENT/$todayDate"
         sed -i 's/\xE2\x80\x93/-/g' "$outDir/${INTENT}_MasterFile.txt"
         find "$outDir" -type f ! -name "${INTENT}_MasterFile.txt" -exec rm -f {} +
 
