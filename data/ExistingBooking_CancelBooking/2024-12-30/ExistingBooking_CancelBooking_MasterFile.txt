@@ -70,10 +70,6 @@ ExistingBooking_CancelBooking	Have to change my travel dates, please assistant m
 ExistingBooking_CancelBooking	Have to modification my travel dates, please help me cancel.
 ExistingBooking_CancelBooking	deliver to change my travel dates, please help me cancel.
 ExistingBooking_CancelBooking	throw to change my travel dates, please help me cancel.
-ExistingBooking_CancelBooking	Here are 80 statements for coach a corporate travel chatbot to recognize when soul wants to cancel an existing booking:
-ExistingBooking_CancelBooking	Here are 80 statements for direct a corporate travel chatbot to recognize when someone require to cancel an existing booking:
-ExistingBooking_CancelBooking	Here are 80 statements for direct a corporate traveling chatbot to recognize when someone wants to cancel an existing booking:
-ExistingBooking_CancelBooking	Here are 80 statements for training a corporate go chatbot to recognize when someone wants to cancel an existing book:
 ExistingBooking_CancelBooking	How do I operate about cancelling my business trip arrangements?
 ExistingBooking_CancelBooking	How do I survive about cancelling my business trip arrangements?
 ExistingBooking_CancelBooking	How do I work about cancelling my business trip arrangements?

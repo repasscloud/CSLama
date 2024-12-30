@@ -1,0 +1,84 @@
+name: Cron Data Relase
+
+on:
+  schedule:
+    - cron: '0 13 27 * *'
+  push:
+    branches: [ "ngpt4-pipeline" ]
+  workflow_dispatch:
+    inputs:
+       release_tag:
+        description: "Override release tag (e.g., 20241231)"
+        required: false
+        default: "yyyyMMdd"
+
+jobs:
+  create-release:
+    name: "Create Release"
+    runs-on: "ubuntu-latest"
+
+    if: ${{ !contains(github.event.head_commit.message, 'Automated update') }}
+
+    steps:
+      # Step 1: Checkout repository
+      - name: "Checkout Code"
+        uses: actions/checkout@v4
+
+      # Step 2: Find and ZIP Master Files
+      - name: "Archive Master Files"
+        run: |
+          # Define the list of intents
+          INTENTS=(
+            "NewBooking_SelectFlight"
+            "ExistingBooking_CancelBooking"
+            "ExistingBooking_ModifyBooking"
+            "ExistingBooking_ViewBookingData"
+            "Help_Faq"
+            "Help_LiveAgent"
+            "Help_Restart"
+            "ModifyBooking_ChangeCarHire"
+            "ModifyBooking_ChangeFlightDate"
+            "ModifyBooking_ChangeHotelDates"
+            "NewBooking_AddInsurance"
+            "NewBooking_FlightTypeSelection"
+            "NewBooking_LoyaltyProgram"
+            "NewBooking_SelectCarHire"
+            "NewBooking_SelectHotel"
+            "NewBooking_SelectMultiCityFlight"
+            "NewBooking_SelectPackageDeal"
+            "NewBooking_SpecialRequests"
+          )
+
+          todayDate=$(date +"%Y-%m-%d")
+          masterFiles=()
+
+          # Collect all master files
+          for INTENT in "${INTENTS[@]}"; do
+            masterFilePath="$(pwd)/data/$INTENT/$todayDate/${INTENT}_MasterFile.txt"
+            if [ -f "$masterFilePath" ]; then
+              masterFiles+=("$masterFilePath")
+            else
+              echo "Master file for intent $INTENT not found at $masterFilePath"
+            fi
+          done
+
+          # Create a ZIP of all collected master files
+          if [ ${#masterFiles[@]} -gt 0 ]; then
+            zip -r master-files-$todayDate.zip "${masterFiles[@]}"
+            echo "release_file=master-files-$todayDate.zip" >> $GITHUB_ENV
+          else
+            echo "No master files found. Exiting."
+            exit 1
+          fi
+
+          echo "release_version=$todayDate" >> $GITHUB_ENV
+
+      # Step 3: Create GitHub Release
+      - name: "Create GitHub Release"
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "${{ github.event.inputs.release_tag || env.release_version }}"
+          title: "v${{ github.event.inputs.release_tag || env.release_version }}"
+          files: |
+            ${{ env.release_file }}
