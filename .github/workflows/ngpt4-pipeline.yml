@@ -547,45 +547,45 @@ jobs:
       run: |
         docker build -t textattack -f _docker_images/_textattack/Dockerfile _docker_images/_textattack
 
-        - name: Process with textattack
-        run: |
-          # Define the list of intents
-          INTENTS=(
-            "NewBooking_SelectFlight"
-            "ExistingBooking_CancelBooking"
-            "ExistingBooking_ModifyBooking"
-            "ExistingBooking_ViewBookingData"
-            "Help_Faq"
-            "Help_LiveAgent"
-            "Help_Restart"
-            "ModifyBooking_ChangeCarHire"
-            "ModifyBooking_ChangeFlightDate"
-            "ModifyBooking_ChangeHotelDates"
-            "NewBooking_AddInsurance"
-            "NewBooking_FlightTypeSelection"
-            "NewBooking_LoyaltyProgram"
-            "NewBooking_SelectCarHire"
-            "NewBooking_SelectHotel"
-            "NewBooking_SelectMultiCityFlight"
-            "NewBooking_SelectPackageDeal"
-            "NewBooking_SpecialRequests"
-          )
+    - name: Process with textattack
+      run: |
+        # Define the list of intents
+        INTENTS=(
+          "NewBooking_SelectFlight"
+          "ExistingBooking_CancelBooking"
+          "ExistingBooking_ModifyBooking"
+          "ExistingBooking_ViewBookingData"
+          "Help_Faq"
+          "Help_LiveAgent"
+          "Help_Restart"
+          "ModifyBooking_ChangeCarHire"
+          "ModifyBooking_ChangeFlightDate"
+          "ModifyBooking_ChangeHotelDates"
+          "NewBooking_AddInsurance"
+          "NewBooking_FlightTypeSelection"
+          "NewBooking_LoyaltyProgram"
+          "NewBooking_SelectCarHire"
+          "NewBooking_SelectHotel"
+          "NewBooking_SelectMultiCityFlight"
+          "NewBooking_SelectPackageDeal"
+          "NewBooking_SpecialRequests"
+        )
+        
+        # Iterate over each intent
+        for INTENT in "${INTENTS[@]}"; do
+          echo "Processing intent: $INTENT"
+          todayDate=$(date +"%Y-%m-%d")
+          outDir="$(pwd)/data/$INTENT/$todayDate"
+          mkdir -p "$outDir" # Ensure the directory exists
           
-          # Iterate over each intent
-          for INTENT in "${INTENTS[@]}"; do
-            echo "Processing intent: $INTENT"
-            todayDate=$(date +"%Y-%m-%d")
-            outDir="$(pwd)/data/$INTENT/$todayDate"
-            mkdir -p "$outDir" # Ensure the directory exists
-            
-            # Process all .txt files for the current intent
-            find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
-              docker run --rm \
-                -v "$outDir:/data" \
-                -v "$(pwd)/_docker_images/_textattack:/app" \
-                textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
-            done
+          # Process all .txt files for the current intent
+          find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
+            docker run --rm \
+              -v "$outDir:/data" \
+              -v "$(pwd)/_docker_images/_textattack:/app" \
+              textattack:latest python /app/text_attack_augmenter.py "/data/$(basename "$file")" "/data/$(basename "$file")_updated.txt" --transformations 4
           done
+        done
       
 
     # - name: Process with textattack
