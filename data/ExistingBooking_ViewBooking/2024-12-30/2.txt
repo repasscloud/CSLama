@@ -1,0 +1,69 @@
+Booking number ABC5678, what's the status please?
+Booking number EHG1234, what's the status please?
+Booking number EHG1234, what's the status?
+Booking number is 001234, please display status.
+Booking number is 123456, please display details.
+Booking number is 123456, please display status.
+Booking number is ABC5678, what's the status?
+Booking number is EHG1234, please display.
+Booking reference number 001234, display status.
+Booking reference number 001234, please display details.
+Booking reference number 001234, please display.
+Booking reference number is 001234, please display.
+Can you display my itinerary from last month?
+Can you display my itinerary from last week now.
+Can you display my itinerary from last week?
+Can you provide information about my old booking now.
+Can you provide information about my old trip arrangements.
+Can you provide information about my prior travel plans?
+Can you show me my old booking details?
+Can you show me my previous hotel stay now.
+Can you show me my previous travel plans now.
+Can you show me my previous travel plans?
+Can you show me the details of my earlier booking now.
+Can you show me the details of my earlier flight?
+Can you show me the details of my earlier hotel stay?
+Could you provide information about my old trip?
+Could you show me my itinerary from last month?
+Could you show me the details of my earlier booking?
+Hi, I made a booking last month.
+Hi, I need assistance with my existing trip.
+Hi, I need help with my existing trip details.
+Hi, I need help with my existing trip.
+I have a pre-existing agreement I'd like to view.
+I have a pre-existing agreement that needs reviewing.
+I have a pre-existing arrangement I'd like to view.
+I made a reservation that I'd like to review.
+I made a reservation that needs reviewing.
+I'd be happy to help you with that. However, I need to clarify that I can only provide 80 statements as requested. Here they are:
+I'm looking for my previous hotel booking.
+I'm looking for my prior flight arrangements.
+I'm looking for my prior hotel stay arrangements.
+Just need to check on the status of my flight.
+Just want to check on my hotel reservation.
+Just want to check on my previous hotel stay.
+Just want to check on my previous reservation.
+Just want to check on my previous travel plans.
+Just want to check on my prior travel plans now.
+Just want to review my old booking details now.
+Just want to review my old booking details.
+Just want to review my old booking now.
+Just want to review my prior travel plans now.
+Just want to review my prior travel plans.
+Need access to booking info from last week.
+Need access to my old booking information now.
+Need access to my old booking information today.
+Need access to my prior travel plans today.
+Need help with updating an existing reservation now.
+Need help with updating an existing reservation today.
+Need help with updating an existing reservation.
+Need information about my prior flight arrangements now.
+Need information about my prior flight arrangements today.
+Need information about my prior flight arrangements.
+What are the details of my prior booking?
+What are the details of my prior flight arrangements?
+What are the details of my prior flight today?
+What are the details of my prior flight?
+What are the details of my prior hotel stay?
+What are the details of my prior trip?
+What's the status of my existing trip?
