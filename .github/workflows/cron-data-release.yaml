@@ -7,7 +7,7 @@ on:
     branches: [ "ngpt4-pipeline" ]
   workflow_dispatch:
     inputs:
-       release_tag:
+      release_tag:
         description: "Override release tag (e.g., 20241231)"
         required: false
         default: "yyyyMMdd"
