@@ -17,7 +17,7 @@ jobs:
     name: "Create Release"
     runs-on: "ubuntu-latest"
 
-    if: ${{ !contains(github.event.head_commit.message, 'Automated update') }}
+    if: ${{ !contains(github.event.head_commit.message, 'Automated update 2') }}
 
     steps:
       # Step 1: Checkout repository
