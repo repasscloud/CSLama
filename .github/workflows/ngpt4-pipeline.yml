@@ -733,6 +733,7 @@ jobs:
         done
   
     - name: Configure Git
+      if: always()
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
@@ -740,6 +741,7 @@ jobs:
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: always()
       run: |
         git add .
         git commit -m "Automated update" || echo "No changes to commit"
