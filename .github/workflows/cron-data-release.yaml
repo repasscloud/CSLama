@@ -82,3 +82,4 @@ jobs:
           title: "v${{ github.event.inputs.release_tag || env.release_version }}"
           files: |
             ${{ env.release_file }}
+          prerelease: false
