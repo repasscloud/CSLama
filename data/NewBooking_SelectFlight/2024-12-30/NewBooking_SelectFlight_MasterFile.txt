@@ -415,9 +415,6 @@ NewBooking_SelectFlight	Can you recommend some flights with exempt Wi-Fi onboard
 NewBooking_SelectFlight	Can you recommend some flights with unblock Wi-Fi onboard?
 NewBooking_SelectFlight	tin you recommend some flights with free Wi-Fi onboard?
 NewBooking_SelectFlight	Here are 80 affirmation for training a corporate travel chatbot to recognize when someone needs to Bible a new flight:
-NewBooking_SelectFlight	Here are 80 statements for preparation a corporate travel chatbot to recognize when someone ask to book a new flight:
-NewBooking_SelectFlight	Here are 80 statements for training a corporate travel chatbot to recognize when mortal needs to ledger a new flight:
-NewBooking_SelectFlight	Here are 80 statements for training a corporate travel chatbot to recognize when someone take to book a novel flight:
 NewBooking_SelectFlight	How do I avoid aim scammed when booking flights online?
 NewBooking_SelectFlight	How do I avoid experience scammed when booking flights online?
 NewBooking_SelectFlight	How do I avoid induce scammed when booking flights online?
