@@ -11,9 +11,44 @@ on:
         description: "Override model name (e.g., llama3.2:3b)"
         required: false
         default: "llama3.2:3b"
+      number_statements:
+        description: "Number of statements to generate"
+        required: false
+        default: "2"
+      number_iterations:
+        description: "Number of iterations per query"
+        required: false
+        default: "2"
+      release_tag:
+        description: "Override release tag (e.g., 20241231)"
+        required: false
+        default: "yyyyMMdd"
 
 env:
   DEFAULT_MODEL: "llama3.2:3b" # Default model name
+  STATEMENT_COUNT: "80" # Default count of statements to produce
+  ITERATION_COUNT: "2" # Default count of iterations per process
+  INTENTS: >
+    NewBooking_SelectFlight
+    ExistingBooking_CancelBooking
+    ExistingBooking_ModifyBooking
+    ExistingBooking_ViewBookingData
+    Help_Faq
+    Help_LiveAgent
+    Help_Restart
+    ModifyBooking_ChangeCarHire
+    ModifyBooking_ChangeFlightDate
+    ModifyBooking_ChangeHotelDates
+    NewBooking_AddInsurance
+    NewBooking_FlightTypeSelection
+    NewBooking_LoyaltyProgram
+    NewBooking_SelectCarHire
+    NewBooking_SelectHotel
+    NewBooking_SelectMultiCityFlight
+    NewBooking_SelectPackageDeal
+    NewBooking_SpecialRequests
+  RELEASE_FILE: "default-file.zip" # Default value
+  RELEASE_VERSION: "default-version" # Default value
 
 jobs:
   ngpt4-build:
@@ -47,15 +82,21 @@ jobs:
         run: |
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
           docker exec ollama ollama pull "$MODEL_NAME"
+
+      - name: Prepare INTENTS array
+        run: |
+          IFS=$'\n' read -r -a intents <<< "$INTENTS"
+          echo "INTENTS_ARRAY=${intents[*]}" >> $GITHUB_ENV
       
       - name: Create NewBooking_SelectFlight dataset
         run: |
           INTENT="NewBooking_SelectFlight"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -74,11 +115,13 @@ jobs:
           find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
             ./_scripts_to_be_run/remove_duplicates.sh "$file"
           done
+        
       
       - name: Create ExistingBooking_CancelBooking dataset
         run: |
           INTENT="ExistingBooking_CancelBooking"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
@@ -106,10 +149,11 @@ jobs:
         run: |
           INTENT="ExistingBooking_ModifyBooking"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -133,10 +177,11 @@ jobs:
         run: |
           INTENT="ExistingBooking_ViewBooking"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -160,10 +205,11 @@ jobs:
         run: |
           INTENT="Help_Faq"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -187,10 +233,11 @@ jobs:
         run: |
           INTENT="Help_LiveAgent"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -214,10 +261,11 @@ jobs:
         run: |
           INTENT="Help_Restart"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -241,10 +289,11 @@ jobs:
         run: |
           INTENT="ModifyBooking_ChangeCarHire"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -268,10 +317,11 @@ jobs:
         run: |
           INTENT="ModifyBooking_ChangeFlightDate"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -295,10 +345,11 @@ jobs:
         run: |
           INTENT="ModifyBooking_ChangeHotelDates"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -322,10 +373,11 @@ jobs:
         run: |
           INTENT="NewBooking_AddInsurance"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -349,10 +401,11 @@ jobs:
         run: |
           INTENT="NewBooking_FlightTypeSelection"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -376,10 +429,11 @@ jobs:
         run: |
           INTENT="NewBooking_LoyaltyProgram"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -403,10 +457,11 @@ jobs:
         run: |
           INTENT="NewBooking_SelectCarHire"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -430,10 +485,11 @@ jobs:
         run: |
           INTENT="NewBooking_SelectHotel"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -457,10 +513,11 @@ jobs:
         run: |
           INTENT="NewBooking_SelectMultiCityFlight"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -484,10 +541,11 @@ jobs:
         run: |
           INTENT="NewBooking_SelectPackageDeal"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -511,10 +569,11 @@ jobs:
         run: |
           INTENT="NewBooking_SpecialRequests"
           MODEL_NAME="${{ github.event.inputs.model_name || env.DEFAULT_MODEL }}"
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           todayDate=$(date +"%Y-%m-%d")
           outDir="$(pwd)/data/$INTENT/$todayDate"
           mkdir -p "$outDir"
-          for i in {1..2}; do
+          for i in $(seq 1 $INTENT_ITERATIONS); do
             outputFile="$outDir/$INTENT_$i.txt"
             if test -f "$outputFile"; then
               echo "File '$outputFile' exists, removing..."
@@ -550,35 +609,12 @@ jobs:
 
       - name: Process with textattack
         run: |
-          # Define the list of intents
-          INTENTS=(
-            "NewBooking_SelectFlight"
-            "ExistingBooking_CancelBooking"
-            "ExistingBooking_ModifyBooking"
-            "ExistingBooking_ViewBookingData"
-            "Help_Faq"
-            "Help_LiveAgent"
-            "Help_Restart"
-            "ModifyBooking_ChangeCarHire"
-            "ModifyBooking_ChangeFlightDate"
-            "ModifyBooking_ChangeHotelDates"
-            "NewBooking_AddInsurance"
-            "NewBooking_FlightTypeSelection"
-            "NewBooking_LoyaltyProgram"
-            "NewBooking_SelectCarHire"
-            "NewBooking_SelectHotel"
-            "NewBooking_SelectMultiCityFlight"
-            "NewBooking_SelectPackageDeal"
-            "NewBooking_SpecialRequests"
-          )
-          
-          # Iterate over each intent
-          for INTENT in "${INTENTS[@]}"; do
+          # Iterate over each intent in INTENTS_ARRAY
+          for INTENT in $INTENTS_ARRAY; do
             echo "Processing intent: $INTENT"
             todayDate=$(date +"%Y-%m-%d")
             outDir="$(pwd)/data/$INTENT/$todayDate"
             mkdir -p "$outDir" # Ensure the directory exists
-            
             # Process all .txt files for the current intent
             find "$outDir" -type f -name "*.txt" | while IFS= read -r file; do
               docker run --rm \
@@ -590,30 +626,8 @@ jobs:
         
       - name: Clean up intermediate files
         run: |
-          # Define the list of intents
-          INTENTS=(
-            "NewBooking_SelectFlight"
-            "ExistingBooking_CancelBooking"
-            "ExistingBooking_ModifyBooking"
-            "ExistingBooking_ViewBookingData"
-            "Help_Faq"
-            "Help_LiveAgent"
-            "Help_Restart"
-            "ModifyBooking_ChangeCarHire"
-            "ModifyBooking_ChangeFlightDate"
-            "ModifyBooking_ChangeHotelDates"
-            "NewBooking_AddInsurance"
-            "NewBooking_FlightTypeSelection"
-            "NewBooking_LoyaltyProgram"
-            "NewBooking_SelectCarHire"
-            "NewBooking_SelectHotel"
-            "NewBooking_SelectMultiCityFlight"
-            "NewBooking_SelectPackageDeal"
-            "NewBooking_SpecialRequests"
-          )
-          
           # Iterate over each intent to clean up intermediate files
-          for INTENT in "${INTENTS[@]}"; do
+          for INTENT in $INTENTS_ARRAY; do
             echo "Cleaning up intermediate files for intent: $INTENT"
             todayDate=$(date +"%Y-%m-%d")
             outDir="$(pwd)/data/$INTENT/$todayDate"
@@ -627,30 +641,8 @@ jobs:
     
       - name: Merge files into master
         run: |
-          # Define the list of intents
-          INTENTS=(
-            "NewBooking_SelectFlight"
-            "ExistingBooking_CancelBooking"
-            "ExistingBooking_ModifyBooking"
-            "ExistingBooking_ViewBookingData"
-            "Help_Faq"
-            "Help_LiveAgent"
-            "Help_Restart"
-            "ModifyBooking_ChangeCarHire"
-            "ModifyBooking_ChangeFlightDate"
-            "ModifyBooking_ChangeHotelDates"
-            "NewBooking_AddInsurance"
-            "NewBooking_FlightTypeSelection"
-            "NewBooking_LoyaltyProgram"
-            "NewBooking_SelectCarHire"
-            "NewBooking_SelectHotel"
-            "NewBooking_SelectMultiCityFlight"
-            "NewBooking_SelectPackageDeal"
-            "NewBooking_SpecialRequests"
-          )
-          
           # Iterate over each intent to merge files
-          for INTENT in "${INTENTS[@]}"; do
+          for INTENT in $INTENTS_ARRAY; do
             echo "Merging files into master for intent: $INTENT"
             todayDate=$(date +"%Y-%m-%d")
             outDir="$(pwd)/data/$INTENT/$todayDate"
@@ -664,30 +656,8 @@ jobs:
 
       - name: Cleanup master file output
         run: |
-          # Define the list of intents
-          INTENTS=(
-            "NewBooking_SelectFlight"
-            "ExistingBooking_CancelBooking"
-            "ExistingBooking_ModifyBooking"
-            "ExistingBooking_ViewBookingData"
-            "Help_Faq"
-            "Help_LiveAgent"
-            "Help_Restart"
-            "ModifyBooking_ChangeCarHire"
-            "ModifyBooking_ChangeFlightDate"
-            "ModifyBooking_ChangeHotelDates"
-            "NewBooking_AddInsurance"
-            "NewBooking_FlightTypeSelection"
-            "NewBooking_LoyaltyProgram"
-            "NewBooking_SelectCarHire"
-            "NewBooking_SelectHotel"
-            "NewBooking_SelectMultiCityFlight"
-            "NewBooking_SelectPackageDeal"
-            "NewBooking_SpecialRequests"
-          )
-      
           # Iterate over each intent to clean up the master file output
-          for INTENT in "${INTENTS[@]}"; do
+          for INTENT in $INTENTS_ARRAY; do
             echo "Cleaning up master file output for intent: $INTENT"
             todayDate=$(date +"%Y-%m-%d")
             outDir="$(pwd)/data/$INTENT/$todayDate"
@@ -707,9 +677,49 @@ jobs:
 
       - name: Clean 'Here are X statements for' from Master files
         run: |
+          INTENT_ITERATIONS="${{ github.event.inputs.number_iterations || env.ITERATION_COUNT }}"
           outDir="$(pwd)/data"
-          find "$outDir" -type f -name "*.txt" -exec sed -i '/Here are 80 statements for/d' {} +
+          find "$outDir" -type f -name "*.txt" -exec sed -i "/Here are ${INTENT_ITERATIONS} statements for/d" {} +
     
+      - name: "Archive Master Files"
+        run: |
+          todayDate=$(date +"%Y-%m-%d")
+          masterFiles=()
+      
+          # Collect all master files
+          for INTENT in $INTENTS_ARRAY; do
+            masterFilePath="$(pwd)/data/$INTENT/$todayDate/${INTENT}_MasterFile.txt"
+            if [ -f "$masterFilePath" ]; then
+              masterFiles+=("$masterFilePath")
+            else
+              echo "Master file for intent $INTENT not found at $masterFilePath"
+            fi
+          done
+      
+          # Create a ZIP of all collected master files
+          if [ ${#masterFiles[@]} -gt 0 ]; then
+            zip -r master-files-$todayDate.zip "${masterFiles[@]}"
+            echo "RELEASE_FILE=master-files-$todayDate.zip" >> $GITHUB_ENV
+          else
+            echo "No master files found. Exiting."
+            exit 1
+          fi
+      
+          echo "RELEASE_VERSION=$todayDate" >> $GITHUB_ENV
+        
+  
+      # Step 3: Create GitHub Release
+      - name: "Create GitHub Release"
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "${{ github.event.inputs.release_tag || env.RELEASE_VERSION }}"
+          title: "v${{ github.event.inputs.release_tag || env.RELEASE_VERSION }}"
+          files: |
+            ${{ env.RELEASE_FILE }}
+          prerelease: false
+  
+
       - name: Configure Git
         if: always()
         run: |
