@@ -1,0 +1,633 @@
+NewBooking_SpecialRequests	Are pets allow in certain areas or rooms, but not throughout the entire hotel?
+NewBooking_SpecialRequests	Are pets allowed in certain arena or rooms, but not throughout the entire hotel?
+NewBooking_SpecialRequests	are pets allowed in certain areas or rooms, but not throughout the entire hotel?
+NewBooking_SpecialRequests	constitute pets allowed in certain areas or rooms, but not throughout the entire hotel?
+NewBooking_SpecialRequests	Are pet allowed, and what are the requirements?
+NewBooking_SpecialRequests	Are pets earmark, and what are the requirements?
+NewBooking_SpecialRequests	Are pets let, and what are the requirements?
+NewBooking_SpecialRequests	Are pets provide, and what are the requirements?
+NewBooking_SpecialRequests	Are pets allowed, but only in certain rooms or fit?
+NewBooking_SpecialRequests	Are pets let, but only in certain rooms or suites?
+NewBooking_SpecialRequests	comprise pets allowed, but only in certain rooms or suites?
+NewBooking_SpecialRequests	live pets allowed, but only in certain rooms or suites?
+NewBooking_SpecialRequests	Are there any discounts available for military personnel or 1st responders?
+NewBooking_SpecialRequests	Are there any discounts available for military personnel or get-go responders?
+NewBooking_SpecialRequests	Are there any discounts available for military personnel or offset responders?
+NewBooking_SpecialRequests	live there any discounts available for military personnel or first responders?
+NewBooking_SpecialRequests	Are there any discounts available for repeat customers or loyalty program member?
+NewBooking_SpecialRequests	Are there any discounts available for reprise customers or loyalty program members?
+NewBooking_SpecialRequests	Are there any discounts available for retell customers or loyalty program members?
+NewBooking_SpecialRequests	personify there any discounts available for repeat customers or loyalty program members?
+NewBooking_SpecialRequests	Are there any special perks for loyalty platform members?
+NewBooking_SpecialRequests	Are there any special perks for loyalty program appendage?
+NewBooking_SpecialRequests	Are there any special perks for loyalty syllabus members?
+NewBooking_SpecialRequests	constitute there any special perks for loyalty program members?
+NewBooking_SpecialRequests	Are there any especial requirements for transporting bicycles or surfboards?
+NewBooking_SpecialRequests	Are there any special requirements for channelize bicycles or surfboards?
+NewBooking_SpecialRequests	Are there any special requirements for enthrall bicycles or surfboards?
+NewBooking_SpecialRequests	Are there any special requirements for transfer bicycles or surfboards?
+NewBooking_SpecialRequests	Are there any exceptional requirements for transporting musical instruments due to size or weight?
+NewBooking_SpecialRequests	Are there any special requirements for delight musical instruments due to size or weight?
+NewBooking_SpecialRequests	Are there any special requirements for ship musical instruments due to size or weight?
+NewBooking_SpecialRequests	Are there any special requirements for transporting musical instruments due to size or burden?
+NewBooking_SpecialRequests	Are there any limited requirements for transporting musical instruments?
+NewBooking_SpecialRequests	Are there any special requirement for transporting musical instruments?
+NewBooking_SpecialRequests	Are there any special requirements for enchant musical instruments?
+NewBooking_SpecialRequests	Are there any special requirements for enthrall musical instruments?
+NewBooking_SpecialRequests	Are wheelchairs and mobility attention available upon request?
+NewBooking_SpecialRequests	are wheelchairs and mobility aids available upon request?
+NewBooking_SpecialRequests	personify wheelchairs and mobility aids available upon request?
+NewBooking_SpecialRequests	represent wheelchairs and mobility aids available upon request?
+NewBooking_SpecialRequests	Can I book a fulfil space with catering options?
+NewBooking_SpecialRequests	Can I book a satisfy space with catering options?
+NewBooking_SpecialRequests	can I book a meeting space with catering options?
+NewBooking_SpecialRequests	keister I book a meeting space with catering options?
+NewBooking_SpecialRequests	Can I book a private gondola service instead of taxis?
+NewBooking_SpecialRequests	backside I book a private car service instead of taxis?
+NewBooking_SpecialRequests	buttocks I book a private car service instead of taxis?
+NewBooking_SpecialRequests	crapper I book a private car service instead of taxis?
+NewBooking_SpecialRequests	Can i book a room with two beds?
+NewBooking_SpecialRequests	Can unity book a room with two beds?
+NewBooking_SpecialRequests	canful I book a room with two beds?
+NewBooking_SpecialRequests	pot I book a room with two beds?
+NewBooking_SpecialRequests	Can I book a tour or excursion through your serve?
+NewBooking_SpecialRequests	Can I book a tour or jaunt through your service?
+NewBooking_SpecialRequests	Can single book a tour or excursion through your service?
+NewBooking_SpecialRequests	lavatory I book a tour or excursion through your service?
+NewBooking_SpecialRequests	Can I playscript a tour package that includes admission to local attractions?
+NewBooking_SpecialRequests	Can I reserve a tour package that includes admission to local attractions?
+NewBooking_SpecialRequests	displace I book a tour package that includes admission to local attractions?
+NewBooking_SpecialRequests	terminate I book a tour package that includes admission to local attractions?
+NewBooking_SpecialRequests	Can I book a tour packet that includes transportation and activities?
+NewBooking_SpecialRequests	hindquarters I book a tour package that includes transportation and activities?
+NewBooking_SpecialRequests	toilet I book a tour package that includes transportation and activities?
+NewBooking_SpecialRequests	tush I book a tour package that includes transportation and activities?
+NewBooking_SpecialRequests	Can I cause an early morning wake-up call to avoid peak hours?
+NewBooking_SpecialRequests	Can I get an early morning wake-up call to avoid superlative hours?
+NewBooking_SpecialRequests	Can I get an early morning wake-up prognosticate to avoid peak hours?
+NewBooking_SpecialRequests	Can I grow an early morning wake-up call to avoid peak hours?
+NewBooking_SpecialRequests	Can I request a quiet room due to snoring/kip issues?
+NewBooking_SpecialRequests	arse I request a quiet room due to snoring/sleeping issues?
+NewBooking_SpecialRequests	ass I request a quiet room due to snoring/sleeping issues?
+NewBooking_SpecialRequests	tin I request a quiet room due to snoring/sleeping issues?
+NewBooking_SpecialRequests	Can I request a room with an accessible lav due to mobility issues?
+NewBooking_SpecialRequests	buttocks I request a room with an accessible bathroom due to mobility issues?
+NewBooking_SpecialRequests	commode I request a room with an accessible bathroom due to mobility issues?
+NewBooking_SpecialRequests	throne I request a room with an accessible bathroom due to mobility issues?
+NewBooking_SpecialRequests	Can 1 request a room with an ocean view, but no balcony?
+NewBooking_SpecialRequests	Can I request a way with an ocean view, but no balcony?
+NewBooking_SpecialRequests	bottom I request a room with an ocean view, but no balcony?
+NewBooking_SpecialRequests	can I request a room with an ocean view, but no balcony?
+NewBooking_SpecialRequests	bottom I request a specific airport terminal?
+NewBooking_SpecialRequests	butt I request a specific airport terminal?
+NewBooking_SpecialRequests	keister I request a specific airport terminal?
+NewBooking_SpecialRequests	rump I request a specific airport terminal?
+NewBooking_SpecialRequests	Can I quest a specific restaurant or cuisine preference?
+NewBooking_SpecialRequests	canful I request a specific restaurant or cuisine preference?
+NewBooking_SpecialRequests	fanny I request a specific restaurant or cuisine preference?
+NewBooking_SpecialRequests	rear I request a specific restaurant or cuisine preference?
+NewBooking_SpecialRequests	Can I asking an extra blanket if we're feeling chilly in our room?
+NewBooking_SpecialRequests	Can I request an spare blanket if we're feeling chilly in our room?
+NewBooking_SpecialRequests	arse I request an extra blanket if we're feeling chilly in our room?
+NewBooking_SpecialRequests	seat I request an extra blanket if we're feeling chilly in our room?
+NewBooking_SpecialRequests	Can I request an extra countersink of towels if we're staying multiple nights?
+NewBooking_SpecialRequests	Can I request an extra laid of towels if we're staying multiple nights?
+NewBooking_SpecialRequests	Can I request an extra rig of towels if we're staying multiple nights?
+NewBooking_SpecialRequests	can I request an extra set of towels if we're staying multiple nights?
+NewBooking_SpecialRequests	Can I request an extra towel if we want it more than once during our stay?
+NewBooking_SpecialRequests	hindquarters I request an extra towel if we need it more than once during our stay?
+NewBooking_SpecialRequests	lav I request an extra towel if we need it more than once during our stay?
+NewBooking_SpecialRequests	tin I request an extra towel if we need it more than once during our stay?
+NewBooking_SpecialRequests	buns I request extra towels or linens if we're staying multiple nights?
+NewBooking_SpecialRequests	seat I request extra towels or linens if we're staying multiple nights?
+NewBooking_SpecialRequests	tooshie I request extra towels or linens if we're staying multiple nights?
+NewBooking_SpecialRequests	tush I request extra towels or linens if we're staying multiple nights?
+NewBooking_SpecialRequests	Can I earmark a room with a view, but no access to the balcony?
+NewBooking_SpecialRequests	bottom I reserve a room with a view, but no access to the balcony?
+NewBooking_SpecialRequests	can I reserve a room with a view, but no access to the balcony?
+NewBooking_SpecialRequests	john I reserve a room with a view, but no access to the balcony?
+NewBooking_SpecialRequests	Can I reserve a room with access to a gym or fitness substance?
+NewBooking_SpecialRequests	Can I reserve a room with access to a gym or seaworthiness center?
+NewBooking_SpecialRequests	keister I reserve a room with access to a gym or fitness center?
+NewBooking_SpecialRequests	potty I reserve a room with access to a gym or fitness center?
+NewBooking_SpecialRequests	Can I stockpile a specific restaurant table with advance notice?
+NewBooking_SpecialRequests	behind I reserve a specific restaurant table with advance notice?
+NewBooking_SpecialRequests	hindquarters I reserve a specific restaurant table with advance notice?
+NewBooking_SpecialRequests	throne I reserve a specific restaurant table with advance notice?
+NewBooking_SpecialRequests	Can you accommodate a specific bottom on the flight?
+NewBooking_SpecialRequests	Can you accommodate a specific seat on the escape?
+NewBooking_SpecialRequests	hindquarters you accommodate a specific seat on the flight?
+NewBooking_SpecialRequests	prat you accommodate a specific seat on the flight?
+NewBooking_SpecialRequests	Could 1 request an earlier check-in time?
+NewBooking_SpecialRequests	Could I request an early check-in time?
+NewBooking_SpecialRequests	Could ace request an earlier check-in time?
+NewBooking_SpecialRequests	Could unity request an earlier check-in time?
+NewBooking_SpecialRequests	Do you have Wi-Fi available in all suite?
+NewBooking_SpecialRequests	coiffure you have Wi-Fi available in all rooms?
+NewBooking_SpecialRequests	exercise you have Wi-Fi available in all rooms?
+NewBooking_SpecialRequests	set you have Wi-Fi available in all rooms?
+NewBooking_SpecialRequests	cause you have any discounts for students/seniors/disabled travelers?
+NewBooking_SpecialRequests	manage you have any discounts for students/seniors/disabled travelers?
+NewBooking_SpecialRequests	practise you have any discounts for students/seniors/disabled travelers?
+NewBooking_SpecialRequests	suffice you have any discounts for students/seniors/disabled travelers?
+NewBooking_SpecialRequests	Do you have baby equipment corresponding strollers or car seats available?
+NewBooking_SpecialRequests	Do you have baby equipment like pushchair or car seats available?
+NewBooking_SpecialRequests	Do you have baby equipment like strollers or car posterior available?
+NewBooking_SpecialRequests	Do you have cosset equipment like strollers or car seats available?
+NewBooking_SpecialRequests	Do you have baby gear available, comparable cribs or high chairs?
+NewBooking_SpecialRequests	Do you have baby gear available, like cribs or highschool chairs?
+NewBooking_SpecialRequests	Do you have spoil gear available, like cribs or high chairs?
+NewBooking_SpecialRequests	execute you have baby gear available, like cribs or high chairs?
+NewBooking_SpecialRequests	act you have babysitting services available within the hotel?
+NewBooking_SpecialRequests	answer you have babysitting services available within the hotel?
+NewBooking_SpecialRequests	exercise you have babysitting services available within the hotel?
+NewBooking_SpecialRequests	perform you have babysitting services available within the hotel?
+NewBooking_SpecialRequests	Do you have superfluous pillows or blankets available for purchase at reception?
+NewBooking_SpecialRequests	make you have extra pillows or blankets available for purchase at reception?
+NewBooking_SpecialRequests	perform you have extra pillows or blankets available for purchase at reception?
+NewBooking_SpecialRequests	suffice you have extra pillows or blankets available for purchase at reception?
+NewBooking_SpecialRequests	Do you have duplicate pillows or blankets available in your storage facilities?
+NewBooking_SpecialRequests	Do you have extra pillows or blankets available in your storage deftness?
+NewBooking_SpecialRequests	Do you have extra pillows or mantle available in your storage facilities?
+NewBooking_SpecialRequests	make you have extra pillows or blankets available in your storage facilities?
+NewBooking_SpecialRequests	Do you have gratis parking options, and if so, which ones are best?
+NewBooking_SpecialRequests	coiffe you have free parking options, and if so, which ones are best?
+NewBooking_SpecialRequests	suffice you have free parking options, and if so, which ones are best?
+NewBooking_SpecialRequests	ut you have free parking options, and if so, which ones are best?
+NewBooking_SpecialRequests	Do you have private airport channelise available, and what are the costs?
+NewBooking_SpecialRequests	Do you have private airport reassign available, and what are the costs?
+NewBooking_SpecialRequests	manage you have private airport transfers available, and what are the costs?
+NewBooking_SpecialRequests	practise you have private airport transfers available, and what are the costs?
+NewBooking_SpecialRequests	Do you have private yoga class available, and what are the costs?
+NewBooking_SpecialRequests	Do you have private yoga classes available, and what are the be?
+NewBooking_SpecialRequests	Do you have private yoga classes available, and what are the toll?
+NewBooking_SpecialRequests	ut you have private yoga classes available, and what are the costs?
+NewBooking_SpecialRequests	act you have vegetarian/vegan meal options available?
+NewBooking_SpecialRequests	arrange you have vegetarian/vegan meal options available?
+NewBooking_SpecialRequests	coiffure you have vegetarian/vegan meal options available?
+NewBooking_SpecialRequests	come you have vegetarian/vegan meal options available?
+NewBooking_SpecialRequests	Do you have wheelchair-accessible restaurants and ginmill within the hotel?
+NewBooking_SpecialRequests	bash you have wheelchair-accessible restaurants and bars within the hotel?
+NewBooking_SpecialRequests	come you have wheelchair-accessible restaurants and bars within the hotel?
+NewBooking_SpecialRequests	do you have wheelchair-accessible restaurants and bars within the hotel?
+NewBooking_SpecialRequests	Do you offer a shuttle help to nearby attractions or events?
+NewBooking_SpecialRequests	Do you offer a shuttle service to nearby attractions or outcome?
+NewBooking_SpecialRequests	Do you offer a shuttle service to nearby attractiveness or events?
+NewBooking_SpecialRequests	Do you offer a shuttle service to nearby attractor or events?
+NewBooking_SpecialRequests	Do you go private dining services or in-room meals?
+NewBooking_SpecialRequests	Do you offer private din services or in-room meals?
+NewBooking_SpecialRequests	Do you offer private dining services or in-room repast?
+NewBooking_SpecialRequests	doh you offer private dining services or in-room meals?
+NewBooking_SpecialRequests	Do you offer same-day laundry Service, and at what cost?
+NewBooking_SpecialRequests	Do you volunteer same-day laundry services, and at what cost?
+NewBooking_SpecialRequests	execute you offer same-day laundry services, and at what cost?
+NewBooking_SpecialRequests	make you offer same-day laundry services, and at what cost?
+NewBooking_SpecialRequests	How can I begin an extra pillow and blanket in my room?
+NewBooking_SpecialRequests	How can I convey an extra pillow and blanket in my room?
+NewBooking_SpecialRequests	How can I experience an extra pillow and blanket in my room?
+NewBooking_SpecialRequests	How can I get an extra pillow and all-embracing in my room?
+NewBooking_SpecialRequests	How can I catch an upgraded suite upgrade?
+NewBooking_SpecialRequests	How can I experience an upgraded suite upgrade?
+NewBooking_SpecialRequests	How can ace get an upgraded suite upgrade?
+NewBooking_SpecialRequests	How can ane get an upgraded suite upgrade?
+NewBooking_SpecialRequests	How can I postulation an earlier check-out time if we're staying multiple nights?
+NewBooking_SpecialRequests	How can I quest an earlier check-out time if we're staying multiple nights?
+NewBooking_SpecialRequests	How can I request an earlier check-out time if we're detain multiple nights?
+NewBooking_SpecialRequests	How can I request an earlier check-out time if we're outride multiple nights?
+NewBooking_SpecialRequests	How can I quest an earlier room check-in time if we arrive early?
+NewBooking_SpecialRequests	How can I request an earlier room check-in time if we arrive other?
+NewBooking_SpecialRequests	How can iodine request an earlier room check-in time if we arrive early?
+NewBooking_SpecialRequests	How can single request an earlier room check-in time if we arrive early?
+NewBooking_SpecialRequests	How can I bespeak extra towels or amenities in my room?
+NewBooking_SpecialRequests	How can I postulation extra towels or amenities in my room?
+NewBooking_SpecialRequests	How can I request extra towels or amenity in my room?
+NewBooking_SpecialRequests	How can single request extra towels or amenities in my room?
+NewBooking_SpecialRequests	How can I postulation extra towels/toiletries in my room?
+NewBooking_SpecialRequests	How can I request extra towel/toiletries in my room?
+NewBooking_SpecialRequests	How can single request extra towels/toiletries in my room?
+NewBooking_SpecialRequests	How can unity request extra towels/toiletries in my room?
+NewBooking_SpecialRequests	I'd ilk to upgrade my ticket if possible.
+NewBooking_SpecialRequests	I'd like to raise my ticket if possible.
+NewBooking_SpecialRequests	I'd like to upgrade my ticket if potential.
+NewBooking_SpecialRequests	I'd same to upgrade my ticket if possible.
+NewBooking_SpecialRequests	Is it possible to cause a complimentary upgrade?
+NewBooking_SpecialRequests	Is it possible to convey a complimentary upgrade?
+NewBooking_SpecialRequests	Is it possible to draw a complimentary upgrade?
+NewBooking_SpecialRequests	Is it possible to get a free upgrade?
+NewBooking_SpecialRequests	Is there a burden for storing luggage outside the room?
+NewBooking_SpecialRequests	Is there a charge for storing luggage outside the board?
+NewBooking_SpecialRequests	Is there a point for storing luggage outside the room?
+NewBooking_SpecialRequests	Is there a thrill for storing luggage outside the room?
+NewBooking_SpecialRequests	Is there a minimum age requirement for children's betray?
+NewBooking_SpecialRequests	be there a minimum age requirement for children's rates?
+NewBooking_SpecialRequests	comprise there a minimum age requirement for children's rates?
+NewBooking_SpecialRequests	exist there a minimum age requirement for children's rates?
+NewBooking_SpecialRequests	Is there a minimum numeral of guests required for group bookings?
+NewBooking_SpecialRequests	Is there a minimum total of guests required for group bookings?
+NewBooking_SpecialRequests	embody there a minimum number of guests required for group bookings?
+NewBooking_SpecialRequests	represent there a minimum number of guests required for group bookings?
+NewBooking_SpecialRequests	Is there a minimum number of people demand for a group booking with meal plans?
+NewBooking_SpecialRequests	Is there a minimum number of people expect for a group booking with meal plans?
+NewBooking_SpecialRequests	Is there a minimum number of people required for a group booking with meal program?
+NewBooking_SpecialRequests	personify there a minimum number of people required for a group booking with meal plans?
+NewBooking_SpecialRequests	Is there a minimum number of people ask for a private car service booking?
+NewBooking_SpecialRequests	Is there a minimum number of people required for a secret car service booking?
+NewBooking_SpecialRequests	follow there a minimum number of people required for a private car service booking?
+NewBooking_SpecialRequests	personify there a minimum number of people required for a private car service booking?
+NewBooking_SpecialRequests	Is there a minimum act of people required for a private meeting space booking?
+NewBooking_SpecialRequests	Is there a minimum number of people required for a private fit space booking?
+NewBooking_SpecialRequests	Is there a minimum number of people required for a private meeting space hold?
+NewBooking_SpecialRequests	Is there a minimum number of people required for a private touch space booking?
+NewBooking_SpecialRequests	Is there a gazump for pets or children in rooms?
+NewBooking_SpecialRequests	Is there a surcharge for PET or children in rooms?
+NewBooking_SpecialRequests	Is there a surcharge for pets or nestling in rooms?
+NewBooking_SpecialRequests	equal there a surcharge for pets or children in rooms?
+NewBooking_SpecialRequests	Is there a agency to make the bed stronger against headrests?
+NewBooking_SpecialRequests	Is there a way to hold the bed stronger against headrests?
+NewBooking_SpecialRequests	Is there a way to make the bed secure against headrests?
+NewBooking_SpecialRequests	Is there a way to make the bed unassailable against headrests?
+NewBooking_SpecialRequests	Is there an additional bung for printing or copying documents?
+NewBooking_SpecialRequests	Is there an additional fee for printing or replicate documents?
+NewBooking_SpecialRequests	Is there an additional fee for publish or copying documents?
+NewBooking_SpecialRequests	exist there an additional fee for printing or copying documents?
+NewBooking_SpecialRequests	Is there an additional fee for practice the gym facilities?
+NewBooking_SpecialRequests	Is there an additional fee for using the gym facility?
+NewBooking_SpecialRequests	Is there an additional tip for using the gym facilities?
+NewBooking_SpecialRequests	follow there an additional fee for using the gym facilities?
+NewBooking_SpecialRequests	Is there an additional bung for using the hotel spa facilities?
+NewBooking_SpecialRequests	Is there an additional fee for habituate the hotel spa facilities?
+NewBooking_SpecialRequests	Is there an additional fee for victimisation the hotel spa facilities?
+NewBooking_SpecialRequests	embody there an additional fee for using the hotel spa facilities?
+NewBooking_SpecialRequests	Is there any agency to get more legroom on this flight?
+NewBooking_SpecialRequests	Is there any way to cause more legroom on this flight?
+NewBooking_SpecialRequests	Is there any way to fetch more legroom on this flight?
+NewBooking_SpecialRequests	exist there any way to get more legroom on this flight?
+NewBooking_SpecialRequests	What's the hotel's policy on rebooking or refunding in encase of flight cancellations?
+NewBooking_SpecialRequests	What's the hotel's policy on rebooking or refunding in font of flight cancellations?
+NewBooking_SpecialRequests	What's the hotel's policy on rebooking or refunding in lawsuit of flight cancellations?
+NewBooking_SpecialRequests	What's the hotel's policy on rebooking or refunding in typeface of flight cancellations?
+NewBooking_SpecialRequests	What's the hotel's policy on sharing social media photos of our abide?
+NewBooking_SpecialRequests	What's the hotel's policy on sharing social media photos of our halt?
+NewBooking_SpecialRequests	What's the hotel's policy on sharing social medium photos of our stays?
+NewBooking_SpecialRequests	What's the hotel's policy on sharing social sensitive photos of our stays?
+NewBooking_SpecialRequests	What's the hotel's policy on get photos of guests in public areas without permission?
+NewBooking_SpecialRequests	What's the hotel's policy on remove photos of guests in public areas without permission?
+NewBooking_SpecialRequests	What's the hotel's policy on taking photos of guests in public expanse without permission?
+NewBooking_SpecialRequests	What's the hotel's policy on taking picture of guests in public areas without permission?
+NewBooking_SpecialRequests	What's the hotel's insurance on taking photos of guests or staff in public areas?
+NewBooking_SpecialRequests	What's the hotel's policy on ask photos of guests or staff in public areas?
+NewBooking_SpecialRequests	What's the hotel's policy on hire photos of guests or staff in public areas?
+NewBooking_SpecialRequests	What's the hotel's policy on taking photos of guests or staff in public orbit?
+NewBooking_SpecialRequests	What's the hotel's insurance on using public Wi-Fi in areas outside the rooms?
+NewBooking_SpecialRequests	What's the hotel's policy on use public Wi-Fi in areas outside the rooms?
+NewBooking_SpecialRequests	What's the hotel's policy on using public Wi-Fi in areas out-of-door the rooms?
+NewBooking_SpecialRequests	What's the hotel's policy on using public Wi-Fi in areas outside the way?
+NewBooking_SpecialRequests	What's the procedure for requesting a different airport fix?
+NewBooking_SpecialRequests	What's the procedure for requesting a different airport locating?
+NewBooking_SpecialRequests	What's the procedure for requesting a different airport positioning?
+NewBooking_SpecialRequests	What's the procedure for requesting a different drome location?
+NewBooking_SpecialRequests	What's the appendage for requesting a room change due to dissatisfaction?
+NewBooking_SpecialRequests	What's the process for requesting a room convert due to dissatisfaction?
+NewBooking_SpecialRequests	What's the process for requesting a room interchange due to dissatisfaction?
+NewBooking_SpecialRequests	What's the process for requesting a room vary due to dissatisfaction?
+NewBooking_SpecialRequests	What's your cancellation insurance?
+NewBooking_SpecialRequests	What's your cancellation policy?
+NewBooking_SpecialRequests	What's your insurance on bringing service animals into the hotel?
+NewBooking_SpecialRequests	What's your policy on convey service animals into the hotel?
+NewBooking_SpecialRequests	What's your policy on lend service animals into the hotel?
+NewBooking_SpecialRequests	What's your policy on play service animals into the hotel?
+NewBooking_SpecialRequests	What's your insurance on same-day changes?
+NewBooking_SpecialRequests	What's your policy on same-day commute?
+NewBooking_SpecialRequests	What's your policy on same-day exchange?
+NewBooking_SpecialRequests	What's your policy on same-day variety?
+NewBooking_SpecialRequests	What's your policy on sharing rooms with booster/family?
+NewBooking_SpecialRequests	What's your policy on sharing rooms with friends/household?
+NewBooking_SpecialRequests	What's your policy on sharing rooms with friends/phratry?
+NewBooking_SpecialRequests	What's your policy on sharing way with friends/family?
+NewBooking_SpecialRequests	What's your policy on partake social media photos of our hotel stays?
+NewBooking_SpecialRequests	What's your policy on sharing mixer media photos of our hotel stays?
+NewBooking_SpecialRequests	What's your policy on sharing social media photos of our hotel girdle?
+NewBooking_SpecialRequests	What's your policy on sharing social media pic of our hotel stays?
+NewBooking_SpecialRequests	What's your insurance on using in-room facilities like microwaves or irons?
+NewBooking_SpecialRequests	What's your policy on using in-room facilities like micro-cook or irons?
+NewBooking_SpecialRequests	What's your policy on using in-room facilities like microwaves or iron?
+NewBooking_SpecialRequests	What's your policy on utilize in-room facilities like microwaves or irons?
+NewBooking_SpecialRequests	What's your policy on expend public Wi-Fi vs. in-room internet?
+NewBooking_SpecialRequests	What's your policy on using public Wi-Fi quintet. in-room internet?
+NewBooking_SpecialRequests	What's your policy on using public Wi-Fi vs. in-room cyberspace?
+NewBooking_SpecialRequests	What's your policy on using public Wi-Fi vs. in-room net?
+NewBooking_SpecialRequests	Can I request a specific type of audio visual equipment in my merging room?
+NewBooking_SpecialRequests	Can unity request a specific type of audio visual equipment in my meeting room?
+NewBooking_SpecialRequests	canful I request a specific type of audio visual equipment in my meeting room?
+NewBooking_SpecialRequests	stern I request a specific type of audio visual equipment in my meeting room?
+NewBooking_SpecialRequests	Can I petition a specific type of bedding in my room?
+NewBooking_SpecialRequests	Can I request a specific type of bedclothes in my room?
+NewBooking_SpecialRequests	backside I request a specific type of bedding in my room?
+NewBooking_SpecialRequests	rear I request a specific type of bedding in my room?
+NewBooking_SpecialRequests	fundament I request a specific type of beverage in my room?
+NewBooking_SpecialRequests	posterior I request a specific type of beverage in my room?
+NewBooking_SpecialRequests	potty I request a specific type of beverage in my room?
+NewBooking_SpecialRequests	seat I request a specific type of beverage in my room?
+NewBooking_SpecialRequests	Can I petition a specific type of breakfast option in my room?
+NewBooking_SpecialRequests	Can unity request a specific type of breakfast option in my room?
+NewBooking_SpecialRequests	bum I request a specific type of breakfast option in my room?
+NewBooking_SpecialRequests	derriere I request a specific type of breakfast option in my room?
+NewBooking_SpecialRequests	Can I request a specific character of chair in my meeting room?
+NewBooking_SpecialRequests	Can I request a specific type of chair in my gather room?
+NewBooking_SpecialRequests	Can iodine request a specific type of chair in my meeting room?
+NewBooking_SpecialRequests	crapper I request a specific type of chair in my meeting room?
+NewBooking_SpecialRequests	Can I petition a specific type of coffee machine in my room?
+NewBooking_SpecialRequests	Can I request a specific type of java machine in my room?
+NewBooking_SpecialRequests	prat I request a specific type of coffee machine in my room?
+NewBooking_SpecialRequests	tush I request a specific type of coffee machine in my room?
+NewBooking_SpecialRequests	Can I asking a specific type of desk chair in my meeting room?
+NewBooking_SpecialRequests	Can I request a specific type of desk chair in my assemble room?
+NewBooking_SpecialRequests	Can I request a specific type of desk chairman in my meeting room?
+NewBooking_SpecialRequests	Can one request a specific type of desk chair in my meeting room?
+NewBooking_SpecialRequests	Can I bespeak a specific type of luggage rack in my room?
+NewBooking_SpecialRequests	Can I request a specific type of luggage gouge in my room?
+NewBooking_SpecialRequests	Can I request a specific type of luggage squeeze in my room?
+NewBooking_SpecialRequests	toilet I request a specific type of luggage rack in my room?
+NewBooking_SpecialRequests	Can 1 request a specific type of meeting room layout?
+NewBooking_SpecialRequests	Can I petition a specific type of meeting room layout?
+NewBooking_SpecialRequests	Can I request a specific type of confluence room layout?
+NewBooking_SpecialRequests	Can I request a specific type of receive room layout?
+NewBooking_SpecialRequests	Can I request a specific type of room layout in my converge room?
+NewBooking_SpecialRequests	backside I request a specific type of room layout in my meeting room?
+NewBooking_SpecialRequests	pot I request a specific type of room layout in my meeting room?
+NewBooking_SpecialRequests	potty I request a specific type of room layout in my meeting room?
+NewBooking_SpecialRequests	Can I petition a specific type of snack in my room?
+NewBooking_SpecialRequests	can I request a specific type of snack in my room?
+NewBooking_SpecialRequests	canful I request a specific type of snack in my room?
+NewBooking_SpecialRequests	stool I request a specific type of snack in my room?
+NewBooking_SpecialRequests	ass I request a specific type of water bottle in my room?
+NewBooking_SpecialRequests	john I request a specific type of water bottle in my room?
+NewBooking_SpecialRequests	prat I request a specific type of water bottle in my room?
+NewBooking_SpecialRequests	terminate I request a specific type of water bottle in my room?
+NewBooking_SpecialRequests	Can I request a specific type of workspace in my forgather room?
+NewBooking_SpecialRequests	Can I request a specific type of workspace in my meeting board?
+NewBooking_SpecialRequests	backside I request a specific type of workspace in my meeting room?
+NewBooking_SpecialRequests	pot I request a specific type of workspace in my meeting room?
+NewBooking_SpecialRequests	Can we discuss changing my reserve dates?
+NewBooking_SpecialRequests	Can we discuss convert my booking dates?
+NewBooking_SpecialRequests	Can we discuss interchange my booking dates?
+NewBooking_SpecialRequests	canful we discuss changing my booking dates?
+NewBooking_SpecialRequests	Can we discuss qualifying of my existing booking?
+NewBooking_SpecialRequests	pot we discuss modification of my existing booking?
+NewBooking_SpecialRequests	rear we discuss modification of my existing booking?
+NewBooking_SpecialRequests	sack we discuss modification of my existing booking?
+NewBooking_SpecialRequests	Can we discuss alteration of my existing flight itinerary?
+NewBooking_SpecialRequests	Can we discuss change of my existing flight itinerary?
+NewBooking_SpecialRequests	tin we discuss modification of my existing flight itinerary?
+NewBooking_SpecialRequests	tooshie we discuss modification of my existing flight itinerary?
+NewBooking_SpecialRequests	Can we saucer modification of my existing hotel reservation?
+NewBooking_SpecialRequests	arse we discuss modification of my existing hotel reservation?
+NewBooking_SpecialRequests	can we discuss modification of my existing hotel reservation?
+NewBooking_SpecialRequests	derriere we discuss modification of my existing hotel reservation?
+NewBooking_SpecialRequests	Can we discuss modification of my existing transportation agreement due to medical reasons?
+NewBooking_SpecialRequests	Can we discuss modification of my existing transportation arrangements referable to medical reasons?
+NewBooking_SpecialRequests	Can we discuss modification of my existing transportation organisation due to medical reasons?
+NewBooking_SpecialRequests	prat we discuss modification of my existing transportation arrangements due to medical reasons?
+NewBooking_SpecialRequests	Can we discuss modification of my existing transport arrangements?
+NewBooking_SpecialRequests	Can we discuss modification of my existing transportation organisation?
+NewBooking_SpecialRequests	Can we discuss modification of my subsist transportation arrangements?
+NewBooking_SpecialRequests	canful we discuss modification of my existing transportation arrangements?
+NewBooking_SpecialRequests	Can we discuss modification of my existent travel plans due to weather conditions?
+NewBooking_SpecialRequests	Can we discuss modification of my existing locomote plans due to weather conditions?
+NewBooking_SpecialRequests	Can we discuss modification of my existing travel plans due to weather check?
+NewBooking_SpecialRequests	potty we discuss modification of my existing travel plans due to weather conditions?
+NewBooking_SpecialRequests	Can we discuss rebooking due to medical reasonableness?
+NewBooking_SpecialRequests	canful we discuss rebooking due to medical reasons?
+NewBooking_SpecialRequests	prat we discuss rebooking due to medical reasons?
+NewBooking_SpecialRequests	tooshie we discuss rebooking due to medical reasons?
+NewBooking_SpecialRequests	Can we discuss rebooking due to travel disruptions caused by instinctive disasters?
+NewBooking_SpecialRequests	Can we discuss rebooking due to travel disruptions induce by natural disasters?
+NewBooking_SpecialRequests	Can we discuss rebooking due to travel to-do caused by natural disasters?
+NewBooking_SpecialRequests	crapper we discuss rebooking due to travel disruptions caused by natural disasters?
+NewBooking_SpecialRequests	Can we discuss rebooking due to trip disruptions?
+NewBooking_SpecialRequests	nates we discuss rebooking due to travel disruptions?
+NewBooking_SpecialRequests	potty we discuss rebooking due to travel disruptions?
+NewBooking_SpecialRequests	throne we discuss rebooking due to travel disruptions?
+NewBooking_SpecialRequests	displace we discuss rebooking due to visa requirements?
+NewBooking_SpecialRequests	terminate we discuss rebooking due to visa requirements?
+NewBooking_SpecialRequests	tooshie we discuss rebooking due to visa requirements?
+NewBooking_SpecialRequests	tush we discuss rebooking due to visa requirements?
+NewBooking_SpecialRequests	Can we discuss rebooking due to work-related travel necessary?
+NewBooking_SpecialRequests	Can we discuss rebooking imputable to work-related travel requirements?
+NewBooking_SpecialRequests	buttocks we discuss rebooking due to work-related travel requirements?
+NewBooking_SpecialRequests	tail we discuss rebooking due to work-related travel requirements?
+NewBooking_SpecialRequests	ass we discuss upgrading from an economy to business class?
+NewBooking_SpecialRequests	behind we discuss upgrading from an economy to business class?
+NewBooking_SpecialRequests	lavatory we discuss upgrading from an economy to business class?
+NewBooking_SpecialRequests	tooshie we discuss upgrading from an economy to business class?
+NewBooking_SpecialRequests	Can you arrange for a room raise?
+NewBooking_SpecialRequests	Can you format for a room upgrade?
+NewBooking_SpecialRequests	sack you arrange for a room upgrade?
+NewBooking_SpecialRequests	toilet you arrange for a room upgrade?
+NewBooking_SpecialRequests	Can you assist with rebooking due to unanticipated circumstances?
+NewBooking_SpecialRequests	Can you help with rebooking due to unforeseen circumstances?
+NewBooking_SpecialRequests	buns you assist with rebooking due to unforeseen circumstances?
+NewBooking_SpecialRequests	lav you assist with rebooking due to unforeseen circumstances?
+NewBooking_SpecialRequests	arse you provide information on in-room dining options?
+NewBooking_SpecialRequests	crapper you provide information on in-room dining options?
+NewBooking_SpecialRequests	potty you provide information on in-room dining options?
+NewBooking_SpecialRequests	sack you provide information on in-room dining options?
+NewBooking_SpecialRequests	Do you have any rooms available with a bathtub instead of a exhibitor?
+NewBooking_SpecialRequests	bash you have any rooms available with a bathtub instead of a shower?
+NewBooking_SpecialRequests	brawl you have any rooms available with a bathtub instead of a shower?
+NewBooking_SpecialRequests	cause you have any rooms available with a bathtub instead of a shower?
+NewBooking_SpecialRequests	Do you have any suite available with a private balcony?
+NewBooking_SpecialRequests	act you have any rooms available with a private balcony?
+NewBooking_SpecialRequests	fare you have any rooms available with a private balcony?
+NewBooking_SpecialRequests	perform you have any rooms available with a private balcony?
+NewBooking_SpecialRequests	Do you have any rooms available with a private becharm?
+NewBooking_SpecialRequests	Do you have any rooms available with a private entering?
+NewBooking_SpecialRequests	cause you have any rooms available with a private entrance?
+NewBooking_SpecialRequests	practice you have any rooms available with a private entrance?
+NewBooking_SpecialRequests	Do you have any rooms available with a fork entrance?
+NewBooking_SpecialRequests	Do you have any rooms available with a sort entrance?
+NewBooking_SpecialRequests	arrange you have any rooms available with a separate entrance?
+NewBooking_SpecialRequests	set you have any rooms available with a separate entrance?
+NewBooking_SpecialRequests	DO you have any rooms available with a view of the city?
+NewBooking_SpecialRequests	Do you have any rooms available with a watch of the city?
+NewBooking_SpecialRequests	behave you have any rooms available with a view of the city?
+NewBooking_SpecialRequests	manage you have any rooms available with a view of the city?
+NewBooking_SpecialRequests	Do you have any rooms available with a perspective of the surrounding landscape?
+NewBooking_SpecialRequests	Do you have any rooms available with a view of the circumvent landscape?
+NewBooking_SpecialRequests	Do you have any rooms available with a view of the wall landscape?
+NewBooking_SpecialRequests	behave you have any rooms available with a view of the surrounding landscape?
+NewBooking_SpecialRequests	Do you have any exceptional deals for corporate bookings?
+NewBooking_SpecialRequests	Do you have any special deal for corporate bookings?
+NewBooking_SpecialRequests	Do you have any special distribute for corporate bookings?
+NewBooking_SpecialRequests	Do you have any special pot for corporate bookings?
+NewBooking_SpecialRequests	DO you offer any amenities such as a gym or spa?
+NewBooking_SpecialRequests	Do you fling any amenities such as a gym or spa?
+NewBooking_SpecialRequests	brawl you offer any amenities such as a gym or spa?
+NewBooking_SpecialRequests	dress you offer any amenities such as a gym or spa?
+NewBooking_SpecialRequests	Do you go any discounts for events or conferences?
+NewBooking_SpecialRequests	Do you propose any discounts for events or conferences?
+NewBooking_SpecialRequests	behave you offer any discounts for events or conferences?
+NewBooking_SpecialRequests	coiffure you offer any discounts for events or conferences?
+NewBooking_SpecialRequests	Do you offer any discounts for long-term quell?
+NewBooking_SpecialRequests	Do you offer any discounts for semipermanent stays?
+NewBooking_SpecialRequests	Do you offer any ignore for long-term stays?
+NewBooking_SpecialRequests	answer you offer any discounts for long-term stays?
+NewBooking_SpecialRequests	DO you offer any discounts for military personnel or first responders?
+NewBooking_SpecialRequests	Do you bid any discounts for military personnel or first responders?
+NewBooking_SpecialRequests	Do you offer any discounts for military personnel or maiden responders?
+NewBooking_SpecialRequests	answer you offer any discounts for military personnel or first responders?
+NewBooking_SpecialRequests	Do you offer any discounts for non-profit constitution?
+NewBooking_SpecialRequests	Do you tender any discounts for non-profit organizations?
+NewBooking_SpecialRequests	Do you whirl any discounts for non-profit organizations?
+NewBooking_SpecialRequests	come you offer any discounts for non-profit organizations?
+NewBooking_SpecialRequests	Do you offer any discounts for reduplicate customers?
+NewBooking_SpecialRequests	Do you offer any discounts for reiterate customers?
+NewBooking_SpecialRequests	Do you offer any rebate for repeat customers?
+NewBooking_SpecialRequests	Do you provide any discounts for repeat customers?
+NewBooking_SpecialRequests	Do you offer any discounts for educatee or seniors?
+NewBooking_SpecialRequests	do you offer any discounts for students or seniors?
+NewBooking_SpecialRequests	manage you offer any discounts for students or seniors?
+NewBooking_SpecialRequests	perform you offer any discounts for students or seniors?
+NewBooking_SpecialRequests	Do you offer any special care for first-time customers?
+NewBooking_SpecialRequests	Do you offer any special distribute for first-time customers?
+NewBooking_SpecialRequests	Do you whirl any special deals for first-time customers?
+NewBooking_SpecialRequests	cause you offer any special deals for first-time customers?
+NewBooking_SpecialRequests	I need assistance finding alternative locomote dates.
+NewBooking_SpecialRequests	I need assistance finding alternative travel appointment.
+NewBooking_SpecialRequests	I require assistance finding alternative travel dates.
+NewBooking_SpecialRequests	i need assistance finding alternative travel dates.
+NewBooking_SpecialRequests	I ask extra legroom on my flight.
+NewBooking_SpecialRequests	I motivation extra legroom on my flight.
+NewBooking_SpecialRequests	I need extra legroom on my flying.
+NewBooking_SpecialRequests	I need special legroom on my flight.
+NewBooking_SpecialRequests	I require a specific type of pillow, can you adapt that?
+NewBooking_SpecialRequests	ace require a specific type of pillow, can you accommodate that?
+NewBooking_SpecialRequests	i require a specific type of pillow, can you accommodate that?
+NewBooking_SpecialRequests	unity require a specific type of pillow, can you accommodate that?
+NewBooking_SpecialRequests	I'd like to Koran a suite with a separate living area.
+NewBooking_SpecialRequests	I'd like to book a retinue with a separate living area.
+NewBooking_SpecialRequests	I'd like to book a suite with a separate animation area.
+NewBooking_SpecialRequests	I'd like to book a suite with a sort living area.
+NewBooking_SpecialRequests	I'd like to book an early check-in and later checkout.
+NewBooking_SpecialRequests	I'd like to book an early check-in and tardy checkout.
+NewBooking_SpecialRequests	I'd like to book an former check-in and late checkout.
+NewBooking_SpecialRequests	I'd like to playscript an early check-in and late checkout.
+NewBooking_SpecialRequests	Is it possible to have a private assemble room booked at the hotel?
+NewBooking_SpecialRequests	Is it possible to have a private contact room booked at the hotel?
+NewBooking_SpecialRequests	Is it possible to have a private forgather room booked at the hotel?
+NewBooking_SpecialRequests	Is it possible to have a private meeting room hold at the hotel?
+NewBooking_SpecialRequests	Is it possible to have breakfast render to my hotel room?
+NewBooking_SpecialRequests	Is it possible to have breakfast return to my hotel room?
+NewBooking_SpecialRequests	be it possible to have breakfast delivered to my hotel room?
+NewBooking_SpecialRequests	constitute it possible to have breakfast delivered to my hotel room?
+NewBooking_SpecialRequests	Is there a minimum check requirement for certain hotel rooms?
+NewBooking_SpecialRequests	Is there a minimum continue requirement for certain hotel rooms?
+NewBooking_SpecialRequests	Is there a minimum outride requirement for certain hotel rooms?
+NewBooking_SpecialRequests	Is there a minimum stop requirement for certain hotel rooms?
+NewBooking_SpecialRequests	Is there a minimum abide requirement for certain room types?
+NewBooking_SpecialRequests	comprise there a minimum stay requirement for certain room types?
+NewBooking_SpecialRequests	constitute there a minimum stay requirement for certain room types?
+NewBooking_SpecialRequests	equal there a minimum stay requirement for certain room types?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for sealed types of business meetings?
+NewBooking_SpecialRequests	Is there a minimum stop requirement for certain types of business meetings?
+NewBooking_SpecialRequests	equal there a minimum stay requirement for certain types of business meetings?
+NewBooking_SpecialRequests	personify there a minimum stay requirement for certain types of business meetings?
+NewBooking_SpecialRequests	Is there a minimum delay requirement for certain types of business stays?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for certain types of business girdle?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for certain types of business persist?
+NewBooking_SpecialRequests	comprise there a minimum stay requirement for certain types of business stays?
+NewBooking_SpecialRequests	Is there a minimum quell requirement for certain types of corporate events?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for certain type of corporate events?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for certain types of corporate effect?
+NewBooking_SpecialRequests	represent there a minimum stay requirement for certain types of corporate events?
+NewBooking_SpecialRequests	Is there a minimum continue requirement for certain types of rooms?
+NewBooking_SpecialRequests	Is there a minimum detain requirement for certain types of rooms?
+NewBooking_SpecialRequests	Is there a minimum stay requirement for certain types of board?
+NewBooking_SpecialRequests	be there a minimum stay requirement for certain types of rooms?
+NewBooking_SpecialRequests	Is there a way to draw a complimentary room upgrade for loyalty program members?
+NewBooking_SpecialRequests	Is there a way to fix a complimentary room upgrade for loyalty program members?
+NewBooking_SpecialRequests	Is there a way to get a complimentary room upgrade for loyalty plan members?
+NewBooking_SpecialRequests	Is there a way to mystify a complimentary room upgrade for loyalty program members?
+NewBooking_SpecialRequests	Is there a way to bring a complimentary upgrade if I book at the last minute?
+NewBooking_SpecialRequests	Is there a way to get a complimentary upgrade if I book at the survive minute?
+NewBooking_SpecialRequests	Is there a way to get a complimentary upgrade if I hold at the last minute?
+NewBooking_SpecialRequests	Is there a way to get a complimentary upgrade if ane book at the last minute?
+NewBooking_SpecialRequests	Is there a way to baffle a complimentary upgrade if I'm booking during off-peak season?
+NewBooking_SpecialRequests	Is there a way to draw a complimentary upgrade if I'm booking during off-peak season?
+NewBooking_SpecialRequests	Is there a way to stick a complimentary upgrade if I'm booking during off-peak season?
+NewBooking_SpecialRequests	equal there a way to get a complimentary upgrade if I'm booking during off-peak season?
+NewBooking_SpecialRequests	Is there a way to aim a complimentary upgrade if I'm booking for a honeymoon or anniversary?
+NewBooking_SpecialRequests	Is there a way to baffle a complimentary upgrade if I'm booking for a honeymoon or anniversary?
+NewBooking_SpecialRequests	Is there a way to beget a complimentary upgrade if I'm booking for a honeymoon or anniversary?
+NewBooking_SpecialRequests	Is there a way to get a complimentary rise if I'm booking for a honeymoon or anniversary?
+NewBooking_SpecialRequests	Is there a means to get a complimentary upgrade if I'm booking for a milestone event?
+NewBooking_SpecialRequests	Is there a way to commence a complimentary upgrade if I'm booking for a milestone event?
+NewBooking_SpecialRequests	Is there a way to engender a complimentary upgrade if I'm booking for a milestone event?
+NewBooking_SpecialRequests	Is there a way to start a complimentary upgrade if I'm booking for a milestone event?
+NewBooking_SpecialRequests	Is there a way to find a complimentary upgrade if I'm booking for multiple people?
+NewBooking_SpecialRequests	Is there a way to get a complimentary ascent if I'm booking for multiple people?
+NewBooking_SpecialRequests	Is there a way to make a complimentary upgrade if I'm booking for multiple people?
+NewBooking_SpecialRequests	be there a way to get a complimentary upgrade if I'm booking for multiple people?
+NewBooking_SpecialRequests	Is there a way to get a complimentary upgrade if I'm fete a special occasion?
+NewBooking_SpecialRequests	Is there a way to have a complimentary upgrade if I'm celebrating a special occasion?
+NewBooking_SpecialRequests	Is there a way to sire a complimentary upgrade if I'm celebrating a special occasion?
+NewBooking_SpecialRequests	Is there a way to start a complimentary upgrade if I'm celebrating a special occasion?
+NewBooking_SpecialRequests	What are the hotel's pet-friendly insurance?
+NewBooking_SpecialRequests	What are the hotel's pet-friendly policies?
+NewBooking_SpecialRequests	What are the hotel's pet-friendly policy?
+NewBooking_SpecialRequests	What's the cancellation policy if I commute my mind?
+NewBooking_SpecialRequests	What's the cancellation policy if I convert my mind?
+NewBooking_SpecialRequests	What's the cancellation policy if I modify my mind?
+NewBooking_SpecialRequests	What's the cancellation policy if iodine change my mind?
+NewBooking_SpecialRequests	What's the policy on bringing food or drinking into the hotel?
+NewBooking_SpecialRequests	What's the policy on bringing food or imbibe into the hotel?
+NewBooking_SpecialRequests	What's the policy on bringing food or potable into the hotel?
+NewBooking_SpecialRequests	What's the policy on bringing food or wassail into the hotel?
+NewBooking_SpecialRequests	What's the policy on bringing deary on board?
+NewBooking_SpecialRequests	What's the policy on impart pets on board?
+NewBooking_SpecialRequests	What's the policy on institute pets on board?
+NewBooking_SpecialRequests	What's the policy on work pets on board?
+NewBooking_SpecialRequests	What's the policy on children under a certain age locomote with parents?
+NewBooking_SpecialRequests	What's the policy on children under a certain mature traveling with parents?
+NewBooking_SpecialRequests	What's the policy on children under a certain senesce traveling with parents?
+NewBooking_SpecialRequests	What's the policy on shaver under a certain age traveling with parents?
+NewBooking_SpecialRequests	What's the policy on using hotel Wi-Fi for business aim?
+NewBooking_SpecialRequests	What's the policy on using hotel Wi-Fi for business propose?
+NewBooking_SpecialRequests	What's the policy on using hotel Wi-Fi for job purposes?
+NewBooking_SpecialRequests	What's the policy on victimisation hotel Wi-Fi for business purposes?
+NewBooking_SpecialRequests	What's the policy on employ hotel amenities such as concierge services?
+NewBooking_SpecialRequests	What's the policy on expend hotel amenities such as concierge services?
+NewBooking_SpecialRequests	What's the policy on using hotel comforts such as concierge services?
+NewBooking_SpecialRequests	What's the policy on victimization hotel amenities such as concierge services?
+NewBooking_SpecialRequests	What's the policy on expend hotel amenities such as laundry services?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as laundry serving?
+NewBooking_SpecialRequests	What's the policy on using hotel comforts such as laundry services?
+NewBooking_SpecialRequests	What's the policy on victimisation hotel amenities such as laundry services?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as pools or fitness pore?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as pools or fitness rivet?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as pools or fittingness centers?
+NewBooking_SpecialRequests	What's the policy on using hotel comforts such as pools or fitness centers?
+NewBooking_SpecialRequests	What's the policy on use hotel amenities such as tour services?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as circuit services?
+NewBooking_SpecialRequests	What's the policy on using hotel amenities such as hitch services?
+NewBooking_SpecialRequests	What's the policy on utilise hotel amenities such as tour services?
+NewBooking_SpecialRequests	What's the policy on expend hotel equipment such as copiers or printers?
+NewBooking_SpecialRequests	What's the policy on habituate hotel equipment such as copiers or printers?
+NewBooking_SpecialRequests	What's the policy on use hotel equipment such as copiers or printers?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as copiers or pressman?
+NewBooking_SpecialRequests	What's the policy on expend hotel equipment such as irons or microwaves?
+NewBooking_SpecialRequests	What's the policy on use hotel equipment such as irons or microwaves?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as Fe or microwaves?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as irons or zap?
+NewBooking_SpecialRequests	What's the policy on apply hotel equipment such as microwaves or refrigerators?
+NewBooking_SpecialRequests	What's the policy on expend hotel equipment such as microwaves or refrigerators?
+NewBooking_SpecialRequests	What's the policy on use hotel equipment such as microwaves or refrigerators?
+NewBooking_SpecialRequests	What's the policy on utilize hotel equipment such as microwaves or refrigerators?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as projectors or concealment?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as projectors or cover?
+NewBooking_SpecialRequests	What's the policy on utilise hotel equipment such as projectors or screens?
+NewBooking_SpecialRequests	What's the policy on victimization hotel equipment such as projectors or screens?
+NewBooking_SpecialRequests	What's the policy on employ hotel equipment such as telephones or fax machines?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as call or fax machines?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as telephones or facsimile machines?
+NewBooking_SpecialRequests	What's the policy on using hotel equipment such as telephones or fax motorcar?

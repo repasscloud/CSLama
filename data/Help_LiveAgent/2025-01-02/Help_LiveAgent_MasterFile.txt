@@ -1,0 +1,636 @@
+Help_LiveAgent	Can you assist me with rebooking my flight due to kinsperson emergencies again.
+Help_LiveAgent	arse you assist me with rebooking my flight due to family emergencies again.
+Help_LiveAgent	bottom you assist me with rebooking my flight due to family emergencies again.
+Help_LiveAgent	pot you assist me with rebooking my flight due to family emergencies again.
+Help_LiveAgent	Can you assist me with rebooking my flight due to mob emergencies.
+Help_LiveAgent	lav you assist me with rebooking my flight due to family emergencies.
+Help_LiveAgent	posterior you assist me with rebooking my flight due to family emergencies.
+Help_LiveAgent	potty you assist me with rebooking my flight due to family emergencies.
+Help_LiveAgent	Can you assist me with rebooking my flight due to inclement brave again.
+Help_LiveAgent	bathroom you assist me with rebooking my flight due to inclement weather again.
+Help_LiveAgent	tin you assist me with rebooking my flight due to inclement weather again.
+Help_LiveAgent	tush you assist me with rebooking my flight due to inclement weather again.
+Help_LiveAgent	Can you assist me with rebooking my flight ascribable to inclement weather?
+Help_LiveAgent	Can you assist me with rebooking my flying due to inclement weather?
+Help_LiveAgent	Can you attend me with rebooking my flight due to inclement weather?
+Help_LiveAgent	toilet you assist me with rebooking my flight due to inclement weather?
+Help_LiveAgent	Can you assistance me with rebooking my flight due to medical reasons?
+Help_LiveAgent	bathroom you assist me with rebooking my flight due to medical reasons?
+Help_LiveAgent	buns you assist me with rebooking my flight due to medical reasons?
+Help_LiveAgent	tush you assist me with rebooking my flight due to medical reasons?
+Help_LiveAgent	behind you assist me with rebooking my flight due to personal reasons?
+Help_LiveAgent	john you assist me with rebooking my flight due to personal reasons?
+Help_LiveAgent	tail you assist me with rebooking my flight due to personal reasons?
+Help_LiveAgent	tush you assist me with rebooking my flight due to personal reasons?
+Help_LiveAgent	Can you baulk if there are any deals on flights to New York?
+Help_LiveAgent	Can you check if there are any muckle on flights to New York?
+Help_LiveAgent	Can you check if there are any softwood on flights to New York?
+Help_LiveAgent	backside you check if there are any deals on flights to New York?
+Help_LiveAgent	Can you explain the airport security procedures in detail, including signed language interpretation.
+Help_LiveAgent	posterior you explain the airport security procedures in detail, including sign language interpretation.
+Help_LiveAgent	tail you explain the airport security procedures in detail, including sign language interpretation.
+Help_LiveAgent	tooshie you explain the airport security procedures in detail, including sign language interpretation.
+Help_LiveAgent	Can you explain the airport security procedures in particular, with translations.
+Help_LiveAgent	Can you explain the airport security subroutine in detail, with translations.
+Help_LiveAgent	canful you explain the airport security procedures in detail, with translations.
+Help_LiveAgent	tush you explain the airport security procedures in detail, with translations.
+Help_LiveAgent	Can you explicate the airport security procedures in detail?
+Help_LiveAgent	fanny you explain the airport security procedures in detail?
+Help_LiveAgent	stern you explain the airport security procedures in detail?
+Help_LiveAgent	terminate you explain the airport security procedures in detail?
+Help_LiveAgent	Can you explain the baggage policy and fees in particular?
+Help_LiveAgent	commode you explain the baggage policy and fees in detail?
+Help_LiveAgent	keister you explain the baggage policy and fees in detail?
+Help_LiveAgent	lavatory you explain the baggage policy and fees in detail?
+Help_LiveAgent	Can you helper me book a hotel room for tonight?
+Help_LiveAgent	Can you supporter me book a hotel room for tonight?
+Help_LiveAgent	dismiss you help me book a hotel room for tonight?
+Help_LiveAgent	tin you help me book a hotel room for tonight?
+Help_LiveAgent	Can you provide a inclination of nearby hotels that are pet-friendly?
+Help_LiveAgent	Can you render a list of nearby hotels that are pet-friendly?
+Help_LiveAgent	Can you supply a list of nearby hotels that are pet-friendly?
+Help_LiveAgent	ass you provide a list of nearby hotels that are pet-friendly?
+Help_LiveAgent	Can you ply a list of nearby restaurants that are wheelchair accessible?
+Help_LiveAgent	Can you provide a tilt of nearby restaurants that are wheelchair accessible?
+Help_LiveAgent	potty you provide a list of nearby restaurants that are wheelchair accessible?
+Help_LiveAgent	tin you provide a list of nearby restaurants that are wheelchair accessible?
+Help_LiveAgent	Can you provide a list of nearby restaurants that offer gluten-free selection.
+Help_LiveAgent	Can you provide a list of nearby restaurants that volunteer gluten-free options.
+Help_LiveAgent	derriere you provide a list of nearby restaurants that offer gluten-free options.
+Help_LiveAgent	keister you provide a list of nearby restaurants that offer gluten-free options.
+Help_LiveAgent	can you provide a refund for my cancelled flight ticket?
+Help_LiveAgent	fire you provide a refund for my cancelled flight ticket?
+Help_LiveAgent	keister you provide a refund for my cancelled flight ticket?
+Help_LiveAgent	seat you provide a refund for my cancelled flight ticket?
+Help_LiveAgent	Can you ply a statement for my travel insurance claim?
+Help_LiveAgent	Can you provide a statement for my go insurance claim?
+Help_LiveAgent	Can you provide a statement for my locomotion insurance claim?
+Help_LiveAgent	canful you provide a statement for my travel insurance claim?
+Help_LiveAgent	Can you cater a statement for my trip cancellation claim?
+Help_LiveAgent	Can you provide a statement for my trip cancellation arrogate?
+Help_LiveAgent	backside you provide a statement for my trip cancellation claim?
+Help_LiveAgent	rump you provide a statement for my trip cancellation claim?
+Help_LiveAgent	Can you provide an update on my escape status, including estimated arrival time and rebooking options.
+Help_LiveAgent	Can you provide an update on my flight status, including calculate arrival time and rebooking options.
+Help_LiveAgent	bathroom you provide an update on my flight status, including estimated arrival time and rebooking options.
+Help_LiveAgent	can you provide an update on my flight status, including estimated arrival time and rebooking options.
+Help_LiveAgent	Can you provide an update on my flight status, including estimated arriver time.
+Help_LiveAgent	canful you provide an update on my flight status, including estimated arrival time.
+Help_LiveAgent	seat you provide an update on my flight status, including estimated arrival time.
+Help_LiveAgent	stern you provide an update on my flight status, including estimated arrival time.
+Help_LiveAgent	Can you provide an upgrade option for my flight slate?
+Help_LiveAgent	bathroom you provide an upgrade option for my flight ticket?
+Help_LiveAgent	fundament you provide an upgrade option for my flight ticket?
+Help_LiveAgent	pot you provide an upgrade option for my flight ticket?
+Help_LiveAgent	Can you assure me about any travel deals or discounts available?
+Help_LiveAgent	Can you tell me about any travel contend or discounts available?
+Help_LiveAgent	Can you tell me about any travel deals or dismiss available?
+Help_LiveAgent	keister you tell me about any travel deals or discounts available?
+Help_LiveAgent	Can you differentiate me about any travel restrictions for people with disabilities.
+Help_LiveAgent	Can you tell me about any move restrictions for people with disabilities.
+Help_LiveAgent	Can you tell me about any travelling restrictions for people with disabilities.
+Help_LiveAgent	prat you tell me about any travel restrictions for people with disabilities.
+Help_LiveAgent	Can you tell me about any travel confinement in Europe?
+Help_LiveAgent	Can you tell me about any trip restrictions in Europe?
+Help_LiveAgent	fundament you tell me about any travel restrictions in Europe?
+Help_LiveAgent	lav you tell me about any travel restrictions in Europe?
+Help_LiveAgent	Can you severalize me about any travel restrictions in specific countries.
+Help_LiveAgent	Can you tell me about any move restrictions in specific countries.
+Help_LiveAgent	fundament you tell me about any travel restrictions in specific countries.
+Help_LiveAgent	lavatory you tell me about any travel restrictions in specific countries.
+Help_LiveAgent	Can you enjoin me about any travel restrictions in specific regions.
+Help_LiveAgent	Can you tell me about any travel limitation in specific regions.
+Help_LiveAgent	bathroom you tell me about any travel restrictions in specific regions.
+Help_LiveAgent	tooshie you tell me about any travel restrictions in specific regions.
+Help_LiveAgent	I indigence help with a missed flight due to illness.
+Help_LiveAgent	I need help with a escape flight due to illness.
+Help_LiveAgent	I need help with a missed flight due to malady.
+Help_LiveAgent	I need help with a omit flight due to illness.
+Help_LiveAgent	I'd like to cancel my flight but don't acknowledge how to do it online.
+Help_LiveAgent	I'd like to cancel my flight but don't live how to do it online.
+Help_LiveAgent	I'd like to delete my flight but don't know how to do it online.
+Help_LiveAgent	I'd same to cancel my flight but don't know how to do it online.
+Help_LiveAgent	I'd like to request a seat rise but need help finding available options.
+Help_LiveAgent	I'd like to request a seat upgrade but need assistant finding available options.
+Help_LiveAgent	I'd like to request a seat upgrade but need help finding available option.
+Help_LiveAgent	I'd like to request a seat upgrade but need help observe available options.
+Help_LiveAgent	I'd alike to request a special meal for my upcoming flight.
+Help_LiveAgent	I'd like to request a exceptional meal for my upcoming flight.
+Help_LiveAgent	I'd like to request a limited meal for my upcoming flight.
+Help_LiveAgent	I'd like to request a special meal for my approaching flight.
+Help_LiveAgent	I'm having difficulty finding flights to Paris.
+Help_LiveAgent	I'm having disquiet finding flights to Paris.
+Help_LiveAgent	I'm having trouble finding flying to Paris.
+Help_LiveAgent	I'm having trouble witness flights to Paris.
+Help_LiveAgent	I'm front for a travel agent who can help me plan my trip.
+Help_LiveAgent	I'm looking for a travel agent who can assistant me plan my trip.
+Help_LiveAgent	I'm looking for a travel agent who can help me programme my trip.
+Help_LiveAgent	I'm search for a travel agent who can help me plan my trip.
+Help_LiveAgent	I'm locomote internationally but need help with customs forms.
+Help_LiveAgent	I'm traveling internationally but need help with customs make.
+Help_LiveAgent	I'm traveling internationally but need help with customs spring.
+Help_LiveAgent	I'm traveling internationally but want help with customs forms.
+Help_LiveAgent	I'm go internationally but need help with language translation services.
+Help_LiveAgent	I'm traveling internationally but necessitate help with language translation services.
+Help_LiveAgent	I'm traveling internationally but need help with terminology translation services.
+Help_LiveAgent	I'm traveling internationally but need help with words translation services.
+Help_LiveAgent	I'm journey internationally but need help with visa requirements.
+Help_LiveAgent	I'm travel internationally but need help with visa requirements.
+Help_LiveAgent	I'm traveling internationally but ask help with visa requirements.
+Help_LiveAgent	I'm travelling internationally but need help with visa requirements.
+Help_LiveAgent	I'm jaunt with minors and need help with necessary documents.
+Help_LiveAgent	I'm traveling with child and need help with necessary documents.
+Help_LiveAgent	I'm traveling with minors and demand help with necessary documents.
+Help_LiveAgent	I'm traveling with minors and need help with necessary papers.
+Help_LiveAgent	I'm go with my pet and need to make special arrangements.
+Help_LiveAgent	I'm traveling with my pet and need to crap special arrangements.
+Help_LiveAgent	I'm traveling with my pet and need to make especial arrangements.
+Help_LiveAgent	I'm traveling with my pet and need to nominate special arrangements.
+Help_LiveAgent	I'm nerve-racking to check in for my flight but keep getting an error message, what should I do?
+Help_LiveAgent	I'm trying to bridle in for my flight but keep getting an error message, what should I do?
+Help_LiveAgent	I'm trying to check in for my flight but keep getting an error message, what should iodin do?
+Help_LiveAgent	I'm trying to check in for my flight but keep go an error message, what should I do?
+Help_LiveAgent	I'm assay to check in for my flight but keep getting an error message.
+Help_LiveAgent	I'm trying to check in for my flight but hold getting an error message.
+Help_LiveAgent	I'm trying to check in for my flight but keep catch an error message.
+Help_LiveAgent	I'm trying to correspond in for my flight but keep getting an error message.
+Help_LiveAgent	I'm trying to mark my boarding pass but keep getting an error message, can you assist me?
+Help_LiveAgent	I'm trying to print my boarding hap but keep getting an error message, can you assist me?
+Help_LiveAgent	I'm trying to print my boarding pass but keep go an error message, can you assist me?
+Help_LiveAgent	I'm trying to print my boarding top but keep getting an error message, can you assist me?
+Help_LiveAgent	I'm trying to print my boarding choke but the printer is not working.
+Help_LiveAgent	I'm trying to print my boarding pass but the printer is not make.
+Help_LiveAgent	I'm trying to print my boarding pass but the printer is not process.
+Help_LiveAgent	I'm trying to print my boarding spend but the printer is not working.
+Help_LiveAgent	My booking confirmation email was sent to the amiss address.
+Help_LiveAgent	My booking confirmation email was sent to the awry address.
+Help_LiveAgent	My booking confirmation email was station to the wrong address.
+Help_LiveAgent	My booking confirmation netmail was sent to the wrong address.
+Help_LiveAgent	My credit add-in was declined during the booking process again, can you assist me with payment options.
+Help_LiveAgent	My credit card was declined during the book process again, can you assist me with payment options.
+Help_LiveAgent	My credit card was declined during the booking process again, can you assist me with defrayment options.
+Help_LiveAgent	My credit card was worsen during the booking process again, can you assist me with payment options.
+Help_LiveAgent	My credit card was declined during the booking process again, can you help me?
+Help_LiveAgent	My credit card was declined during the booking treat again, can you assist me?
+Help_LiveAgent	My credit scorecard was declined during the booking process again, can you assist me?
+Help_LiveAgent	My reference card was declined during the booking process again, can you assist me?
+Help_LiveAgent	My cite card was declined during the booking process, can you help?
+Help_LiveAgent	My credit card was declined during the booking appendage, can you help?
+Help_LiveAgent	My credit card was declined during the booking treat, can you help?
+Help_LiveAgent	My credit wag was declined during the booking process, can you help?
+Help_LiveAgent	My credit card was lost and needs to be supplant again, can you help?
+Help_LiveAgent	My credit card was misplace and needs to be replaced again, can you help?
+Help_LiveAgent	My credit wag was lost and needs to be replaced again, can you help?
+Help_LiveAgent	My mention card was lost and needs to be replaced again, can you help?
+Help_LiveAgent	My credit card was lose and needs to be replaced, can you help?
+Help_LiveAgent	My credit card was lost and take to be replaced, can you help?
+Help_LiveAgent	My credit card was lost and want to be replaced, can you help?
+Help_LiveAgent	My mention card was lost and needs to be replaced, can you help?
+Help_LiveAgent	My flight is delayed and I ask assistance with rebooking.
+Help_LiveAgent	My flight is delayed and ace need assistance with rebooking.
+Help_LiveAgent	My flight is detain and I need assistance with rebooking.
+Help_LiveAgent	My flight is stay and I need assistance with rebooking.
+Help_LiveAgent	My hotel room has a bed bug infestation, what should 1 do?
+Help_LiveAgent	My hotel room has a bed bug infestation, what should ane do?
+Help_LiveAgent	My hotel room has a bed bug plague, what should I do?
+Help_LiveAgent	My hotel room has a fuck bug infestation, what should I do?
+Help_LiveAgent	My hotel room has a noise charge and needs to be relocated.
+Help_LiveAgent	My hotel room has a noise complaint and ask to be relocated.
+Help_LiveAgent	My hotel room has a noise complaint and pauperism to be relocated.
+Help_LiveAgent	My hotel room has a stochasticity complaint and needs to be relocated.
+Help_LiveAgent	My luggage has been lost and motive to be replaced.
+Help_LiveAgent	My luggage has been lost and needs to be substitute.
+Help_LiveAgent	My luggage has been lost and needs to be supercede.
+Help_LiveAgent	My luggage has been lost and take to be replaced.
+Help_LiveAgent	My luggage was damaged during transit and necessitate to be replaced, can you help?
+Help_LiveAgent	My luggage was damaged during transit and need to be replaced, can you help?
+Help_LiveAgent	My luggage was damaged during transit and needs to be replaced, can you service?
+Help_LiveAgent	My luggage was discredited during transit and needs to be replaced, can you help?
+Help_LiveAgent	My luggage was damaged during theodolite, what should I do?
+Help_LiveAgent	My luggage was damaged during transit, what should ane do?
+Help_LiveAgent	My luggage was damaged during transit, what should iodin do?
+Help_LiveAgent	My luggage was damaged during transit, what should one do?
+Help_LiveAgent	My luggage was lost during transit and demand to be tracked down.
+Help_LiveAgent	My luggage was lost during transit and indigence to be tracked down.
+Help_LiveAgent	My luggage was lost during transit and necessitate to be tracked down.
+Help_LiveAgent	My luggage was lost during transportation and needs to be tracked down.
+Help_LiveAgent	My travel companions are having ail checking in, can you assist them?
+Help_LiveAgent	My travel company are having trouble checking in, can you assist them?
+Help_LiveAgent	My travel fellow are having trouble checking in, can you assist them?
+Help_LiveAgent	My trip companions are having trouble checking in, can you assist them?
+Help_LiveAgent	My journey insurance policy does not cover trip cancellations.
+Help_LiveAgent	My travel insurance policy does not cover trigger cancellations.
+Help_LiveAgent	My travel insurance policy does not deal trip cancellations.
+Help_LiveAgent	My travel insurance policy does not enshroud trip cancellations.
+Help_LiveAgent	The airline change their baggage policy without notice, can you help?
+Help_LiveAgent	The airline changed their baggage policy without bill, can you help?
+Help_LiveAgent	The airline changed their baggage policy without notification, can you help?
+Help_LiveAgent	The airline convert their baggage policy without notice, can you help?
+Help_LiveAgent	The airline change their policy on luggage fees.
+Help_LiveAgent	The airline changed their policy on luggage bung.
+Help_LiveAgent	The airline changed their policy on luggage tip.
+Help_LiveAgent	The airline switch their policy on luggage fees.
+Help_LiveAgent	The airline did not cede my luggage to my destination.
+Help_LiveAgent	The airline did not deliver my baggage to my destination.
+Help_LiveAgent	The airline did not deport my luggage to my destination.
+Help_LiveAgent	The airline did not return my luggage to my destination.
+Help_LiveAgent	The airline did not deliver my luggage inside the expected timeframe due to airport delays.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe ascribable to airport delays.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe due to airport detain.
+Help_LiveAgent	The airway did not deliver my luggage within the expected timeframe due to airport delays.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe due to airport issuing.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe due to airport number.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe due to airport result.
+Help_LiveAgent	The airline did not present my luggage within the expected timeframe due to airport issues.
+Help_LiveAgent	The airline did not deliver my luggage within the anticipate timeframe due to bad weather.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe due to unsound weather.
+Help_LiveAgent	The airline did not deliver my luggage within the expected timeframe imputable to bad weather.
+Help_LiveAgent	The airline did not rescue my luggage within the expected timeframe due to bad weather.
+Help_LiveAgent	The airline did not deliver my luggage within the ask timeframe.
+Help_LiveAgent	The airline did not deliver my luggage within the look timeframe.
+Help_LiveAgent	The airline did not present my luggage within the expected timeframe.
+Help_LiveAgent	The airline did not render my luggage within the expected timeframe.
+Help_LiveAgent	The airline did not egress a refund for my cancelled ticket again.
+Help_LiveAgent	The airline did not emergence a refund for my cancelled ticket again.
+Help_LiveAgent	The airline did not event a refund for my cancelled ticket again.
+Help_LiveAgent	The airline did not issue a refund for my cancelled fine again.
+Help_LiveAgent	The airline did not event a refund for my cancelled ticket for the second time.
+Help_LiveAgent	The airline did not issue a refund for my cancelled fine for the second time.
+Help_LiveAgent	The airline did not issue a refund for my offset ticket for the second time.
+Help_LiveAgent	The airline did not takings a refund for my cancelled ticket for the second time.
+Help_LiveAgent	The airline did not issue a refund for my cancelled fine.
+Help_LiveAgent	The airline did not issue a refund for my offset ticket.
+Help_LiveAgent	The airline did not issue a refund for my scrub ticket.
+Help_LiveAgent	The airline did not yield a refund for my cancelled ticket.
+Help_LiveAgent	The airline did not apprise me of a flight delay, what should I do?
+Help_LiveAgent	The airline did not notify me of a escape delay, what should I do?
+Help_LiveAgent	The airline did not notify me of a flight detain, what should I do?
+Help_LiveAgent	The airline did not notify me of a flight hold, what should I do?
+Help_LiveAgent	The customer help number is not working, can you help me find an alternative?
+Help_LiveAgent	The customer serve number is not working, can you help me find an alternative?
+Help_LiveAgent	The customer service number is not mold, can you help me find an alternative?
+Help_LiveAgent	The customer service number is not sour, can you help me find an alternative?
+Help_LiveAgent	The hotel room I book does not meet accessibility requirements, what should I do?
+Help_LiveAgent	The hotel room I booked does not foregather accessibility requirements, what should I do?
+Help_LiveAgent	The hotel room I booked does not meet approachability requirements, what should I do?
+Help_LiveAgent	The hotel room i booked does not meet accessibility requirements, what should I do?
+Help_LiveAgent	The hotel room 1 booked does not meet accessibility requirements.
+Help_LiveAgent	The hotel room I booked does not fitting accessibility requirements.
+Help_LiveAgent	The hotel room I booked does not forgather accessibility requirements.
+Help_LiveAgent	The hotel room I booked does not meet availableness requirements.
+Help_LiveAgent	The hotel room I booked does not assemble dietary requirements, what should I do?
+Help_LiveAgent	The hotel room I booked does not meet dietary requirements, what should 1 do?
+Help_LiveAgent	The hotel room I booked does not receive dietary requirements, what should I do?
+Help_LiveAgent	The hotel room I booked does not see dietary requirements, what should I do?
+Help_LiveAgent	The hotel room I booked does not adjoin my dietary needs.
+Help_LiveAgent	The hotel room I booked does not fitting my dietary needs.
+Help_LiveAgent	The hotel room I booked does not meet my dietary want.
+Help_LiveAgent	The hotel room iodin booked does not meet my dietary needs.
+Help_LiveAgent	The hotel room I booked has a bed bug infestation and ask to be relocated.
+Help_LiveAgent	The hotel room I booked has a retire bug infestation and needs to be relocated.
+Help_LiveAgent	The hotel room I set-aside has a bed bug infestation and needs to be relocated.
+Help_LiveAgent	The hotel way I booked has a bed bug infestation and needs to be relocated.
+Help_LiveAgent	The hotel room I book has a broken air conditioner, what should I do?
+Help_LiveAgent	The hotel room I booked has a broken transmit conditioner, what should I do?
+Help_LiveAgent	The hotel room I booked has a upset air conditioner, what should I do?
+Help_LiveAgent	The hotel room unity booked has a broken air conditioner, what should I do?
+Help_LiveAgent	The hotel room I booked has a confused elevator, what should I do?
+Help_LiveAgent	The hotel room I booked has a reveal elevator, what should I do?
+Help_LiveAgent	The hotel room I booked has a rugged elevator, what should I do?
+Help_LiveAgent	The hotel room one booked has a broken elevator, what should I do?
+Help_LiveAgent	The hotel room I booked has not been cook yet.
+Help_LiveAgent	The hotel room I booked has not been devise yet.
+Help_LiveAgent	The hotel room I booked has not been machinate yet.
+Help_LiveAgent	The hotel room I booked has not been ready yet.
+Help_LiveAgent	The website is not mold properly, can you assist me?
+Help_LiveAgent	The website is not shape properly, can you assist me?
+Help_LiveAgent	The website is not working properly, can you aid me?
+Help_LiveAgent	The website is not workings properly, can you assist me?
+Help_LiveAgent	The website says there are no available posterior on this flight, is that correct?
+Help_LiveAgent	The website says there are no available seats on this flight, is that rectify?
+Help_LiveAgent	The website says there are no available seats on this flight, is that slump?
+Help_LiveAgent	The website says there are no available stern on this flight, is that correct?
+Help_LiveAgent	The website enunciate there are no flights available on this date, is that correct?
+Help_LiveAgent	The website says there are no fledge available on this date, is that correct?
+Help_LiveAgent	The website says there are no flights available on this date, is that castigate?
+Help_LiveAgent	The website state there are no flights available on this date, is that correct?
+Help_LiveAgent	A member of our group need medical attention ASAP.
+Help_LiveAgent	A member of our group penury medical attention ASAP.
+Help_LiveAgent	A member of our group take medical attention ASAP.
+Help_LiveAgent	A member of our group want medical attention ASAP.
+Help_LiveAgent	behind you add extra luggage to my booking?
+Help_LiveAgent	john you add extra luggage to my booking?
+Help_LiveAgent	sack you add extra luggage to my booking?
+Help_LiveAgent	tail you add extra luggage to my booking?
+Help_LiveAgent	Can you book me on the next uncommitted domestic flight?
+Help_LiveAgent	Can you book me on the succeeding available domestic flight?
+Help_LiveAgent	john you book me on the next available domestic flight?
+Help_LiveAgent	stool you book me on the next available domestic flight?
+Help_LiveAgent	behind you book me on the next available flight?
+Help_LiveAgent	buns you book me on the next available flight?
+Help_LiveAgent	butt you book me on the next available flight?
+Help_LiveAgent	nates you book me on the next available flight?
+Help_LiveAgent	Can you book me on the following available international flight that meets my requirements?
+Help_LiveAgent	commode you book me on the next available international flight that meets my requirements?
+Help_LiveAgent	hindquarters you book me on the next available international flight that meets my requirements?
+Help_LiveAgent	tin you book me on the next available international flight that meets my requirements?
+Help_LiveAgent	Can you book me on the next uncommitted international flight?
+Help_LiveAgent	Can you script me on the next available international flight?
+Help_LiveAgent	buns you book me on the next available international flight?
+Help_LiveAgent	canful you book me on the next available international flight?
+Help_LiveAgent	Can you cancel my flight and throw me a refund?
+Help_LiveAgent	Can you offset my flight and give me a refund?
+Help_LiveAgent	behind you cancel my flight and give me a refund?
+Help_LiveAgent	buttocks you cancel my flight and give me a refund?
+Help_LiveAgent	Can you help me notice a last-minute hotel?
+Help_LiveAgent	Can you help me retrieve a last-minute hotel?
+Help_LiveAgent	hindquarters you help me find a last-minute hotel?
+Help_LiveAgent	nates you help me find a last-minute hotel?
+Help_LiveAgent	Can you procedure this payment immediately?
+Help_LiveAgent	Can you process this requital immediately?
+Help_LiveAgent	pot you process this payment immediately?
+Help_LiveAgent	rear you process this payment immediately?
+Help_LiveAgent	Can you process this defrayal over the phone immediately?
+Help_LiveAgent	Can you process this defrayment over the phone immediately?
+Help_LiveAgent	Can you process this payment over the ring immediately?
+Help_LiveAgent	backside you process this payment over the phone immediately?
+Help_LiveAgent	fundament you process this payment over the phone?
+Help_LiveAgent	potty you process this payment over the phone?
+Help_LiveAgent	privy you process this payment over the phone?
+Help_LiveAgent	rear you process this payment over the phone?
+Help_LiveAgent	Can you air me an email with my flight itinerary?
+Help_LiveAgent	Can you broadcast me an email with my flight itinerary?
+Help_LiveAgent	Can you send me an email with my flying itinerary?
+Help_LiveAgent	bottom you send me an email with my flight itinerary?
+Help_LiveAgent	Can you institutionalize me an email with my travel details?
+Help_LiveAgent	Can you send me an netmail with my travel details?
+Help_LiveAgent	buttocks you send me an email with my travel details?
+Help_LiveAgent	keister you send me an email with my travel details?
+Help_LiveAgent	Flight cancellations are happening give and right today again.
+Help_LiveAgent	Flight cancellations are happening left and aright today again.
+Help_LiveAgent	Flight cancellations are happening left and mightily today again.
+Help_LiveAgent	flight cancellations are happening left and right today again.
+Help_LiveAgent	Flight cancellations are happening give and right today.
+Help_LiveAgent	Flight cancellations are happening left and rectify today.
+Help_LiveAgent	Flight cancellations are happening left and right-hand today.
+Help_LiveAgent	flying cancellations are happening left and right today.
+Help_LiveAgent	Flight cancelled due to conditions conditions.
+Help_LiveAgent	Flight cancelled due to weather term.
+Help_LiveAgent	Flight invalidate due to weather conditions.
+Help_LiveAgent	Flight off due to weather conditions.
+Help_LiveAgent	Flight detail are missing from my booking confirmation.
+Help_LiveAgent	Flight details are missing from my reserve confirmation.
+Help_LiveAgent	Flight details are neglect from my booking confirmation.
+Help_LiveAgent	trajectory details are missing from my booking confirmation.
+Help_LiveAgent	Flight details are missing from my credit carte statement.
+Help_LiveAgent	Flight details are missing from my credit lineup statement.
+Help_LiveAgent	Flight point are missing from my credit card statement.
+Help_LiveAgent	flight details are missing from my credit card statement.
+Help_LiveAgent	Flight numbers are incorrect on my boarding croak again.
+Help_LiveAgent	Flight numbers are incorrect on my boarding give again.
+Help_LiveAgent	Flight numbers are incorrect on my boarding surpass again.
+Help_LiveAgent	Flight numbers are incorrect on my boarding walk again.
+Help_LiveAgent	Flight Numbers are incorrect on my boarding pass.
+Help_LiveAgent	Flight numbers are incorrect on my boarding notch.
+Help_LiveAgent	Flight numbers are incorrect on my boarding sink.
+Help_LiveAgent	Flight routine are incorrect on my boarding pass.
+Help_LiveAgent	Flight act are incorrect on my confirmation email.
+Help_LiveAgent	Flight enumerate are incorrect on my confirmation email.
+Help_LiveAgent	Flight numerate are incorrect on my confirmation email.
+Help_LiveAgent	Flight turn are incorrect on my confirmation email.
+Help_LiveAgent	Flight numbers are incorrect on the confirmation e-mail.
+Help_LiveAgent	Flight numeral are incorrect on the confirmation email.
+Help_LiveAgent	Flight turn are incorrect on the confirmation email.
+Help_LiveAgent	flight numbers are incorrect on the confirmation email.
+Help_LiveAgent	Flight times were incorrect on my fine.
+Help_LiveAgent	Flight times were wrong on my ticket.
+Help_LiveAgent	escape times were incorrect on my ticket.
+Help_LiveAgent	flight times were incorrect on my ticket.
+Help_LiveAgent	How do I register a complaint about the airline?
+Help_LiveAgent	How do ace file a complaint about the airline?
+Help_LiveAgent	How do i file a complaint about the airline?
+Help_LiveAgent	How do one file a complaint about the airline?
+Help_LiveAgent	How do I file a complaint about the locomotion provider?
+Help_LiveAgent	How do I file a complaint about the trip provider?
+Help_LiveAgent	How do I file a ill about the travel provider?
+Help_LiveAgent	How do iodine file a complaint about the travel provider?
+Help_LiveAgent	How do I file a charge with the airline?
+Help_LiveAgent	How do I file a ill with the airline?
+Help_LiveAgent	How do I register a complaint with the airline?
+Help_LiveAgent	How do i file a complaint with the airline?
+Help_LiveAgent	How do I pay for a lose flight?
+Help_LiveAgent	How do I remuneration for a missed flight?
+Help_LiveAgent	How do I salary for a missed flight?
+Help_LiveAgent	How do ane pay for a missed flight?
+Help_LiveAgent	How do I report a lost luggage exit?
+Help_LiveAgent	How do I report a lost luggage takings?
+Help_LiveAgent	How do I report a lost luggage topic?
+Help_LiveAgent	How do I report a preoccupied luggage issue?
+Help_LiveAgent	How do I report a miss passport?
+Help_LiveAgent	How do I report a missed passport?
+Help_LiveAgent	How do ane report a lost passport?
+Help_LiveAgent	How do iodin report a lost passport?
+Help_LiveAgent	How foresightful will it take to process this payment?
+Help_LiveAgent	How long will it aim to process this payment?
+Help_LiveAgent	How long will it hold to process this payment?
+Help_LiveAgent	How long will it proceeds to process this payment?
+Help_LiveAgent	I'm having disorder booking flights for my team.
+Help_LiveAgent	I'm having problem booking flights for my team.
+Help_LiveAgent	I'm having trouble engagement flights for my team.
+Help_LiveAgent	I'm having unhinge booking flights for my team.
+Help_LiveAgent	I've beget a bad connection with our travel provider.
+Help_LiveAgent	I've experience a bad connection with our travel provider.
+Help_LiveAgent	I've go a bad connection with our travel provider.
+Help_LiveAgent	I've got a bad link with our travel provider.
+Help_LiveAgent	Is there any option for tail selection now that it's too late?
+Help_LiveAgent	be there any option for seat selection now that it's too late?
+Help_LiveAgent	comprise there any option for seat selection now that it's too late?
+Help_LiveAgent	live there any option for seat selection now that it's too late?
+Help_LiveAgent	Is there any option for keister selection now?
+Help_LiveAgent	Is there any option for seat choice now?
+Help_LiveAgent	Is there any option for tail selection now?
+Help_LiveAgent	constitute there any option for seat selection now?
+Help_LiveAgent	Is there any way to begin more miles on my card?
+Help_LiveAgent	Is there any way to get more miles on my poster?
+Help_LiveAgent	constitute there any way to get more miles on my card?
+Help_LiveAgent	represent there any way to get more miles on my card?
+Help_LiveAgent	It's an emergency, I involve someone to call right now.
+Help_LiveAgent	It's an emergency, I motivation someone to call right now.
+Help_LiveAgent	It's an emergency, I need someone to call proper now.
+Help_LiveAgent	It's an emergency, I need someone to foretell right now.
+Help_LiveAgent	My conference is tomorrow, what options do 1 have?
+Help_LiveAgent	My conference is tomorrow, what options do iodine have?
+Help_LiveAgent	My conference is tomorrow, what options do single have?
+Help_LiveAgent	My conference is tomorrow, what pick do I have?
+Help_LiveAgent	My flight has been delayed and I'm worried about missing my connective.
+Help_LiveAgent	My flight has been delayed and I'm worried about missing my connexion.
+Help_LiveAgent	My flight has been delayed and I'm worried about missing my link.
+Help_LiveAgent	My flight has been delayed and I'm worried about omit my connection.
+Help_LiveAgent	My flight has been delay due to weather conditions and I'm worried about missing my connection.
+Help_LiveAgent	My flight has been delayed due to brave conditions and I'm worried about missing my connection.
+Help_LiveAgent	My flight has been delayed due to weather status and I'm worried about missing my connection.
+Help_LiveAgent	My flight has been delayed referable to weather conditions and I'm worried about missing my connection.
+Help_LiveAgent	My escape has been delayed multiple times today already.
+Help_LiveAgent	My flight has been delayed multiple sentence today already.
+Help_LiveAgent	My flight has been delayed multiple time today already.
+Help_LiveAgent	My flight has been retard multiple times today already.
+Help_LiveAgent	My flight has been rescheduled and I'm befuddle.
+Help_LiveAgent	My flight has been rescheduled and I'm confuse.
+Help_LiveAgent	My flight has been rescheduled and I'm fox.
+Help_LiveAgent	My flight has been rescheduled and I'm obscure.
+Help_LiveAgent	My flight is leaving soon, can person help me with last-minute changes?
+Help_LiveAgent	My flight is leaving soon, can someone assistance me with last-minute changes?
+Help_LiveAgent	My flight is leaving soon, can someone help me with last-minute change?
+Help_LiveAgent	My flight is leaving soon, can someone helper me with last-minute changes?
+Help_LiveAgent	My flight was overbooked and I indigence an alternative.
+Help_LiveAgent	My flight was overbooked and I motivation an alternative.
+Help_LiveAgent	My flight was overbooked and I motive an alternative.
+Help_LiveAgent	My flight was overbooked and I pauperism an alternative.
+Help_LiveAgent	My travel plans have changed multiple times this workweek.
+Help_LiveAgent	My travel plans have exchange multiple times this week.
+Help_LiveAgent	My travel plans have modify multiple times this week.
+Help_LiveAgent	My travelling plans have changed multiple times this week.
+Help_LiveAgent	My go plans have changed suddenly.
+Help_LiveAgent	My travel design have changed suddenly.
+Help_LiveAgent	My travel plans have changed dead.
+Help_LiveAgent	My travelling plans have changed suddenly.
+Help_LiveAgent	Need assistance with a journey request ASAP.
+Help_LiveAgent	Need assistance with a travel asking ASAP.
+Help_LiveAgent	Need assistance with a trip request ASAP.
+Help_LiveAgent	take assistance with a travel request ASAP.
+Help_LiveAgent	Need assistance with a activate to Europe.
+Help_LiveAgent	Need assistance with a jaunt to Europe.
+Help_LiveAgent	Need assistance with a tripper to Europe.
+Help_LiveAgent	want assistance with a trip to Europe.
+Help_LiveAgent	Need assistance with go plans for a conference tomorrow.
+Help_LiveAgent	Need assistance with travel design for a conference tomorrow.
+Help_LiveAgent	Need assistance with travel program for a conference tomorrow.
+Help_LiveAgent	take assistance with travel plans for a conference tomorrow.
+Help_LiveAgent	Need avail with a trip to another country.
+Help_LiveAgent	Need help with a activate to another country.
+Help_LiveAgent	Need help with a actuate to another country.
+Help_LiveAgent	Need supporter with a trip to another country.
+Help_LiveAgent	Need someone to assistance with international travel arrangements ASAP.
+Help_LiveAgent	Need someone to attend with international travel arrangements ASAP.
+Help_LiveAgent	involve someone to assist with international travel arrangements ASAP.
+Help_LiveAgent	require someone to assist with international travel arrangements ASAP.
+Help_LiveAgent	Need person to assist with international travel arrangements.
+Help_LiveAgent	ask someone to assist with international travel arrangements.
+Help_LiveAgent	indigence someone to assist with international travel arrangements.
+Help_LiveAgent	motivation someone to assist with international travel arrangements.
+Help_LiveAgent	Need individual to assist with travel arrangements today.
+Help_LiveAgent	Need soul to assist with travel arrangements today.
+Help_LiveAgent	involve someone to assist with travel arrangements today.
+Help_LiveAgent	postulate someone to assist with travel arrangements today.
+Help_LiveAgent	Need person to assist with travel plans today.
+Help_LiveAgent	Need someone to assist with journey plans today.
+Help_LiveAgent	Need someone to assist with travel contrive today.
+Help_LiveAgent	postulate someone to assist with travel plans today.
+Help_LiveAgent	Payment method was declined during check again.
+Help_LiveAgent	defrayment method was declined during checkout again.
+Help_LiveAgent	payment method was declined during checkout again.
+Help_LiveAgent	requital method was declined during checkout again.
+Help_LiveAgent	Payment method was declined during checkout for a 2d time.
+Help_LiveAgent	Payment method was declined during checkout for a back time.
+Help_LiveAgent	Payment method was declined during checkout for a sec time.
+Help_LiveAgent	Payment method was slump during checkout for a second time.
+Help_LiveAgent	Payment method was decline during checkout for a third time.
+Help_LiveAgent	Payment method was declined during checkout for a third clip.
+Help_LiveAgent	Payment method was declined during checkout for a third sentence.
+Help_LiveAgent	Payment method was slump during checkout for a third time.
+Help_LiveAgent	Payment method was reject during checkout.
+Help_LiveAgent	Payment method was slump during checkout.
+Help_LiveAgent	Payment method was wane during checkout.
+Help_LiveAgent	payment method was declined during checkout.
+Help_LiveAgent	The airline won't answer my Call, can someone else help?
+Help_LiveAgent	The airline won't answer my call, can someone else assistance?
+Help_LiveAgent	The airline won't answer my foretell, can someone else help?
+Help_LiveAgent	The airline won't answer my song, can someone else help?
+Help_LiveAgent	The airline won't answer my address, what do I do now?
+Help_LiveAgent	The airline won't answer my holler, what do I do now?
+Help_LiveAgent	The airline won't answer my name, what do I do now?
+Help_LiveAgent	The airline won't reply my call, what do I do now?
+Help_LiveAgent	The airline won't answer my bid.
+Help_LiveAgent	The airline won't answer my holler.
+Help_LiveAgent	The airline won't solution my call.
+Help_LiveAgent	The airline won't solvent my call.
+Help_LiveAgent	The hotel is not available at the rate I gainful.
+Help_LiveAgent	The hotel is not available at the rate ane paid.
+Help_LiveAgent	The hotel is not available at the rate unity paid.
+Help_LiveAgent	The hotel is not uncommitted at the rate I paid.
+Help_LiveAgent	The hotel reservation was made incorrectly again and I need it correct ASAP.
+Help_LiveAgent	The hotel reservation was made incorrectly again and I need it set ASAP.
+Help_LiveAgent	The hotel reservation was made incorrectly again and I pauperization it corrected ASAP.
+Help_LiveAgent	The hotel reserve was made incorrectly again and I need it corrected ASAP.
+Help_LiveAgent	The hotel reservation was ca-ca incorrectly again.
+Help_LiveAgent	The hotel reservation was fix incorrectly again.
+Help_LiveAgent	The hotel reservation was pee-pee incorrectly again.
+Help_LiveAgent	The hotel reservation was produce incorrectly again.
+Help_LiveAgent	The hotel reservation was build incorrectly.
+Help_LiveAgent	The hotel reservation was made falsely.
+Help_LiveAgent	The hotel reservation was score incorrectly.
+Help_LiveAgent	The hotel reservation was take incorrectly.
+Help_LiveAgent	The hotel board was not as advertised.
+Help_LiveAgent	The hotel room was not as promote.
+Help_LiveAgent	The hotel room was not as publicize.
+Help_LiveAgent	The hotel way was not as advertised.
+Help_LiveAgent	This is an error, can you castigate it now?
+Help_LiveAgent	This is an error, can you redress it now?
+Help_LiveAgent	This is an error, can you right it now?
+Help_LiveAgent	This is an mistake, can you correct it now?
+Help_LiveAgent	This is an error, can you cook it now?
+Help_LiveAgent	This is an error, can you make it now?
+Help_LiveAgent	This is an error, can you situate it now?
+Help_LiveAgent	This is an error, can you specify it now?
+Help_LiveAgent	This is an urgent matter, I need aid right away.
+Help_LiveAgent	This is an urgent matter, I need assistant right away.
+Help_LiveAgent	This is an urgent matter, I need help flop away.
+Help_LiveAgent	This is an urgent matter, I need supporter right away.
+Help_LiveAgent	This is an urgent matter, I need somebody to call immediately.
+Help_LiveAgent	This is an urgent matter, I need someone to claim immediately.
+Help_LiveAgent	This is an urgent matter, I need someone to shout immediately.
+Help_LiveAgent	This is an urgent matter, i need someone to call immediately.
+Help_LiveAgent	This activate is a surprise, can you help me plan?
+Help_LiveAgent	This misstep is a surprise, can you help me plan?
+Help_LiveAgent	This trip is a surprise, can you serve me plan?
+Help_LiveAgent	This trip-up is a surprise, can you help me plan?
+Help_LiveAgent	This trip is business, can you assist me plan travel arrangements?
+Help_LiveAgent	This trip is business, can you help me plan travel organization?
+Help_LiveAgent	This trip is job, can you help me plan travel arrangements?
+Help_LiveAgent	This tripper is business, can you help me plan travel arrangements?
+Help_LiveAgent	This misstep is business, need help planning.
+Help_LiveAgent	This trip is business, necessitate help planning.
+Help_LiveAgent	This trip is business, postulate help planning.
+Help_LiveAgent	This trip is occupation, need help planning.
+Help_LiveAgent	This misstep is for work and I need help.
+Help_LiveAgent	This trip is for mould and I need help.
+Help_LiveAgent	This trip is for sour and I need help.
+Help_LiveAgent	This trip is for work and 1 need help.
+Help_LiveAgent	Travel insurance doesn't brood this event and it's my only option.
+Help_LiveAgent	Travel insurance doesn't cover this result and it's my only option.
+Help_LiveAgent	Travel insurance doesn't hide this event and it's my only option.
+Help_LiveAgent	journey insurance doesn't cover this event and it's my only option.
+Help_LiveAgent	Travel indemnity doesn't cover this event.
+Help_LiveAgent	Travel insurance doesn't encompass this event.
+Help_LiveAgent	Travel insurance doesn't hide this event.
+Help_LiveAgent	traveling insurance doesn't cover this event.
+Help_LiveAgent	Travel plans were clear incorrectly, help me correct them now.
+Help_LiveAgent	Travel plans were puddle incorrectly, help me correct them now.
+Help_LiveAgent	Travel plans were take incorrectly, help me correct them now.
+Help_LiveAgent	locomote plans were made incorrectly, help me correct them now.
+Help_LiveAgent	Travel design were made incorrectly, help!
+Help_LiveAgent	Travel plans were made incorrectly, assistant!
+Help_LiveAgent	Travel plans were make incorrectly, help!
+Help_LiveAgent	Travel plans were piddle incorrectly, help!
+Help_LiveAgent	What's the policy on changes to a booking I made death year?
+Help_LiveAgent	What's the policy on changes to a booking I puddle last year?
+Help_LiveAgent	What's the policy on changes to a booking ane made last year?
+Help_LiveAgent	What's the policy on commute to a booking I made last year?
+Help_LiveAgent	What's the policy on commute to a pre-paid rate?
+Help_LiveAgent	What's the policy on deepen to a pre-paid rate?
+Help_LiveAgent	What's the policy on exchange to a pre-paid rate?
+Help_LiveAgent	What's the policy on variety to a pre-paid rate?
+Help_LiveAgent	Where can I capture more travel insurance information?
+Help_LiveAgent	Where can I generate more travel insurance information?
+Help_LiveAgent	Where can I make more travel insurance information?
+Help_LiveAgent	Where can ace get more travel insurance information?
