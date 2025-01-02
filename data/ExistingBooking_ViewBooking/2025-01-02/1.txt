@@ -1,81 +1,76 @@
-Can you check on my booking details?
-Can you confirm my arrival and departure dates?
-Can you confirm my flight schedule?
-Can you explain the airline's baggage policy regarding liquids and gels?
-Can you explain the airline's refund policy?
-Can you explain the cancellation policy?
-Can you explain the change and cancellation fees?
-Can you explain the hotel cancellation policy?
-Can you explain the no-show policy?
-Can you explain the refund policy?
-Can you provide a statement of cancellation.
-Can you provide an update on my travel arrangements?
-Can you provide information on flight delays and cancellations?
-Can you provide information on travel insurance coverage.
-Can you provide information on travel insurance options?
-Can you provide information on travel requirements for domestic destinations?
-Can you provide information on travel requirements for international destinations?
-Can you provide my travel itinerary?
-Can you tell me about the airline's baggage policy?
-Here are 80 statements to train a corporate travel chatbot:
-Hi, I need help with my upcoming trip.
-How can I file a complaint regarding poor service quality?
-How can I get a replacement boarding pass?
-How can I obtain a letter of apology from the airline?
-How can I obtain a refund on an unused ticket?
-How can I report an issue with my hotel stay?
-How can I track my baggage's location in transit?
-How can I track the status of my package delivery in transit?
-How can I track the status of my package delivery?
-How do I access my booking information?
-How do I check in for my flight?
-How do I file a complaint regarding my travel arrangements?
-How do I get in touch with the airline customer service?
-I need assistance with a issue at the airport.
-I need to know about changes to my travel plans.
-I'd like to make a change to my booking.
-I'd like to see a copy of my receipt.
-Is there any assistance available for passengers with disabilities?
-Is there any assistance available for passengers with lost or stolen luggage?
-Is there any assistance available for passengers with medical conditions?
-Is there any delay in delivering my luggage?
-Is there any flexibility with my flight schedule due to weather conditions?
-Is there any flexibility with my flight schedule?
-Is there any flexibility with my travel dates?
-Is there any help available for passengers with special needs?
-Is there any issue with my hotel reservation?
-Is there any issue with my passport or visa?
-Is there any special meal requirement for my trip?
-My accommodation has been cancelled due to unforeseen circumstances.
-My accommodation has been overbooked, what should I do now?
-My accommodation is not as expected, what to do?
-My booking number is 123456, can you help me?
-My flight has been cancelled due to mechanical issues, what do I do now?
-My flight has been delayed, what do I do now?
-My travel insurance has expired, what should I do?
-My trip is booked under a mistaken name, what should I do?
-My trip is booked under an incorrect fare, what should I do now?
-My trip is cancelled, what can I do?
-My trip is impacted by a natural disaster, what can I do?
-My visa is not ready, what should I do?
-View my booking details and make any necessary adjustments.
-View my booking details please.
-View my existing booking details now, please.
-View my existing booking now please.
-View my existing booking please.
-What are the airline's rules and regulations regarding electronic devices?
-What are the airline's rules and regulations regarding luggage size and weight?
-What are the check-in and baggage allowance for my flight?
-What are the details of my upcoming trip?
-What are the hotel room amenities available?
-What are the options for flexible travel arrangements?
-What are the options for last-minute changes to my trip plans?
-What are the options for last-minute changes to my trip?
-What are the terms and conditions of my booking?
-What are the travel requirements for my destination country?
-What are the travel restrictions for my destination city?
-What are the travel restrictions for my destination?
-What's the status of my flight?
-Where can I find my boarding pass?
-Where is my baggage located in transit?
-Where is my room located?
+Can I access my existing booking history and details for [travel dates].
+Can I access my existing booking history and details.
+Can I access my existing booking history?
+Can I get a copy of my car rental agreement documents?
+Can I get a copy of my car rental agreement?
+Can I get a copy of my hotel reservation confirmation documents for [location]?
+Can I get a copy of my hotel reservation confirmation documents?
+Can I get a copy of my hotel reservation confirmation?
+Can I get a copy of my past flight tickets?
+Can I get a copy of my travel insurance documents?
+Can I get a copy of my travel insurance policy documents for [location].
+Can I get a copy of my travel insurance policy documents?
+Can I get a copy of my travel receipt documents?
+Can I see my conference registration details for [event]?
+Can I see my past flight itinerary details?
+Can I see my past hotel stay details?
+Can I see my upcoming business trip itinerary?
+Can I see my upcoming business trip travel plans for [location] on [date]?
+Can I see my upcoming business trip travel plans for [location]?
+Can I see my upcoming business trip travel plans?
+Can I view my conference attendance records?
+Can I view my conference registration information?
+Can I view my conference speaker details for [event] on [date].
+Can I view my conference speaker details for [event].
+Can I view my conference speaker details?
+Can I view my past conference attendance records.
+Can I view my past flight itinerary details for [date].
+Can I view my past flight itinerary details for [travel dates]?
+Can I view my past travel expense records for [location]?
+Can I view my past travel expense records.
+Can you provide information about an upcoming trip?
+Can you show me my recent bookings?
+Can you show me the itinerary for my next business trip?
+Can you show me the layout of my upcoming business meeting room?
+Can you show me the location of my meeting in [building]?
+Can you show me the location of my next business meeting?
+Can you show me the map of my hotel location?
+Can you show me the map of my next business meeting location?
+Can you show me the schedule for my upcoming business trip to [destination].
+Can you show me the schedule for my upcoming business trip?
+Do you have a record of my previous accommodation booking?
+Do you have a record of my previous booking for [date]?
+Do you have a record of my previous car rental reservation?
+Do you have a record of my previous event registration for [date]?
+Do you have a record of my previous event registration?
+Do you have a record of my previous transportation arrangement for [travel dates].
+Do you have a record of my previous transportation arrangement?
+Do you have any details about an upcoming meeting in [city]?
+Do you have any information about an upcoming project in [location]?
+Do you have any information about an upcoming sales meeting in [city] on [date]?
+Do you have any information about an upcoming sales meeting in [city]?
+Do you have any information about an upcoming training session in [city] on [date]?
+Do you have any information about an upcoming training session in [location]?
+How do I access my past travel receipts?
+How do I access my travel records?
+How do I check on my existing travel plans and booking history for [date]?
+How do I check on my existing travel plans and booking history?
+How do I check on my existing travel plans for [date]?
+How do I check on my existing travel plans?
+I need to check on my flight status.
+I'd like to view my existing reservation details.
+What are my travel plans looking like this week?
+What are the details of my flight to [city] on [date]?
+What are the details of my flight to [city]?
+What are the details of my flight to [destination] on [date]?
+What are the details of my flight to [destination]?
+What are the details of my hotel stay at [location] on [date]?
+What are the details of my hotel stay at [location]?
+What is the status of my existing accommodation booking at [location] on [date]?
+What is the status of my existing accommodation booking at [location]?
+What is the status of my existing accommodation booking?
+What is the status of my existing conference registration for [event]?
+What is the status of my existing conference registration?
+What is the status of my existing event registration?
+What is the status of my existing hotel reservation?
+What's the current schedule for my trip to [destination]?
