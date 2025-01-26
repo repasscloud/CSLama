@@ -1,0 +1,380 @@
+ModifyBooking_ChangeFlightDate	Booking dates changed, please affirm.
+ModifyBooking_ChangeFlightDate	Booking dates transfer, please confirm.
+ModifyBooking_ChangeFlightDate	Booking engagement changed, please confirm.
+ModifyBooking_ChangeFlightDate	Booking see changed, please confirm.
+ModifyBooking_ChangeFlightDate	Booking update demand - new dates needed.
+ModifyBooking_ChangeFlightDate	Booking update necessitate - new dates needed.
+ModifyBooking_ChangeFlightDate	Booking update required - new dates ask.
+ModifyBooking_ChangeFlightDate	book update required - new dates needed.
+ModifyBooking_ChangeFlightDate	Can I convey a quote for changing my flight dates?
+ModifyBooking_ChangeFlightDate	Can I fix a quote for changing my flight dates?
+ModifyBooking_ChangeFlightDate	Can I get a quote for interchange my flight dates?
+ModifyBooking_ChangeFlightDate	displace I get a quote for changing my flight dates?
+ModifyBooking_ChangeFlightDate	Can I amaze assistance with changing dates?
+ModifyBooking_ChangeFlightDate	Can I develop assistance with changing dates?
+ModifyBooking_ChangeFlightDate	Can I pose assistance with changing dates?
+ModifyBooking_ChangeFlightDate	displace I get assistance with changing dates?
+ModifyBooking_ChangeFlightDate	Can I update the dates on my subsist booking online?
+ModifyBooking_ChangeFlightDate	hindquarters I update the dates on my existing booking online?
+ModifyBooking_ChangeFlightDate	stern I update the dates on my existing booking online?
+ModifyBooking_ChangeFlightDate	tin I update the dates on my existing booking online?
+ModifyBooking_ChangeFlightDate	Can I update the appointment on my existing booking?
+ModifyBooking_ChangeFlightDate	dismiss I update the dates on my existing booking?
+ModifyBooking_ChangeFlightDate	rear I update the dates on my existing booking?
+ModifyBooking_ChangeFlightDate	toilet I update the dates on my existing booking?
+ModifyBooking_ChangeFlightDate	Can I update the traveling dates for my booking?
+ModifyBooking_ChangeFlightDate	Can one update the travel dates for my booking?
+ModifyBooking_ChangeFlightDate	lavatory I update the travel dates for my booking?
+ModifyBooking_ChangeFlightDate	privy I update the travel dates for my booking?
+ModifyBooking_ChangeFlightDate	ass you assist me with updating my booking dates?
+ModifyBooking_ChangeFlightDate	posterior you assist me with updating my booking dates?
+ModifyBooking_ChangeFlightDate	privy you assist me with updating my booking dates?
+ModifyBooking_ChangeFlightDate	terminate you assist me with updating my booking dates?
+ModifyBooking_ChangeFlightDate	crapper you help me modify my travel plans?
+ModifyBooking_ChangeFlightDate	derriere you help me modify my travel plans?
+ModifyBooking_ChangeFlightDate	prat you help me modify my travel plans?
+ModifyBooking_ChangeFlightDate	tin you help me modify my travel plans?
+ModifyBooking_ChangeFlightDate	Change of essence on my travel schedule.
+ModifyBooking_ChangeFlightDate	Change of warmness on my travel schedule.
+ModifyBooking_ChangeFlightDate	interchange of heart on my travel schedule.
+ModifyBooking_ChangeFlightDate	modify of heart on my travel schedule.
+ModifyBooking_ChangeFlightDate	Flight change bespeak - need assistance.
+ModifyBooking_ChangeFlightDate	Flight change request - motive assistance.
+ModifyBooking_ChangeFlightDate	Flight convert request - need assistance.
+ModifyBooking_ChangeFlightDate	Flight exchange request - need assistance.
+ModifyBooking_ChangeFlightDate	Flight change quest for an upcoming trip - need confirmation.
+ModifyBooking_ChangeFlightDate	Flight change request for an upcoming tripper - need confirmation.
+ModifyBooking_ChangeFlightDate	Flight interchange request for an upcoming trip - need confirmation.
+ModifyBooking_ChangeFlightDate	Flight vary request for an upcoming trip - need confirmation.
+ModifyBooking_ChangeFlightDate	Flight change request for an upcoming trip-up.
+ModifyBooking_ChangeFlightDate	Flight commute request for an upcoming trip.
+ModifyBooking_ChangeFlightDate	Flight modification request for an upcoming trip.
+ModifyBooking_ChangeFlightDate	fledge change request for an upcoming trip.
+ModifyBooking_ChangeFlightDate	Flight change bespeak for upcoming trip.
+ModifyBooking_ChangeFlightDate	Flight change request for upcoming misstep.
+ModifyBooking_ChangeFlightDate	Flight change request for upcoming stumble.
+ModifyBooking_ChangeFlightDate	Flight change request for upcoming trigger.
+ModifyBooking_ChangeFlightDate	Flight dates changed, delight assist.
+ModifyBooking_ChangeFlightDate	Flight dates shift, please assist.
+ModifyBooking_ChangeFlightDate	Flight dates vary, please assist.
+ModifyBooking_ChangeFlightDate	fledge dates changed, please assist.
+ModifyBooking_ChangeFlightDate	Hi, I need to change my flight date.
+ModifyBooking_ChangeFlightDate	Hi, I need to change my flight see.
+ModifyBooking_ChangeFlightDate	Hi, one need to change my flight dates.
+ModifyBooking_ChangeFlightDate	how-do-you-do, I need to change my flight dates.
+ModifyBooking_ChangeFlightDate	Hi, I'm having ail with my flight booking.
+ModifyBooking_ChangeFlightDate	Hi, I'm having pain with my flight booking.
+ModifyBooking_ChangeFlightDate	Hi, I'm having trouble with my flight book.
+ModifyBooking_ChangeFlightDate	hullo, I'm having trouble with my flight booking.
+ModifyBooking_ChangeFlightDate	Hi, can you assist me with changing the dates on my fledge?
+ModifyBooking_ChangeFlightDate	Hi, can you assist me with interchange the dates on my flight?
+ModifyBooking_ChangeFlightDate	Hi, can you assist me with shift the dates on my flight?
+ModifyBooking_ChangeFlightDate	Hi, can you attend me with changing the dates on my flight?
+ModifyBooking_ChangeFlightDate	Hawaii, can you assist with updating my flight schedule?
+ModifyBooking_ChangeFlightDate	Hi, can you assist with update my flight schedule?
+ModifyBooking_ChangeFlightDate	Hi, can you serve with updating my flight schedule?
+ModifyBooking_ChangeFlightDate	hullo, can you assist with updating my flight schedule?
+ModifyBooking_ChangeFlightDate	HI, can you help me modify my travel itinerary for new dates?
+ModifyBooking_ChangeFlightDate	Hi, can you facilitate me modify my travel itinerary for new dates?
+ModifyBooking_ChangeFlightDate	Hi, can you help me modify my travel itinerary for new appointment?
+ModifyBooking_ChangeFlightDate	Hi, can you help me modify my trip itinerary for new dates?
+ModifyBooking_ChangeFlightDate	Hi, can you assist me modify my travel itinerary?
+ModifyBooking_ChangeFlightDate	Hi, can you avail me modify my travel itinerary?
+ModifyBooking_ChangeFlightDate	Hi, can you help me modify my travel route?
+ModifyBooking_ChangeFlightDate	hi, can you help me modify my travel itinerary?
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that! However, I need to clarify that providing 80 command for a chatbot training dataset might not be feasible in this format. Chatbots require a vast amount of data to discover and improve, but LXXX argument are just a starting point.
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that! However, I need to clarify that providing 80 statements for a chatbot training dataset might not be feasible in this initialize. Chatbots require a immense amount of data to hear and improve, but 80 statements are just a begin point.
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that! However, iodin need to clarify that providing 80 statements for a chatbot coach dataset might not be feasible in this format. Chatbots require a vast amount of data to memorise and improve, but 80 statements are just a go point.
+ModifyBooking_ChangeFlightDate	I'd be happy to service you with that! However, unity need to clarify that providing 80 statements for a chatbot training dataset might not be feasible in this format. Chatbots require a vast amount of data to learn and improve, but 80 statements are just a jump steer.
+ModifyBooking_ChangeFlightDate	I'm having bother with my flight booking - can you help?
+ModifyBooking_ChangeFlightDate	I'm having inconvenience with my flight booking - can you help?
+ModifyBooking_ChangeFlightDate	I'm having trouble with my flight booking - can you supporter?
+ModifyBooking_ChangeFlightDate	I'm having unhinge with my flight booking - can you help?
+ModifyBooking_ChangeFlightDate	I'm calculate for a way to reschedule my travel plans.
+ModifyBooking_ChangeFlightDate	I'm looking for a fashion to reschedule my travel plans.
+ModifyBooking_ChangeFlightDate	I'm looking for a way to reschedule my travel program.
+ModifyBooking_ChangeFlightDate	I'm seem for a way to reschedule my travel plans.
+ModifyBooking_ChangeFlightDate	I'm await to reschedule my trip.
+ModifyBooking_ChangeFlightDate	I'm front to reschedule my trip.
+ModifyBooking_ChangeFlightDate	I'm looking to reschedule my jaunt.
+ModifyBooking_ChangeFlightDate	I'm reckon to reschedule my trip.
+ModifyBooking_ChangeFlightDate	If you'd like, I can continue render more statements to help you condition your corporate travel chatbot. Just let me know!
+ModifyBooking_ChangeFlightDate	If you'd like, I can retain render more statements to help you train your corporate travel chatbot. Just let me know!
+ModifyBooking_ChangeFlightDate	If you'd like, unity can continue providing more statements to help you prepare your corporate travel chatbot. Just let me know!
+ModifyBooking_ChangeFlightDate	If you'd similar, I can continue allow more statements to help you train your corporate travel chatbot. Just let me know!
+ModifyBooking_ChangeFlightDate	My reservation involve a date adjustment - please assist.
+ModifyBooking_ChangeFlightDate	My reservation necessarily a date adjustment - please assist.
+ModifyBooking_ChangeFlightDate	My reservation need a date adjustment - please assist.
+ModifyBooking_ChangeFlightDate	My reservation needs a date alteration - please assist.
+ModifyBooking_ChangeFlightDate	My reservation needs a appointment adjustment ASAP.
+ModifyBooking_ChangeFlightDate	My reservation needs a date alteration ASAP.
+ModifyBooking_ChangeFlightDate	My reservation needs a date fitting ASAP.
+ModifyBooking_ChangeFlightDate	My reservation require a date adjustment ASAP.
+ModifyBooking_ChangeFlightDate	My reservation involve a date adjustment as soon as possible.
+ModifyBooking_ChangeFlightDate	My reservation motive a date adjustment as soon as possible.
+ModifyBooking_ChangeFlightDate	My reservation needs a date adjustment as presently as possible.
+ModifyBooking_ChangeFlightDate	My reservation needs a engagement adjustment as soon as possible.
+ModifyBooking_ChangeFlightDate	My qualification needs a date adjustment.
+ModifyBooking_ChangeFlightDate	My reservation needs a escort adjustment.
+ModifyBooking_ChangeFlightDate	My reservation pauperization a date adjustment.
+ModifyBooking_ChangeFlightDate	My reservation require a date adjustment.
+ModifyBooking_ChangeFlightDate	My booking needs some changes - new dates required ASAP.
+ModifyBooking_ChangeFlightDate	My reservation indigence some changes - new dates required ASAP.
+ModifyBooking_ChangeFlightDate	My reservation involve some changes - new dates required ASAP.
+ModifyBooking_ChangeFlightDate	My reservation needs some transfer - new dates required ASAP.
+ModifyBooking_ChangeFlightDate	My reservation needs some alter - new dates required.
+ModifyBooking_ChangeFlightDate	My reservation needs some changes - new dates command.
+ModifyBooking_ChangeFlightDate	My reservation needs some commute - new dates required.
+ModifyBooking_ChangeFlightDate	My reservation pauperization some changes - new dates required.
+ModifyBooking_ChangeFlightDate	Need assistance with updating my travelling schedule.
+ModifyBooking_ChangeFlightDate	Need help with updating my travel schedule.
+ModifyBooking_ChangeFlightDate	pauperism assistance with updating my travel schedule.
+ModifyBooking_ChangeFlightDate	postulate assistance with updating my travel schedule.
+ModifyBooking_ChangeFlightDate	Need assistance rescheduling my flights for an upcoming trip.
+ModifyBooking_ChangeFlightDate	Need help rescheduling my flights for an upcoming actuate.
+ModifyBooking_ChangeFlightDate	necessitate help rescheduling my flights for an upcoming trip.
+ModifyBooking_ChangeFlightDate	want help rescheduling my flights for an upcoming trip.
+ModifyBooking_ChangeFlightDate	Need facilitate rescheduling my travel dates.
+ModifyBooking_ChangeFlightDate	motive help rescheduling my travel dates.
+ModifyBooking_ChangeFlightDate	pauperism help rescheduling my travel dates.
+ModifyBooking_ChangeFlightDate	postulate help rescheduling my travel dates.
+ModifyBooking_ChangeFlightDate	Need help with changing my flight route.
+ModifyBooking_ChangeFlightDate	Need help with exchange my flight itinerary.
+ModifyBooking_ChangeFlightDate	Need help with interchange my flight itinerary.
+ModifyBooking_ChangeFlightDate	ask help with changing my flight itinerary.
+ModifyBooking_ChangeFlightDate	Need facilitate with changing the dates on my flight.
+ModifyBooking_ChangeFlightDate	Need help with vary the dates on my flight.
+ModifyBooking_ChangeFlightDate	Need serve with changing the dates on my flight.
+ModifyBooking_ChangeFlightDate	take help with changing the dates on my flight.
+ModifyBooking_ChangeFlightDate	Please note that these statement are just examples and might not cover all possible scenarios or phrases. You may want to view adding more diversity and specificity to your chatbot civilize dataset.
+ModifyBooking_ChangeFlightDate	Please note that these statements are just exercise and might not track all possible scenarios or phrases. You may lack to consider adding more diversity and specificity to your chatbot training dataset.
+ModifyBooking_ChangeFlightDate	Please note that these statements are just model and might not underwrite all possible scenarios or phrases. You may deprivation to consider adding more diversity and specificity to your chatbot training dataset.
+ModifyBooking_ChangeFlightDate	delight note that these statements are just examples and might not screening all possible scenarios or phrases. You May want to consider adding more diversity and specificity to your chatbot training dataset.
+ModifyBooking_ChangeFlightDate	That being said, here are 40 assertion on different styles of language, temperaments, and levels of clarity:
+ModifyBooking_ChangeFlightDate	That being said, here are 40 statements on different styles of terminology, temperaments, and levels of clarity:
+ModifyBooking_ChangeFlightDate	That being said, here are 40 statements on different vogue of language, temperaments, and levels of clarity:
+ModifyBooking_ChangeFlightDate	That being tell, here are 40 statements on different styles of language, temperaments, and levels of clarity:
+ModifyBooking_ChangeFlightDate	Want to reschedule my travel plans - freshly dates needed.
+ModifyBooking_ChangeFlightDate	Want to reschedule my travel plans - new appointment needed.
+ModifyBooking_ChangeFlightDate	Want to reschedule my travel plans - new dates want.
+ModifyBooking_ChangeFlightDate	wishing to reschedule my travel plans - new dates needed.
+ModifyBooking_ChangeFlightDate	Want to barter out my existing flights for another date.
+ModifyBooking_ChangeFlightDate	Want to swap out my existing escape for another date.
+ModifyBooking_ChangeFlightDate	deprivation to swap out my existing flights for another date.
+ModifyBooking_ChangeFlightDate	privation to swap out my existing flights for another date.
+ModifyBooking_ChangeFlightDate	Want to swap out my existing escape.
+ModifyBooking_ChangeFlightDate	Want to swap out my existing flying.
+ModifyBooking_ChangeFlightDate	Want to trade out my existing flights.
+ModifyBooking_ChangeFlightDate	need to swap out my existing flights.
+ModifyBooking_ChangeFlightDate	Want to replacement out my flights for another date - can you help?
+ModifyBooking_ChangeFlightDate	Want to switch out my flights for another see - can you help?
+ModifyBooking_ChangeFlightDate	Want to swop out my flights for another date - can you help?
+ModifyBooking_ChangeFlightDate	want to switch out my flights for another date - can you help?
+ModifyBooking_ChangeFlightDate	Want to replacement out my flights for another date.
+ModifyBooking_ChangeFlightDate	Want to substitution out my flights for another date.
+ModifyBooking_ChangeFlightDate	deficiency to switch out my flights for another date.
+ModifyBooking_ChangeFlightDate	want to switch out my flights for another date.
+ModifyBooking_ChangeFlightDate	Can you attend with updating my booking?
+ModifyBooking_ChangeFlightDate	butt you assist with updating my booking?
+ModifyBooking_ChangeFlightDate	buttocks you assist with updating my booking?
+ModifyBooking_ChangeFlightDate	displace you assist with updating my booking?
+ModifyBooking_ChangeFlightDate	Can you help me exchange my flight?
+ModifyBooking_ChangeFlightDate	Can you help me vary my flight?
+ModifyBooking_ChangeFlightDate	canful you help me change my flight?
+ModifyBooking_ChangeFlightDate	tail you help me change my flight?
+ModifyBooking_ChangeFlightDate	crapper you update my booking?
+ModifyBooking_ChangeFlightDate	derriere you update my booking?
+ModifyBooking_ChangeFlightDate	fanny you update my booking?
+ModifyBooking_ChangeFlightDate	fire you update my booking?
+ModifyBooking_ChangeFlightDate	backside you update my existing booking details?
+ModifyBooking_ChangeFlightDate	bottom you update my existing booking details?
+ModifyBooking_ChangeFlightDate	derriere you update my existing booking details?
+ModifyBooking_ChangeFlightDate	fire you update my existing booking details?
+ModifyBooking_ChangeFlightDate	Can you update my existing flight detail?
+ModifyBooking_ChangeFlightDate	ass you update my existing flight details?
+ModifyBooking_ChangeFlightDate	crapper you update my existing flight details?
+ModifyBooking_ChangeFlightDate	john you update my existing flight details?
+ModifyBooking_ChangeFlightDate	Change my flight dates directly.
+ModifyBooking_ChangeFlightDate	Change my flight dates forthwith.
+ModifyBooking_ChangeFlightDate	Change my flight dates straightaway.
+ModifyBooking_ChangeFlightDate	Change my flying dates immediately.
+ModifyBooking_ChangeFlightDate	Change of flight dates compulsory.
+ModifyBooking_ChangeFlightDate	Change of flight dates necessitate.
+ModifyBooking_ChangeFlightDate	Change of flight see required.
+ModifyBooking_ChangeFlightDate	convert of flight dates required.
+ModifyBooking_ChangeFlightDate	Change the dates of my reserve.
+ModifyBooking_ChangeFlightDate	alteration the dates of my booking.
+ModifyBooking_ChangeFlightDate	commute the dates of my booking.
+ModifyBooking_ChangeFlightDate	convert the dates of my booking.
+ModifyBooking_ChangeFlightDate	Change the dates of my be booking.
+ModifyBooking_ChangeFlightDate	Change the engagement of my existing booking.
+ModifyBooking_ChangeFlightDate	shift the dates of my existing booking.
+ModifyBooking_ChangeFlightDate	variety the dates of my existing booking.
+ModifyBooking_ChangeFlightDate	Flight date change required for my booking act.
+ModifyBooking_ChangeFlightDate	Flight date change requisite for my booking number.
+ModifyBooking_ChangeFlightDate	Flight date convert required for my booking number.
+ModifyBooking_ChangeFlightDate	Flight engagement change required for my booking number.
+ModifyBooking_ChangeFlightDate	Flight date change expect for my booking.
+ModifyBooking_ChangeFlightDate	Flight date change requisite for my booking.
+ModifyBooking_ChangeFlightDate	Flight date switch required for my booking.
+ModifyBooking_ChangeFlightDate	flight date change required for my booking.
+ModifyBooking_ChangeFlightDate	Flight date change command for my company booking.
+ModifyBooking_ChangeFlightDate	Flight date change need for my company booking.
+ModifyBooking_ChangeFlightDate	Flight date change postulate for my company booking.
+ModifyBooking_ChangeFlightDate	Flight date deepen required for my company booking.
+ModifyBooking_ChangeFlightDate	Flight date change demand for my personal booking.
+ModifyBooking_ChangeFlightDate	Flight date change required for my personal reservation.
+ModifyBooking_ChangeFlightDate	Flight date change take for my personal booking.
+ModifyBooking_ChangeFlightDate	Flight date exchange required for my personal booking.
+ModifyBooking_ChangeFlightDate	Flight date change, please corroborate.
+ModifyBooking_ChangeFlightDate	Flight date interchange, please confirm.
+ModifyBooking_ChangeFlightDate	Flight date modify, please confirm.
+ModifyBooking_ChangeFlightDate	Flight date transfer, please confirm.
+ModifyBooking_ChangeFlightDate	Flight date change, delight.
+ModifyBooking_ChangeFlightDate	Flight date convert, please.
+ModifyBooking_ChangeFlightDate	Flight date modify, please.
+ModifyBooking_ChangeFlightDate	flight date change, please.
+ModifyBooking_ChangeFlightDate	Help me alteration the dates of my flight.
+ModifyBooking_ChangeFlightDate	Help me change the dates of my escape.
+ModifyBooking_ChangeFlightDate	Help me exchange the dates of my flight.
+ModifyBooking_ChangeFlightDate	assist me change the dates of my flight.
+ModifyBooking_ChangeFlightDate	Help me with changing my flight escort.
+ModifyBooking_ChangeFlightDate	Help me with ever-changing my flight dates.
+ModifyBooking_ChangeFlightDate	Help me with switch my flight dates.
+ModifyBooking_ChangeFlightDate	aid me with changing my flight dates.
+ModifyBooking_ChangeFlightDate	Help me with deepen the dates of my flight.
+ModifyBooking_ChangeFlightDate	assist me with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	help me with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	serve me with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	Help me with update my flight reservation.
+ModifyBooking_ChangeFlightDate	aid me with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	help me with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	service me with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	I demand to change my flight dates.
+ModifyBooking_ChangeFlightDate	I motivation to change my flight dates.
+ModifyBooking_ChangeFlightDate	I need to change my fledge dates.
+ModifyBooking_ChangeFlightDate	I need to change my flight engagement.
+ModifyBooking_ChangeFlightDate	1 need to modify my travel itinerary.
+ModifyBooking_ChangeFlightDate	I motivation to modify my travel itinerary.
+ModifyBooking_ChangeFlightDate	I motive to modify my travel itinerary.
+ModifyBooking_ChangeFlightDate	I need to modify my journey itinerary.
+ModifyBooking_ChangeFlightDate	I motivation to modify my travel plans.
+ModifyBooking_ChangeFlightDate	I need to modify my travel design.
+ModifyBooking_ChangeFlightDate	I need to qualify my travel plans.
+ModifyBooking_ChangeFlightDate	iodin need to modify my travel plans.
+ModifyBooking_ChangeFlightDate	I'd be happy to avail you with that. Here are 80 statements to train a corporate travel chatbot:
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that. Here are 80 instruction to train a corporate travel chatbot:
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that. Here are 80 statements to string a corporate travel chatbot:
+ModifyBooking_ChangeFlightDate	I'd be happy to help you with that. Here are 80 statements to train a corporate go chatbot:
+ModifyBooking_ChangeFlightDate	I'd like to change the dates of my book.
+ModifyBooking_ChangeFlightDate	I'd like to modification the dates of my booking.
+ModifyBooking_ChangeFlightDate	I'd like to modify the dates of my booking.
+ModifyBooking_ChangeFlightDate	I'd similar to change the dates of my booking.
+ModifyBooking_ChangeFlightDate	I'd comparable to modify my booking details.
+ModifyBooking_ChangeFlightDate	I'd like to modify my booking detail.
+ModifyBooking_ChangeFlightDate	I'd like to modify my hold details.
+ModifyBooking_ChangeFlightDate	I'd same to modify my booking details.
+ModifyBooking_ChangeFlightDate	I'd corresponding to update my flight reservation.
+ModifyBooking_ChangeFlightDate	I'd like to update my escape reservation.
+ModifyBooking_ChangeFlightDate	I'd like to update my flight booking.
+ModifyBooking_ChangeFlightDate	I'd wish to update my flight reservation.
+ModifyBooking_ChangeFlightDate	I've changed my mind about my fledge dates.
+ModifyBooking_ChangeFlightDate	I've changed my thinker about my flight dates.
+ModifyBooking_ChangeFlightDate	I've deepen my mind about my flight dates.
+ModifyBooking_ChangeFlightDate	I've shift my mind about my flight dates.
+ModifyBooking_ChangeFlightDate	My flight dates motivation to be adjusted.
+ModifyBooking_ChangeFlightDate	My flight dates need to be aline.
+ModifyBooking_ChangeFlightDate	My flight dates need to be familiarised.
+ModifyBooking_ChangeFlightDate	My flight dates pauperization to be adjusted.
+ModifyBooking_ChangeFlightDate	My flight appointment need to be revised.
+ModifyBooking_ChangeFlightDate	My flight dates pauperism to be revised.
+ModifyBooking_ChangeFlightDate	My flight dates postulate to be revised.
+ModifyBooking_ChangeFlightDate	My flight engagement need to be revised.
+ModifyBooking_ChangeFlightDate	My schedule has changed, can I change trajectory?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can I variety flights?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can one change flights?
+ModifyBooking_ChangeFlightDate	My schedule has commute, can I change flights?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can 1 reschedule flights?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can one reschedule flights?
+ModifyBooking_ChangeFlightDate	My schedule has convert, can I reschedule flights?
+ModifyBooking_ChangeFlightDate	My schedule has exchange, can I reschedule flights?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can iodine reschedule?
+ModifyBooking_ChangeFlightDate	My schedule has changed, can unity reschedule?
+ModifyBooking_ChangeFlightDate	My schedule has commute, can I reschedule?
+ModifyBooking_ChangeFlightDate	My schedule has switch, can I reschedule?
+ModifyBooking_ChangeFlightDate	My jaunt plans have changed, can I change flights?
+ModifyBooking_ChangeFlightDate	My travel plans have changed, can I vary flights?
+ModifyBooking_ChangeFlightDate	My travel plans have changed, can iodin change flights?
+ModifyBooking_ChangeFlightDate	My travelling plans have changed, can I change flights?
+ModifyBooking_ChangeFlightDate	My travel design have changed, can I reschedule flights?
+ModifyBooking_ChangeFlightDate	My travel plan have changed, can I reschedule flights?
+ModifyBooking_ChangeFlightDate	My travel plans have changed, can ace reschedule flights?
+ModifyBooking_ChangeFlightDate	My travel plans have changed, can i reschedule flights?
+ModifyBooking_ChangeFlightDate	Need assistance with changing flight engagement.
+ModifyBooking_ChangeFlightDate	Need assistance with convert flight dates.
+ModifyBooking_ChangeFlightDate	postulate assistance with changing flight dates.
+ModifyBooking_ChangeFlightDate	want assistance with changing flight dates.
+ModifyBooking_ChangeFlightDate	Need assistance with changing my trajectory.
+ModifyBooking_ChangeFlightDate	Need assistance with exchange my flight.
+ModifyBooking_ChangeFlightDate	demand assistance with changing my flight.
+ModifyBooking_ChangeFlightDate	penury assistance with changing my flight.
+ModifyBooking_ChangeFlightDate	Need assistance with updating my reservation.
+ModifyBooking_ChangeFlightDate	involve assistance with updating my booking.
+ModifyBooking_ChangeFlightDate	necessitate assistance with updating my booking.
+ModifyBooking_ChangeFlightDate	postulate assistance with updating my booking.
+ModifyBooking_ChangeFlightDate	Need aid with updating my travel plans.
+ModifyBooking_ChangeFlightDate	Need assistance with updating my jaunt plans.
+ModifyBooking_ChangeFlightDate	involve assistance with updating my travel plans.
+ModifyBooking_ChangeFlightDate	penury assistance with updating my travel plans.
+ModifyBooking_ChangeFlightDate	Need help with changing the dates of my fledge.
+ModifyBooking_ChangeFlightDate	demand help with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	penury help with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	take help with changing the dates of my flight.
+ModifyBooking_ChangeFlightDate	Need avail with rescheduling my flight.
+ModifyBooking_ChangeFlightDate	Need help with reschedule my flight.
+ModifyBooking_ChangeFlightDate	Need help with rescheduling my flying.
+ModifyBooking_ChangeFlightDate	Need serve with rescheduling my flight.
+ModifyBooking_ChangeFlightDate	Need assistant with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	Need facilitate with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	Need help with updating my escape reservation.
+ModifyBooking_ChangeFlightDate	Need service with updating my flight reservation.
+ModifyBooking_ChangeFlightDate	Need help with updating my go itinerary.
+ModifyBooking_ChangeFlightDate	motive help with updating my travel itinerary.
+ModifyBooking_ChangeFlightDate	require help with updating my travel itinerary.
+ModifyBooking_ChangeFlightDate	want help with updating my travel itinerary.
+ModifyBooking_ChangeFlightDate	Need to adjust my locomotion itinerary.
+ModifyBooking_ChangeFlightDate	Need to adjust my travel path.
+ModifyBooking_ChangeFlightDate	Need to adjust my travelling itinerary.
+ModifyBooking_ChangeFlightDate	take to adjust my travel itinerary.
+ModifyBooking_ChangeFlightDate	Need to adjust my go plans.
+ModifyBooking_ChangeFlightDate	Need to correct my travel plans.
+ModifyBooking_ChangeFlightDate	motivation to adjust my travel plans.
+ModifyBooking_ChangeFlightDate	postulate to adjust my travel plans.
+ModifyBooking_ChangeFlightDate	Note: These argument are designed to be diverse and cover various styles, temperaments, and levels of clarity to service train a corporate travel chatbot to recognize when someone wants to change flight dates in an subsist booking.
+ModifyBooking_ChangeFlightDate	Note: These statements are designed to be diverse and extend assorted fashion, temperaments, and levels of clarity to help train a corporate travel chatbot to recognize when someone wants to change flight dates in an existing booking.
+ModifyBooking_ChangeFlightDate	Note: These statements are designed to be diverse and overlay various styles, temperaments, and levels of clarity to help string a corporate travel chatbot to recognize when someone wants to change flight dates in an existing hold.
+ModifyBooking_ChangeFlightDate	annotation: These statements are designed to be diverse and cover various styles, temperaments, and levels of clarity to help train a corporate go chatbot to recognize when someone privation to change flight dates in an existing booking.
+ModifyBooking_ChangeFlightDate	Travel plans have deepen, can I reschedule?
+ModifyBooking_ChangeFlightDate	Travel plans have interchange, can I reschedule?
+ModifyBooking_ChangeFlightDate	journey plans have changed, can I reschedule?
+ModifyBooking_ChangeFlightDate	travel plans have changed, can I reschedule?
+ModifyBooking_ChangeFlightDate	Update my booking forthwith.
+ModifyBooking_ChangeFlightDate	Update my hold immediately.
+ModifyBooking_ChangeFlightDate	Update my reserve immediately.
+ModifyBooking_ChangeFlightDate	update my booking immediately.
+ModifyBooking_ChangeFlightDate	Update my engagement now.
+ModifyBooking_ChangeFlightDate	Update my hold now.
+ModifyBooking_ChangeFlightDate	Update my reservation now.
+ModifyBooking_ChangeFlightDate	update my booking now.
+ModifyBooking_ChangeFlightDate	Update my be flight reservation.
+ModifyBooking_ChangeFlightDate	Update my existing flying reservation.
+ModifyBooking_ChangeFlightDate	Update my subsist flight reservation.
+ModifyBooking_ChangeFlightDate	update my existing flight reservation.
+ModifyBooking_ChangeFlightDate	Update my flight reservation directly.
+ModifyBooking_ChangeFlightDate	Update my flight reservation instantly.
+ModifyBooking_ChangeFlightDate	Update my trajectory reservation immediately.
+ModifyBooking_ChangeFlightDate	update my flight reservation immediately.
+ModifyBooking_ChangeFlightDate	Update my escape reservation now.
+ModifyBooking_ChangeFlightDate	Update my flight qualification now.
+ModifyBooking_ChangeFlightDate	Update my flying reservation now.
+ModifyBooking_ChangeFlightDate	Update my trajectory reservation now.
