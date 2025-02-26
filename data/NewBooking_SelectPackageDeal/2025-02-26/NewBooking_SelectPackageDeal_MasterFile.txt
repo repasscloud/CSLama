@@ -1,0 +1,576 @@
+NewBooking_SelectPackageDeal	Are there any package batch for long-distance flights?
+NewBooking_SelectPackageDeal	Are there any package share for long-distance flights?
+NewBooking_SelectPackageDeal	comprise there any package deals for long-distance flights?
+NewBooking_SelectPackageDeal	constitute there any package deals for long-distance flights?
+NewBooking_SelectPackageDeal	Are there any specific dates when package handle are more affordable?
+NewBooking_SelectPackageDeal	Are there any specific dates when package hatful are more affordable?
+NewBooking_SelectPackageDeal	Are there any specific dates when package sell are more affordable?
+NewBooking_SelectPackageDeal	be there any specific dates when package deals are more affordable?
+NewBooking_SelectPackageDeal	Are there any specific packages usable for special occasions?
+NewBooking_SelectPackageDeal	Are there any specific packages useable for special occasions?
+NewBooking_SelectPackageDeal	Are there any specific packet available for special occasions?
+NewBooking_SelectPackageDeal	be there any specific packages available for special occasions?
+NewBooking_SelectPackageDeal	Are there any specific box available only during off-peak travel seasons?
+NewBooking_SelectPackageDeal	Are there any specific packages useable only during off-peak travel seasons?
+NewBooking_SelectPackageDeal	be there any specific packages available only during off-peak travel seasons?
+NewBooking_SelectPackageDeal	follow there any specific packages available only during off-peak travel seasons?
+NewBooking_SelectPackageDeal	Are there any specific packages available only during blossom travel seasons?
+NewBooking_SelectPackageDeal	Are there any specific packages available only during flush travel seasons?
+NewBooking_SelectPackageDeal	Are there any specific packages available only during prime travel seasons?
+NewBooking_SelectPackageDeal	Are there any specific packages usable only during peak travel seasons?
+NewBooking_SelectPackageDeal	Can I supply extras like breakfast or Wi-Fi to my package?
+NewBooking_SelectPackageDeal	lavatory I add extras like breakfast or Wi-Fi to my package?
+NewBooking_SelectPackageDeal	potty I add extras like breakfast or Wi-Fi to my package?
+NewBooking_SelectPackageDeal	tooshie I add extras like breakfast or Wi-Fi to my package?
+NewBooking_SelectPackageDeal	Can I append more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	buttocks I add more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	fanny I add more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	sack I add more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	derriere I book a hotel room with a discount code?
+NewBooking_SelectPackageDeal	fanny I book a hotel room with a discount code?
+NewBooking_SelectPackageDeal	nates I book a hotel room with a discount code?
+NewBooking_SelectPackageDeal	tail I book a hotel room with a discount code?
+NewBooking_SelectPackageDeal	Can I book a hotel room with a discounted rate if single also buy flights?
+NewBooking_SelectPackageDeal	crapper I book a hotel room with a discounted rate if I also buy flights?
+NewBooking_SelectPackageDeal	derriere I book a hotel room with a discounted rate if I also buy flights?
+NewBooking_SelectPackageDeal	stool I book a hotel room with a discounted rate if I also buy flights?
+NewBooking_SelectPackageDeal	Can I baffle a better rate by booking a room only?
+NewBooking_SelectPackageDeal	Can I catch a better rate by booking a room only?
+NewBooking_SelectPackageDeal	rump I get a better rate by booking a room only?
+NewBooking_SelectPackageDeal	throne I get a better rate by booking a room only?
+NewBooking_SelectPackageDeal	Can I beat a better rate by booking multiple rooms at once?
+NewBooking_SelectPackageDeal	Can I get a upright rate by booking multiple rooms at once?
+NewBooking_SelectPackageDeal	Can I mystify a better rate by booking multiple rooms at once?
+NewBooking_SelectPackageDeal	Can i get a better rate by booking multiple rooms at once?
+NewBooking_SelectPackageDeal	Can I get a better rate by reservation through your website?
+NewBooking_SelectPackageDeal	Can I get a salutary rate by booking through your website?
+NewBooking_SelectPackageDeal	Can I sustain a better rate by booking through your website?
+NewBooking_SelectPackageDeal	Can iodin get a better rate by booking through your website?
+NewBooking_SelectPackageDeal	Can I get a better value by paying cash upfront?
+NewBooking_SelectPackageDeal	Can i get a better rate by paying cash upfront?
+NewBooking_SelectPackageDeal	lav I get a better rate by paying cash upfront?
+NewBooking_SelectPackageDeal	posterior I get a better rate by paying cash upfront?
+NewBooking_SelectPackageDeal	Can I dumbfound a discount on airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Can I father a discount on airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Can I get a discount on airdrome transfers with a package booking?
+NewBooking_SelectPackageDeal	Can I gravel a discount on airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Can I dumbfound a discount on car rentals with a package booking?
+NewBooking_SelectPackageDeal	Can I engender a discount on car rentals with a package booking?
+NewBooking_SelectPackageDeal	Can I get a discount on car rentals with a package reserve?
+NewBooking_SelectPackageDeal	sack I get a discount on car rentals with a package booking?
+NewBooking_SelectPackageDeal	Can I experience a discount on hotel stays by being part of their loyalty program?
+NewBooking_SelectPackageDeal	Can I get a discount on hotel stays by being divide of their loyalty program?
+NewBooking_SelectPackageDeal	tooshie I get a discount on hotel stays by being part of their loyalty program?
+NewBooking_SelectPackageDeal	tush I get a discount on hotel stays by being part of their loyalty program?
+NewBooking_SelectPackageDeal	Can you help me equate prices on different hotels?
+NewBooking_SelectPackageDeal	tail you help me compare prices on different hotels?
+NewBooking_SelectPackageDeal	terminate you help me compare prices on different hotels?
+NewBooking_SelectPackageDeal	toilet you help me compare prices on different hotels?
+NewBooking_SelectPackageDeal	Can you help me find software deals?
+NewBooking_SelectPackageDeal	pot you help me find package deals?
+NewBooking_SelectPackageDeal	potty you help me find package deals?
+NewBooking_SelectPackageDeal	stern you help me find package deals?
+NewBooking_SelectPackageDeal	Do you have any bundle deal available?
+NewBooking_SelectPackageDeal	Do you have any bundle hand available?
+NewBooking_SelectPackageDeal	Do you have any bundle plenty available?
+NewBooking_SelectPackageDeal	doh you have any bundle deals available?
+NewBooking_SelectPackageDeal	Do you have any deduction available on multi-night stays?
+NewBooking_SelectPackageDeal	Do you have any discounts available on multi-night abide?
+NewBooking_SelectPackageDeal	perform you have any discounts available on multi-night stays?
+NewBooking_SelectPackageDeal	suffice you have any discounts available on multi-night stays?
+NewBooking_SelectPackageDeal	Do you offer any discount for business travelers who book early?
+NewBooking_SelectPackageDeal	Do you offer any discounts for business travelers who al-Qur'an early?
+NewBooking_SelectPackageDeal	Do you offer any disregard for business travelers who book early?
+NewBooking_SelectPackageDeal	coiffure you offer any discounts for business travelers who book early?
+NewBooking_SelectPackageDeal	DO you offer any discounts for employees of certain companies?
+NewBooking_SelectPackageDeal	Do you crack any discounts for employees of certain companies?
+NewBooking_SelectPackageDeal	Do you whirl any discounts for employees of certain companies?
+NewBooking_SelectPackageDeal	manage you offer any discounts for employees of certain companies?
+NewBooking_SelectPackageDeal	answer you offer any discounts for military personnel or veterans?
+NewBooking_SelectPackageDeal	bash you offer any discounts for military personnel or veterans?
+NewBooking_SelectPackageDeal	behave you offer any discounts for military personnel or veterans?
+NewBooking_SelectPackageDeal	set you offer any discounts for military personnel or veterans?
+NewBooking_SelectPackageDeal	Do you offer any discounts for solo travelers or duet?
+NewBooking_SelectPackageDeal	Do you offer any discounts for solo travelers or yoke?
+NewBooking_SelectPackageDeal	Do you pass any discounts for solo travelers or couples?
+NewBooking_SelectPackageDeal	coif you offer any discounts for solo travelers or couples?
+NewBooking_SelectPackageDeal	Do you whirl any discounts for students or seniors?
+NewBooking_SelectPackageDeal	execute you offer any discounts for students or seniors?
+NewBooking_SelectPackageDeal	manage you offer any discounts for students or seniors?
+NewBooking_SelectPackageDeal	serve you offer any discounts for students or seniors?
+NewBooking_SelectPackageDeal	Do you offering any discounts for students or teachers?
+NewBooking_SelectPackageDeal	Do you propose any discounts for students or teachers?
+NewBooking_SelectPackageDeal	do you offer any discounts for students or teachers?
+NewBooking_SelectPackageDeal	set you offer any discounts for students or teachers?
+NewBooking_SelectPackageDeal	Do you offer any barren services like airport lounges with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any free help like airport lounges with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any free services like airdrome lounges with a package booking?
+NewBooking_SelectPackageDeal	coiffe you offer any free services like airport lounges with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any free services care airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any free services like airport carry-over with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any unfreeze services like airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Do you tender any free services like airport transfers with a package booking?
+NewBooking_SelectPackageDeal	Do you offer any free upgrades with a package administer?
+NewBooking_SelectPackageDeal	Do you offer any free upgrades with a package sight?
+NewBooking_SelectPackageDeal	act you offer any free upgrades with a package deal?
+NewBooking_SelectPackageDeal	fare you offer any free upgrades with a package deal?
+NewBooking_SelectPackageDeal	Do you bid any loyalty rewards for frequent travelers who book through your website?
+NewBooking_SelectPackageDeal	execute you offer any loyalty rewards for frequent travelers who book through your website?
+NewBooking_SelectPackageDeal	make you offer any loyalty rewards for frequent travelers who book through your website?
+NewBooking_SelectPackageDeal	set you offer any loyalty rewards for frequent travelers who book through your website?
+NewBooking_SelectPackageDeal	Do you extend any loyalty rewards for frequent travelers?
+NewBooking_SelectPackageDeal	Do you fling any loyalty rewards for frequent travelers?
+NewBooking_SelectPackageDeal	Do you offer any loyalty payoff for frequent travelers?
+NewBooking_SelectPackageDeal	Do you offer any loyalty rewards for sponsor travelers?
+NewBooking_SelectPackageDeal	Do you propose any promotions on group bookings?
+NewBooking_SelectPackageDeal	Do you volunteer any promotions on group bookings?
+NewBooking_SelectPackageDeal	do you offer any promotions on group bookings?
+NewBooking_SelectPackageDeal	suffice you offer any promotions on group bookings?
+NewBooking_SelectPackageDeal	Here are 80 statements to condition a corporate travel chatbot:
+NewBooking_SelectPackageDeal	Here are 80 statements to direct a corporate travel chatbot:
+NewBooking_SelectPackageDeal	Here are 80 statements to school a corporate travel chatbot:
+NewBooking_SelectPackageDeal	Here are 80 statements to train a corporate journey chatbot:
+NewBooking_SelectPackageDeal	How can I acquire a better rate for my corporate booking?
+NewBooking_SelectPackageDeal	How can I get a better range for my corporate booking?
+NewBooking_SelectPackageDeal	How can I get a ripe rate for my corporate booking?
+NewBooking_SelectPackageDeal	How can I stick a better rate for my corporate booking?
+NewBooking_SelectPackageDeal	How can I experience access to exclusive discounts for frequent travelers?
+NewBooking_SelectPackageDeal	How can I fetch access to exclusive discounts for frequent travelers?
+NewBooking_SelectPackageDeal	How can I get access to undivided discounts for frequent travelers?
+NewBooking_SelectPackageDeal	How can I start access to exclusive discounts for frequent travelers?
+NewBooking_SelectPackageDeal	How do I compare price on different airlines and hotels?
+NewBooking_SelectPackageDeal	How do I compare prices on unlike airlines and hotels?
+NewBooking_SelectPackageDeal	How do I compare toll on different airlines and hotels?
+NewBooking_SelectPackageDeal	How do ane compare prices on different airlines and hotels?
+NewBooking_SelectPackageDeal	How do 1 compare prices on different hotels and airlines?
+NewBooking_SelectPackageDeal	How do I compare Price on different hotels and airlines?
+NewBooking_SelectPackageDeal	How do I compare prices on different hotels and airway?
+NewBooking_SelectPackageDeal	How do I compare prices on unlike hotels and airlines?
+NewBooking_SelectPackageDeal	How do I comparability prices on different packages?
+NewBooking_SelectPackageDeal	How do I compare cost on different packages?
+NewBooking_SelectPackageDeal	How do I compare prices on unlike packages?
+NewBooking_SelectPackageDeal	How do I compare toll on different packages?
+NewBooking_SelectPackageDeal	How do I feel out if a hotel has a package deal available?
+NewBooking_SelectPackageDeal	How do I find out if a hotel has a package heap available?
+NewBooking_SelectPackageDeal	How do I find out if a hotel has a package wad available?
+NewBooking_SelectPackageDeal	How do single find out if a hotel has a package deal available?
+NewBooking_SelectPackageDeal	How do I breakthrough out if my hotel has a loyalty program that offers discounts?
+NewBooking_SelectPackageDeal	How do I find out if my hotel has a loyalty program that offer discounts?
+NewBooking_SelectPackageDeal	How do I find out if my hotel has a loyalty program that whirl discounts?
+NewBooking_SelectPackageDeal	How do ane find out if my hotel has a loyalty program that offers discounts?
+NewBooking_SelectPackageDeal	How do I detect out if my hotel has a package deal that includes extras?
+NewBooking_SelectPackageDeal	How do I find out if my hotel has a package administer that includes extras?
+NewBooking_SelectPackageDeal	How do I notice out if my hotel has a package deal that includes extras?
+NewBooking_SelectPackageDeal	How do I uncovering out if my hotel has a package deal that includes extras?
+NewBooking_SelectPackageDeal	How do I know if a hotel has a package dispense that includes extras?
+NewBooking_SelectPackageDeal	How do I know if a hotel has a package muckle that includes extras?
+NewBooking_SelectPackageDeal	How do I know if a hotel has a package take that includes extras?
+NewBooking_SelectPackageDeal	How do ane know if a hotel has a package deal that includes extras?
+NewBooking_SelectPackageDeal	How do I know if a package administer is really a good deal?
+NewBooking_SelectPackageDeal	How do I know if a package deal is rattling a good deal?
+NewBooking_SelectPackageDeal	How do I know if a package mint is really a good deal?
+NewBooking_SelectPackageDeal	How do ace know if a package deal is really a good deal?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package handle attached?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package mint attached?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package mountain attached?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package take attached?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package apportion that includes extras?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package distribute that includes extras?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package mountain that includes extras?
+NewBooking_SelectPackageDeal	How do I know if my hotel room has a package share that includes extras?
+NewBooking_SelectPackageDeal	I'm face for a cheap way to travel for business.
+NewBooking_SelectPackageDeal	I'm looking for a brassy way to travel for business.
+NewBooking_SelectPackageDeal	I'm looking for a cheap way to travel for line.
+NewBooking_SelectPackageDeal	I'm reckon for a cheap way to travel for business.
+NewBooking_SelectPackageDeal	I'm looking for a great care on flights and hotels.
+NewBooking_SelectPackageDeal	I'm looking for a great flock on flights and hotels.
+NewBooking_SelectPackageDeal	I'm looking for a great grapple on flights and hotels.
+NewBooking_SelectPackageDeal	I'm looking for a great sell on flights and hotels.
+NewBooking_SelectPackageDeal	Is it possible to add extras like airport park to my package?
+NewBooking_SelectPackageDeal	Is it possible to bring extras like airport parking to my package?
+NewBooking_SelectPackageDeal	Is it possible to total extras like airport parking to my package?
+NewBooking_SelectPackageDeal	constitute it possible to add extras like airport parking to my package?
+NewBooking_SelectPackageDeal	Is it possible to add more amenities same spa treatments to my package?
+NewBooking_SelectPackageDeal	Is it possible to contribute more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	cost it possible to add more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	exist it possible to add more amenities like spa treatments to my package?
+NewBooking_SelectPackageDeal	Is it possible to ADHD more people to my existing booking?
+NewBooking_SelectPackageDeal	Is it possible to add more people to my subsist booking?
+NewBooking_SelectPackageDeal	Is it possible to append more people to my existing booking?
+NewBooking_SelectPackageDeal	follow it possible to add more people to my existing booking?
+NewBooking_SelectPackageDeal	Is it possible to add more people to my existing group book?
+NewBooking_SelectPackageDeal	be it possible to add more people to my existing group booking?
+NewBooking_SelectPackageDeal	comprise it possible to add more people to my existing group booking?
+NewBooking_SelectPackageDeal	follow it possible to add more people to my existing group booking?
+NewBooking_SelectPackageDeal	Is it on-key that booking a flight and hotel together is always cheaper?
+NewBooking_SelectPackageDeal	Is it true that booking a flight and hotel together is invariably cheaper?
+NewBooking_SelectPackageDeal	Is it true that booking a trajectory and hotel together is always cheaper?
+NewBooking_SelectPackageDeal	be it true that booking a flight and hotel together is always cheaper?
+NewBooking_SelectPackageDeal	Is it true that booking a package address saves me money?
+NewBooking_SelectPackageDeal	Is it true that booking a package mountain saves me money?
+NewBooking_SelectPackageDeal	Is it true that booking a package trade saves me money?
+NewBooking_SelectPackageDeal	Is it true that booking a package wad saves me money?
+NewBooking_SelectPackageDeal	Is it true that booking in advance spare me money?
+NewBooking_SelectPackageDeal	Is it true that booking in approach saves me money?
+NewBooking_SelectPackageDeal	Is it true that booking in progression saves me money?
+NewBooking_SelectPackageDeal	follow it true that booking in advance saves me money?
+NewBooking_SelectPackageDeal	Package apportion are usually cheaper, right?
+NewBooking_SelectPackageDeal	Package conduct are usually cheaper, right?
+NewBooking_SelectPackageDeal	Package deals are usually gimcrack, right?
+NewBooking_SelectPackageDeal	Package pot are usually cheaper, right?
+NewBooking_SelectPackageDeal	What's the adept way to save money on hotel stays?
+NewBooking_SelectPackageDeal	What's the best way to save money on hotel quell?
+NewBooking_SelectPackageDeal	What's the good way to save money on hotel stays?
+NewBooking_SelectPackageDeal	What's the undecomposed way to save money on hotel stays?
+NewBooking_SelectPackageDeal	What's the best mode to save money on my corporate travel?
+NewBooking_SelectPackageDeal	What's the best path to save money on my corporate travel?
+NewBooking_SelectPackageDeal	What's the best way to save money on my corporate move?
+NewBooking_SelectPackageDeal	What's the outdo way to save money on my corporate travel?
+NewBooking_SelectPackageDeal	What's the cheapest manner to book a corporate flight?
+NewBooking_SelectPackageDeal	What's the cheapest means to book a corporate flight?
+NewBooking_SelectPackageDeal	What's the cheapest way to Bible a corporate flight?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a embodied flight?
+NewBooking_SelectPackageDeal	What's the cheapest path to book a domestic flight?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a domestic flying?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a domestic trajectory?
+NewBooking_SelectPackageDeal	What's the chintzy way to book a domestic flight?
+NewBooking_SelectPackageDeal	What's the cheapest direction to book a long-distance international flight?
+NewBooking_SelectPackageDeal	What's the cheapest manner to book a long-distance international flight?
+NewBooking_SelectPackageDeal	What's the cheapest way to Scripture a long-distance international flight?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a long-distance international escape?
+NewBooking_SelectPackageDeal	What's the bum way to book a weekend getaway?
+NewBooking_SelectPackageDeal	What's the cheapest way to al-Qur'an a weekend getaway?
+NewBooking_SelectPackageDeal	What's the cheapest way to ledger a weekend getaway?
+NewBooking_SelectPackageDeal	What's the trashy way to book a weekend getaway?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package deal on car letting?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package hand on car rentals?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package muckle on car rentals?
+NewBooking_SelectPackageDeal	What's the difference between a dismiss rate and a package deal on car rentals?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package deal on escape?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package pile on flights?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package slew on flights?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package spate on flights?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package address?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package hatful?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a package manage?
+NewBooking_SelectPackageDeal	What's the difference between a discounted rate and a software deal?
+NewBooking_SelectPackageDeal	What's the difference between a flight-only ticket and a package conduct?
+NewBooking_SelectPackageDeal	What's the difference between a flight-only ticket and a package hatful?
+NewBooking_SelectPackageDeal	What's the difference between a flight-only ticket and a package passel?
+NewBooking_SelectPackageDeal	What's the difference between a flight-only ticket and a package slew?
+NewBooking_SelectPackageDeal	What's the deviation between a package and a flight-only ticket?
+NewBooking_SelectPackageDeal	What's the difference between a package and a flight-only fine?
+NewBooking_SelectPackageDeal	What's the dispute between a package and a flight-only ticket?
+NewBooking_SelectPackageDeal	What's the remainder between a package and a flight-only ticket?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package cope on flights?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package deal on escape?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package heap on flights?
+NewBooking_SelectPackageDeal	What's the difference between a room-only engagement and a package deal on flights?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package hand?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package mess?
+NewBooking_SelectPackageDeal	What's the difference between a room-only booking and a package passel?
+NewBooking_SelectPackageDeal	What's the difference between a room-only engagement and a package deal?
+NewBooking_SelectPackageDeal	Can I find a quote on a flight and hotel package?
+NewBooking_SelectPackageDeal	Can I fix a quote on a flight and hotel package?
+NewBooking_SelectPackageDeal	Can I get a quote on a flight and hotel bundle?
+NewBooking_SelectPackageDeal	throne I get a quote on a flight and hotel package?
+NewBooking_SelectPackageDeal	Can 1 get a quote on a package including a spa treatment or massage?
+NewBooking_SelectPackageDeal	Can I beat a quote on a package including a spa treatment or massage?
+NewBooking_SelectPackageDeal	Can I suffer a quote on a package including a spa treatment or massage?
+NewBooking_SelectPackageDeal	nates I get a quote on a package including a spa treatment or massage?
+NewBooking_SelectPackageDeal	Can I get a quote on a package including airport security extend or lounge access?
+NewBooking_SelectPackageDeal	Can I get a quote on a package including airport security passes or loiter access?
+NewBooking_SelectPackageDeal	Can I get a quote on a package including airport surety passes or lounge access?
+NewBooking_SelectPackageDeal	canful I get a quote on a package including airport security passes or lounge access?
+NewBooking_SelectPackageDeal	Can I arrest a quote on a package including airport security passes?
+NewBooking_SelectPackageDeal	Can I drive a quote on a package including airport security passes?
+NewBooking_SelectPackageDeal	posterior I get a quote on a package including airport security passes?
+NewBooking_SelectPackageDeal	throne I get a quote on a package including airport security passes?
+NewBooking_SelectPackageDeal	Can I contract a quote on a package including airport transfers?
+NewBooking_SelectPackageDeal	Can I experience a quote on a package including airport transfers?
+NewBooking_SelectPackageDeal	Can I induce a quote on a package including airport transfers?
+NewBooking_SelectPackageDeal	Can I mother a quote on a package including airport transfers?
+NewBooking_SelectPackageDeal	Can I become a quote on a package including bike rentals or kayak tours?
+NewBooking_SelectPackageDeal	Can I develop a quote on a package including bike rentals or kayak tours?
+NewBooking_SelectPackageDeal	Can ace get a quote on a package including bike rentals or kayak tours?
+NewBooking_SelectPackageDeal	posterior I get a quote on a package including bike rentals or kayak tours?
+NewBooking_SelectPackageDeal	Can I fetch a quote on a package including bike rentals or ski lessons?
+NewBooking_SelectPackageDeal	Can I sire a quote on a package including bike rentals or ski lessons?
+NewBooking_SelectPackageDeal	Can one get a quote on a package including bike rentals or ski lessons?
+NewBooking_SelectPackageDeal	sack I get a quote on a package including bike rentals or ski lessons?
+NewBooking_SelectPackageDeal	Can I get a cite on a package including car rental and insurance?
+NewBooking_SelectPackageDeal	Can I scram a quote on a package including car rental and insurance?
+NewBooking_SelectPackageDeal	Can iodine get a quote on a package including car rental and insurance?
+NewBooking_SelectPackageDeal	fundament I get a quote on a package including car rental and insurance?
+NewBooking_SelectPackageDeal	Can I engender a quote on a package including scenic flights or helicopter tours?
+NewBooking_SelectPackageDeal	Can I fetch a quote on a package including scenic flights or helicopter tours?
+NewBooking_SelectPackageDeal	Can I get a quote on a package including scenic flying or helicopter tours?
+NewBooking_SelectPackageDeal	Can iodine get a quote on a package including scenic flights or helicopter tours?
+NewBooking_SelectPackageDeal	Can I become a quote on a package including scenic train journeys or bus tours?
+NewBooking_SelectPackageDeal	Can I get a quote on a package including scenic civilize journeys or bus tours?
+NewBooking_SelectPackageDeal	pot I get a quote on a package including scenic train journeys or bus tours?
+NewBooking_SelectPackageDeal	tush I get a quote on a package including scenic train journeys or bus tours?
+NewBooking_SelectPackageDeal	Can I engender a quote on a package including ski lessons or snowboard rentals?
+NewBooking_SelectPackageDeal	Can I father a quote on a package including ski lessons or snowboard rentals?
+NewBooking_SelectPackageDeal	Can I mother a quote on a package including ski lessons or snowboard rentals?
+NewBooking_SelectPackageDeal	Can I obtain a quote on a package including ski lessons or snowboard rentals?
+NewBooking_SelectPackageDeal	Can I vex a quote on a package including skiing equipment rentals?
+NewBooking_SelectPackageDeal	derriere I get a quote on a package including skiing equipment rentals?
+NewBooking_SelectPackageDeal	fire I get a quote on a package including skiing equipment rentals?
+NewBooking_SelectPackageDeal	tin I get a quote on a package including skiing equipment rentals?
+NewBooking_SelectPackageDeal	bum you recommend some package holidays to Iceland?
+NewBooking_SelectPackageDeal	privy you recommend some package holidays to Iceland?
+NewBooking_SelectPackageDeal	rear you recommend some package holidays to Iceland?
+NewBooking_SelectPackageDeal	terminate you recommend some package holidays to Iceland?
+NewBooking_SelectPackageDeal	Can you prove me some cheap package holidays for next month?
+NewBooking_SelectPackageDeal	Can you show me some cheap parcel holidays for next month?
+NewBooking_SelectPackageDeal	Can you show me some gaudy package holidays for next month?
+NewBooking_SelectPackageDeal	Can you show me some inexpensive package holidays for next month?
+NewBooking_SelectPackageDeal	Can you demo me some deals on package holidays?
+NewBooking_SelectPackageDeal	Can you show me some deals on bundle holidays?
+NewBooking_SelectPackageDeal	posterior you show me some deals on package holidays?
+NewBooking_SelectPackageDeal	potty you show me some deals on package holidays?
+NewBooking_SelectPackageDeal	Do you have any bundle that include extras like car rentals or transfers?
+NewBooking_SelectPackageDeal	Do you have any packages that include extras like car rentals or transplant?
+NewBooking_SelectPackageDeal	manage you have any packages that include extras like car rentals or transfers?
+NewBooking_SelectPackageDeal	perform you have any packages that include extras like car rentals or transfers?
+NewBooking_SelectPackageDeal	Do you have any seasonal package care available now?
+NewBooking_SelectPackageDeal	Do you have any seasonal package mickle available now?
+NewBooking_SelectPackageDeal	Do you have any seasonal package trade available now?
+NewBooking_SelectPackageDeal	doh you have any seasonal package deals available now?
+NewBooking_SelectPackageDeal	Do you have any senior disregard available on package holidays?
+NewBooking_SelectPackageDeal	Do you have any senior ignore available on package holidays?
+NewBooking_SelectPackageDeal	coiffe you have any senior discounts available on package holidays?
+NewBooking_SelectPackageDeal	practise you have any senior discounts available on package holidays?
+NewBooking_SelectPackageDeal	Do you offer any discounts for booking both flights and fitting at once?
+NewBooking_SelectPackageDeal	Do you offer any rebate for booking both flights and accommodation at once?
+NewBooking_SelectPackageDeal	Do you whirl any discounts for booking both flights and accommodation at once?
+NewBooking_SelectPackageDeal	do you offer any discounts for booking both flights and accommodation at once?
+NewBooking_SelectPackageDeal	Do you offer any discounts for aggroup booking packages through your site?
+NewBooking_SelectPackageDeal	Do you offer any discounts for groups booking packages through your website?
+NewBooking_SelectPackageDeal	Do you offer any discounts for groups booking parcel through your site?
+NewBooking_SelectPackageDeal	Do you whirl any discounts for groups booking packages through your site?
+NewBooking_SelectPackageDeal	Do you fling any discounts for senior citizens booking packages through your site?
+NewBooking_SelectPackageDeal	Do you offer any discounts for senior citizens booking packages through your website?
+NewBooking_SelectPackageDeal	Do you offer any discounts for senior citizens booking software through your site?
+NewBooking_SelectPackageDeal	Do you offer any dismiss for senior citizens booking packages through your site?
+NewBooking_SelectPackageDeal	Do you offer any discounts for educatee or young travelers booking packages?
+NewBooking_SelectPackageDeal	Do you offer any discounts for pupil or young travelers booking packages?
+NewBooking_SelectPackageDeal	coif you offer any discounts for students or young travelers booking packages?
+NewBooking_SelectPackageDeal	doh you offer any discounts for students or young travelers booking packages?
+NewBooking_SelectPackageDeal	Do you offer any loyalty rewards for booking package through your site?
+NewBooking_SelectPackageDeal	Do you offer any loyalty rewards for booking packages through your locate?
+NewBooking_SelectPackageDeal	answer you offer any loyalty rewards for booking packages through your site?
+NewBooking_SelectPackageDeal	cause you offer any loyalty rewards for booking packages through your site?
+NewBooking_SelectPackageDeal	Do you offer any loyalty rewards for frequent travelers booking package through your site?
+NewBooking_SelectPackageDeal	Do you offer any loyalty rewards for frequent travelers booking packages through your situation?
+NewBooking_SelectPackageDeal	coiffure you offer any loyalty rewards for frequent travelers booking packages through your site?
+NewBooking_SelectPackageDeal	manage you offer any loyalty rewards for frequent travelers booking packages through your site?
+NewBooking_SelectPackageDeal	Flights and hotel together would be great, thanks.
+NewBooking_SelectPackageDeal	Flights and hotels together would be bang-up, thanks.
+NewBooking_SelectPackageDeal	flight and hotels together would be great, thanks.
+NewBooking_SelectPackageDeal	trajectory and hotels together would be great, thanks.
+NewBooking_SelectPackageDeal	I necessitate to book something soon, is there a discount available?
+NewBooking_SelectPackageDeal	I need to Bible something soon, is there a discount available?
+NewBooking_SelectPackageDeal	I need to playscript something soon, is there a discount available?
+NewBooking_SelectPackageDeal	I need to reserve something soon, is there a discount available?
+NewBooking_SelectPackageDeal	I'd like to book a flight and hotel package with a partner disregard.
+NewBooking_SelectPackageDeal	I'd like to book a flight and hotel packet with a partner discount.
+NewBooking_SelectPackageDeal	I'd like to leger a flight and hotel package with a partner discount.
+NewBooking_SelectPackageDeal	I'd like to record a flight and hotel package with a partner discount.
+NewBooking_SelectPackageDeal	I'm attend for a budget-friendly package holiday option.
+NewBooking_SelectPackageDeal	I'm count for a budget-friendly package holiday option.
+NewBooking_SelectPackageDeal	I'm looking for a budget-friendly package holiday choice.
+NewBooking_SelectPackageDeal	I'm seem for a budget-friendly package holiday option.
+NewBooking_SelectPackageDeal	I'm looking for a adept price on flights and hotels together.
+NewBooking_SelectPackageDeal	I'm looking for a beneficial price on flights and hotels together.
+NewBooking_SelectPackageDeal	I'm looking for a expert price on flights and hotels together.
+NewBooking_SelectPackageDeal	I'm looking for a well price on flights and hotels together.
+NewBooking_SelectPackageDeal	Is there a discount if 1 book both my flights and accommodation separately during off-peak season?
+NewBooking_SelectPackageDeal	Is there a discount if I record both my flights and accommodation separately during off-peak season?
+NewBooking_SelectPackageDeal	Is there a disregard if I book both my flights and accommodation separately during off-peak season?
+NewBooking_SelectPackageDeal	exist there a discount if I book both my flights and accommodation separately during off-peak season?
+NewBooking_SelectPackageDeal	Is there a discount if I book both my flights and accommodation separately during crest season?
+NewBooking_SelectPackageDeal	Is there a discount if I leger both my flights and accommodation separately during peak season?
+NewBooking_SelectPackageDeal	constitute there a discount if I book both my flights and accommodation separately during peak season?
+NewBooking_SelectPackageDeal	embody there a discount if I book both my flights and accommodation separately during peak season?
+NewBooking_SelectPackageDeal	Is there a discount if one book both my flights and accommodation separately?
+NewBooking_SelectPackageDeal	Is there a disregard if I book both my flights and accommodation separately?
+NewBooking_SelectPackageDeal	Is there a ignore if I book both my flights and accommodation separately?
+NewBooking_SelectPackageDeal	constitute there a discount if I book both my flights and accommodation separately?
+NewBooking_SelectPackageDeal	Is there a allegiance program available for frequent travelers booking packages through your site?
+NewBooking_SelectPackageDeal	Is there a loyalty platform available for frequent travelers booking packages through your site?
+NewBooking_SelectPackageDeal	Is there a loyalty program available for frequent travelers booking box through your site?
+NewBooking_SelectPackageDeal	Is there a loyalty program available for frequent travelers booking software through your site?
+NewBooking_SelectPackageDeal	Is there a minimum number of nights required for a package allot?
+NewBooking_SelectPackageDeal	Is there a minimum number of nights required for a package muckle?
+NewBooking_SelectPackageDeal	Is there a minimum number of nights required for a package plenty?
+NewBooking_SelectPackageDeal	be there a minimum number of nights required for a package deal?
+NewBooking_SelectPackageDeal	Is there a minimum number of people required for a package hatful discount?
+NewBooking_SelectPackageDeal	Is there a minimum number of people required for a package plow discount?
+NewBooking_SelectPackageDeal	Is there a minimum number of people required for a package sell discount?
+NewBooking_SelectPackageDeal	personify there a minimum number of people required for a package deal discount?
+NewBooking_SelectPackageDeal	attend for a budget-friendly package holiday option with plenty of activities.
+NewBooking_SelectPackageDeal	face for a budget-friendly package holiday option with plenty of activities.
+NewBooking_SelectPackageDeal	reckon for a budget-friendly package holiday option with plenty of activities.
+NewBooking_SelectPackageDeal	search for a budget-friendly package holiday option with plenty of activities.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with passel of free time and activities.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with plenty of destitute time and activities.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with plenty of resign time and activities.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with slew of free time and activities.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with passel of free time.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with plenty of exempt time.
+NewBooking_SelectPackageDeal	Looking for a budget-friendly package holiday option with plenty of rid time.
+NewBooking_SelectPackageDeal	see for a budget-friendly package holiday option with plenty of free time.
+NewBooking_SelectPackageDeal	Looking for a apportion that includes airport lounge access or priority boarding.
+NewBooking_SelectPackageDeal	Looking for a consider that includes airport lounge access or priority boarding.
+NewBooking_SelectPackageDeal	Looking for a distribute that includes airport lounge access or priority boarding.
+NewBooking_SelectPackageDeal	sounding for a deal that includes airport lounge access or priority boarding.
+NewBooking_SelectPackageDeal	Looking for a mickle that includes airport parking and transfers, can you help?
+NewBooking_SelectPackageDeal	Looking for a peck that includes airport parking and transfers, can you help?
+NewBooking_SelectPackageDeal	seem for a deal that includes airport parking and transfers, can you help?
+NewBooking_SelectPackageDeal	wait for a deal that includes airport parking and transfers, can you help?
+NewBooking_SelectPackageDeal	Looking for a deal that admit airport parking as well.
+NewBooking_SelectPackageDeal	Looking for a deal that includes airport parking as swell.
+NewBooking_SelectPackageDeal	Looking for a heap that includes airport parking as well.
+NewBooking_SelectPackageDeal	calculate for a deal that includes airport parking as well.
+NewBooking_SelectPackageDeal	Looking for a last-minute package deal on scant notice, can you help?
+NewBooking_SelectPackageDeal	Looking for a last-minute package deal on short notice, can you assistance?
+NewBooking_SelectPackageDeal	Looking for a last-minute package mass on short notice, can you help?
+NewBooking_SelectPackageDeal	Looking for a last-minute package stack on short notice, can you help?
+NewBooking_SelectPackageDeal	Looking for a last-minute package apportion on short notice.
+NewBooking_SelectPackageDeal	Looking for a last-minute package deal on scant notice.
+NewBooking_SelectPackageDeal	Looking for a last-minute package deal on short placard.
+NewBooking_SelectPackageDeal	Looking for a last-minute package lot on short notice.
+NewBooking_SelectPackageDeal	Looking for a package contend on a weekend getaway.
+NewBooking_SelectPackageDeal	Looking for a package lot on a weekend getaway.
+NewBooking_SelectPackageDeal	seem for a package deal on a weekend getaway.
+NewBooking_SelectPackageDeal	wait for a package deal on a weekend getaway.
+NewBooking_SelectPackageDeal	Looking for a weekend package batch with plenty of amenities and activities, can you help?
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with plenty of amenities and activities, can you serve?
+NewBooking_SelectPackageDeal	Looking for a weekend package plenty with plenty of amenities and activities, can you help?
+NewBooking_SelectPackageDeal	front for a weekend package deal with plenty of amenities and activities, can you help?
+NewBooking_SelectPackageDeal	Looking for a weekend package sell with plenty of amenities and activities.
+NewBooking_SelectPackageDeal	Looking for a weekend parcel deal with plenty of amenities and activities.
+NewBooking_SelectPackageDeal	await for a weekend package deal with plenty of amenities and activities.
+NewBooking_SelectPackageDeal	depend for a weekend package deal with plenty of amenities and activities.
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with batch of amenities.
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with pot of amenities.
+NewBooking_SelectPackageDeal	Looking for a weekend software deal with plenty of amenities.
+NewBooking_SelectPackageDeal	search for a weekend package deal with plenty of amenities.
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with deal of free time and activities.
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with plenty of disengage time and activities.
+NewBooking_SelectPackageDeal	Looking for a weekend package deal with plenty of unblock time and activities.
+NewBooking_SelectPackageDeal	count for a weekend package deal with plenty of free time and activities.
+NewBooking_SelectPackageDeal	Looking for the best package fink, thank you.
+NewBooking_SelectPackageDeal	Looking for the best package grass, thank you.
+NewBooking_SelectPackageDeal	expect for the best package rates, thank you.
+NewBooking_SelectPackageDeal	face for the best package rates, thank you.
+NewBooking_SelectPackageDeal	Need help booking a escape and hotel together, please.
+NewBooking_SelectPackageDeal	Need help hold a flight and hotel together, please.
+NewBooking_SelectPackageDeal	Need helper booking a flight and hotel together, please.
+NewBooking_SelectPackageDeal	postulate help booking a flight and hotel together, please.
+NewBooking_SelectPackageDeal	Package batch, please.
+NewBooking_SelectPackageDeal	Package handle, please.
+NewBooking_SelectPackageDeal	Package mass, please.
+NewBooking_SelectPackageDeal	Package pile, please.
+NewBooking_SelectPackageDeal	Package care with complimentary upgrades to business class, please.
+NewBooking_SelectPackageDeal	Package cover with complimentary upgrades to business class, please.
+NewBooking_SelectPackageDeal	Package deals with gratuitous upgrades to business class, please.
+NewBooking_SelectPackageDeal	Package hatful with complimentary upgrades to business class, please.
+NewBooking_SelectPackageDeal	Package bargain with complimentary upgrades to first class, please.
+NewBooking_SelectPackageDeal	Package deals with complimentary raise to first class, please.
+NewBooking_SelectPackageDeal	Package deals with complimentary upgrades to first year, please.
+NewBooking_SelectPackageDeal	Package softwood with complimentary upgrades to first class, please.
+NewBooking_SelectPackageDeal	Package deals with free upgrades, please.
+NewBooking_SelectPackageDeal	Package hatful with complimentary upgrades, please.
+NewBooking_SelectPackageDeal	Package spate with complimentary upgrades, please.
+NewBooking_SelectPackageDeal	Package wad with complimentary upgrades, please.
+NewBooking_SelectPackageDeal	Package bargain with flexible check-in and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package deals with conciliatory check-in and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package heap with flexible check-in and cancellation policies, please.
+NewBooking_SelectPackageDeal	package deals with flexible check-in and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package deals with flexile dates and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package mess with flexible dates and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package share with flexible dates and cancellation policies, please.
+NewBooking_SelectPackageDeal	software deals with flexible dates and cancellation policies, please.
+NewBooking_SelectPackageDeal	Package conduct with flexible dates, please.
+NewBooking_SelectPackageDeal	Package deals with flexible see, please.
+NewBooking_SelectPackageDeal	Package hatful with flexible dates, please.
+NewBooking_SelectPackageDeal	bundle deals with flexible dates, please.
+NewBooking_SelectPackageDeal	Package contend with free Wi-Fi would be great, thank you.
+NewBooking_SelectPackageDeal	Package deal with free Wi-Fi would be great, thank you.
+NewBooking_SelectPackageDeal	Package sight with free Wi-Fi would be great, thank you.
+NewBooking_SelectPackageDeal	Package wad with free Wi-Fi would be great, thank you.
+NewBooking_SelectPackageDeal	Package deals with resign breakfast would be lovely.
+NewBooking_SelectPackageDeal	Package deals with rid breakfast would be lovely.
+NewBooking_SelectPackageDeal	Package sight with free breakfast would be lovely.
+NewBooking_SelectPackageDeal	box deals with free breakfast would be lovely.
+NewBooking_SelectPackageDeal	Package order including airport lounges, please.
+NewBooking_SelectPackageDeal	Package pace including airport lounges, please.
+NewBooking_SelectPackageDeal	Package rates including airport sofa, please.
+NewBooking_SelectPackageDeal	box rates including airport lounges, please.
+NewBooking_SelectPackageDeal	Package order including children under 12, please.
+NewBooking_SelectPackageDeal	Package rates including children under dozen, please.
+NewBooking_SelectPackageDeal	Package rates including nipper under 12, please.
+NewBooking_SelectPackageDeal	Package shit including children under 12, please.
+NewBooking_SelectPackageDeal	Package rates including meal programme, please.
+NewBooking_SelectPackageDeal	Package rates including repast plans, please.
+NewBooking_SelectPackageDeal	Package snitch including meal plans, please.
+NewBooking_SelectPackageDeal	package rates including meal plans, please.
+NewBooking_SelectPackageDeal	Package betray including private transfers, please.
+NewBooking_SelectPackageDeal	Package fink including private transfers, please.
+NewBooking_SelectPackageDeal	Package rates admit private transfers, please.
+NewBooking_SelectPackageDeal	parcel rates including private transfers, please.
+NewBooking_SelectPackageDeal	Package order including wine tastings or gourmet meals, please.
+NewBooking_SelectPackageDeal	Package rank including wine tastings or gourmet meals, please.
+NewBooking_SelectPackageDeal	Package rates admit wine tastings or gourmet meals, please.
+NewBooking_SelectPackageDeal	Package scab including wine tastings or gourmet meals, please.
+NewBooking_SelectPackageDeal	What are the best bundle rates for travel in March?
+NewBooking_SelectPackageDeal	What are the estimable package rates for travel in March?
+NewBooking_SelectPackageDeal	What are the right package rates for travel in March?
+NewBooking_SelectPackageDeal	What are the sound package rates for travel in March?
+NewBooking_SelectPackageDeal	What's the best way to find package deals for sept?
+NewBooking_SelectPackageDeal	What's the best way to find package distribute for families?
+NewBooking_SelectPackageDeal	What's the best way to find package muckle for families?
+NewBooking_SelectPackageDeal	What's the sound way to find package deals for families?
+NewBooking_SelectPackageDeal	What's the Best way to find package deals online?
+NewBooking_SelectPackageDeal	What's the best way to feel package deals online?
+NewBooking_SelectPackageDeal	What's the ripe way to find package deals online?
+NewBooking_SelectPackageDeal	What's the skilful way to find package deals online?
+NewBooking_SelectPackageDeal	What's the adept way to find package deals with all-inclusive resorts?
+NewBooking_SelectPackageDeal	What's the best way to find package plenty with all-inclusive resorts?
+NewBooking_SelectPackageDeal	What's the best way to uncovering package deals with all-inclusive resorts?
+NewBooking_SelectPackageDeal	What's the good way to find package deals with all-inclusive resorts?
+NewBooking_SelectPackageDeal	What's the best style to find package deals with luxury hotels and resorts?
+NewBooking_SelectPackageDeal	What's the best way to find package deals with sumptuosity hotels and resorts?
+NewBooking_SelectPackageDeal	What's the best way to find package slew with luxury hotels and resorts?
+NewBooking_SelectPackageDeal	What's the secure way to find package deals with luxury hotels and resorts?
+NewBooking_SelectPackageDeal	What's the best way to feel package deals with luxury resorts and amenities?
+NewBooking_SelectPackageDeal	What's the best way to observe package deals with luxury resorts and amenities?
+NewBooking_SelectPackageDeal	What's the respectable way to find package deals with luxury resorts and amenities?
+NewBooking_SelectPackageDeal	What's the salutary way to find package deals with luxury resorts and amenities?
+NewBooking_SelectPackageDeal	What's the bum way to book a package holiday online?
+NewBooking_SelectPackageDeal	What's the cheapest means to book a package holiday online?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a box holiday online?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a packet holiday online?
+NewBooking_SelectPackageDeal	What's the cheapest agency to book a package holiday with a partner or group?
+NewBooking_SelectPackageDeal	What's the cheapest way to Word a package holiday with a partner or group?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a package holiday with a collaborator or group?
+NewBooking_SelectPackageDeal	What's the punk way to book a package holiday with a partner or group?
+NewBooking_SelectPackageDeal	What's the cheapest path to book a package holiday with kids under 5?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a package holiday with jolly under 5?
+NewBooking_SelectPackageDeal	What's the cheapest way to book a package holiday with kids under v?
+NewBooking_SelectPackageDeal	What's the inexpensive way to book a package holiday with kids under 5?
+NewBooking_SelectPackageDeal	What's the minimum age circumscribe for booking a package holiday with kids?
+NewBooking_SelectPackageDeal	What's the minimum age limit for booking a package holiday with nestling?
+NewBooking_SelectPackageDeal	What's the minimum age throttle for booking a package holiday with kids?
+NewBooking_SelectPackageDeal	What's the minimum age trammel for booking a package holiday with kids?
+NewBooking_SelectPackageDeal	What's the minimum age demarcation for booking a package holiday without children?
+NewBooking_SelectPackageDeal	What's the minimum age determine for booking a package holiday without children?
+NewBooking_SelectPackageDeal	What's the minimum age limit for booking a package holiday without tiddler?
+NewBooking_SelectPackageDeal	What's the minimum age restrict for booking a package holiday without children?
+NewBooking_SelectPackageDeal	What's the minimum number of nights required for a package grapple discount?
+NewBooking_SelectPackageDeal	What's the minimum number of nights required for a package sell discount?
+NewBooking_SelectPackageDeal	What's the minimum number of nights required for a package softwood discount?
+NewBooking_SelectPackageDeal	What's the minimum number of nights want for a package deal discount?

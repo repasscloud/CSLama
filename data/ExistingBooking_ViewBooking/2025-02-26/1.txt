@@ -1,0 +1,75 @@
+Are there any changes to my existing airline reservation?
+Are there any changes to my existing flight?
+Are there any changes to my travel dates or destinations?
+Are there any issues with my current airline reservation?
+Are there any issues with my current booking?
+Are there any issues with my current hotel reservation?
+Are there any issues with my current rental car reservation?
+Are there any travel restrictions for this trip?
+Can you display my current reservations?
+Can you display my recent reservations.
+Can you display my recent reservations?
+Can you display my upcoming flights and hotels.
+Can you display my upcoming flights.
+Can you display my upcoming reservations.
+Can you provide a breakdown of my trip expenses?
+Can you provide a summary of my trip expenses?
+Can you provide an overview of my trip details?
+Can you provide an overview of my upcoming trip?
+Can you provide an update on my booking?
+Can you provide an update on my flight status.
+Can you provide an update on my flight status?
+Can you show me my travel itinerary for this date.
+Can you show me my upcoming trip?
+Can you tell me about any travel restrictions?
+Can you tell me about my trip dates and destinations?
+Do I have a change or cancellation option available for my flight?
+Do I have a change or cancellation option available for my hotel reservation?
+Do I have a change or cancellation option available?
+Do I have a refund or cancellation option available for this trip?
+Do I have a refund or cancellation option available?
+Do I have any bookings with American Airlines?
+Do I have any travel rewards or points?
+Do I need to check in before my flight departs?
+Do I need to update my travel information before departure?
+Do I need to update my travel information before my flight departs?
+Do I need to update my travel information?
+How do I access my booking history online?
+How do I access my booking summary online?
+How do I access my rental car reservation online?
+How do I access my travel documents online?
+How do I access my travel documents?
+How do I check on the status of my car rental reservation?
+How do I check on the status of my flight?
+How do I check on the status of my hotel reservation?
+How do I check on the status of my rental car?
+How do I check on the status of my travel documents online?
+How do I check on the status of my travel documents?
+I need access to my booking information.
+I'll provide 80 statements for training a corporate travel chatbot to recognize when someone wants to view details of an existing booking.
+Is there a penalty for changing my flight plans?
+Is there an alternative airport I can fly into?
+Is there an alternative flight I can take?
+Is there an issue with my existing travel plans?
+Show me all booked flights and hotels.
+Show me all booked flights for this trip.
+Show me all booked hotels and flights.
+Show me all booked hotels for this trip.
+Show me all booked hotels.
+Show me my booking history.
+Show me my booking summary.
+Show me my recent reservations.
+Show me my travel itinerary.
+What are my flight details?
+What are my travel plans?
+What is the policy on canceling my booking?
+What is the policy on changes to my existing airline reservation?
+What is the policy on changes to my existing booking?
+What is the policy on refunds for canceled bookings?
+What is the policy on refunds for canceled car rentals?
+What is the policy on refunds for canceled hotel stays?
+What is the policy on refunds for cancelled flights?
+What is the policy on refunds for changed bookings?
+What is the status of my existing rental car reservation?
+What is the status of my hotel reservation?
+Where is my hotel reservation located?
