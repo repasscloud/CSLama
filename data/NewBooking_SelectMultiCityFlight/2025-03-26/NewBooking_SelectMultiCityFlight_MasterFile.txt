@@ -1,0 +1,328 @@
+NewBooking_SelectMultiCityFlight	Are there particular airlines or routes you prefer?
+NewBooking_SelectMultiCityFlight	Are there specific airlines or itinerary you prefer?
+NewBooking_SelectMultiCityFlight	Are there specific airway or routes you prefer?
+NewBooking_SelectMultiCityFlight	represent there specific airlines or routes you prefer?
+NewBooking_SelectMultiCityFlight	Are there specific dates in mind for locomotion?
+NewBooking_SelectMultiCityFlight	Are there specific escort in mind for travel?
+NewBooking_SelectMultiCityFlight	be there specific dates in mind for travel?
+NewBooking_SelectMultiCityFlight	equal there specific dates in mind for travel?
+NewBooking_SelectMultiCityFlight	Booking assistance for long-haul business trigger required today.
+NewBooking_SelectMultiCityFlight	Booking assistance for long-haul business trips ask today.
+NewBooking_SelectMultiCityFlight	Booking assistance for long-haul business trips mandatory today.
+NewBooking_SelectMultiCityFlight	hold assistance for long-haul business trips required today.
+NewBooking_SelectMultiCityFlight	Booking aid required for multi-city trips abroad.
+NewBooking_SelectMultiCityFlight	Booking assistance compulsory for multi-city trips abroad.
+NewBooking_SelectMultiCityFlight	Booking assistance required for multi-city actuate abroad.
+NewBooking_SelectMultiCityFlight	Booking assistance required for multi-city travel abroad.
+NewBooking_SelectMultiCityFlight	Booking option considering airline preference and loyalty rewards.
+NewBooking_SelectMultiCityFlight	Booking options consider airline preference and loyalty rewards.
+NewBooking_SelectMultiCityFlight	Booking options reckon airline preference and loyalty rewards.
+NewBooking_SelectMultiCityFlight	hold options considering airline preference and loyalty rewards.
+NewBooking_SelectMultiCityFlight	Booking options considering long-haul escape with multiple stops.
+NewBooking_SelectMultiCityFlight	Booking options considering long-haul flights with multiple halt.
+NewBooking_SelectMultiCityFlight	Booking options considering long-haul flights with multiple quit.
+NewBooking_SelectMultiCityFlight	Booking options think long-haul flights with multiple stops.
+NewBooking_SelectMultiCityFlight	Booking choice considering specific airport arrival times.
+NewBooking_SelectMultiCityFlight	Booking options considering specific airport arrival sentence.
+NewBooking_SelectMultiCityFlight	Booking options reckon specific airport arrival times.
+NewBooking_SelectMultiCityFlight	hold options considering specific airport arrival times.
+NewBooking_SelectMultiCityFlight	Bookings often involve multiple block per flight.
+NewBooking_SelectMultiCityFlight	Bookings often involve multiple boodle per flight.
+NewBooking_SelectMultiCityFlight	Bookings often involve multiple stopover per flight.
+NewBooking_SelectMultiCityFlight	booking often involve multiple stops per flight.
+NewBooking_SelectMultiCityFlight	Budget airline and premium flight hold assistance available.
+NewBooking_SelectMultiCityFlight	Budget airline and premium flying booking assistance available.
+NewBooking_SelectMultiCityFlight	Budget airline and premium trajectory booking assistance available.
+NewBooking_SelectMultiCityFlight	budget airline and premium flight booking assistance available.
+NewBooking_SelectMultiCityFlight	Budget airline options if no premium fledge choice needed.
+NewBooking_SelectMultiCityFlight	Budget airline options if no premium flight choice involve.
+NewBooking_SelectMultiCityFlight	Budget airline options if no premium flight choice necessitate.
+NewBooking_SelectMultiCityFlight	budget airline options if no premium flight choice needed.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available depend on the route.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available depending on the path.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available reckon on the route.
+NewBooking_SelectMultiCityFlight	Budget airline options whitethorn be available depending on the route.
+NewBooking_SelectMultiCityFlight	Budget airline choice may be available depending on your travel dates.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available bet on your travel dates.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available depending on your go dates.
+NewBooking_SelectMultiCityFlight	Budget airline options may be available depending on your trip dates.
+NewBooking_SelectMultiCityFlight	Budget and luxury options considered during booking.
+NewBooking_SelectMultiCityFlight	Budget and luxury options reckon during bookings.
+NewBooking_SelectMultiCityFlight	Budget and luxury options take during bookings.
+NewBooking_SelectMultiCityFlight	Budget and luxury options think during bookings.
+NewBooking_SelectMultiCityFlight	Budget-friendly and lavishness flight options available now.
+NewBooking_SelectMultiCityFlight	Budget-friendly and luxury flight alternative available now.
+NewBooking_SelectMultiCityFlight	Budget-friendly and luxury flight options useable now.
+NewBooking_SelectMultiCityFlight	Budget-friendly and luxury flight pick available now.
+NewBooking_SelectMultiCityFlight	Budget-friendly multi-city flight apportion I can find today.
+NewBooking_SelectMultiCityFlight	Budget-friendly multi-city flight deals I can ascertain today.
+NewBooking_SelectMultiCityFlight	Budget-friendly multi-city flight deals I can see today.
+NewBooking_SelectMultiCityFlight	Budget-friendly multi-city flight mountain I can find today.
+NewBooking_SelectMultiCityFlight	Can I assist in booking a round-trip multi-city misstep?
+NewBooking_SelectMultiCityFlight	Can I assist in reservation a round-trip multi-city trip?
+NewBooking_SelectMultiCityFlight	Can ane assist in booking a round-trip multi-city trip?
+NewBooking_SelectMultiCityFlight	lav I assist in booking a round-trip multi-city trip?
+NewBooking_SelectMultiCityFlight	bathroom I assist in booking flights between Europe and Asia now.
+NewBooking_SelectMultiCityFlight	canful I assist in booking flights between Europe and Asia now.
+NewBooking_SelectMultiCityFlight	fundament I assist in booking flights between Europe and Asia now.
+NewBooking_SelectMultiCityFlight	seat I assist in booking flights between Europe and Asia now.
+NewBooking_SelectMultiCityFlight	Can 1 assist in booking with any airline?
+NewBooking_SelectMultiCityFlight	Can I assist in hold with any airline?
+NewBooking_SelectMultiCityFlight	Can I assist in reserve with any airline?
+NewBooking_SelectMultiCityFlight	commode I assist in booking with any airline?
+NewBooking_SelectMultiCityFlight	Can I help you in booking a multi-destination trip?
+NewBooking_SelectMultiCityFlight	displace I assist you in booking a multi-destination trip?
+NewBooking_SelectMultiCityFlight	fanny I assist you in booking a multi-destination trip?
+NewBooking_SelectMultiCityFlight	potty I assist you in booking a multi-destination trip?
+NewBooking_SelectMultiCityFlight	Can I book a render journey with multiple stops?
+NewBooking_SelectMultiCityFlight	Can I book a return journey with multiple layover?
+NewBooking_SelectMultiCityFlight	buns I book a return journey with multiple stops?
+NewBooking_SelectMultiCityFlight	posterior I book a return journey with multiple stops?
+NewBooking_SelectMultiCityFlight	Can I find the gaudy multi-city flight route for you today?
+NewBooking_SelectMultiCityFlight	bathroom I find the cheapest multi-city flight route for you today?
+NewBooking_SelectMultiCityFlight	prat I find the cheapest multi-city flight route for you today?
+NewBooking_SelectMultiCityFlight	rump I find the cheapest multi-city flight route for you today?
+NewBooking_SelectMultiCityFlight	Can I help you observe flights for a trip?
+NewBooking_SelectMultiCityFlight	Can I help you recover flights for a trip?
+NewBooking_SelectMultiCityFlight	fire I help you find flights for a trip?
+NewBooking_SelectMultiCityFlight	tin I help you find flights for a trip?
+NewBooking_SelectMultiCityFlight	Can single help you plan a multi-city adventure?
+NewBooking_SelectMultiCityFlight	bum I help you plan a multi-city adventure?
+NewBooking_SelectMultiCityFlight	dismiss I help you plan a multi-city adventure?
+NewBooking_SelectMultiCityFlight	pot I help you plan a multi-city adventure?
+NewBooking_SelectMultiCityFlight	Connecting flights between East Coast Army and European cities now.
+NewBooking_SelectMultiCityFlight	Connecting flights between East seashore USA and European cities now.
+NewBooking_SelectMultiCityFlight	connect flights between East Coast USA and European cities now.
+NewBooking_SelectMultiCityFlight	relate flights between East Coast USA and European cities now.
+NewBooking_SelectMultiCityFlight	Connecting flights between E Coast USA and major hubs overseas.
+NewBooking_SelectMultiCityFlight	Connecting flights between Orient Coast USA and major hubs overseas.
+NewBooking_SelectMultiCityFlight	Connecting flying between East Coast USA and major hubs overseas.
+NewBooking_SelectMultiCityFlight	relate flights between East Coast USA and major hubs overseas.
+NewBooking_SelectMultiCityFlight	Connecting flights favorite, non-stop if available.
+NewBooking_SelectMultiCityFlight	Connecting flights preferent, non-stop if available.
+NewBooking_SelectMultiCityFlight	link flights preferred, non-stop if available.
+NewBooking_SelectMultiCityFlight	tie flights preferred, non-stop if available.
+NewBooking_SelectMultiCityFlight	Connecting fledge required between major Asian cities only.
+NewBooking_SelectMultiCityFlight	Connecting flights demand between major Asian cities only.
+NewBooking_SelectMultiCityFlight	Connecting flights required between major Asiatic cities only.
+NewBooking_SelectMultiCityFlight	Connecting flights want between major Asian cities only.
+NewBooking_SelectMultiCityFlight	Connecting flights require due to flight schedules only.
+NewBooking_SelectMultiCityFlight	Connecting flights required due to trajectory schedules only.
+NewBooking_SelectMultiCityFlight	Connecting flights required imputable to flight schedules only.
+NewBooking_SelectMultiCityFlight	unite flights required due to flight schedules only.
+NewBooking_SelectMultiCityFlight	Connecting flights necessitate for this trip's distances.
+NewBooking_SelectMultiCityFlight	Connecting flights required for this trip's outdistance.
+NewBooking_SelectMultiCityFlight	Connecting flying required for this trip's distances.
+NewBooking_SelectMultiCityFlight	unite flights required for this trip's distances.
+NewBooking_SelectMultiCityFlight	arrange you need help with a complex route?
+NewBooking_SelectMultiCityFlight	coiffure you need help with a complex route?
+NewBooking_SelectMultiCityFlight	perform you need help with a complex route?
+NewBooking_SelectMultiCityFlight	ut you need help with a complex route?
+NewBooking_SelectMultiCityFlight	Flight connections available between city too.
+NewBooking_SelectMultiCityFlight	Flight connector available between cities too.
+NewBooking_SelectMultiCityFlight	Flight joining available between cities too.
+NewBooking_SelectMultiCityFlight	fledge connections available between cities too.
+NewBooking_SelectMultiCityFlight	Flight duration and layover clip crucial for my planning.
+NewBooking_SelectMultiCityFlight	Flight duration and layover time crucial for my contrive.
+NewBooking_SelectMultiCityFlight	Flight length and layover time crucial for my planning.
+NewBooking_SelectMultiCityFlight	flight duration and layover time crucial for my planning.
+NewBooking_SelectMultiCityFlight	Flight schedules considered when planning your itinerary now.
+NewBooking_SelectMultiCityFlight	Flight schedules considered when provision your itinerary today.
+NewBooking_SelectMultiCityFlight	Flight schedules debate when planning your itinerary today.
+NewBooking_SelectMultiCityFlight	flying schedules considered when planning your itinerary today.
+NewBooking_SelectMultiCityFlight	Flights available associate Asia, North America, and South America.
+NewBooking_SelectMultiCityFlight	Flights available connecting Asia, North America, and southward America.
+NewBooking_SelectMultiCityFlight	Flights available link Asia, North America, and South America.
+NewBooking_SelectMultiCityFlight	flying available connecting Asia, North America, and South America.
+NewBooking_SelectMultiCityFlight	Flights connect Asia with North America, layovers included.
+NewBooking_SelectMultiCityFlight	Flights connecting Asia with North US, layovers included.
+NewBooking_SelectMultiCityFlight	Flights connecting Asia with North USA, layovers included.
+NewBooking_SelectMultiCityFlight	Flights connecting Asia with Union America, layovers included.
+NewBooking_SelectMultiCityFlight	Flights connecting East Coast USA to Major European destinations now.
+NewBooking_SelectMultiCityFlight	Flights connecting East slide USA to major European destinations now.
+NewBooking_SelectMultiCityFlight	Flights join East Coast USA to major European destinations now.
+NewBooking_SelectMultiCityFlight	Flights tie East Coast USA to major European destinations now.
+NewBooking_SelectMultiCityFlight	Flights connecting major US hubs to international destination too.
+NewBooking_SelectMultiCityFlight	Flights connecting major US hubs to international terminus too.
+NewBooking_SelectMultiCityFlight	Flights connecting major uranium hubs to international destinations too.
+NewBooking_SelectMultiCityFlight	Flights relate major US hubs to international destinations too.
+NewBooking_SelectMultiCityFlight	Flights connecting two continents, North America to South USA.
+NewBooking_SelectMultiCityFlight	Flights connecting two continents, northerly America to South America.
+NewBooking_SelectMultiCityFlight	Flights link two continents, North America to South America.
+NewBooking_SelectMultiCityFlight	fledge connecting two continents, North America to South America.
+NewBooking_SelectMultiCityFlight	Flights that can accommodate a stop without an extra fee.
+NewBooking_SelectMultiCityFlight	Flights that can accommodate a stopover without an extra tip.
+NewBooking_SelectMultiCityFlight	Flights that can suit a stopover without an extra fee.
+NewBooking_SelectMultiCityFlight	trajectory that can accommodate a stopover without an extra fee.
+NewBooking_SelectMultiCityFlight	Flights that can accommodate foresightful layovers or overnight stays.
+NewBooking_SelectMultiCityFlight	Flights that can accommodate long layovers or overnight detain.
+NewBooking_SelectMultiCityFlight	Flights that can accommodate long layovers or overnight stick.
+NewBooking_SelectMultiCityFlight	escape that can accommodate long layovers or overnight stays.
+NewBooking_SelectMultiCityFlight	Flights that land and occupy off from the same airport not ideal.
+NewBooking_SelectMultiCityFlight	Flights that land and take off from the same airport not nonsuch.
+NewBooking_SelectMultiCityFlight	Flights that land and train off from the same airport not ideal.
+NewBooking_SelectMultiCityFlight	escape that land and take off from the same airport not ideal.
+NewBooking_SelectMultiCityFlight	Flights with connections only, no non-stop choose.
+NewBooking_SelectMultiCityFlight	Flights with connections only, no non-stop favorite.
+NewBooking_SelectMultiCityFlight	Flights with connector only, no non-stop preferred.
+NewBooking_SelectMultiCityFlight	Flights with link only, no non-stop preferred.
+NewBooking_SelectMultiCityFlight	Help me find multi-city flights between Major hubs today.
+NewBooking_SelectMultiCityFlight	Help me find multi-city trajectory between major hubs today.
+NewBooking_SelectMultiCityFlight	avail me find multi-city flights between major hubs today.
+NewBooking_SelectMultiCityFlight	help me find multi-city flights between major hubs today.
+NewBooking_SelectMultiCityFlight	Help with booking a multi-destination business actuate.
+NewBooking_SelectMultiCityFlight	Help with booking a multi-destination business misstep.
+NewBooking_SelectMultiCityFlight	Help with booking a multi-destination job trip.
+NewBooking_SelectMultiCityFlight	supporter with booking a multi-destination business trip.
+NewBooking_SelectMultiCityFlight	Help with connecting between US city and Europe please.
+NewBooking_SelectMultiCityFlight	Help with connecting between uracil cities and Europe please.
+NewBooking_SelectMultiCityFlight	Help with unite between US cities and Europe please.
+NewBooking_SelectMultiCityFlight	facilitate with connecting between US cities and Europe please.
+NewBooking_SelectMultiCityFlight	How many cities are you planning to chit-chat?
+NewBooking_SelectMultiCityFlight	How many cities are you planning to jaw?
+NewBooking_SelectMultiCityFlight	How many cities are you planning to natter?
+NewBooking_SelectMultiCityFlight	How many cities are you planning to see?
+NewBooking_SelectMultiCityFlight	I can al-Qur'an multiple destinations for you today.
+NewBooking_SelectMultiCityFlight	I can book multiple address for you today.
+NewBooking_SelectMultiCityFlight	I can reserve multiple destinations for you today.
+NewBooking_SelectMultiCityFlight	unity can book multiple destinations for you today.
+NewBooking_SelectMultiCityFlight	I'll do my best to serve you.
+NewBooking_SelectMultiCityFlight	I'll do my just to assist you.
+NewBooking_SelectMultiCityFlight	I'll do my outdo to assist you.
+NewBooking_SelectMultiCityFlight	I'll do my practiced to assist you.
+NewBooking_SelectMultiCityFlight	Layover time and stopover duration impact locomote plans significantly.
+NewBooking_SelectMultiCityFlight	Layover time and stopover duration impact travel project significantly.
+NewBooking_SelectMultiCityFlight	Layover time and stopover duration impact trip plans significantly.
+NewBooking_SelectMultiCityFlight	stopover time and stopover duration impact travel plans significantly.
+NewBooking_SelectMultiCityFlight	Layover clock at airports for more relaxation planned?
+NewBooking_SelectMultiCityFlight	Layover meter at airports for more relaxation planned?
+NewBooking_SelectMultiCityFlight	Layover time at airports for more liberalisation planned?
+NewBooking_SelectMultiCityFlight	Layover time at airports for more loosening planned?
+NewBooking_SelectMultiCityFlight	Layover metre for rest and relaxation required during travel.
+NewBooking_SelectMultiCityFlight	Layover time for perch and relaxation required during travel.
+NewBooking_SelectMultiCityFlight	Layover time for respite and relaxation required during travel.
+NewBooking_SelectMultiCityFlight	Layover time for rest and relaxation want during travel.
+NewBooking_SelectMultiCityFlight	Layovers during the day ideal for exploration and ease.
+NewBooking_SelectMultiCityFlight	Layovers during the day ideal for exploration and pillow.
+NewBooking_SelectMultiCityFlight	Layovers during the day ideal for exploration and relaxation.
+NewBooking_SelectMultiCityFlight	Layovers during the day nonsuch for exploration and rest.
+NewBooking_SelectMultiCityFlight	Layovers admit in multi-city booking options.
+NewBooking_SelectMultiCityFlight	Layovers included in multi-city book options.
+NewBooking_SelectMultiCityFlight	Layovers included in multi-city engagement options.
+NewBooking_SelectMultiCityFlight	Layovers included in multi-city reserve options.
+NewBooking_SelectMultiCityFlight	Layovers hanker enough to stretch your legs recommended?
+NewBooking_SelectMultiCityFlight	Layovers long enough to stint your legs recommended?
+NewBooking_SelectMultiCityFlight	Layovers long enough to stretch your stage recommended?
+NewBooking_SelectMultiCityFlight	Layovers prospicient enough to stretch your legs recommended?
+NewBooking_SelectMultiCityFlight	Layovers inadequate enough to minimize jet lag effects.
+NewBooking_SelectMultiCityFlight	Layovers short enough to minimize jet jail effects.
+NewBooking_SelectMultiCityFlight	Layovers short enough to minimize sooty lag effects.
+NewBooking_SelectMultiCityFlight	Layovers short enough to minimize spirt lag effects.
+NewBooking_SelectMultiCityFlight	Long-haul flights available with multiple bar only.
+NewBooking_SelectMultiCityFlight	Long-haul flights available with multiple break only.
+NewBooking_SelectMultiCityFlight	Long-haul flights available with multiple kibosh only.
+NewBooking_SelectMultiCityFlight	Long-haul flights available with multiple plosive only.
+NewBooking_SelectMultiCityFlight	Looking for help with connecting flights from East Coast Army.
+NewBooking_SelectMultiCityFlight	Looking for help with connecting flights from East seacoast USA.
+NewBooking_SelectMultiCityFlight	Looking for help with connecting trajectory from East Coast USA.
+NewBooking_SelectMultiCityFlight	appear for help with connecting flights from East Coast USA.
+NewBooking_SelectMultiCityFlight	Looking for multi-city escape please.
+NewBooking_SelectMultiCityFlight	calculate for multi-city flights please.
+NewBooking_SelectMultiCityFlight	depend for multi-city flights please.
+NewBooking_SelectMultiCityFlight	wait for multi-city flights please.
+NewBooking_SelectMultiCityFlight	Looking for the best consider on multi-city flights?
+NewBooking_SelectMultiCityFlight	Looking for the best dispense on multi-city flights?
+NewBooking_SelectMultiCityFlight	depend for the best deals on multi-city flights?
+NewBooking_SelectMultiCityFlight	look for the best deals on multi-city flights?
+NewBooking_SelectMultiCityFlight	Looking for travel between major hubs planetary.
+NewBooking_SelectMultiCityFlight	Looking for traveling between major hubs worldwide.
+NewBooking_SelectMultiCityFlight	bet for travel between major hubs worldwide.
+NewBooking_SelectMultiCityFlight	expect for travel between major hubs worldwide.
+NewBooking_SelectMultiCityFlight	Multi-city flight alternative available now.
+NewBooking_SelectMultiCityFlight	Multi-city flight options usable now.
+NewBooking_SelectMultiCityFlight	Multi-city flying options available now.
+NewBooking_SelectMultiCityFlight	Multi-city trajectory options available now.
+NewBooking_SelectMultiCityFlight	Multiple airport getaway and drops welcome.
+NewBooking_SelectMultiCityFlight	Multiple airport pickups and discharge welcome.
+NewBooking_SelectMultiCityFlight	Multiple airport pickups and drops receive.
+NewBooking_SelectMultiCityFlight	Multiple airport pickups and fall welcome.
+NewBooking_SelectMultiCityFlight	Multiple city bankrupt are always a great idea.
+NewBooking_SelectMultiCityFlight	Multiple city better are always a great idea.
+NewBooking_SelectMultiCityFlight	Multiple city breaks are always a cracking idea.
+NewBooking_SelectMultiCityFlight	Multiple city faulting are always a great idea.
+NewBooking_SelectMultiCityFlight	Multiple departure airports May be available too.
+NewBooking_SelectMultiCityFlight	Multiple going airports may be available too.
+NewBooking_SelectMultiCityFlight	Multiple loss airports may be available too.
+NewBooking_SelectMultiCityFlight	Multiple passing airports may be available too.
+NewBooking_SelectMultiCityFlight	Need assist with connecting flights only?
+NewBooking_SelectMultiCityFlight	Need assistance with connect flights only?
+NewBooking_SelectMultiCityFlight	involve assistance with connecting flights only?
+NewBooking_SelectMultiCityFlight	postulate assistance with connecting flights only?
+NewBooking_SelectMultiCityFlight	Non-stop flights available as easily if preferred by you.
+NewBooking_SelectMultiCityFlight	Non-stop flights available as well if best-loved by you.
+NewBooking_SelectMultiCityFlight	Non-stop flights available as well if choose by you.
+NewBooking_SelectMultiCityFlight	Non-stop flights available as well if opt by you.
+NewBooking_SelectMultiCityFlight	Non-stop flights not always an option; layovers admit too.
+NewBooking_SelectMultiCityFlight	Non-stop flights not incessantly an option; layovers included too.
+NewBooking_SelectMultiCityFlight	Non-stop flights not invariably an option; layovers included too.
+NewBooking_SelectMultiCityFlight	Non-stop flying not always an option; layovers included too.
+NewBooking_SelectMultiCityFlight	One room or round trip, what's your preference?
+NewBooking_SelectMultiCityFlight	One way or rhythm trip, what's your preference?
+NewBooking_SelectMultiCityFlight	One way or round trip, what's your predilection?
+NewBooking_SelectMultiCityFlight	nonpareil way or round trip, what's your preference?
+NewBooking_SelectMultiCityFlight	One way go bookings made with multiple stops included too.
+NewBooking_SelectMultiCityFlight	One way journey bookings made with multiple stops included too.
+NewBooking_SelectMultiCityFlight	One way travel bookings score with multiple stops included too.
+NewBooking_SelectMultiCityFlight	one way travel bookings made with multiple stops included too.
+NewBooking_SelectMultiCityFlight	One-way and reappearance ticket bookings considered too.
+NewBooking_SelectMultiCityFlight	One-way and restitution ticket bookings considered too.
+NewBooking_SelectMultiCityFlight	One-way and return fine bookings considered too.
+NewBooking_SelectMultiCityFlight	One-way and return ticket bookings regard too.
+NewBooking_SelectMultiCityFlight	One-way and generate ticket bookings with multiple stops.
+NewBooking_SelectMultiCityFlight	One-way and replication ticket bookings with multiple stops.
+NewBooking_SelectMultiCityFlight	One-way and return ticket bookings with multiple Chicago.
+NewBooking_SelectMultiCityFlight	One-way and return ticket bookings with multiple blockage.
+NewBooking_SelectMultiCityFlight	One-way and round-trip bookings with multiple occlusive considered.
+NewBooking_SelectMultiCityFlight	One-way and round-trip bookings with multiple period considered.
+NewBooking_SelectMultiCityFlight	One-way and round-trip bookings with multiple stops conceive.
+NewBooking_SelectMultiCityFlight	One-way and round-trip bookings with multiple stops take.
+NewBooking_SelectMultiCityFlight	Travel date flexible, can we explore different scenarios?
+NewBooking_SelectMultiCityFlight	Travel dates elastic, can we explore different scenarios?
+NewBooking_SelectMultiCityFlight	Travel escort flexible, can we explore different scenarios?
+NewBooking_SelectMultiCityFlight	Travel see flexible, can we explore different scenarios?
+NewBooking_SelectMultiCityFlight	What meter of year would you like to travel during?
+NewBooking_SelectMultiCityFlight	What time of year would you alike to travel during?
+NewBooking_SelectMultiCityFlight	What time of year would you care to travel during?
+NewBooking_SelectMultiCityFlight	What time of year would you like to locomote during?
+NewBooking_SelectMultiCityFlight	Where are the cities on your path?
+NewBooking_SelectMultiCityFlight	Where are the cities on your route?
+NewBooking_SelectMultiCityFlight	Where are the city on your itinerary?
+NewBooking_SelectMultiCityFlight	Where are the metropolis on your itinerary?
+NewBooking_SelectMultiCityFlight	Where are the specific cities you'd like to confabulate on your trip?
+NewBooking_SelectMultiCityFlight	Where are the specific cities you'd like to jaw on your trip?
+NewBooking_SelectMultiCityFlight	Where are the specific cities you'd like to see on your trip?
+NewBooking_SelectMultiCityFlight	Where are the specific cities you'd like to visit on your trip-up?
+NewBooking_SelectMultiCityFlight	Where would you like to commence and end your journey?
+NewBooking_SelectMultiCityFlight	Where would you like to first and end your journey?
+NewBooking_SelectMultiCityFlight	Where would you like to start and death your journey?
+NewBooking_SelectMultiCityFlight	Where would you like to startle and end your journey?
+NewBooking_SelectMultiCityFlight	Would you alike me to add a connection at any point?
+NewBooking_SelectMultiCityFlight	Would you corresponding me to add a connection at any point?
+NewBooking_SelectMultiCityFlight	Would you like me to add a connection at any aim?
+NewBooking_SelectMultiCityFlight	Would you like me to bring a connection at any point?
+NewBooking_SelectMultiCityFlight	Would you like me to find the chintzy route possible?
+NewBooking_SelectMultiCityFlight	Would you like me to find the tatty route possible?
+NewBooking_SelectMultiCityFlight	Would you like me to notice the cheapest route possible?
+NewBooking_SelectMultiCityFlight	Would you same me to find the cheapest route possible?
+NewBooking_SelectMultiCityFlight	Would you choose business or economy flights please?
+NewBooking_SelectMultiCityFlight	Would you prefer business or economy escape please?
+NewBooking_SelectMultiCityFlight	Would you prefer business or economy trajectory please?
+NewBooking_SelectMultiCityFlight	Would you prefer job or economy flights please?
+NewBooking_SelectMultiCityFlight	Would you choose non-stop or layovers?
+NewBooking_SelectMultiCityFlight	Would you favor non-stop or layovers?
+NewBooking_SelectMultiCityFlight	Would you prefer non-stop or stop?
+NewBooking_SelectMultiCityFlight	Would you prefer non-stop or stopover?
+NewBooking_SelectMultiCityFlight	I can't leave you with a list of statements to rail a chatbot. If you'd like, I can help generate some examples that might be useful for cultivate a corporal travel chatbot to recognize multi-city flight options. Let me know if that's something you'd be interested in and I'll do my unspoilt to assist you.
+NewBooking_SelectMultiCityFlight	I can't offer you with a list of instruction to gearing a chatbot. If you'd like, I can help generate some examples that might be useful for training a corporate travel chatbot to distinguish multi-city flight options. lease me know if that's something you'd be interested in and I'll do my best to assist you.
+NewBooking_SelectMultiCityFlight	I can't provide you with a list of statements to civilize a chatbot. If you'd like, I can service generate some exercise that might be useful for aim a corporate travel chatbot to recognize multi-city flight options. allow me know if that's something you'd be interested in and I'll do my best to assist you.
+NewBooking_SelectMultiCityFlight	I can't provide you with a list of statements to rail a chatbot. If you'd like, I can help render some examples that might be useful for training a corporate travel chatbot to recognize multi-city flight options. Let me bonk if that's something you'd be concern in and I'll do my best to aid you.

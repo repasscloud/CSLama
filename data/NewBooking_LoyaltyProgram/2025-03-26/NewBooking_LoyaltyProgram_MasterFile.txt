@@ -1,0 +1,272 @@
+NewBooking_LoyaltyProgram	Are you eligible for our frequent broadside program on this flight?
+NewBooking_LoyaltyProgram	Are you eligible for our frequent flyer program on this flying?
+NewBooking_LoyaltyProgram	Are you eligible for our frequent flyer program on this trajectory?
+NewBooking_LoyaltyProgram	cost you eligible for our frequent flyer program on this flight?
+NewBooking_LoyaltyProgram	Can I apply your loyalty card to this qualification now?
+NewBooking_LoyaltyProgram	lavatory I apply your loyalty card to this reservation now?
+NewBooking_LoyaltyProgram	throne I apply your loyalty card to this reservation now?
+NewBooking_LoyaltyProgram	tooshie I apply your loyalty card to this reservation now?
+NewBooking_LoyaltyProgram	Can I assist you in applying your loyalty poster now?
+NewBooking_LoyaltyProgram	dismiss I assist you in applying your loyalty card now?
+NewBooking_LoyaltyProgram	displace I assist you in applying your loyalty card now?
+NewBooking_LoyaltyProgram	terminate I assist you in applying your loyalty card now?
+NewBooking_LoyaltyProgram	Can I assist you in applying your loyalty degree today?
+NewBooking_LoyaltyProgram	Can I assist you in applying your loyalty period today?
+NewBooking_LoyaltyProgram	canful I assist you in applying your loyalty points today?
+NewBooking_LoyaltyProgram	lavatory I assist you in applying your loyalty points today?
+NewBooking_LoyaltyProgram	Can I facilitate you apply loyalty points on this flight?
+NewBooking_LoyaltyProgram	Can I help you apply loyalty detail on this flight?
+NewBooking_LoyaltyProgram	Can I service you apply loyalty points on this flight?
+NewBooking_LoyaltyProgram	toilet I help you apply loyalty points on this flight?
+NewBooking_LoyaltyProgram	Can I help you practice your loyalty card now?
+NewBooking_LoyaltyProgram	behind I help you apply your loyalty card now?
+NewBooking_LoyaltyProgram	fanny I help you apply your loyalty card now?
+NewBooking_LoyaltyProgram	lavatory I help you apply your loyalty card now?
+NewBooking_LoyaltyProgram	Can single help you apply your loyalty card today?
+NewBooking_LoyaltyProgram	can I help you apply your loyalty card today?
+NewBooking_LoyaltyProgram	terminate I help you apply your loyalty card today?
+NewBooking_LoyaltyProgram	throne I help you apply your loyalty card today?
+NewBooking_LoyaltyProgram	Can I mark you up for our loyalty program now?
+NewBooking_LoyaltyProgram	Can I signal you up for our loyalty program now?
+NewBooking_LoyaltyProgram	can I sign you up for our loyalty program now?
+NewBooking_LoyaltyProgram	john I sign you up for our loyalty program now?
+NewBooking_LoyaltyProgram	Can I bless you up for our loyalty program on this booking?
+NewBooking_LoyaltyProgram	Can I polarity you up for our loyalty program on this booking?
+NewBooking_LoyaltyProgram	Can one sign you up for our loyalty program on this booking?
+NewBooking_LoyaltyProgram	stern I sign you up for our loyalty program on this booking?
+NewBooking_LoyaltyProgram	Can I sign you up for our dedication program today?
+NewBooking_LoyaltyProgram	Can I sign you up for our loyalty platform today?
+NewBooking_LoyaltyProgram	hindquarters I sign you up for our loyalty program today?
+NewBooking_LoyaltyProgram	privy I sign you up for our loyalty program today?
+NewBooking_LoyaltyProgram	Can I preindication you up for our loyalty scheme now?
+NewBooking_LoyaltyProgram	Can I signal you up for our loyalty scheme now?
+NewBooking_LoyaltyProgram	derriere I sign you up for our loyalty scheme now?
+NewBooking_LoyaltyProgram	stool I sign you up for our loyalty scheme now?
+NewBooking_LoyaltyProgram	Can I sign you up for our advantage program today?
+NewBooking_LoyaltyProgram	Can I signboard you up for our rewards program today?
+NewBooking_LoyaltyProgram	nates I sign you up for our rewards program today?
+NewBooking_LoyaltyProgram	throne I sign you up for our rewards program today?
+NewBooking_LoyaltyProgram	Do you want me to impart loyalty benefits automatically?
+NewBooking_LoyaltyProgram	Do you want me to lend loyalty benefits automatically?
+NewBooking_LoyaltyProgram	exercise you want me to add loyalty benefits automatically?
+NewBooking_LoyaltyProgram	suffice you want me to add loyalty benefits automatically?
+NewBooking_LoyaltyProgram	Do you want me to add loyalty benefits to your Modern reservation?
+NewBooking_LoyaltyProgram	Do you want me to add loyalty benefits to your freshly reservation?
+NewBooking_LoyaltyProgram	Do you want me to add loyalty benefits to your novel reservation?
+NewBooking_LoyaltyProgram	Do you want me to add loyalty welfare to your new reservation?
+NewBooking_LoyaltyProgram	Do you desire me to add rewards to your new booking?
+NewBooking_LoyaltyProgram	Do you neediness me to add rewards to your new booking?
+NewBooking_LoyaltyProgram	Do you want me to add payoff to your new booking?
+NewBooking_LoyaltyProgram	Do you want me to add rewards to your newfangled booking?
+NewBooking_LoyaltyProgram	Do you deficiency me to add rewards to your new flight?
+NewBooking_LoyaltyProgram	Do you want me to add rewards to your newfangled flight?
+NewBooking_LoyaltyProgram	arrange you want me to add rewards to your new flight?
+NewBooking_LoyaltyProgram	practice you want me to add rewards to your new flight?
+NewBooking_LoyaltyProgram	Do you want me to add rewards to your raw reservation?
+NewBooking_LoyaltyProgram	arrange you want me to add rewards to your new reservation?
+NewBooking_LoyaltyProgram	cause you want me to add rewards to your new reservation?
+NewBooking_LoyaltyProgram	come you want me to add rewards to your new reservation?
+NewBooking_LoyaltyProgram	DO you want me to add rewards to your new trip?
+NewBooking_LoyaltyProgram	Do you want me to add reinforce to your new trip?
+NewBooking_LoyaltyProgram	Do you want me to add rewards to your newly trip?
+NewBooking_LoyaltyProgram	suffice you want me to add rewards to your new trip?
+NewBooking_LoyaltyProgram	arrange you want me to apply loyalty benefits automatically?
+NewBooking_LoyaltyProgram	manage you want me to apply loyalty benefits automatically?
+NewBooking_LoyaltyProgram	perform you want me to apply loyalty benefits automatically?
+NewBooking_LoyaltyProgram	practise you want me to apply loyalty benefits automatically?
+NewBooking_LoyaltyProgram	Do you wishing me to apply loyalty benefits to your new booking?
+NewBooking_LoyaltyProgram	arrange you want me to apply loyalty benefits to your new booking?
+NewBooking_LoyaltyProgram	bash you want me to apply loyalty benefits to your new booking?
+NewBooking_LoyaltyProgram	make you want me to apply loyalty benefits to your new booking?
+NewBooking_LoyaltyProgram	Do you want me to apply your loyalty menu automatically?
+NewBooking_LoyaltyProgram	Do you want me to implement your loyalty card automatically?
+NewBooking_LoyaltyProgram	cause you want me to apply your loyalty card automatically?
+NewBooking_LoyaltyProgram	practice you want me to apply your loyalty card automatically?
+NewBooking_LoyaltyProgram	Do you neediness to add benefits to your new flight?
+NewBooking_LoyaltyProgram	Do you want to add benefits to your Modern flight?
+NewBooking_LoyaltyProgram	Do you want to add benefits to your new flying?
+NewBooking_LoyaltyProgram	Do you want to add benefits to your new trajectory?
+NewBooking_LoyaltyProgram	How can we help you with honour for your upcoming trip?
+NewBooking_LoyaltyProgram	How can we help you with payoff for your upcoming trip?
+NewBooking_LoyaltyProgram	How can we help you with rewards for your coming trip?
+NewBooking_LoyaltyProgram	How can we help you with rewards for your forthcoming trip?
+NewBooking_LoyaltyProgram	How can we make your journey more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we make your trip more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we nominate your travel more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we stimulate your travel more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we draw your travel more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we have your travel more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we make your move more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we pee your travel more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we cause your travel more rewarding with our loyalty scheme?
+NewBooking_LoyaltyProgram	How can we make your move more rewarding with our loyalty scheme?
+NewBooking_LoyaltyProgram	How can we make your travel more rewarding with our loyalty system?
+NewBooking_LoyaltyProgram	How can we produce your travel more rewarding with our loyalty scheme?
+NewBooking_LoyaltyProgram	How can we clear your travel more rewarding with our program?
+NewBooking_LoyaltyProgram	How can we form your travel more rewarding with our program?
+NewBooking_LoyaltyProgram	How can we induce your travel more rewarding with our program?
+NewBooking_LoyaltyProgram	How can we make your travel more reinforce with our program?
+NewBooking_LoyaltyProgram	How can we cook your trip more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we make your trip more honour with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we make your trip more rewarding with our frequent flyer platform?
+NewBooking_LoyaltyProgram	How can we realise your trip more rewarding with our frequent flyer program?
+NewBooking_LoyaltyProgram	How can we hold your trip more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we make your jaunt more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we piddle your trip more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	How can we wee-wee your trip more rewarding with our loyalty program?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this book, would you like them added?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this booking, would you comparable them added?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this booking, would you like them impart?
+NewBooking_LoyaltyProgram	Loyalty benefits uncommitted for this booking, would you like them added?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this flight, would you corresponding them?
+NewBooking_LoyaltyProgram	Loyalty benefits useable for this flight, would you like them?
+NewBooking_LoyaltyProgram	Loyalty profit available for this flight, would you like them?
+NewBooking_LoyaltyProgram	loyalty benefits available for this flight, would you like them?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this reservation, would you alike them?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this reservation, would you care them?
+NewBooking_LoyaltyProgram	Loyalty benefits available for this reservation, would you ilk them?
+NewBooking_LoyaltyProgram	dedication benefits available for this reservation, would you like them?
+NewBooking_LoyaltyProgram	Loyalty charge available for this booking, would you like them?
+NewBooking_LoyaltyProgram	Loyalty maneuver available for this booking, would you like them?
+NewBooking_LoyaltyProgram	Loyalty points uncommitted for this booking, would you like them?
+NewBooking_LoyaltyProgram	Loyalty spot available for this booking, would you like them?
+NewBooking_LoyaltyProgram	Loyalty program available for this booking, would you like it tally?
+NewBooking_LoyaltyProgram	Loyalty program available for this reserve, would you like it added?
+NewBooking_LoyaltyProgram	Loyalty program useable for this booking, would you like it added?
+NewBooking_LoyaltyProgram	trueness program available for this booking, would you like it added?
+NewBooking_LoyaltyProgram	Loyalty program available for this flight, would you comparable it added?
+NewBooking_LoyaltyProgram	Loyalty program available for this flight, would you like it tally?
+NewBooking_LoyaltyProgram	Loyalty program available for this trajectory, would you like it added?
+NewBooking_LoyaltyProgram	commitment program available for this flight, would you like it added?
+NewBooking_LoyaltyProgram	This booking qualifies for allegiance benefits - let me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for dedication benefits - let me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty benefits - let me experience if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty benefits - let me recognise if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty head - let me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty period - let me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty place - let me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty points - allow me know if you'd like them.
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty designate - would you like them added?
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty dot - would you like them added?
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty guide - would you like them added?
+NewBooking_LoyaltyProgram	This booking qualifies for loyalty points - would you like them append?
+NewBooking_LoyaltyProgram	This booking condition for our loyalty benefits - would you like them?
+NewBooking_LoyaltyProgram	This booking qualifies for our allegiance benefits - would you like them?
+NewBooking_LoyaltyProgram	This booking qualifies for our loyalty benefits - would you similar them?
+NewBooking_LoyaltyProgram	This engagement qualifies for our loyalty benefits - would you like them?
+NewBooking_LoyaltyProgram	We have a loyalty schema that might suit you better.
+NewBooking_LoyaltyProgram	We have a loyalty scheme that might accommodate you better.
+NewBooking_LoyaltyProgram	We have a loyalty scheme that might suit you amend.
+NewBooking_LoyaltyProgram	We have a loyalty scheme that might suit you punter.
+NewBooking_LoyaltyProgram	We have a particular offer for new loyalty members on this flight.
+NewBooking_LoyaltyProgram	We have a special extend for new loyalty members on this flight.
+NewBooking_LoyaltyProgram	We have a special offer for new loyalty penis on this flight.
+NewBooking_LoyaltyProgram	We have a special propose for new loyalty members on this flight.
+NewBooking_LoyaltyProgram	Would you ilk to be a part of our rewards program?
+NewBooking_LoyaltyProgram	Would you like to be a part of our rewards programme?
+NewBooking_LoyaltyProgram	Would you like to be a section of our rewards program?
+NewBooking_LoyaltyProgram	Would you similar to be a part of our rewards program?
+NewBooking_LoyaltyProgram	Would you care to earn loyalty points on future bookings?
+NewBooking_LoyaltyProgram	Would you like to earn loyalty head on future bookings?
+NewBooking_LoyaltyProgram	Would you like to earn loyalty manoeuver on future bookings?
+NewBooking_LoyaltyProgram	Would you same to earn loyalty points on future bookings?
+NewBooking_LoyaltyProgram	Would you alike to earn loyalty points on this flight?
+NewBooking_LoyaltyProgram	Would you like to earn dedication points on this flight?
+NewBooking_LoyaltyProgram	Would you like to gain loyalty points on this flight?
+NewBooking_LoyaltyProgram	Would you same to earn loyalty points on this flight?
+NewBooking_LoyaltyProgram	Would you like to join our loyalty scheme for future engagement?
+NewBooking_LoyaltyProgram	Would you like to join our loyalty strategy for future bookings?
+NewBooking_LoyaltyProgram	Would you like to joint our loyalty scheme for future bookings?
+NewBooking_LoyaltyProgram	Would you like to link our loyalty scheme for future bookings?
+NewBooking_LoyaltyProgram	Would you like to join our dedication scheme now?
+NewBooking_LoyaltyProgram	Would you like to join our loyalty intrigue now?
+NewBooking_LoyaltyProgram	Would you like to join our loyalty system now?
+NewBooking_LoyaltyProgram	Would you like to join our trueness scheme now?
+NewBooking_LoyaltyProgram	Would you like to join our honor program for future travel?
+NewBooking_LoyaltyProgram	Would you like to join our honour program for future travel?
+NewBooking_LoyaltyProgram	Would you like to join our reinforcement program for future travel?
+NewBooking_LoyaltyProgram	Would you like to juncture our rewards program for future travel?
+NewBooking_LoyaltyProgram	are there any additional fees for using your loyalty scheme?
+NewBooking_LoyaltyProgram	comprise there any additional fees for using your loyalty scheme?
+NewBooking_LoyaltyProgram	embody there any additional fees for using your loyalty scheme?
+NewBooking_LoyaltyProgram	follow there any additional fees for using your loyalty scheme?
+NewBooking_LoyaltyProgram	Are there any restrictions or blackout dates for expend loyalty benefits?
+NewBooking_LoyaltyProgram	Are there any restrictions or blackout see for using loyalty benefits?
+NewBooking_LoyaltyProgram	comprise there any restrictions or blackout dates for using loyalty benefits?
+NewBooking_LoyaltyProgram	live there any restrictions or blackout dates for using loyalty benefits?
+NewBooking_LoyaltyProgram	Can I earn loyalty reinforce on this specific trip?
+NewBooking_LoyaltyProgram	Can unity earn loyalty rewards on this specific trip?
+NewBooking_LoyaltyProgram	hindquarters I earn loyalty rewards on this specific trip?
+NewBooking_LoyaltyProgram	rear I earn loyalty rewards on this specific trip?
+NewBooking_LoyaltyProgram	Can I upgrade to a gamy tier in your loyalty program?
+NewBooking_LoyaltyProgram	commode I upgrade to a higher tier in your loyalty program?
+NewBooking_LoyaltyProgram	john I upgrade to a higher tier in your loyalty program?
+NewBooking_LoyaltyProgram	tush I upgrade to a higher tier in your loyalty program?
+NewBooking_LoyaltyProgram	Can I use my loyalty plan on last-minute bookings?
+NewBooking_LoyaltyProgram	Can I utilize my loyalty program on last-minute bookings?
+NewBooking_LoyaltyProgram	fundament I use my loyalty program on last-minute bookings?
+NewBooking_LoyaltyProgram	prat I use my loyalty program on last-minute bookings?
+NewBooking_LoyaltyProgram	Can you assistant me apply my loyalty program to my new booking?
+NewBooking_LoyaltyProgram	can you help me apply my loyalty program to my new booking?
+NewBooking_LoyaltyProgram	canful you help me apply my loyalty program to my new booking?
+NewBooking_LoyaltyProgram	sack you help me apply my loyalty program to my new booking?
+NewBooking_LoyaltyProgram	Do you tender any loyalty benefits on flights/rooms/hotels?
+NewBooking_LoyaltyProgram	act you offer any loyalty benefits on flights/rooms/hotels?
+NewBooking_LoyaltyProgram	bash you offer any loyalty benefits on flights/rooms/hotels?
+NewBooking_LoyaltyProgram	brawl you offer any loyalty benefits on flights/rooms/hotels?
+NewBooking_LoyaltyProgram	Do you crack loyalty program assistance for special occasions/events?
+NewBooking_LoyaltyProgram	Do you offer dedication program assistance for special occasions/events?
+NewBooking_LoyaltyProgram	Do you offer loyalty program assistance for special occasions/issue?
+NewBooking_LoyaltyProgram	coiffure you offer loyalty program assistance for special occasions/events?
+NewBooking_LoyaltyProgram	Do you extend personalized loyalty offers based on my past bookings?
+NewBooking_LoyaltyProgram	Do you offer personalized loyalty offers free-base on my past bookings?
+NewBooking_LoyaltyProgram	Do you provide personalized loyalty offers based on my past bookings?
+NewBooking_LoyaltyProgram	Do you volunteer personalized loyalty offers based on my past bookings?
+NewBooking_LoyaltyProgram	How do I change my loyalty broadcast preferences?
+NewBooking_LoyaltyProgram	How do I change my loyalty platform preferences?
+NewBooking_LoyaltyProgram	How do I change my loyalty program preference?
+NewBooking_LoyaltyProgram	How do I deepen my loyalty program preferences?
+NewBooking_LoyaltyProgram	How do I check if my loyalty status is combat-ready?
+NewBooking_LoyaltyProgram	How do I contain if my loyalty status is active?
+NewBooking_LoyaltyProgram	How do I retard if my loyalty status is active?
+NewBooking_LoyaltyProgram	How do iodin check if my loyalty status is active?
+NewBooking_LoyaltyProgram	How do I enroll in your honour scheme for future bookings?
+NewBooking_LoyaltyProgram	How do I enroll in your reinforcement scheme for future bookings?
+NewBooking_LoyaltyProgram	How do I enroll in your rewards dodge for future bookings?
+NewBooking_LoyaltyProgram	How do I enroll in your rewards outline for future bookings?
+NewBooking_LoyaltyProgram	How do I ransom my loyalty points for rewards?
+NewBooking_LoyaltyProgram	How do I redeem my loyalty points for reinforce?
+NewBooking_LoyaltyProgram	How do I redeem my loyalty points for wages?
+NewBooking_LoyaltyProgram	How do I save my loyalty points for rewards?
+NewBooking_LoyaltyProgram	I'll be happy to assist you with this task, but I indigence to clarify that I can only provide fourscore statements at a time. Here are the first 20:
+NewBooking_LoyaltyProgram	I'll be happy to assist you with this task, but I need to clarify that I can only supply 80 statements at a sentence. Here are the first 20:
+NewBooking_LoyaltyProgram	I'll be happy to assist you with this task, but I need to clarify that iodine can only provide 80 statements at a time. Here are the beginning 20:
+NewBooking_LoyaltyProgram	I'll be happy to assist you with this task, but I need to clarify that single can only provide fourscore statements at a time. Here are the first 20:
+NewBooking_LoyaltyProgram	Is it possible to MBD my loyalty points to this reservation?
+NewBooking_LoyaltyProgram	Is it possible to add my loyalty sharpen to this reservation?
+NewBooking_LoyaltyProgram	Is it possible to add my loyalty target to this reservation?
+NewBooking_LoyaltyProgram	Is it possible to summate my loyalty points to this reservation?
+NewBooking_LoyaltyProgram	Is it possible to combine my loyalty rewards with other deduction?
+NewBooking_LoyaltyProgram	Is it possible to combine my loyalty rewards with other rebate?
+NewBooking_LoyaltyProgram	Is it possible to flux my loyalty rewards with other discounts?
+NewBooking_LoyaltyProgram	Is it possible to unite my loyalty rewards with other discounts?
+NewBooking_LoyaltyProgram	What are the minimum essential to qualify for loyalty benefits?
+NewBooking_LoyaltyProgram	What are the minimum prerequisite to qualify for loyalty benefits?
+NewBooking_LoyaltyProgram	What are the minimum requirements to qualify for allegiance benefits?
+NewBooking_LoyaltyProgram	What are the minimum requirements to qualify for loyalty gain?
+NewBooking_LoyaltyProgram	What's the best style to track my loyalty progress and earnings?
+NewBooking_LoyaltyProgram	What's the best way to runway my loyalty progress and earnings?
+NewBooking_LoyaltyProgram	What's the best way to track my loyalty advance and earnings?
+NewBooking_LoyaltyProgram	What's the estimable way to track my loyalty progress and earnings?
+NewBooking_LoyaltyProgram	What's the maximum number of loyalty pointedness I can earn in a calendar year?
+NewBooking_LoyaltyProgram	What's the maximum number of loyalty points 1 can earn in a calendar year?
+NewBooking_LoyaltyProgram	What's the maximum number of loyalty points I can earn in a calendar twelvemonth?
+NewBooking_LoyaltyProgram	What's the maximum number of loyalty points I can realise in a calendar year?
+NewBooking_LoyaltyProgram	What's the outgrowth for linking my loyalty account to my booking?
+NewBooking_LoyaltyProgram	What's the process for linking my loyalty account to my reservation?
+NewBooking_LoyaltyProgram	What's the process for linking my loyalty story to my booking?
+NewBooking_LoyaltyProgram	What's the serve for linking my loyalty account to my booking?
+NewBooking_LoyaltyProgram	Will you honor my existing loyalty broadcast with this new booking?
+NewBooking_LoyaltyProgram	Will you honor my existing loyalty program with this novel booking?
+NewBooking_LoyaltyProgram	Will you honour my existing loyalty program with this new booking?
+NewBooking_LoyaltyProgram	Will you reward my existing loyalty program with this new booking?

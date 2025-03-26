@@ -1,0 +1,636 @@
+Help_Faq	Are meals include in the room rate?
+Help_Faq	equal meals included in the room rate?
+Help_Faq	exist meals included in the room rate?
+Help_Faq	represent meals included in the room rate?
+Help_Faq	Are PET allowed in the hotel?
+Help_Faq	Are pets allow in the hotel?
+Help_Faq	Are pets countenance in the hotel?
+Help_Faq	Are pets provide in the hotel?
+Help_Faq	Are there any limitation on food and drink in the hotel dining areas?
+Help_Faq	Are there any restrictions on food and booze in the hotel dining areas?
+Help_Faq	Are there any restrictions on food and tope in the hotel dining areas?
+Help_Faq	equal there any restrictions on food and drink in the hotel dining areas?
+Help_Faq	Are there any confinement on the use of hotel amenities during business hours?
+Help_Faq	Are there any restrictions on the use of hotel amenities during business hr?
+Help_Faq	Are there any restrictions on the use of hotel amenities during byplay hours?
+Help_Faq	Are there any restrictions on the use of hotel amenities during job hours?
+Help_Faq	Are there any restrictions on the manipulation of hotel amenities outside of business hours?
+Help_Faq	Are there any restrictions on the use of hotel amenities external of business hours?
+Help_Faq	Are there any restrictions on the use of hotel amenities extraneous of business hours?
+Help_Faq	Are there any restrictions on the use of hotel amenities outside of business hr?
+Help_Faq	Are there any confinement on the use of hotel equipment such as printers or copiers?
+Help_Faq	Are there any restrictions on the habituate of hotel equipment such as printers or copiers?
+Help_Faq	Are there any restrictions on the use of hotel equipment such as printer or copiers?
+Help_Faq	exist there any restrictions on the use of hotel equipment such as printers or copiers?
+Help_Faq	Are there any restrictions on the usage of hotel facilities during special events?
+Help_Faq	Are there any restrictions on the use of hotel facilities during special event?
+Help_Faq	Are there any restrictions on the utilise of hotel facilities during special events?
+Help_Faq	comprise there any restrictions on the use of hotel facilities during special events?
+Help_Faq	Can I cause a refund if I change my flight plans?
+Help_Faq	Can I scram a refund if I change my flight plans?
+Help_Faq	bum I get a refund if I change my flight plans?
+Help_Faq	butt I get a refund if I change my flight plans?
+Help_Faq	Can I pay with mention card or cash only?
+Help_Faq	lav I pay with credit card or cash only?
+Help_Faq	stern I pay with credit card or cash only?
+Help_Faq	tail I pay with credit card or cash only?
+Help_Faq	Can I request a room with a persuasion?
+Help_Faq	Can I request a room with a reckon?
+Help_Faq	bum I request a room with a view?
+Help_Faq	stern I request a room with a view?
+Help_Faq	Can ace request a specific type of bed or pillows?
+Help_Faq	Can i request a specific type of bed or pillows?
+Help_Faq	Can unity request a specific type of bed or pillows?
+Help_Faq	hindquarters I request a specific type of bed or pillows?
+Help_Faq	Can I request a specific type of bed or linens?
+Help_Faq	Can I request a specific type of know or linens?
+Help_Faq	Can I request a specific type of love or linens?
+Help_Faq	tin I request a specific type of bedding or linens?
+Help_Faq	Can I request a specific type of breakfast nutrient?
+Help_Faq	rump I request a specific type of breakfast food?
+Help_Faq	stern I request a specific type of breakfast food?
+Help_Faq	tail I request a specific type of breakfast food?
+Help_Faq	dismiss I request a specific type of conference materials or catering services?
+Help_Faq	fundament I request a specific type of conference materials or catering services?
+Help_Faq	tin I request a specific type of conference materials or catering services?
+Help_Faq	tush I request a specific type of conference materials or catering services?
+Help_Faq	Can I request a specific type of conference materials or render?
+Help_Faq	Can unity request a specific type of conference materials or supplies?
+Help_Faq	buns I request a specific type of conference materials or supplies?
+Help_Faq	fire I request a specific type of conference materials or supplies?
+Help_Faq	Can I quest a specific type of dietary meal options?
+Help_Faq	Can one request a specific type of dietary meal options?
+Help_Faq	potty I request a specific type of dietary meal options?
+Help_Faq	privy I request a specific type of dietary meal options?
+Help_Faq	Can I request a specific type of recreation or snacks for my event?
+Help_Faq	Can I request a specific type of refreshments or nosh for my event?
+Help_Faq	Can iodine request a specific type of refreshments or snacks for my event?
+Help_Faq	sack I request a specific type of refreshments or snacks for my event?
+Help_Faq	Can I request a specific typewrite of room setup or layout?
+Help_Faq	hindquarters I request a specific type of room setup or layout?
+Help_Faq	potty I request a specific type of room setup or layout?
+Help_Faq	rear I request a specific type of room setup or layout?
+Help_Faq	Can I asking a specific type of tour or excursion package?
+Help_Faq	Can I request a specific type of tour or excursion bundle?
+Help_Faq	arse I request a specific type of tour or excursion package?
+Help_Faq	stern I request a specific type of tour or excursion package?
+Help_Faq	Can I request a specific type of shipping or shuttle services?
+Help_Faq	Can ane request a specific type of transportation or shuttle services?
+Help_Faq	Can i request a specific type of transportation or shuttle services?
+Help_Faq	can I request a specific type of transportation or shuttle services?
+Help_Faq	Can I request a specific type of workplace equipment or supplies?
+Help_Faq	canful I request a specific type of work equipment or supplies?
+Help_Faq	john I request a specific type of work equipment or supplies?
+Help_Faq	keister I request a specific type of work equipment or supplies?
+Help_Faq	Can I request a specific type of play equipment such as audiovisual systems or presentation software?
+Help_Faq	behind I request a specific type of work equipment such as audiovisual systems or presentation software?
+Help_Faq	buttocks I request a specific type of work equipment such as audiovisual systems or presentation software?
+Help_Faq	rear I request a specific type of work equipment such as audiovisual systems or presentation software?
+Help_Faq	Can I request a specific type of work equipment such as contact rooms or boardrooms?
+Help_Faq	Can i request a specific type of work equipment such as meeting rooms or boardrooms?
+Help_Faq	behind I request a specific type of work equipment such as meeting rooms or boardrooms?
+Help_Faq	stern I request a specific type of work equipment such as meeting rooms or boardrooms?
+Help_Faq	Can I request a specific type of run equipment such as printers or faxes?
+Help_Faq	Can unity request a specific type of work equipment such as printers or faxes?
+Help_Faq	terminate I request a specific type of work equipment such as printers or faxes?
+Help_Faq	toilet I request a specific type of work equipment such as printers or faxes?
+Help_Faq	Do you have any package mint for business travelers?
+Help_Faq	Do you have any package plenty for business travelers?
+Help_Faq	Do you have any package sell for business travelers?
+Help_Faq	fare you have any package deals for business travelers?
+Help_Faq	Do you have any furtherance or special offers for corporate clients?
+Help_Faq	Do you have any promotions or special offers for embodied clients?
+Help_Faq	brawl you have any promotions or special offers for corporate clients?
+Help_Faq	practise you have any promotions or special offers for corporate clients?
+Help_Faq	Do you fling airport transfers or shuttle services?
+Help_Faq	Do you offer airport transference or shuttle services?
+Help_Faq	Do you offer airport transport or shuttle services?
+Help_Faq	practise you offer airport transfers or shuttle services?
+Help_Faq	Do you offer any discounts for corporate clients who are journey during holiday seasons?
+Help_Faq	Do you offering any discounts for corporate clients who are traveling during holiday seasons?
+Help_Faq	coiffe you offer any discounts for corporate clients who are traveling during holiday seasons?
+Help_Faq	manage you offer any discounts for corporate clients who are traveling during holiday seasons?
+Help_Faq	Do you offer any discounts for corporate customer who are traveling during off-peak seasons?
+Help_Faq	Do you offer any discounts for incorporated clients who are traveling during off-peak seasons?
+Help_Faq	brawl you offer any discounts for corporate clients who are traveling during off-peak seasons?
+Help_Faq	practise you offer any discounts for corporate clients who are traveling during off-peak seasons?
+Help_Faq	Do you offer any disregard for corporate clients who are traveling in groups?
+Help_Faq	Do you volunteer any discounts for corporate clients who are traveling in groups?
+Help_Faq	coif you offer any discounts for corporate clients who are traveling in groups?
+Help_Faq	fare you offer any discounts for corporate clients who are traveling in groups?
+Help_Faq	Do you offer any discounts for corporate clients who are traveling in large group?
+Help_Faq	Do you offer any discounts for incorporated clients who are traveling in large groups?
+Help_Faq	Do you offer any rebate for corporate clients who are traveling in large groups?
+Help_Faq	behave you offer any discounts for corporate clients who are traveling in large groups?
+Help_Faq	Do you crack any discounts for corporate clients who are traveling in the off-season?
+Help_Faq	Do you offer any discounts for corporate clients who are move in the off-season?
+Help_Faq	Do you volunteer any discounts for corporate clients who are traveling in the off-season?
+Help_Faq	set you offer any discounts for corporate clients who are traveling in the off-season?
+Help_Faq	Do you bid any discounts for corporate clients who are traveling with disabilities?
+Help_Faq	Do you offer any deduction for corporate clients who are traveling with disabilities?
+Help_Faq	coiffe you offer any discounts for corporate clients who are traveling with disabilities?
+Help_Faq	practise you offer any discounts for corporate clients who are traveling with disabilities?
+Help_Faq	Do you go any discounts for corporate clients who book multiple rooms?
+Help_Faq	Do you offer any discounts for corporate clients who book multiple suite?
+Help_Faq	Do you tender any discounts for corporate clients who book multiple rooms?
+Help_Faq	practice you offer any discounts for corporate clients who book multiple rooms?
+Help_Faq	Do you offer any discounts for corporate clients who Quran through a travel agent?
+Help_Faq	Do you offer any discounts for corporate clients who Scripture through a travel agent?
+Help_Faq	Do you offer any discounts for corporate clients who book through a travel factor?
+Help_Faq	Do you offer any discounts for corporate clients who reserve through a travel agent?
+Help_Faq	Do you offer any discounts for boastfully groups or events?
+Help_Faq	Do you offer any discounts for large groups or effect?
+Help_Faq	Do you offer any discounts for large groups or result?
+Help_Faq	answer you offer any discounts for large groups or events?
+Help_Faq	Do you go any discounts for long-term stays?
+Help_Faq	Do you volunteer any discounts for long-term stays?
+Help_Faq	coif you offer any discounts for long-term stays?
+Help_Faq	dress you offer any discounts for long-term stays?
+Help_Faq	Do you offer any discounts for military personnel or maiden responders?
+Help_Faq	Do you offer any discounts for military personnel or offset responders?
+Help_Faq	bash you offer any discounts for military personnel or first responders?
+Help_Faq	behave you offer any discounts for military personnel or first responders?
+Help_Faq	Do you fling any discounts for students who are traveling with family members?
+Help_Faq	Do you offer any discounts for students who are jaunt with family members?
+Help_Faq	Do you offer any discounts for students who are traveling with mob members?
+Help_Faq	manage you offer any discounts for students who are traveling with family members?
+Help_Faq	Do you extend any discounts for students?
+Help_Faq	Do you whirl any discounts for students?
+Help_Faq	act you offer any discounts for students?
+Help_Faq	suffice you offer any discounts for students?
+Help_Faq	How do I Quran a meeting room at the conference center?
+Help_Faq	How do I book a meeting room at the conference nub?
+Help_Faq	How do I book a meeting room at the conference rivet?
+Help_Faq	How do i book a meeting room at the conference center?
+Help_Faq	How do I Quran a meeting room with audiovisual equipment?
+Help_Faq	How do I Word a meeting room with audiovisual equipment?
+Help_Faq	How do I book a encounter room with audiovisual equipment?
+Help_Faq	How do I leger a meeting room with audiovisual equipment?
+Help_Faq	How do I Koran a meeting room with catering services?
+Help_Faq	How do I book a fit room with catering services?
+Help_Faq	How do I book a fulfil room with catering services?
+Help_Faq	How do I book a meeting room with provide services?
+Help_Faq	How do I Koran a meeting room with internet access and data projections?
+Help_Faq	How do I book a meeting room with internet access and data protrusion?
+Help_Faq	How do I book a see room with internet access and data projections?
+Help_Faq	How do I ledger a meeting room with internet access and data projections?
+Help_Faq	How do I Word a meeting room with technical support and IT services?
+Help_Faq	How do I book a contact room with technical support and IT services?
+Help_Faq	How do I book a meeting room with technical abide and IT services?
+Help_Faq	How do ace book a meeting room with technical support and IT services?
+Help_Faq	How do I book a fit room with technical support services?
+Help_Faq	How do I book a meeting room with technical corroborate services?
+Help_Faq	How do I book a meeting room with technical suffer services?
+Help_Faq	How do ace book a meeting room with technical support services?
+Help_Faq	How do I book a rental car for my business misstep?
+Help_Faq	How do I playscript a rental car for my business trip?
+Help_Faq	How do ace book a rental car for my business trip?
+Help_Faq	How do iodine book a rental car for my business trip?
+Help_Faq	How do I Book a room with a private balcony?
+Help_Faq	How do I Quran a room with a private balcony?
+Help_Faq	How do I hold a room with a private balcony?
+Help_Faq	How do one book a room with a private balcony?
+Help_Faq	How do I book a room with a separate captivate and private access?
+Help_Faq	How do I book a room with a separate entry and private access?
+Help_Faq	How do I book a way with a separate entrance and private access?
+Help_Faq	How do one book a room with a separate entrance and private access?
+Help_Faq	How do I book a room with a discriminate entrance or access?
+Help_Faq	How do I book a room with a separate bewitch or access?
+Help_Faq	How do I book a room with a separate capture or access?
+Help_Faq	How do I book a room with a separate entrance or accession?
+Help_Faq	How do I book a room with a branch living area and kitchenette?
+Help_Faq	How do I book a room with a separate experience area and kitchenette?
+Help_Faq	How do I book a room with a separate go area and kitchenette?
+Help_Faq	How do I book a room with a separate living expanse and kitchenette?
+Help_Faq	How do I book a room with a secernate living area and private balcony?
+Help_Faq	How do I book a room with a separate surviving area and private balcony?
+Help_Faq	How do I book a room with a split living area and private balcony?
+Help_Faq	How do I book a room with a tell living area and private balcony?
+Help_Faq	How do I al-Qur'an a room with a separate living area?
+Help_Faq	How do I book a room with a discriminate living area?
+Help_Faq	How do I book a room with a separate keep area?
+Help_Faq	How do unity book a room with a separate living area?
+Help_Faq	How do I check in other?
+Help_Faq	How do I stoppage in early?
+Help_Faq	How do I tab in early?
+Help_Faq	How do I watch in early?
+Help_Faq	How do I checkout out of my room early?
+Help_Faq	How do I chip out of my room early?
+Help_Faq	How do I determine out of my room early?
+Help_Faq	How do I hinderance out of my room early?
+Help_Faq	Is there Wi-Fi available in all suite?
+Help_Faq	Is there Wi-Fi available in all way?
+Help_Faq	comprise there Wi-Fi available in all rooms?
+Help_Faq	represent there Wi-Fi available in all rooms?
+Help_Faq	Is there a business center or office infinite available for rent?
+Help_Faq	Is there a business center or office space available for engage?
+Help_Faq	Is there a business midway or office space available for rent?
+Help_Faq	Is there a business plaza or office space available for rent?
+Help_Faq	Is there a business class service available for sponsor travelers?
+Help_Faq	Is there a business class service usable for frequent travelers?
+Help_Faq	be there a business class service available for frequent travelers?
+Help_Faq	follow there a business class service available for frequent travelers?
+Help_Faq	Is there a business locomotion program available for frequent travelers?
+Help_Faq	Is there a business travel plan available for frequent travelers?
+Help_Faq	Is there a business trip program available for frequent travelers?
+Help_Faq	Is there a line travel program available for frequent travelers?
+Help_Faq	Is there a concierge avail available to assist with local attractions?
+Help_Faq	Is there a concierge service uncommitted to assist with local attractions?
+Help_Faq	equal there a concierge service available to assist with local attractions?
+Help_Faq	follow there a concierge service available to assist with local attractions?
+Help_Faq	Is there a concierge service available to aid with travel arrangements?
+Help_Faq	Is there a concierge service available to assist with jaunt arrangements?
+Help_Faq	Is there a concierge service available to assist with trip arrangements?
+Help_Faq	comprise there a concierge service available to assist with travel arrangements?
+Help_Faq	Is there a gym or fitness midway available on site?
+Help_Faq	Is there a gym or fitness sum available on site?
+Help_Faq	Is there a gym or seaworthiness center available on site?
+Help_Faq	be there a gym or fitness center available on site?
+Help_Faq	Is there a laundry service or self-service automobile available?
+Help_Faq	Is there a laundry service or self-service machine available?
+Help_Faq	Is there a laundry service or self-service motorcar available?
+Help_Faq	represent there a laundry service or self-service machines available?
+Help_Faq	Is there a trueness program available for frequent travelers?
+Help_Faq	be there a loyalty program available for frequent travelers?
+Help_Faq	exist there a loyalty program available for frequent travelers?
+Help_Faq	represent there a loyalty program available for frequent travelers?
+Help_Faq	Is there a security service available to provide additional safety cadence?
+Help_Faq	Is there a security service available to provide additional safety step?
+Help_Faq	Is there a security service available to provide additional safety value?
+Help_Faq	Is there a security service useable to provide additional safety measures?
+Help_Faq	What are your hotel insurance for cancellations?
+Help_Faq	What are your hotel policies for cancellation?
+Help_Faq	What are your hotel policies for cancellations?
+Help_Faq	What are your hotel policy for cancellations?
+Help_Faq	What are your authority hours and contact information?
+Help_Faq	What are your office hours and meet information?
+Help_Faq	What are your office hours and touch information?
+Help_Faq	What are your power hours and contact information?
+Help_Faq	What are your policies on bringing food and wassail into the hotel?
+Help_Faq	What are your policies on get food and drink into the hotel?
+Help_Faq	What are your policies on institute food and drink into the hotel?
+Help_Faq	What are your policies on play food and drink into the hotel?
+Help_Faq	What are your policies on same-day deepen to reservations?
+Help_Faq	What are your policies on same-day exchange to reservations?
+Help_Faq	What are your policies on same-day shift to reservations?
+Help_Faq	What are your policies on same-day variety to reservations?
+Help_Faq	What is your policy on damages to hotel belongings or equipment?
+Help_Faq	What is your policy on damages to hotel dimension or equipment?
+Help_Faq	What is your policy on price to hotel property or equipment?
+Help_Faq	What is your policy on wrong to hotel property or equipment?
+Help_Faq	What is your policy on damages to personal items in the hotel suite?
+Help_Faq	What is your policy on damages to personal items in the hotel way?
+Help_Faq	What is your policy on damages to personal token in the hotel rooms?
+Help_Faq	What is your policy on price to personal items in the hotel rooms?
+Help_Faq	What is your policy on confounded or stolen luggage?
+Help_Faq	What is your policy on helpless or stolen luggage?
+Help_Faq	What is your policy on mazed or stolen luggage?
+Help_Faq	What is your policy on missed or stolen luggage?
+Help_Faq	What is your policy on lost phone charger or other personal items?
+Help_Faq	What is your policy on lost phone chargers or other personal token?
+Help_Faq	What is your policy on lost sound chargers or other personal items?
+Help_Faq	What is your policy on suffer phone chargers or other personal items?
+Help_Faq	What is your policy on refunds for cancellations due to trajectory delays?
+Help_Faq	What is your policy on refunds for cancellations referable to flight delays?
+Help_Faq	What is your policy on repay for cancellations due to flight delays?
+Help_Faq	What is your policy on repayment for cancellations due to flight delays?
+Help_Faq	What is your policy on refunds for cancellations due to inclement upwind?
+Help_Faq	What is your policy on refunds for cancellations referable to inclement weather?
+Help_Faq	What is your policy on repayment for cancellations due to inclement weather?
+Help_Faq	What is your policy on return for cancellations due to inclement weather?
+Help_Faq	What is your policy on refunds for changes to travel contrive due to airline cancellations?
+Help_Faq	What is your policy on refunds for changes to travel plans imputable to airline cancellations?
+Help_Faq	What is your policy on refunds for modify to travel plans due to airline cancellations?
+Help_Faq	What is your policy on refunds for transfer to travel plans due to airline cancellations?
+Help_Faq	What is your policy on refunds for changes to jaunt plans due to inclement weather?
+Help_Faq	What is your policy on refunds for changes to locomote plans due to inclement weather?
+Help_Faq	What is your policy on refunds for changes to travel plans due to inclement brave?
+Help_Faq	What is your policy on refunds for changes to travel program due to inclement weather?
+Help_Faq	What is your insurance on refunds for unscheduled cancellations?
+Help_Faq	What is your policy on refund for unscheduled cancellations?
+Help_Faq	What is your policy on repay for unscheduled cancellations?
+Help_Faq	What is your policy on repayment for unscheduled cancellations?
+Help_Faq	What is your insurance on smoking in the hotel rooms?
+Help_Faq	What is your policy on smoke in the hotel rooms?
+Help_Faq	What is your policy on smoking in the hotel room?
+Help_Faq	What is your policy on smoking in the hotel suite?
+Help_Faq	What is your policy on taxation and gratuities?
+Help_Faq	What is your policy on taxes and bakshis?
+Help_Faq	What is your policy on taxes and bakshish?
+Help_Faq	What is your policy on taxes and pourboire?
+Help_Faq	Are there any travel restrictions or warnings 1 should know about?
+Help_Faq	Are there any travel restrictions or warnings single should know about?
+Help_Faq	Are there any traveling restrictions or warnings I should know about?
+Help_Faq	represent there any travel restrictions or warnings I should know about?
+Help_Faq	Can I book flights and hotels together in unmatched booking?
+Help_Faq	Can I hold flights and hotels together in one booking?
+Help_Faq	Can I leger flights and hotels together in one booking?
+Help_Faq	throne I book flights and hotels together in one booking?
+Help_Faq	Can 1 book flights and hotels with a coupon code or promo code?
+Help_Faq	Can iodine book flights and hotels with a coupon code or promo code?
+Help_Faq	lavatory I book flights and hotels with a coupon code or promo code?
+Help_Faq	tooshie I book flights and hotels with a coupon code or promo code?
+Help_Faq	Can I book flights and hotels with a credit scorecard?
+Help_Faq	Can I volume flights and hotels with a credit card?
+Help_Faq	Can ane book flights and hotels with a credit card?
+Help_Faq	bathroom I book flights and hotels with a credit card?
+Help_Faq	Can I book flights and rent cars separately in one book?
+Help_Faq	Can I reserve flights and rent cars separately in one booking?
+Help_Faq	privy I book flights and rent cars separately in one booking?
+Help_Faq	stool I book flights and rent cars separately in one booking?
+Help_Faq	Can I book flights and rent cars together in unmatched booking?
+Help_Faq	Can I script flights and rent cars together in one booking?
+Help_Faq	seat I book flights and rent cars together in one booking?
+Help_Faq	stern I book flights and rent cars together in one booking?
+Help_Faq	Can I Bible flights and rent cars with a debit card?
+Help_Faq	Can I book flights and hire cars with a debit card?
+Help_Faq	Can I book flights and pull cars with a debit card?
+Help_Faq	throne I book flights and rent cars with a debit card?
+Help_Faq	Can iodine book flights for others as well?
+Help_Faq	Can single book flights for others as well?
+Help_Faq	butt I book flights for others as well?
+Help_Faq	keister I book flights for others as well?
+Help_Faq	Can I dumbfound a refund if I cancel my trip suddenly?
+Help_Faq	Can I get a repay if I cancel my trip suddenly?
+Help_Faq	Can I perplex a refund if I cancel my trip suddenly?
+Help_Faq	commode I get a refund if I cancel my trip suddenly?
+Help_Faq	Can I get assistance with finding populace transportation to nearby destinations?
+Help_Faq	Can I get assistance with witness public transportation to nearby destinations?
+Help_Faq	Can I obtain assistance with finding public transportation to nearby destinations?
+Help_Faq	throne I get assistance with finding public transportation to nearby destinations?
+Help_Faq	Can I bear for travel expenses with my credit card?
+Help_Faq	Can one pay for travel expenses with my credit card?
+Help_Faq	commode I pay for travel expenses with my credit card?
+Help_Faq	crapper I pay for travel expenses with my credit card?
+Help_Faq	Can I request a private foregather room during my stay?
+Help_Faq	arse I request a private meeting room during my stay?
+Help_Faq	bottom I request a private meeting room during my stay?
+Help_Faq	fundament I request a private meeting room during my stay?
+Help_Faq	Can I request a room alteration due to noise disturbance?
+Help_Faq	Can I request a room exchange due to noise disturbance?
+Help_Faq	Can I request a room shift due to noise disturbance?
+Help_Faq	toilet I request a room change due to noise disturbance?
+Help_Faq	Can 1 request a specific type of accommodation, such as a room with a view?
+Help_Faq	Can iodin request a specific type of accommodation, such as a room with a view?
+Help_Faq	Can unity request a specific type of accommodation, such as a room with a view?
+Help_Faq	tush I request a specific type of accommodation, such as a room with a view?
+Help_Faq	Can 1 request a specific type of accommodation, such as a suite?
+Help_Faq	Can iodin request a specific type of accommodation, such as a suite?
+Help_Faq	hindquarters I request a specific type of accommodation, such as a suite?
+Help_Faq	pot I request a specific type of accommodation, such as a suite?
+Help_Faq	Can I request a specific type of meal plan during my appease?
+Help_Faq	Can I request a specific type of meal plan during my delay?
+Help_Faq	Can I request a specific type of meal plan during my halt?
+Help_Faq	Can I request a specific type of meal plan during my quell?
+Help_Faq	Can 1 request a specific type of vehicle for my trip?
+Help_Faq	Can one request a specific type of vehicle for my trip?
+Help_Faq	lavatory I request a specific type of vehicle for my trip?
+Help_Faq	tin I request a specific type of vehicle for my trip?
+Help_Faq	Can I bespeak a specific type of vehicle, such as a hybrid car?
+Help_Faq	Can one request a specific type of vehicle, such as a hybrid car?
+Help_Faq	displace I request a specific type of vehicle, such as a hybrid car?
+Help_Faq	posterior I request a specific type of vehicle, such as a hybrid car?
+Help_Faq	Can 1 request a specific type of vehicle, such as an electric car?
+Help_Faq	Can I asking a specific type of vehicle, such as an electric car?
+Help_Faq	Can I request a specific typecast of vehicle, such as an electric car?
+Help_Faq	rear I request a specific type of vehicle, such as an electric car?
+Help_Faq	Can you assure me about our hotel discount program?
+Help_Faq	canful you tell me about our hotel discount program?
+Help_Faq	pot you tell me about our hotel discount program?
+Help_Faq	tail you tell me about our hotel discount program?
+Help_Faq	Do you offer any deduction for frequent flyers or loyalty program members?
+Help_Faq	Do you offer any discounts for haunt flyers or loyalty program members?
+Help_Faq	arrange you offer any discounts for frequent flyers or loyalty program members?
+Help_Faq	suffice you offer any discounts for frequent flyers or loyalty program members?
+Help_Faq	DO you offer any discounts for military personnel or veterans?
+Help_Faq	Do you offer any discounts for military personnel or warhorse?
+Help_Faq	answer you offer any discounts for military personnel or veterans?
+Help_Faq	arrange you offer any discounts for military personnel or veterans?
+Help_Faq	Do you offer any ignore for seniors or students?
+Help_Faq	brawl you offer any discounts for seniors or students?
+Help_Faq	execute you offer any discounts for seniors or students?
+Help_Faq	make you offer any discounts for seniors or students?
+Help_Faq	Do you offer any discounts for scholar or seniors?
+Help_Faq	Do you propose any discounts for students or seniors?
+Help_Faq	coiffe you offer any discounts for students or seniors?
+Help_Faq	practise you offer any discounts for students or seniors?
+Help_Faq	Do you offer any language transformation services for travelers at the airport?
+Help_Faq	Do you offer any language translation avail for travelers at the airport?
+Help_Faq	exercise you offer any language translation services for travelers at the airport?
+Help_Faq	practice you offer any language translation services for travelers at the airport?
+Help_Faq	Do you offer any language version services for travelers?
+Help_Faq	Do you proffer any language translation services for travelers?
+Help_Faq	come you offer any language translation services for travelers?
+Help_Faq	practice you offer any language translation services for travelers?
+Help_Faq	Do you offer any loyalty honour for frequent flyers?
+Help_Faq	Do you offer any loyalty rewards for frequent broadsheet?
+Help_Faq	Do you offer any loyalty rewards for frequent broadside?
+Help_Faq	exercise you offer any loyalty rewards for frequent flyers?
+Help_Faq	Do you extend any loyalty rewards for repeat travelers?
+Help_Faq	Do you offer any loyalty reinforcement for repeat travelers?
+Help_Faq	Do you offer any loyalty rewards for reprise travelers?
+Help_Faq	practice you offer any loyalty rewards for repeat travelers?
+Help_Faq	Do you offer any exceptional rates for groups or teams?
+Help_Faq	Do you offer any special place for groups or teams?
+Help_Faq	Do you offer any special range for groups or teams?
+Help_Faq	doh you offer any special rates for groups or teams?
+Help_Faq	Do you offer any locomote guides or recommendations for destinations?
+Help_Faq	Do you offer any travel guides or recommendation for destinations?
+Help_Faq	answer you offer any travel guides or recommendations for destinations?
+Help_Faq	coif you offer any travel guides or recommendations for destinations?
+Help_Faq	Do you offer any travel insurance policies for pre-paid stumble cancellations?
+Help_Faq	Do you offer any travel insurance policy for pre-paid trip cancellations?
+Help_Faq	Do you pass any travel insurance policies for pre-paid trip cancellations?
+Help_Faq	suffice you offer any travel insurance policies for pre-paid trip cancellations?
+Help_Faq	DO you offer any travel insurance policies?
+Help_Faq	Do you crack any travel insurance policies?
+Help_Faq	execute you offer any travel insurance policies?
+Help_Faq	make you offer any travel insurance policies?
+Help_Faq	Do you offer any travel tips or advice for natter local cities?
+Help_Faq	come you offer any travel tips or advice for visiting local cities?
+Help_Faq	manage you offer any travel tips or advice for visiting local cities?
+Help_Faq	set you offer any travel tips or advice for visiting local cities?
+Help_Faq	Here are 80 statements to coach a corporate travel chatbot:
+Help_Faq	Here are 80 statements to groom a corporate travel chatbot:
+Help_Faq	Here are 80 statements to train a corporate locomotion chatbot:
+Help_Faq	here are 80 statements to train a corporate travel chatbot:
+Help_Faq	How do 1 cancel my booking due to unforeseen circumstances?
+Help_Faq	How do I cancel my booking due to unforeseen circumstance?
+Help_Faq	How do I cancel my engagement due to unforeseen circumstances?
+Help_Faq	How do I cancel my reserve due to unforeseen circumstances?
+Help_Faq	How do I cancel my go plans due to unforeseen circumstances?
+Help_Faq	How do I cancel my travel contrive due to unforeseen circumstances?
+Help_Faq	How do I cancel my travel plans imputable to unforeseen circumstances?
+Help_Faq	How do one cancel my travel plans due to unforeseen circumstances?
+Help_Faq	How do I contact the customer service team if 1 have questions about my booking?
+Help_Faq	How do I contact the customer service team if I have questions about my book?
+Help_Faq	How do I meet the customer service team if I have questions about my booking?
+Help_Faq	How do one contact the customer service team if I have questions about my booking?
+Help_Faq	How do I contact the customer service team if 1 have questions about my travel plans?
+Help_Faq	How do I contact the customer service team if I have motion about my travel plans?
+Help_Faq	How do I contact the customer service team if iodine have questions about my travel plans?
+Help_Faq	How do I liaison the customer service team if I have questions about my travel plans?
+Help_Faq	How do I contact the customer serve team if I have questions?
+Help_Faq	How do I contact the customer service team if 1 have questions?
+Help_Faq	How do I reach the customer service team if I have questions?
+Help_Faq	How do I striking the customer service team if I have questions?
+Help_Faq	How do 1 file a complaint about poor customer service from an employee?
+Help_Faq	How do I file a complaint about hapless customer service from an employee?
+Help_Faq	How do I file a complaint about short customer service from an employee?
+Help_Faq	How do I register a complaint about poor customer service from an employee?
+Help_Faq	How do I charge a complaint about poor customer service?
+Help_Faq	How do I file a complaint about poor customer avail?
+Help_Faq	How do I file a complaint about poor customer overhaul?
+Help_Faq	How do I file a ill about poor customer service?
+Help_Faq	How do I file a complaint about hapless service from an airport staff member?
+Help_Faq	How do I file a complaint about pathetic service from an airport staff member?
+Help_Faq	How do I file a complaint about poor Service from an airport staff member?
+Help_Faq	How do I file a complaint about poor service from an airport staff appendage?
+Help_Faq	How do 1 make a payment over the phone?
+Help_Faq	How do I cook a payment over the phone?
+Help_Faq	How do I do a payment over the phone?
+Help_Faq	How do I take a payment over the phone?
+Help_Faq	How do I report lost or happen items at the airport?
+Help_Faq	How do I report lost or plant items at the airport?
+Help_Faq	How do I report lost or recover items at the airport?
+Help_Faq	How do I report preoccupied or found items at the airport?
+Help_Faq	How do I report lost or ascertain luggage at the airport?
+Help_Faq	How do I report lost or rule luggage at the airport?
+Help_Faq	How do I report miss or found luggage at the airport?
+Help_Faq	How do iodin report lost or found luggage at the airport?
+Help_Faq	How do I report confounded or stolen luggage?
+Help_Faq	How do I report lost or slip luggage?
+Help_Faq	How do I report lost or steal luggage?
+Help_Faq	How do I report lost or stolen baggage?
+Help_Faq	How do I postulation a special meal due to dietary restrictions?
+Help_Faq	How do I request a limited meal due to dietary restrictions?
+Help_Faq	How do I request a special repast due to dietary restrictions?
+Help_Faq	How do ane request a special meal due to dietary restrictions?
+Help_Faq	How do I course the status of my flight booking?
+Help_Faq	How do I path the status of my flight booking?
+Help_Faq	How do I raceway the status of my flight booking?
+Help_Faq	How do I track the status of my flight book?
+Help_Faq	How long can I hitch at our designated hotels?
+Help_Faq	How long can I stay at our designated hotel?
+Help_Faq	How long can I stay at our fate hotels?
+Help_Faq	How long can I stay at our intend hotels?
+Help_Faq	I'm planning a trip for make, what options do you have?
+Help_Faq	I'm planning a trip for mold, what options do you have?
+Help_Faq	I'm planning a trip for run, what options do you have?
+Help_Faq	I'm planning a trip for solve, what options do you have?
+Help_Faq	Is it possible to come a discount if I'm traveling during off-peak season?
+Help_Faq	Is it possible to get a discount if I'm travelling during off-peak season?
+Help_Faq	Is it possible to mystify a discount if I'm traveling during off-peak season?
+Help_Faq	Is it possible to obtain a discount if I'm traveling during off-peak season?
+Help_Faq	Is there a business nitty-gritty available at our hotels?
+Help_Faq	Is there a business substance available at our hotels?
+Help_Faq	Is there a line center available at our hotels?
+Help_Faq	be there a business center available at our hotels?
+Help_Faq	Is there a fitness centre or spa available at our hotels?
+Help_Faq	Is there a fitness focus or spa available at our hotels?
+Help_Faq	Is there a fitness snapper or spa available at our hotels?
+Help_Faq	exist there a fitness center or spa available at our hotels?
+Help_Faq	Is there a waiting list for board at our designated hotels?
+Help_Faq	Is there a waiting list for rooms at our assign hotels?
+Help_Faq	be there a waiting list for rooms at our designated hotels?
+Help_Faq	constitute there a waiting list for rooms at our designated hotels?
+Help_Faq	Is there an ATM available in the hotel foyer?
+Help_Faq	Is there an atm available in the hotel lobby?
+Help_Faq	cost there an ATM available in the hotel lobby?
+Help_Faq	embody there an ATM available in the hotel lobby?
+Help_Faq	Is there an age limit for children travel with adults?
+Help_Faq	Is there an age restrict for children traveling with adults?
+Help_Faq	embody there an age limit for children traveling with adults?
+Help_Faq	exist there an age limit for children traveling with adults?
+Help_Faq	Is there an airport lounge available for line travelers?
+Help_Faq	Is there an airport lounge usable for business travelers?
+Help_Faq	cost there an airport lounge available for business travelers?
+Help_Faq	equal there an airport lounge available for business travelers?
+Help_Faq	Is there an airport lounge usable for travelers?
+Help_Faq	Is there an airport lurk available for travelers?
+Help_Faq	Is there an airport tarry available for travelers?
+Help_Faq	comprise there an airport lounge available for travelers?
+Help_Faq	Is there an airport shuttle help available from nearby cities?
+Help_Faq	Is there an airport shuttle service usable from nearby cities?
+Help_Faq	be there an airport shuttle service available from nearby cities?
+Help_Faq	follow there an airport shuttle service available from nearby cities?
+Help_Faq	Is there an airport shuttle avail available from nearby hotels?
+Help_Faq	Is there an airport shuttle overhaul available from nearby hotels?
+Help_Faq	Is there an airport shuttle service uncommitted from nearby hotels?
+Help_Faq	live there an airport shuttle service available from nearby hotels?
+Help_Faq	Is there an early check-in policy available at our hotel?
+Help_Faq	embody there an early check-in policy available at our hotels?
+Help_Faq	personify there an early check-in policy available at our hotels?
+Help_Faq	represent there an early check-in policy available at our hotels?
+Help_Faq	Is there an early check-in policy available at our International hotels?
+Help_Faq	cost there an early check-in policy available at our international hotels?
+Help_Faq	equal there an early check-in policy available at our international hotels?
+Help_Faq	follow there an early check-in policy available at our international hotels?
+Help_Faq	Is your website user-friendly and gentle to navigate?
+Help_Faq	Is your website user-friendly and sluttish to navigate?
+Help_Faq	Is your website user-friendly and soft to navigate?
+Help_Faq	personify your website user-friendly and easy to navigate?
+Help_Faq	What's the best sentence to book flights for optimal prices?
+Help_Faq	What's the better time to book flights for optimal prices?
+Help_Faq	What's the skilful time to book flights for optimal prices?
+Help_Faq	What's the unspoiled time to book flights for optimal prices?
+Help_Faq	What's the companionship policy on baggage fees?
+Help_Faq	What's the company insurance on baggage fees?
+Help_Faq	What's the company policy on baggage tip?
+Help_Faq	What's the company policy on luggage fees?
+Help_Faq	What's the accompany policy on meal options at airport hotels?
+Help_Faq	What's the caller policy on meal options at airport hotels?
+Help_Faq	What's the companion policy on meal options at airport hotels?
+Help_Faq	What's the company policy on meal choice at airport hotels?
+Help_Faq	What's your company policy on tilt airport staff members?
+Help_Faq	What's your company policy on tipping airport staff extremity?
+Help_Faq	What's your party policy on tipping airport staff members?
+Help_Faq	What's your society policy on tipping airport staff members?
+Help_Faq	What's your company policy on bung hotel staff members?
+Help_Faq	What's your company policy on tumble hotel staff members?
+Help_Faq	What's your party policy on tipping hotel staff members?
+Help_Faq	What's your troupe policy on tipping hotel staff members?
+Help_Faq	What's your company policy on locomote during holidays?
+Help_Faq	What's your company policy on move during holidays?
+Help_Faq	What's your company policy on traveling during holidays?
+Help_Faq	What's your company policy on trip during holidays?
+Help_Faq	What's your company policy on travel during flower seasons?
+Help_Faq	What's your company policy on travel during peak harden?
+Help_Faq	What's your company policy on travel during tip seasons?
+Help_Faq	What's your fellowship policy on travel during peak seasons?
+Help_Faq	What's your customer service come and hours?
+Help_Faq	What's your customer service number and minute?
+Help_Faq	What's your customer servicing number and hours?
+Help_Faq	What's your customer serving number and hours?
+Help_Faq	What's your policy on baggage memory during layovers in Europe?
+Help_Faq	What's your policy on baggage storage during layover in Europe?
+Help_Faq	What's your policy on baggage storage during layovers in EEC?
+Help_Faq	What's your policy on baggage store during layovers in Europe?
+Help_Faq	What's your policy on baggage depot during layovers?
+Help_Faq	What's your policy on baggage memory during layovers?
+Help_Faq	What's your policy on baggage repositing during layovers?
+Help_Faq	What's your policy on luggage storage during layovers?
+Help_Faq	What's your policy on escape cancellations?
+Help_Faq	What's your policy on fledge cancellations?
+Help_Faq	What's your policy on flight cancellation?
+Help_Faq	What's your policy on trajectory cancellations?
+Help_Faq	What's your insurance on luggage fees for international flights?
+Help_Faq	What's your policy on luggage bung for international flights?
+Help_Faq	What's your policy on luggage fee for international flights?
+Help_Faq	What's your policy on luggage fees for international flying?
+Help_Faq	What's your policy on baggage fees for long-haul flights?
+Help_Faq	What's your policy on luggage bung for long-haul flights?
+Help_Faq	What's your policy on luggage fees for long-haul escape?
+Help_Faq	What's your policy on luggage tip for long-haul flights?
+Help_Faq	What's your policy on baggage storage at the airport?
+Help_Faq	What's your policy on luggage entrepot at the airport?
+Help_Faq	What's your policy on luggage store at the airport?
+Help_Faq	What's your policy on luggage warehousing at the airport?
+Help_Faq	What's your policy on Mobile check-in for flight bookings?
+Help_Faq	What's your policy on fluid check-in for flight bookings?
+Help_Faq	What's your policy on peregrine check-in for flight bookings?
+Help_Faq	What's your policy on wandering check-in for flight bookings?
+Help_Faq	What's your policy on refunds for cancelled case or meetings?
+Help_Faq	What's your policy on refunds for cancelled events or encounter?
+Help_Faq	What's your policy on refunds for cancelled outcome or meetings?
+Help_Faq	What's your policy on refunds for scrub events or meetings?
