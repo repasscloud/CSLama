@@ -1,0 +1,512 @@
+Help_LiveAgent	Can you assist me in bump a hotel room without any issues?
+Help_LiveAgent	canful you assist me in finding a hotel room without any issues?
+Help_LiveAgent	hindquarters you assist me in finding a hotel room without any issues?
+Help_LiveAgent	pot you assist me in finding a hotel room without any issues?
+Help_LiveAgent	Can you help me with a group booking of 50 people at the finish minute?
+Help_LiveAgent	Can you help me with a group booking of 50 people at the last bit?
+Help_LiveAgent	Can you help me with a group reservation of 50 people at the last minute?
+Help_LiveAgent	buns you help me with a group booking of 50 people at the last minute?
+Help_LiveAgent	Can you aid me with a group booking that needs to be booked immediately?
+Help_LiveAgent	Can you facilitate me with a group booking that needs to be booked immediately?
+Help_LiveAgent	nates you help me with a group booking that needs to be booked immediately?
+Help_LiveAgent	tin you help me with a group booking that needs to be booked immediately?
+Help_LiveAgent	Can you assist me with a last-minute cancellation request?
+Help_LiveAgent	Can you helper me with a last-minute cancellation request?
+Help_LiveAgent	stern you help me with a last-minute cancellation request?
+Help_LiveAgent	tin you help me with a last-minute cancellation request?
+Help_LiveAgent	Can you help me with a particular request for a corporate booking?
+Help_LiveAgent	backside you help me with a special request for a corporate booking?
+Help_LiveAgent	commode you help me with a special request for a corporate booking?
+Help_LiveAgent	rump you help me with a special request for a corporate booking?
+Help_LiveAgent	backside you please confirm that the cars I rented through your platform meet our company standards?
+Help_LiveAgent	commode you please confirm that the cars I rented through your platform meet our company standards?
+Help_LiveAgent	dismiss you please confirm that the cars I rented through your platform meet our company standards?
+Help_LiveAgent	keister you please confirm that the cars I rented through your platform meet our company standards?
+Help_LiveAgent	Can you please confirm that the rooms booked through your platform converge our corporate standards?
+Help_LiveAgent	Can you please confirm that the rooms booked through your platform meet our corporate criterion?
+Help_LiveAgent	Can you please confirm that the rooms booked through your platform meet our embodied standards?
+Help_LiveAgent	hindquarters you please confirm that the rooms booked through your platform meet our corporate standards?
+Help_LiveAgent	Can you please assistant me cancel a booking that wasn't made through your platform?
+Help_LiveAgent	Can you please help me cancel a booking that wasn't ready through your platform?
+Help_LiveAgent	Can you please service me cancel a booking that wasn't made through your platform?
+Help_LiveAgent	seat you please help me cancel a booking that wasn't made through your platform?
+Help_LiveAgent	Can you please furnish information on the conference rates and packages available?
+Help_LiveAgent	Can you please provide information on the conference place and packages available?
+Help_LiveAgent	bottom you please provide information on the conference rates and packages available?
+Help_LiveAgent	hindquarters you please provide information on the conference rates and packages available?
+Help_LiveAgent	Can you provide information on your corporal policies and procedures?
+Help_LiveAgent	rump you provide information on your corporate policies and procedures?
+Help_LiveAgent	throne you provide information on your corporate policies and procedures?
+Help_LiveAgent	tin you provide information on your corporate policies and procedures?
+Help_LiveAgent	Can you provide some options for meeting rooms that can accommodate 50 multitude?
+Help_LiveAgent	Can you provide some selection for meeting rooms that can accommodate 50 people?
+Help_LiveAgent	john you provide some options for meeting rooms that can accommodate 50 people?
+Help_LiveAgent	throne you provide some options for meeting rooms that can accommodate 50 people?
+Help_LiveAgent	I can't find any flights available for my activate tomorrow.
+Help_LiveAgent	I can't find any flights available for my trip-up tomorrow.
+Help_LiveAgent	I can't see any flights available for my trip tomorrow.
+Help_LiveAgent	i can't find any flights available for my trip tomorrow.
+Help_LiveAgent	I just found out that my fledge has been cancelled due to bad weather.
+Help_LiveAgent	I just found out that my flight has been cancelled due to big weather.
+Help_LiveAgent	I just incur out that my flight has been cancelled due to bad weather.
+Help_LiveAgent	I just see out that my flight has been cancelled due to bad weather.
+Help_LiveAgent	I just lost my flight itinerary and can't chance it anywhere.
+Help_LiveAgent	I just lost my flight itinerary and can't regain it anywhere.
+Help_LiveAgent	iodin just lost my flight itinerary and can't find it anywhere.
+Help_LiveAgent	unity just lost my flight itinerary and can't find it anywhere.
+Help_LiveAgent	I'm having fuss checking in online and need assistance.
+Help_LiveAgent	I'm having trouble checking in online and motivation assistance.
+Help_LiveAgent	I'm having trouble chequer in online and need assistance.
+Help_LiveAgent	I'm having trouble discipline in online and need assistance.
+Help_LiveAgent	I'm trying to book a confluence room but it's full every time I try.
+Help_LiveAgent	I'm trying to book a meeting room but it's full every time ane try.
+Help_LiveAgent	I'm trying to record a meeting room but it's full every time I try.
+Help_LiveAgent	I'm trying to script a meeting room but it's full every time I try.
+Help_LiveAgent	I'm sample to book an extra night's stay but the system keeps giving errors.
+Help_LiveAgent	I'm trying to book an extra night's abide but the system keeps giving errors.
+Help_LiveAgent	I'm trying to book an extra night's remain but the system keeps giving errors.
+Help_LiveAgent	I'm trying to book an extra night's stay but the system support giving errors.
+Help_LiveAgent	I'm taste to get an extension on my existing reservation but it's not working.
+Help_LiveAgent	I'm trying to get an extension on my existing reserve but it's not working.
+Help_LiveAgent	I'm trying to get an wing on my existing reservation but it's not working.
+Help_LiveAgent	I'm trying to puzzle an extension on my existing reservation but it's not working.
+Help_LiveAgent	I'm attempt to make changes to my existing reservation but it's causing issues.
+Help_LiveAgent	I'm examine to make changes to my existing reservation but it's causing issues.
+Help_LiveAgent	I'm trying to make changes to my existing reservation but it's causing outlet.
+Help_LiveAgent	I'm trying to make modify to my existing reservation but it's causing issues.
+Help_LiveAgent	I'm trying to make changes to my existing reservation but it's causing some issues with my peak.
+Help_LiveAgent	I'm trying to make convert to my existing reservation but it's causing some issues with my bill.
+Help_LiveAgent	I'm trying to pee changes to my existing reservation but it's causing some issues with my bill.
+Help_LiveAgent	I'm trying to stimulate changes to my existing reservation but it's causing some issues with my bill.
+Help_LiveAgent	I've been stress to check in online for hours and no success.
+Help_LiveAgent	I've been trying to agree in online for hours and no success.
+Help_LiveAgent	I've been trying to halt in online for hours and no success.
+Help_LiveAgent	I've been trying to moderate in online for hours and no success.
+Help_LiveAgent	My assistant is unavailable and 1 need your help urgently.
+Help_LiveAgent	My assistant is unavailable and I motivation your help urgently.
+Help_LiveAgent	My assistant is unavailable and I need your facilitate urgently.
+Help_LiveAgent	My assistant is unavailable and ane need your help urgently.
+Help_LiveAgent	My business needs to book rooms for 20 people tonight but I demand availability ASAP.
+Help_LiveAgent	My business needs to book rooms for 20 people tonight but I pauperism availability ASAP.
+Help_LiveAgent	My business needs to book rooms for XX people tonight but I need availability ASAP.
+Help_LiveAgent	My business needs to playscript rooms for 20 people tonight but I need availability ASAP.
+Help_LiveAgent	My car rental has an event with the vehicle I was given.
+Help_LiveAgent	My car rental has an issue with the vehicle I was devote.
+Help_LiveAgent	My car rental has an matter with the vehicle I was given.
+Help_LiveAgent	My car rental has an offspring with the vehicle I was given.
+Help_LiveAgent	My colleague is having issues with their laptop and motive technical support.
+Help_LiveAgent	My colleague is having issues with their laptop and needs technical endure.
+Help_LiveAgent	My colleague is having issues with their laptop and needs technical keep.
+Help_LiveAgent	My colleague is having topic with their laptop and needs technical support.
+Help_LiveAgent	My colleague is having inconvenience with their laptop's Wi-Fi connection and needs help resolving it.
+Help_LiveAgent	My colleague is having trouble with their laptop's Wi-Fi connectedness and needs help resolving it.
+Help_LiveAgent	My colleague is having trouble with their laptop's Wi-Fi connection and needs serve resolving it.
+Help_LiveAgent	My colleague is having worry with their laptop's Wi-Fi connection and needs help resolving it.
+Help_LiveAgent	My colleague is having hassle with their meeting room booking and I need help resolving it.
+Help_LiveAgent	My colleague is having trouble with their meeting room booking and iodine need help resolving it.
+Help_LiveAgent	My colleague is having trouble with their meeting room booking and unity need help resolving it.
+Help_LiveAgent	My colleague is having trouble with their meeting room reserve and I need help resolving it.
+Help_LiveAgent	My colleague needs assistance with their hotel room and is having discommode finding information.
+Help_LiveAgent	My colleague needs assistance with their hotel room and is having trouble determine information.
+Help_LiveAgent	My colleague needs assistance with their hotel room and is having trouble feel information.
+Help_LiveAgent	My colleague pauperization assistance with their hotel room and is having trouble finding information.
+Help_LiveAgent	My colleague needs assistance with their hotel room booking and can't begin it done themselves.
+Help_LiveAgent	My colleague needs assistance with their hotel room booking and can't dumbfound it done themselves.
+Help_LiveAgent	My colleague needs assistance with their hotel room booking and can't get it dress themselves.
+Help_LiveAgent	My colleague needs assistance with their hotel room booking and can't mother it done themselves.
+Help_LiveAgent	My hotel is not up to the corporate standards I await.
+Help_LiveAgent	My hotel is not up to the corporate standards I carry.
+Help_LiveAgent	My hotel is not up to the corporate touchstone I expect.
+Help_LiveAgent	My hotel is not up to the incorporated standards I expect.
+Help_LiveAgent	My hotel room was supposed to be non-smoking but I scent smoke.
+Help_LiveAgent	My hotel room was supposed to be non-smoking but I smell sens.
+Help_LiveAgent	My hotel room was supposed to be non-smoking but iodin smell smoke.
+Help_LiveAgent	My hotel room was supposed to be non-smoking but iodine smell smoke.
+Help_LiveAgent	Our business demand to book cars for 10 people but we need availability ASAP.
+Help_LiveAgent	Our business needs to Word cars for 10 people but we need availability ASAP.
+Help_LiveAgent	Our business needs to book auto for 10 people but we need availability ASAP.
+Help_LiveAgent	Our business needs to leger cars for 10 people but we need availability ASAP.
+Help_LiveAgent	Our company has confounded its flight itinerary due to human error.
+Help_LiveAgent	Our company has lost its flight itinerary imputable to human error.
+Help_LiveAgent	Our company has misplace its flight itinerary due to human error.
+Help_LiveAgent	Our company has recede its flight itinerary due to human error.
+Help_LiveAgent	Our company has lost its adjoin room key card and I need assistance finding a replacement.
+Help_LiveAgent	Our company has lost its meeting room key card and I necessitate assistance finding a replacement.
+Help_LiveAgent	Our company has lost its meeting room key card and I need assistance finding a substitution.
+Help_LiveAgent	Our company has lost its meeting room key card and I postulate assistance finding a replacement.
+Help_LiveAgent	The address for our encounter room is incorrect, can you confirm?
+Help_LiveAgent	The address for our match room is incorrect, can you confirm?
+Help_LiveAgent	The address for our meeting board is incorrect, can you confirm?
+Help_LiveAgent	The address for our meeting room is faulty, can you confirm?
+Help_LiveAgent	The conference rates for our company are not meeting expectations, can you discuss selection?
+Help_LiveAgent	The conference rates for our troupe are not meeting expectations, can you discuss options?
+Help_LiveAgent	The conference shop for our company are not meeting expectations, can you discuss options?
+Help_LiveAgent	The conference stag for our company are not meeting expectations, can you discuss options?
+Help_LiveAgent	The contact room we booked earlier was supposed to be equipped with a projector but it's not available.
+Help_LiveAgent	The fill room we booked earlier was supposed to be equipped with a projector but it's not available.
+Help_LiveAgent	The meeting room we book earlier was supposed to be equipped with a projector but it's not available.
+Help_LiveAgent	The play room we booked earlier was supposed to be equipped with a projector but it's not available.
+Help_LiveAgent	The website for your platform is not bring properly, can you fix it?
+Help_LiveAgent	The website for your platform is not exploit properly, can you fix it?
+Help_LiveAgent	The website for your platform is not working properly, can you deposit it?
+Help_LiveAgent	The website for your platform is not working properly, can you fasten it?
+Help_LiveAgent	We have a conference that need to be booked at the last minute, can you help?
+Help_LiveAgent	We have a conference that needs to be book at the last minute, can you help?
+Help_LiveAgent	We have a conference that needs to be booked at the finally minute, can you help?
+Help_LiveAgent	We have a conference that needs to be booked at the last minute, can you service?
+Help_LiveAgent	We have a lot of attendees arriving at different times, what options do you have for comer?
+Help_LiveAgent	We have a mickle of attendees arriving at different times, what options do you have for arrival?
+Help_LiveAgent	We have a mountain of attendees arriving at different times, what options do you have for arrival?
+Help_LiveAgent	We have a stack of attendees arriving at different times, what options do you have for arrival?
+Help_LiveAgent	We have a lot of last-minute changes and could manipulation some assistance.
+Help_LiveAgent	We have a lot of last-minute changes and could use some help.
+Help_LiveAgent	We have a lot of last-minute switch and could use some assistance.
+Help_LiveAgent	We have a lot of last-minute variety and could use some assistance.
+Help_LiveAgent	We have a batch of meetings scheduled back-to-back, can you assist with some tasks?
+Help_LiveAgent	We have a lot of meetings scheduled back-to-back, can you assistance with some tasks?
+Help_LiveAgent	We have a lot of meetings scheduled consecutive, can you assist with some tasks?
+Help_LiveAgent	We have a mint of meetings scheduled back-to-back, can you assist with some tasks?
+Help_LiveAgent	We're having cark getting to our destination due to road closures, can you assist?
+Help_LiveAgent	We're having trouble find to our destination due to road closures, can you assist?
+Help_LiveAgent	We're having trouble getting to our destination due to road block, can you assist?
+Help_LiveAgent	We're having trouble stupefy to our destination due to road closures, can you assist?
+Help_LiveAgent	We're having trouble father to our destination due to traffic, can you assist?
+Help_LiveAgent	We're having trouble getting to our destination referable to traffic, can you assist?
+Help_LiveAgent	We're having trouble vex to our destination due to traffic, can you assist?
+Help_LiveAgent	We're having unhinge getting to our destination due to traffic, can you assist?
+Help_LiveAgent	We're having problem with our audiovisual setup and need technical assistance.
+Help_LiveAgent	We're having trouble with our audiovisual setup and need technological assistance.
+Help_LiveAgent	We're having trouble with our audiovisual setup and penury technical assistance.
+Help_LiveAgent	We're having upset with our audiovisual setup and need technical assistance.
+Help_LiveAgent	We're short staffed at our conference heart, what options do you have?
+Help_LiveAgent	We're short staffed at our conference kernel, what options do you have?
+Help_LiveAgent	We're short staffed at our conference nitty-gritty, what options do you have?
+Help_LiveAgent	We're unretentive staffed at our conference center, what options do you have?
+Help_LiveAgent	We're brusque staffed at our head office today, can you assist us with some tasks?
+Help_LiveAgent	We're scant staffed at our head office today, can you assist us with some tasks?
+Help_LiveAgent	We're short staffed at our head office nowadays, can you assist us with some tasks?
+Help_LiveAgent	We're short-change staffed at our head office today, can you assist us with some tasks?
+Help_LiveAgent	What are the options for rise at our conference rates?
+Help_LiveAgent	What are the options for upgrades at our conference order?
+Help_LiveAgent	What are the options for upgrades at our conference stag?
+Help_LiveAgent	What are the options for upgrades at our conference value?
+Help_LiveAgent	Can you please assist me with booking a car Service that meets our corporate requirements and budget constraints.
+Help_LiveAgent	Can you please help me with booking a car service that meets our corporate requirements and budget constraints.
+Help_LiveAgent	posterior you please assist me with booking a car service that meets our corporate requirements and budget constraints.
+Help_LiveAgent	toilet you please assist me with booking a car service that meets our corporate requirements and budget constraints.
+Help_LiveAgent	Can you please assist me with booking a car service that meets our corporate necessity.
+Help_LiveAgent	Can you please assist me with booking a car service that touch our corporate requirements.
+Help_LiveAgent	Can you please attend me with booking a car service that meets our corporate requirements.
+Help_LiveAgent	can you please assist me with booking a car service that meets our corporate requirements.
+Help_LiveAgent	Can you please help me with booking a car service?
+Help_LiveAgent	backside you please assist me with booking a car service?
+Help_LiveAgent	commode you please assist me with booking a car service?
+Help_LiveAgent	hindquarters you please assist me with booking a car service?
+Help_LiveAgent	behind you please assist me with booking a hotel room for myself or others?
+Help_LiveAgent	fanny you please assist me with booking a hotel room for myself or others?
+Help_LiveAgent	prat you please assist me with booking a hotel room for myself or others?
+Help_LiveAgent	tush you please assist me with booking a hotel room for myself or others?
+Help_LiveAgent	Can you please assist me with booking a hotel room that adjoin our accessibility requirements?
+Help_LiveAgent	Can you please help me with booking a hotel room that meets our accessibility requirements?
+Help_LiveAgent	derriere you please assist me with booking a hotel room that meets our accessibility requirements?
+Help_LiveAgent	prat you please assist me with booking a hotel room that meets our accessibility requirements?
+Help_LiveAgent	Can you please aid me with booking a hotel room that meets our budget requirements.
+Help_LiveAgent	Can you please assist me with booking a hotel room that fill our budget requirements.
+Help_LiveAgent	Can you please assist me with booking a hotel room that meets our budget necessity.
+Help_LiveAgent	tin you please assist me with booking a hotel room that meets our budget requirements.
+Help_LiveAgent	Can you please assist me with booking a caravan ticket to Tokyo?
+Help_LiveAgent	Can you please assist me with booking a civilise ticket to Tokyo?
+Help_LiveAgent	Can you please assist me with booking a rail ticket to Tokyo?
+Help_LiveAgent	Can you please assist me with hold a train ticket to Tokyo?
+Help_LiveAgent	Can you please call the airport to experience if my flight has departed yet?
+Help_LiveAgent	Can you please call the airport to see if my escape has departed yet?
+Help_LiveAgent	Can you please call the airport to see if my flight has diverge yet?
+Help_LiveAgent	Can you please visit the airport to see if my flight has departed yet?
+Help_LiveAgent	Can you delight explain what's included in our meeting room package?
+Help_LiveAgent	Can you please explain what's include in our meeting room package?
+Help_LiveAgent	Can you please explain what's included in our foregather room package?
+Help_LiveAgent	prat you please explain what's included in our meeting room package?
+Help_LiveAgent	Can you please depend up information about local customs and traditions related to business meetings.
+Help_LiveAgent	Can you please look up information about local customs and traditions related to line meetings.
+Help_LiveAgent	Can you please look up information about local customs and traditions related to occupation meetings.
+Help_LiveAgent	toilet you please look up information about local customs and traditions related to business meetings.
+Help_LiveAgent	Can you please reckon up information about local customs in India?
+Help_LiveAgent	Can you please search up information about local customs in India?
+Help_LiveAgent	arse you please look up information about local customs in India?
+Help_LiveAgent	dismiss you please look up information about local customs in India?
+Help_LiveAgent	bathroom you please look up information about local health and safety guidelines for events.
+Help_LiveAgent	fanny you please look up information about local health and safety guidelines for events.
+Help_LiveAgent	rump you please look up information about local health and safety guidelines for events.
+Help_LiveAgent	tin you please look up information about local health and safety guidelines for events.
+Help_LiveAgent	Can you please front up information about local health and safety guidelines?
+Help_LiveAgent	Can you please look up entropy about local health and safety guidelines?
+Help_LiveAgent	bathroom you please look up information about local health and safety guidelines?
+Help_LiveAgent	keister you please look up information about local health and safety guidelines?
+Help_LiveAgent	Can you please feeling up information about local laws and regulations related to business operations.
+Help_LiveAgent	Can you please look up information about local laws and regularization related to business operations.
+Help_LiveAgent	Can you please look up information about local laws and regulations related to business functioning.
+Help_LiveAgent	Can you please look up information about local laws and regulations related to concern operations.
+Help_LiveAgent	Can you please look up information about local laws and regulation?
+Help_LiveAgent	Can you please smell up information about local laws and regulations?
+Help_LiveAgent	prat you please look up information about local laws and regulations?
+Help_LiveAgent	rear you please look up information about local laws and regulations?
+Help_LiveAgent	Can you please feeling up information about local safety and security guidelines for events and conferences?
+Help_LiveAgent	canful you please look up information about local safety and security guidelines for events and conferences?
+Help_LiveAgent	commode you please look up information about local safety and security guidelines for events and conferences?
+Help_LiveAgent	tail you please look up information about local safety and security guidelines for events and conferences?
+Help_LiveAgent	Can you please attend up information about local safety and security guidelines?
+Help_LiveAgent	Can you please count up information about local safety and security guidelines?
+Help_LiveAgent	Can you please search up information about local safety and security guidelines?
+Help_LiveAgent	john you please look up information about local safety and security guidelines?
+Help_LiveAgent	How do I bespeak a cancellation on a booked hotel stay?
+Help_LiveAgent	How do I quest a cancellation on a booked hotel stay?
+Help_LiveAgent	How do I request a cancellation on a booked hotel persist?
+Help_LiveAgent	How do i request a cancellation on a booked hotel stay?
+Help_LiveAgent	How do I request a different posterior assignment on my flight?
+Help_LiveAgent	How do I request a different seat assignment on my flying?
+Help_LiveAgent	How do I request a different seat naming on my flight?
+Help_LiveAgent	How do unity request a different seat assignment on my flight?
+Help_LiveAgent	How do I postulation a modification to my existing booking?
+Help_LiveAgent	How do I request a change to my existing booking?
+Help_LiveAgent	How do I request a modification to my existing reservation?
+Help_LiveAgent	How do I request a qualifying to my existing booking?
+Help_LiveAgent	How do I request a alteration to my existing itineraries?
+Help_LiveAgent	How do ane request a modification to my existing itineraries?
+Help_LiveAgent	How do one request a modification to my existing itineraries?
+Help_LiveAgent	How do unity request a modification to my existing itineraries?
+Help_LiveAgent	How do I postulation a modification to my existing itinerary due to personal reasons in Asia?
+Help_LiveAgent	How do I request a modification to my existent itinerary due to personal reasons in Asia?
+Help_LiveAgent	How do I request a modification to my existing itinerary due to personal rationality in Asia?
+Help_LiveAgent	How do I request a modification to my subsist itinerary due to personal reasons in Asia?
+Help_LiveAgent	How do I request a modification to my existing itinerary due to personal intellect?
+Help_LiveAgent	How do I request a modification to my existing route due to personal reasons?
+Help_LiveAgent	How do I request a qualifying to my existing itinerary due to personal reasons?
+Help_LiveAgent	How do iodin request a modification to my existing itinerary due to personal reasons?
+Help_LiveAgent	How do I request an extension to my jaunt dates due to personal reasons in South America?
+Help_LiveAgent	How do I request an extension to my trip dates due to personal reasons in South America?
+Help_LiveAgent	How do I request an propagation to my travel dates due to personal reasons in South America?
+Help_LiveAgent	How do I request an wing to my travel dates due to personal reasons in South America?
+Help_LiveAgent	How do I request an extension to my travel dates due to unforeseen context in Europe?
+Help_LiveAgent	How do I request an extension to my travel dates due to unforeseen destiny in Europe?
+Help_LiveAgent	How do I request an extension to my travel dates referable to unforeseen circumstances in Europe?
+Help_LiveAgent	How do I request an prolongation to my travel dates due to unforeseen circumstances in Europe?
+Help_LiveAgent	How do I request an elongation to my travel dates due to unforeseen circumstances?
+Help_LiveAgent	How do I request an extension to my travel see due to unforeseen circumstances?
+Help_LiveAgent	How do I request an propagation to my travel dates due to unforeseen circumstances?
+Help_LiveAgent	How do iodin request an extension to my travel dates due to unforeseen circumstances?
+Help_LiveAgent	How do I quest an upgrade to business class for myself or others?
+Help_LiveAgent	How do I request an upgrade to business grade for myself or others?
+Help_LiveAgent	How do I request an upgrade to job class for myself or others?
+Help_LiveAgent	How do I request an upgrade to line class for myself or others?
+Help_LiveAgent	How do I request an upgrade to first separate for myself or others?
+Help_LiveAgent	How do I request an upgrade to first sort for myself or others?
+Help_LiveAgent	How do I request an upgrade to get-go class for myself or others?
+Help_LiveAgent	How do one request an upgrade to first class for myself or others?
+Help_LiveAgent	I just booked a escape to Tokyo but now I'm worried about security.
+Help_LiveAgent	I just booked a flight to Tokyo but now I'm upset about security.
+Help_LiveAgent	ace just booked a flight to Tokyo but now I'm worried about security.
+Help_LiveAgent	iodin just booked a flight to Tokyo but now I'm worried about security.
+Help_LiveAgent	I just acquire injured and need assistance with finding local medical services.
+Help_LiveAgent	I just commence injured and need assistance with finding local medical services.
+Help_LiveAgent	I just fix injured and need assistance with finding local medical services.
+Help_LiveAgent	unity just got injured and need assistance with finding local medical services.
+Help_LiveAgent	I just baffle robbed in Bangkok and now I need assistance with replacing my passport.
+Help_LiveAgent	I just develop robbed in Bangkok and now I need assistance with replacing my passport.
+Help_LiveAgent	I just got gazump in Bangkok and now I need assistance with replacing my passport.
+Help_LiveAgent	I just got hook in Bangkok and now I need assistance with replacing my passport.
+Help_LiveAgent	I just arrest robbed in Rio and now I need a new passport.
+Help_LiveAgent	I just got robbed in Rio and now 1 need a new passport.
+Help_LiveAgent	I just got robbed in Rio and now ane need a new passport.
+Help_LiveAgent	I just got robbed in Rio and now one need a new passport.
+Help_LiveAgent	I just father sick and need assistance with finding local healthcare services in the US.
+Help_LiveAgent	I just got ghastly and need assistance with finding local healthcare services in the US.
+Help_LiveAgent	I just got sick and need aid with finding local healthcare services in the US.
+Help_LiveAgent	I just got sick and need assistance with see local healthcare services in the US.
+Help_LiveAgent	I just become sick and need assistance with finding local healthcare services.
+Help_LiveAgent	I just drive sick and need assistance with finding local healthcare services.
+Help_LiveAgent	I just got sick and demand assistance with finding local healthcare services.
+Help_LiveAgent	I just got sick and need assistance with feel local healthcare services.
+Help_LiveAgent	I just helpless my luggage and need assistance with rebooking in Africa.
+Help_LiveAgent	I just lost my luggage and pauperization assistance with rebooking in Africa.
+Help_LiveAgent	iodine just lost my luggage and need assistance with rebooking in Africa.
+Help_LiveAgent	unity just lost my luggage and need assistance with rebooking in Africa.
+Help_LiveAgent	I just lost my luggage and motive assistance with rebooking in Australia.
+Help_LiveAgent	I just lost my luggage and want assistance with rebooking in Australia.
+Help_LiveAgent	I just mislay my luggage and need assistance with rebooking in Australia.
+Help_LiveAgent	I just preoccupied my luggage and need assistance with rebooking in Australia.
+Help_LiveAgent	I just lost my luggage and indigence assistance with rebooking.
+Help_LiveAgent	I just lost my luggage and pauperization assistance with rebooking.
+Help_LiveAgent	I just lost my luggage and penury assistance with rebooking.
+Help_LiveAgent	ace just lost my luggage and need assistance with rebooking.
+Help_LiveAgent	I need help with changing my comeback flight due to personal reasons.
+Help_LiveAgent	I need help with changing my return fledge due to personal reasons.
+Help_LiveAgent	I need help with convert my return flight due to personal reasons.
+Help_LiveAgent	I need help with shift my return flight due to personal reasons.
+Help_LiveAgent	I need help with finding a suitable replacement for an absent team member due to last-minute cancellation of events.
+Help_LiveAgent	I need help with finding a suitable replacement for an missing team member due to last-minute cancellations of events.
+Help_LiveAgent	I need help with finding a suitable switch for an absent team member due to last-minute cancellations of events.
+Help_LiveAgent	I need help with retrieve a suitable replacement for an absent team member due to last-minute cancellations of events.
+Help_LiveAgent	I involve help with finding a suitable replacement for an absent team member due to last-minute cancellations.
+Help_LiveAgent	I need help with finding a suitable replacement for an absent team member imputable to last-minute cancellations.
+Help_LiveAgent	I need help with finding a suitable replacement for an absentminded team member due to last-minute cancellations.
+Help_LiveAgent	I need help with observe a suitable replacement for an absent team member due to last-minute cancellations.
+Help_LiveAgent	I need help with encounter a suitable replacement for an absent team member due to unforeseen circumstances.
+Help_LiveAgent	I need help with find a suitable replacement for an absent team member due to unforeseen circumstances.
+Help_LiveAgent	I need help with finding a suitable replacement for an absent team member due to unforeseen circumstance.
+Help_LiveAgent	iodin need help with finding a suitable replacement for an absent team member due to unforeseen circumstances.
+Help_LiveAgent	I demand help with finding a suitable replacement for an absent team member on short notice.
+Help_LiveAgent	I need help with finding a desirable replacement for an absent team member on short notice.
+Help_LiveAgent	I need help with finding a suitable switch for an absent team member on short notice.
+Help_LiveAgent	I postulate help with finding a suitable replacement for an absent team member on short notice.
+Help_LiveAgent	I need help with finding a suitable replacement for an missing team member.
+Help_LiveAgent	I need help with finding a suitable replacing for an absent team member.
+Help_LiveAgent	I need help with retrieve a suitable replacement for an absent team member.
+Help_LiveAgent	I need helper with finding a suitable replacement for an absent team member.
+Help_LiveAgent	I need help with finding a suitable venue for our team-building event that accommodates our dietary involve.
+Help_LiveAgent	I need help with finding a suitable venue for our team-building event that accommodates our dietary pauperism.
+Help_LiveAgent	I need help with finding a suitable venue for our team-building event that admit our dietary needs.
+Help_LiveAgent	I need helper with finding a suitable venue for our team-building event that accommodates our dietary needs.
+Help_LiveAgent	I need assist with finding a suitable venue for our team-building event.
+Help_LiveAgent	I need avail with finding a suitable venue for our team-building event.
+Help_LiveAgent	I want help with finding a suitable venue for our team-building event.
+Help_LiveAgent	i need help with finding a suitable venue for our team-building event.
+Help_LiveAgent	I'm having disquiet with my visa application, can you assist me?
+Help_LiveAgent	I'm having disturb with my visa application, can you assist me?
+Help_LiveAgent	I'm having trouble with my visa application, can you serve me?
+Help_LiveAgent	I'm having worry with my visa application, can you assist me?
+Help_LiveAgent	I'm having trouble with the online check-in process for my upcoming activate.
+Help_LiveAgent	I'm having trouble with the online check-in process for my upcoming misstep.
+Help_LiveAgent	I'm having trouble with the online check-in process for my upcoming slip.
+Help_LiveAgent	I'm having trouble with the online check-in process for my upcoming travel.
+Help_LiveAgent	My auto rental was cancelled due to unforeseen circumstances.
+Help_LiveAgent	My car rental was cancelled due to unforeseen destiny.
+Help_LiveAgent	My car rental was cancelled due to unforeseen fate.
+Help_LiveAgent	My car rental was scratch due to unforeseen circumstances.
+Help_LiveAgent	My conference has been cancelled, can you help me arrive a refund?
+Help_LiveAgent	My conference has been cancelled, can you help me draw a refund?
+Help_LiveAgent	My conference has been cancelled, can you help me get a repayment?
+Help_LiveAgent	My conference has been cancelled, can you help me produce a refund?
+Help_LiveAgent	My conference has been postpone, can you help me reschedule my bookings with minimal inconvenience?
+Help_LiveAgent	My conference has been postponed, can you assistance me reschedule my bookings with minimal inconvenience?
+Help_LiveAgent	My conference has been postponed, can you avail me reschedule my bookings with minimal inconvenience?
+Help_LiveAgent	My conference has been postponed, can you help me reschedule my bookings with minimal troublesomeness?
+Help_LiveAgent	My conference has been postponed, can you assistance me reschedule my bookings?
+Help_LiveAgent	My conference has been postponed, can you help me reschedule my engagement?
+Help_LiveAgent	My conference has been postponed, can you helper me reschedule my bookings?
+Help_LiveAgent	My conference has been prorogue, can you help me reschedule my bookings?
+Help_LiveAgent	My conference has been reschedule, can you help me update my bookings?
+Help_LiveAgent	My conference has been rescheduled, can you assistance me update my bookings?
+Help_LiveAgent	My conference has been rescheduled, can you avail me update my bookings?
+Help_LiveAgent	My conference has been rescheduled, can you serve me update my bookings?
+Help_LiveAgent	My conference is in Dubai, can you avail me find local interpreters?
+Help_LiveAgent	My conference is in Dubai, can you help me find local spokesperson?
+Help_LiveAgent	My conference is in Dubai, can you help me recover local interpreters?
+Help_LiveAgent	My conference is in Dubai, can you help me uncovering local interpreters?
+Help_LiveAgent	My conference is in New York, can you assist me find accommodations?
+Help_LiveAgent	My conference is in New York, can you help me find adjustment?
+Help_LiveAgent	My conference is in New York, can you service me find accommodations?
+Help_LiveAgent	My conference is in fresh York, can you help me find accommodations?
+Help_LiveAgent	My conference is in Paris, can you help me breakthrough local interpreters and translation services.
+Help_LiveAgent	My conference is in Paris, can you help me encounter local interpreters and translation services.
+Help_LiveAgent	My conference is in Paris, can you help me receive local interpreters and translation services.
+Help_LiveAgent	My conference is in Paris, can you help me uncovering local interpreters and translation services.
+Help_LiveAgent	My conference is in Sydney, can you help me determine local catering services?
+Help_LiveAgent	My conference is in Sydney, can you help me get local catering services?
+Help_LiveAgent	My conference is in Sydney, can you help me witness local catering services?
+Help_LiveAgent	My conference is in Sydney, can you serve me find local catering services?
+Help_LiveAgent	My event is in Paris, can you help me encounter local caterers?
+Help_LiveAgent	My event is in Paris, can you help me feel local caterers?
+Help_LiveAgent	My event is in Paris, can you help me rule local caterers?
+Help_LiveAgent	My event is in Paris, can you help me witness local caterers?
+Help_LiveAgent	My flight has been cancelled, can you allow options for rebooking or refunding with compensation and minimal inconvenience.
+Help_LiveAgent	My flight has been cancelled, can you leave options for rebooking or refunding with compensation and minimal inconvenience.
+Help_LiveAgent	My flight has been cancelled, can you ply options for rebooking or refunding with compensation and minimal inconvenience.
+Help_LiveAgent	My flight has been cancelled, can you provide options for rebooking or refunding with compensation and minimal incommode.
+Help_LiveAgent	My flight has been cancelled, can you provide options for rebooking or refunding with minimal bother?
+Help_LiveAgent	My flight has been cancelled, can you provide options for rebooking or refunding with minimum inconvenience?
+Help_LiveAgent	My flight has been cancelled, can you provide pick for rebooking or refunding with minimal inconvenience?
+Help_LiveAgent	My flight has been cancelled, can you render options for rebooking or refunding with minimal inconvenience?
+Help_LiveAgent	My flight has been cancel, can you provide options for rebooking or refunding?
+Help_LiveAgent	My flight has been cancelled, can you allow options for rebooking or refunding?
+Help_LiveAgent	My flight has been cancelled, can you ply options for rebooking or refunding?
+Help_LiveAgent	My flight has been cancelled, can you provide option for rebooking or refunding?
+Help_LiveAgent	My flight is delayed, can you cater an estimated arrival time?
+Help_LiveAgent	My flight is delayed, can you leave an estimated arrival time?
+Help_LiveAgent	My flight is delayed, can you offer an estimated arrival time?
+Help_LiveAgent	My flight is delayed, can you render an estimated arrival time?
+Help_LiveAgent	My flight is delayed, can you cater options for rebooking or refunding with minimal inconvenience and compensation?
+Help_LiveAgent	My flight is delayed, can you provide options for rebooking or refunding with minimal bother and compensation?
+Help_LiveAgent	My flight is delayed, can you provide options for rebooking or refunding with minimal trouble and compensation?
+Help_LiveAgent	My flight is delayed, can you provide selection for rebooking or refunding with minimal inconvenience and compensation?
+Help_LiveAgent	My flight is check, can you provide options for rebooking or refunding?
+Help_LiveAgent	My flight is delayed, can you offer options for rebooking or refunding?
+Help_LiveAgent	My flight is delayed, can you ply options for rebooking or refunding?
+Help_LiveAgent	My flight is delayed, can you provide options for rebooking or refund?
+Help_LiveAgent	My hotel is overbooked, can you feel me an alternative?
+Help_LiveAgent	My hotel is overbooked, can you find me an alternate?
+Help_LiveAgent	My hotel is overbooked, can you happen me an alternative?
+Help_LiveAgent	My hotel is overbooked, can you witness me an alternative?
+Help_LiveAgent	What is the company insurance on reporting travel-related expenses to management for non-essential employees during business trips?
+Help_LiveAgent	What is the company policy on reporting travel-related disbursement to management for non-essential employees during business trips?
+Help_LiveAgent	What is the company policy on reporting travel-related expenses to management for non-essential employees during byplay trips?
+Help_LiveAgent	What is the fellowship policy on reporting travel-related expenses to management for non-essential employees during business trips?
+Help_LiveAgent	What is the caller policy on reporting travel-related expenses to management for non-essential employees?
+Help_LiveAgent	What is the companion policy on reporting travel-related expenses to management for non-essential employees?
+Help_LiveAgent	What is the company policy on coverage travel-related expenses to management for non-essential employees?
+Help_LiveAgent	What is the company policy on reporting travel-related disbursement to management for non-essential employees?
+Help_LiveAgent	What is the companion policy on reporting travel-related expenses to management?
+Help_LiveAgent	What is the company policy on account travel-related expenses to management?
+Help_LiveAgent	What is the company policy on coverage travel-related expenses to management?
+Help_LiveAgent	What is the company policy on reporting travel-related disbursement to management?
+Help_LiveAgent	What is the company policy on bring hours during holidays?
+Help_LiveAgent	What is the company policy on ferment hours during holidays?
+Help_LiveAgent	What is the company policy on form hours during holidays?
+Help_LiveAgent	What is the company policy on process hours during holidays?
+Help_LiveAgent	What is the arrange code policy at the corporate office?
+Help_LiveAgent	What is the habilitate code policy at the corporate office?
+Help_LiveAgent	What is the primp code policy at the corporate office?
+Help_LiveAgent	What is the snip code policy at the corporate office?
+Help_LiveAgent	What's the company policy on overtime ferment during travel days?
+Help_LiveAgent	What's the company policy on overtime make during travel days?
+Help_LiveAgent	What's the company policy on overtime sour during travel days?
+Help_LiveAgent	What's the troupe policy on overtime work during travel days?
+Help_LiveAgent	What's the accompany policy on reporting travel-related expenses to management for business trips.
+Help_LiveAgent	What's the company policy on reporting travel-related expenses to management for business stumble.
+Help_LiveAgent	What's the company policy on reporting travel-related expenses to management for business travel.
+Help_LiveAgent	What's the company policy on reporting travel-related expenses to management for business trip.
+Help_LiveAgent	What's the companion policy on travel expense reports?
+Help_LiveAgent	What's the company policy on locomotion expense reports?
+Help_LiveAgent	What's the company policy on travel expense describe?
+Help_LiveAgent	What's the company policy on travelling expense reports?
+Help_LiveAgent	What's the companion policy on travel insurance during business trips?
+Help_LiveAgent	What's the company policy on travel indemnity during business trips?
+Help_LiveAgent	What's the company policy on travel insurance during business activate?
+Help_LiveAgent	What's the company policy on travel insurance during patronage trips?
+Help_LiveAgent	What's the policy on cancellations and refund for our corporate events?
+Help_LiveAgent	What's the policy on cancellations and refunds for our corporate event?
+Help_LiveAgent	What's the policy on cancellations and refunds for our embodied events?
+Help_LiveAgent	What's the policy on cancellations and repay for our corporate events?
+Help_LiveAgent	What's the policy on overtime bring during travel days for essential employees?
+Help_LiveAgent	What's the policy on overtime exploit during travel days for essential employees?
+Help_LiveAgent	What's the policy on overtime ferment during travel days for essential employees?
+Help_LiveAgent	What's the policy on overtime run during travel days for essential employees?
+Help_LiveAgent	What's the policy on overtime bring during travel days for non-essential employees?
+Help_LiveAgent	What's the policy on overtime employment during travel days for non-essential employees?
+Help_LiveAgent	What's the policy on overtime shape during travel days for non-essential employees?
+Help_LiveAgent	What's the policy on overtime work during travel days for non-essential employee?
+Help_LiveAgent	What's the policy on using company cite cards for personal expenses during leisure trips.
+Help_LiveAgent	What's the policy on using company credit cards for personal disbursal during leisure trips.
+Help_LiveAgent	What's the policy on using company credit cards for personal expenses during leisure spark.
+Help_LiveAgent	What's the policy on using company credit placard for personal expenses during leisure trips.
+Help_LiveAgent	What's the policy on use company credit cards for personal expenses during travel?
+Help_LiveAgent	What's the policy on using company credit board for personal expenses during travel?
+Help_LiveAgent	What's the policy on using company credit cards for personal expenses during travelling?
+Help_LiveAgent	What's the policy on utilize company credit cards for personal expenses during travel?
+Help_LiveAgent	What's the policy on use personal devices for work-related activities during business trips?
+Help_LiveAgent	What's the policy on using personal devices for work-related activities during concern trips?
+Help_LiveAgent	What's the policy on using personal devices for work-related activities during patronage trips?
+Help_LiveAgent	What's the policy on using personal devices for work-related activity during business trips?
+Help_LiveAgent	What's the insurance on using personal devices for work-related activities during travel?
+Help_LiveAgent	What's the policy on use personal devices for work-related activities during travel?
+Help_LiveAgent	What's the policy on using personal devices for work-related activities during go?
+Help_LiveAgent	What's the policy on using personal gimmick for work-related activities during travel?
