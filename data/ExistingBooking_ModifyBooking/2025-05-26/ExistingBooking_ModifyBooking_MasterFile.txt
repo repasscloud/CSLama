@@ -1,0 +1,520 @@
+ExistingBooking_ModifyBooking	Can I transfer my hotel reservation due to an unexpected event?
+ExistingBooking_ModifyBooking	canful I change my hotel reservation due to an unexpected event?
+ExistingBooking_ModifyBooking	crapper I change my hotel reservation due to an unexpected event?
+ExistingBooking_ModifyBooking	hindquarters I change my hotel reservation due to an unexpected event?
+ExistingBooking_ModifyBooking	Can I change the dates of my business jaunt booking?
+ExistingBooking_ModifyBooking	Can I deepen the dates of my business travel booking?
+ExistingBooking_ModifyBooking	Can ace change the dates of my business travel booking?
+ExistingBooking_ModifyBooking	stern I change the dates of my business travel booking?
+ExistingBooking_ModifyBooking	Can I modify the gens on a hotel reservation due to identity issues?
+ExistingBooking_ModifyBooking	Can I modify the name on a hotel reservation due to identity emerge?
+ExistingBooking_ModifyBooking	canful I modify the name on a hotel reservation due to identity issues?
+ExistingBooking_ModifyBooking	hindquarters I modify the name on a hotel reservation due to identity issues?
+ExistingBooking_ModifyBooking	Can I modify the refund date of my ticket?
+ExistingBooking_ModifyBooking	Can unity modify the return date of my ticket?
+ExistingBooking_ModifyBooking	fire I modify the return date of my ticket?
+ExistingBooking_ModifyBooking	seat I modify the return date of my ticket?
+ExistingBooking_ModifyBooking	Can I postulation a different flight or hotel for an upcoming trip?
+ExistingBooking_ModifyBooking	fanny I request a different flight or hotel for an upcoming trip?
+ExistingBooking_ModifyBooking	pot I request a different flight or hotel for an upcoming trip?
+ExistingBooking_ModifyBooking	seat I request a different flight or hotel for an upcoming trip?
+ExistingBooking_ModifyBooking	Can i request a different hotel room due to specific preferences?
+ExistingBooking_ModifyBooking	backside I request a different hotel room due to specific preferences?
+ExistingBooking_ModifyBooking	crapper I request a different hotel room due to specific preferences?
+ExistingBooking_ModifyBooking	privy I request a different hotel room due to specific preferences?
+ExistingBooking_ModifyBooking	arse I request assistance with rescheduling a trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	crapper I request assistance with rescheduling a trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	prat I request assistance with rescheduling a trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	stern I request assistance with rescheduling a trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling an upcoming trip due to unforeseen reasonableness?
+ExistingBooking_ModifyBooking	Can I request help with rescheduling an upcoming trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	Can ane request assistance with rescheduling an upcoming trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	terminate I request assistance with rescheduling an upcoming trip due to unforeseen reasons?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling an upcoming jaunt?
+ExistingBooking_ModifyBooking	Can ace request assistance with rescheduling an upcoming trip?
+ExistingBooking_ModifyBooking	john I request assistance with rescheduling an upcoming trip?
+ExistingBooking_ModifyBooking	rear I request assistance with rescheduling an upcoming trip?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling flights due to unexpected effect?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling flights due to unexpected result?
+ExistingBooking_ModifyBooking	fanny I request assistance with rescheduling flights due to unexpected events?
+ExistingBooking_ModifyBooking	posterior I request assistance with rescheduling flights due to unexpected events?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling flights due to unanticipated reasons now?
+ExistingBooking_ModifyBooking	rump I request assistance with rescheduling flights due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	tail I request assistance with rescheduling flights due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	terminate I request assistance with rescheduling flights due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	Can I request assistance with rescheduling flights due to unforeseen rationality?
+ExistingBooking_ModifyBooking	Can I request help with rescheduling flights due to unforeseen reasons?
+ExistingBooking_ModifyBooking	behind I request assistance with rescheduling flights due to unforeseen reasons?
+ExistingBooking_ModifyBooking	fire I request assistance with rescheduling flights due to unforeseen reasons?
+ExistingBooking_ModifyBooking	Can I request changes to my hotel reservation due to specific preferences, please help me.
+ExistingBooking_ModifyBooking	Can ace request changes to my hotel reservation due to specific preferences, please assist me.
+ExistingBooking_ModifyBooking	bottom I request changes to my hotel reservation due to specific preferences, please assist me.
+ExistingBooking_ModifyBooking	buttocks I request changes to my hotel reservation due to specific preferences, please assist me.
+ExistingBooking_ModifyBooking	Can I request changes to my hotel reservation imputable to specific preferences?
+ExistingBooking_ModifyBooking	Can ace request changes to my hotel reservation due to specific preferences?
+ExistingBooking_ModifyBooking	commode I request changes to my hotel reservation due to specific preferences?
+ExistingBooking_ModifyBooking	sack I request changes to my hotel reservation due to specific preferences?
+ExistingBooking_ModifyBooking	Can I asking changes to my hotel reservation due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	Can I request modification to my hotel reservation due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	Can I request variety to my hotel reservation due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	potty I request changes to my hotel reservation due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	Can I request changes to my travel itinerary due to unexpected effect now?
+ExistingBooking_ModifyBooking	Can I request variety to my travel itinerary due to unexpected events now?
+ExistingBooking_ModifyBooking	Can single request changes to my travel itinerary due to unexpected events now?
+ExistingBooking_ModifyBooking	displace I request changes to my travel itinerary due to unexpected events now?
+ExistingBooking_ModifyBooking	Can I request changes to my travel itinerary due to unexpected case?
+ExistingBooking_ModifyBooking	Can I request interchange to my travel itinerary due to unexpected events?
+ExistingBooking_ModifyBooking	posterior I request changes to my travel itinerary due to unexpected events?
+ExistingBooking_ModifyBooking	tooshie I request changes to my travel itinerary due to unexpected events?
+ExistingBooking_ModifyBooking	Can I request changes to my travel itinerary due to unforeseen cause now?
+ExistingBooking_ModifyBooking	Can I request changes to my travel path due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	derriere I request changes to my travel itinerary due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	pot I request changes to my travel itinerary due to unforeseen reasons now?
+ExistingBooking_ModifyBooking	Can you aid with amending a hotel room type for an upcoming stay?
+ExistingBooking_ModifyBooking	Can you assist with amending a hotel room type for an upcoming halt?
+ExistingBooking_ModifyBooking	fundament you assist with amending a hotel room type for an upcoming stay?
+ExistingBooking_ModifyBooking	privy you assist with amending a hotel room type for an upcoming stay?
+ExistingBooking_ModifyBooking	Can you help me modification my flight dates?
+ExistingBooking_ModifyBooking	can you help me change my flight dates?
+ExistingBooking_ModifyBooking	crapper you help me change my flight dates?
+ExistingBooking_ModifyBooking	privy you help me change my flight dates?
+ExistingBooking_ModifyBooking	Can you help me change the refer on a current booking?
+ExistingBooking_ModifyBooking	Can you help me modification the name on a current booking?
+ExistingBooking_ModifyBooking	bathroom you help me change the name on a current booking?
+ExistingBooking_ModifyBooking	sack you help me change the name on a current booking?
+ExistingBooking_ModifyBooking	I motive assistance with amending my travel plans.
+ExistingBooking_ModifyBooking	I need assistance with amending my locomotion plans.
+ExistingBooking_ModifyBooking	I need assistance with amending my trip plans.
+ExistingBooking_ModifyBooking	I postulate assistance with amending my travel plans.
+ExistingBooking_ModifyBooking	I need help changing the escort of a travel itinerary due to personal reasons.
+ExistingBooking_ModifyBooking	I need service changing the dates of a travel itinerary due to personal reasons.
+ExistingBooking_ModifyBooking	I want help changing the dates of a travel itinerary due to personal reasons.
+ExistingBooking_ModifyBooking	unity need help changing the dates of a travel itinerary due to personal reasons.
+ExistingBooking_ModifyBooking	I need to cancel and rebook because of unforeseen rationality.
+ExistingBooking_ModifyBooking	I need to cancel and rebook because of unlooked-for reasons.
+ExistingBooking_ModifyBooking	I need to invalidate and rebook because of unforeseen reasons.
+ExistingBooking_ModifyBooking	I take to cancel and rebook because of unforeseen reasons.
+ExistingBooking_ModifyBooking	1 need to reschedule a trip.
+ExistingBooking_ModifyBooking	I demand to reschedule a trip.
+ExistingBooking_ModifyBooking	I need to reschedule a trigger.
+ExistingBooking_ModifyBooking	iodine need to reschedule a trip.
+ExistingBooking_ModifyBooking	I'd alike to modify the itinerary for my upcoming conference.
+ExistingBooking_ModifyBooking	I'd like to change the itinerary for my upcoming conference.
+ExistingBooking_ModifyBooking	I'd like to modify the itinerary for my approaching conference.
+ExistingBooking_ModifyBooking	I'd similar to modify the itinerary for my upcoming conference.
+ExistingBooking_ModifyBooking	I'm experiencing unexpected change in my schedule and need assistance.
+ExistingBooking_ModifyBooking	I'm experiencing unexpected changes in my schedule and want assistance.
+ExistingBooking_ModifyBooking	I'm experiencing unexpected vary in my schedule and need assistance.
+ExistingBooking_ModifyBooking	I'm get unexpected changes in my schedule and need assistance.
+ExistingBooking_ModifyBooking	I'm having issues with the dates of my travel plans and demand help.
+ExistingBooking_ModifyBooking	I'm having issues with the dates of my travel program and need help.
+ExistingBooking_ModifyBooking	I'm having outlet with the dates of my travel plans and need help.
+ExistingBooking_ModifyBooking	I'm having take with the dates of my travel plans and need help.
+ExistingBooking_ModifyBooking	I'm attend for an alternative hotel near the airport.
+ExistingBooking_ModifyBooking	I'm await for an alternative hotel near the airport.
+ExistingBooking_ModifyBooking	I'm looking for an alternative hotel penny-pinching the airport.
+ExistingBooking_ModifyBooking	I'm seem for an alternative hotel near the airport.
+ExistingBooking_ModifyBooking	I'm essay to cancel and rebook for a different time period.
+ExistingBooking_ModifyBooking	I'm trying to cancel and rebook for a different time catamenia.
+ExistingBooking_ModifyBooking	I'm trying to offset and rebook for a different time period.
+ExistingBooking_ModifyBooking	I'm trying to scrub and rebook for a different time period.
+ExistingBooking_ModifyBooking	Is it possible to reschedule escape due to personal circumstances?
+ExistingBooking_ModifyBooking	Is it possible to reschedule flights due to personal luck?
+ExistingBooking_ModifyBooking	Is it possible to reschedule flights due to personal setting?
+ExistingBooking_ModifyBooking	comprise it possible to reschedule flights due to personal circumstances?
+ExistingBooking_ModifyBooking	Is there a direction to modify the flight schedule on my current booking?
+ExistingBooking_ModifyBooking	Is there a way to alter the flight schedule on my current booking?
+ExistingBooking_ModifyBooking	be there a way to modify the flight schedule on my current booking?
+ExistingBooking_ModifyBooking	personify there a way to modify the flight schedule on my current booking?
+ExistingBooking_ModifyBooking	Is there any way to change the dates of a journey itinerary without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the dates of a travel itinerary without incur additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the dates of a travel itinerary without incurring extra fees?
+ExistingBooking_ModifyBooking	Is there any way to vary the dates of a travel itinerary without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel room type for an upcoming stay without receive additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel room typecast for an upcoming stay without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to interchange the hotel room type for an upcoming stay without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to switch the hotel room type for an upcoming stay without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any direction to change the hotel room type for an upcoming stay?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel room type for an upcoming continue?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel room type for an upcoming quell?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel room typewrite for an upcoming stay?
+ExistingBooking_ModifyBooking	Is there any direction to change the hotel room type without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the hotel way type without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to modify the hotel room type without incurring additional fees?
+ExistingBooking_ModifyBooking	embody there any way to change the hotel room type without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any direction to change the name on a current airline ticket?
+ExistingBooking_ModifyBooking	Is there any way to deepen the name on a current airline ticket?
+ExistingBooking_ModifyBooking	Is there any way to shift the name on a current airline ticket?
+ExistingBooking_ModifyBooking	Is there any way to variety the name on a current airline ticket?
+ExistingBooking_ModifyBooking	Is there any direction to change the name on a current booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the nominate on a current booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to modification the name on a current booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to switch the name on a current booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any manner to change the name on a current booking?
+ExistingBooking_ModifyBooking	Is there any way to change the gens on a current booking?
+ExistingBooking_ModifyBooking	Is there any way to change the nominate on a current booking?
+ExistingBooking_ModifyBooking	Is there any way to shift the name on a current booking?
+ExistingBooking_ModifyBooking	Is there any way to change the make on a hotel reservation without incurring additional fees?
+ExistingBooking_ModifyBooking	Is there any way to change the name on a hotel reservation without find additional fees?
+ExistingBooking_ModifyBooking	equal there any way to change the name on a hotel reservation without incurring additional fees?
+ExistingBooking_ModifyBooking	personify there any way to change the name on a hotel reservation without incurring additional fees?
+ExistingBooking_ModifyBooking	My flight is too expensive, can you suggest cheaper option?
+ExistingBooking_ModifyBooking	My flight is too expensive, can you suggest cheaper selection?
+ExistingBooking_ModifyBooking	My flight is too expensive, can you suggest cheesy options?
+ExistingBooking_ModifyBooking	My flight is too expensive, can you suggest meretricious options?
+ExistingBooking_ModifyBooking	My initial book has a mistake I'd like to correct.
+ExistingBooking_ModifyBooking	My initial booking has a mistake I'd like to chastise.
+ExistingBooking_ModifyBooking	My initial booking has a mistake I'd like to counterbalance.
+ExistingBooking_ModifyBooking	My initial booking has a slip I'd like to correct.
+ExistingBooking_ModifyBooking	My initial flight plan had inaccuracies that expect correction now.
+ExistingBooking_ModifyBooking	My initial flight project had inaccuracies that require correction now.
+ExistingBooking_ModifyBooking	My initial flying plan had inaccuracies that require correction now.
+ExistingBooking_ModifyBooking	My initial trajectory plan had inaccuracies that require correction now.
+ExistingBooking_ModifyBooking	My initial fledge plan had inaccuracies that require correction, please assist me.
+ExistingBooking_ModifyBooking	My initial flight design had inaccuracies that require correction, please assist me.
+ExistingBooking_ModifyBooking	My initial flight plan had inaccuracies that need correction, please assist me.
+ExistingBooking_ModifyBooking	My initial flight program had inaccuracies that require correction, please assist me.
+ExistingBooking_ModifyBooking	My initial flight plan had some inaccuracies that demand correction now.
+ExistingBooking_ModifyBooking	My initial flight plan had some inaccuracies that necessitate correction now.
+ExistingBooking_ModifyBooking	My initial flight plan had some inaccuracies that require rectification now.
+ExistingBooking_ModifyBooking	My initial flight plan had some inaccuracies that want correction now.
+ExistingBooking_ModifyBooking	My initial flight contrive has some inaccuracies that require correction.
+ExistingBooking_ModifyBooking	My initial flight plan has some inaccuracies that require discipline.
+ExistingBooking_ModifyBooking	My initial flight plan has some inaccuracies that take correction.
+ExistingBooking_ModifyBooking	My initial flying plan has some inaccuracies that require correction.
+ExistingBooking_ModifyBooking	My initial flight time was not feasible, can you intimate an alternative?
+ExistingBooking_ModifyBooking	My initial flight time was not feasible, can you propose an alternative?
+ExistingBooking_ModifyBooking	My initial flight time was not feasible, can you suggest an choice?
+ExistingBooking_ModifyBooking	My initial trajectory time was not feasible, can you suggest an alternative?
+ExistingBooking_ModifyBooking	My initial flight time was not desirable for me, can you suggest an alternative option now?
+ExistingBooking_ModifyBooking	My initial flight time was not suitable for me, can you propose an alternative option now?
+ExistingBooking_ModifyBooking	My initial flight time was not suitable for me, can you suggest an alternative choice now?
+ExistingBooking_ModifyBooking	My initial flight time was not suitable for me, can you suggest an alternative pick now?
+ExistingBooking_ModifyBooking	My initial fledge time was not suitable, can you suggest an alternative option now?
+ExistingBooking_ModifyBooking	My initial flight meter was not suitable, can you suggest an alternative option now?
+ExistingBooking_ModifyBooking	My initial flight metre was not suitable, can you suggest an alternative option now?
+ExistingBooking_ModifyBooking	My initial flying time was not suitable, can you suggest an alternative option now?
+ExistingBooking_ModifyBooking	My original flight clock is no longer feasible for me.
+ExistingBooking_ModifyBooking	My original flight meter is no longer feasible for me.
+ExistingBooking_ModifyBooking	My original flight sentence is no longer feasible for me.
+ExistingBooking_ModifyBooking	My original flying time is no longer feasible for me.
+ExistingBooking_ModifyBooking	My original itinerary was incorrect can you cook it?
+ExistingBooking_ModifyBooking	My original itinerary was incorrect can you determine it?
+ExistingBooking_ModifyBooking	My original itinerary was incorrect can you mend it?
+ExistingBooking_ModifyBooking	My original itinerary was incorrect can you unsex it?
+ExistingBooking_ModifyBooking	My original comeback date was incorrect can you fix it for me.
+ExistingBooking_ModifyBooking	My original deliver date was incorrect can you fix it for me.
+ExistingBooking_ModifyBooking	My original regress date was incorrect can you fix it for me.
+ExistingBooking_ModifyBooking	My original return date was incorrect can you desex it for me.
+ExistingBooking_ModifyBooking	My deliver date needs to be changed now, please assist me.
+ExistingBooking_ModifyBooking	My payoff date needs to be changed now, please assist me.
+ExistingBooking_ModifyBooking	My return date needs to be changed now, please serve me.
+ExistingBooking_ModifyBooking	My return date needs to be deepen now, please assist me.
+ExistingBooking_ModifyBooking	My return date motivation to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return date motive to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return date needs to be vary, please assist me.
+ExistingBooking_ModifyBooking	My return date postulate to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return flight clock needs to be changed now, please assist me.
+ExistingBooking_ModifyBooking	My return flight time needs to be commute now, please assist me.
+ExistingBooking_ModifyBooking	My return flight time needs to be switch now, please assist me.
+ExistingBooking_ModifyBooking	My return flight time pauperization to be changed now, please assist me.
+ExistingBooking_ModifyBooking	My retrovert flight time needs to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return flight time demand to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return flight time motive to be changed, please assist me.
+ExistingBooking_ModifyBooking	My return flight time needs to be changed, please attend me.
+ExistingBooking_ModifyBooking	My reappearance flight time was not suitable, can you suggest an alternative option?
+ExistingBooking_ModifyBooking	My return flight time was not suitable, can you hint an alternative option?
+ExistingBooking_ModifyBooking	My return flight time was not suitable, can you propose an alternative option?
+ExistingBooking_ModifyBooking	My return flight time was not suitable, can you suggest an choice option?
+ExistingBooking_ModifyBooking	My go plans have changed unexpectedly.
+ExistingBooking_ModifyBooking	My locomotion plans have changed unexpectedly.
+ExistingBooking_ModifyBooking	My travel plans have alter unexpectedly.
+ExistingBooking_ModifyBooking	My travel programme have changed unexpectedly.
+ExistingBooking_ModifyBooking	The airline ticket confirmation letter has errors affect travel dates.
+ExistingBooking_ModifyBooking	The airline ticket confirmation letter has errors regard travel dates.
+ExistingBooking_ModifyBooking	The airline ticket confirmation letter has fault regarding travel dates.
+ExistingBooking_ModifyBooking	The airline ticket confirmation letter has mistake regarding travel dates.
+ExistingBooking_ModifyBooking	The airline fine on my current reservation is too pricey.
+ExistingBooking_ModifyBooking	The airline ticket on my current booking is too pricey.
+ExistingBooking_ModifyBooking	The airline ticket on my current qualification is too pricey.
+ExistingBooking_ModifyBooking	The airway ticket on my current reservation is too pricey.
+ExistingBooking_ModifyBooking	The airline slate on my current reservation was not feasible for me, can you help me find a tatty option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not feasible for me, can you help me breakthrough a chinchy option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not feasible for me, can you help me observe a trashy option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not feasible for me, can you supporter me get a cheaper option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not executable for me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not practicable for me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not viable for me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was not workable for me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me find a crummy option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me find a loud option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me find a meretricious option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you helper me find a cheaper option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me feel a cheaper option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me find a sleazy option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me get a cheaper option?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too expensive, can you help me retrieve a cheaper option?
+ExistingBooking_ModifyBooking	The airline ticket on my current qualification was too pricey, can you help me find a cheaper option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too pricey, can you help me encounter a cheaper option now?
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too pricey, can you help me find a punk option now?
+ExistingBooking_ModifyBooking	The airline ticket on my stream reservation was too pricey, can you help me find a cheaper option now?
+ExistingBooking_ModifyBooking	The airline tag on my current reservation was too pricey, can you help me.
+ExistingBooking_ModifyBooking	The airline ticket on my current booking was too pricey, can you help me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too pricey, can you avail me.
+ExistingBooking_ModifyBooking	The airline ticket on my current reservation was too pricey, can you supporter me.
+ExistingBooking_ModifyBooking	The dates of my travel plans need to be changed, please assistance me.
+ExistingBooking_ModifyBooking	The dates of my travel plans need to be deepen, please assist me.
+ExistingBooking_ModifyBooking	The dates of my travel plans need to be exchange, please assist me.
+ExistingBooking_ModifyBooking	The dates of my traveling plans need to be changed, please assist me.
+ExistingBooking_ModifyBooking	The dates on my booking are incorrect please adjust me.
+ExistingBooking_ModifyBooking	The dates on my booking are incorrect please chastise me.
+ExistingBooking_ModifyBooking	The dates on my booking are wrong please correct me.
+ExistingBooking_ModifyBooking	The escort on my booking are incorrect please correct me.
+ExistingBooking_ModifyBooking	The appointment on my ticket are incorrect.
+ExistingBooking_ModifyBooking	The date on my ticket are incorrect.
+ExistingBooking_ModifyBooking	The dates on my ticket are faulty.
+ExistingBooking_ModifyBooking	The escort on my ticket are incorrect.
+ExistingBooking_ModifyBooking	The discover on my ticket needs to be changed due to identity issues.
+ExistingBooking_ModifyBooking	The epithet on my ticket needs to be changed due to identity issues.
+ExistingBooking_ModifyBooking	The name on my ticket necessitate to be changed due to identity issues.
+ExistingBooking_ModifyBooking	The name on my ticket needs to be changed due to identity number.
+ExistingBooking_ModifyBooking	The go dates on my confirmation letter are wrong.
+ExistingBooking_ModifyBooking	The travel dates on my confirmation letter are haywire.
+ExistingBooking_ModifyBooking	The travel dates on my confirmation letter are unseasonable.
+ExistingBooking_ModifyBooking	The travel escort on my confirmation letter are wrong.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business slip need to be modified now, please assist me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business travel need to be modified now, please assist me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business trip postulate to be modified now, please assist me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming patronage trip need to be modified now, please assist me.
+ExistingBooking_ModifyBooking	The move plans for my upcoming business trip need to be modified, please assist me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business trip motivation to be modified, please assist me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business trip pauperism to be modified, please assist me.
+ExistingBooking_ModifyBooking	The travel project for my upcoming business trip need to be modified, please assist me.
+ExistingBooking_ModifyBooking	The travel plan for my upcoming business trip were incorrect, please correct me.
+ExistingBooking_ModifyBooking	The travel plans for my upcoming business slip were incorrect, please correct me.
+ExistingBooking_ModifyBooking	The travel programme for my upcoming business trip were incorrect, please correct me.
+ExistingBooking_ModifyBooking	The travelling plans for my upcoming business trip were incorrect, please correct me.
+ExistingBooking_ModifyBooking	Can one change my flight dates from next week to this week?
+ExistingBooking_ModifyBooking	privy I change my flight dates from next week to this week?
+ExistingBooking_ModifyBooking	rear I change my flight dates from next week to this week?
+ExistingBooking_ModifyBooking	rump I change my flight dates from next week to this week?
+ExistingBooking_ModifyBooking	Can I piss changes to my airline ticket without a fee?
+ExistingBooking_ModifyBooking	Can ace make changes to my airline ticket without a fee?
+ExistingBooking_ModifyBooking	butt I make changes to my airline ticket without a fee?
+ExistingBooking_ModifyBooking	fundament I make changes to my airline ticket without a fee?
+ExistingBooking_ModifyBooking	Can I make change to my airline's baggage policy on my existing ticket without fee?
+ExistingBooking_ModifyBooking	Can I make switch to my airline's baggage policy on my existing ticket without fee?
+ExistingBooking_ModifyBooking	Can I realise changes to my airline's baggage policy on my existing ticket without fee?
+ExistingBooking_ModifyBooking	lavatory I make changes to my airline's baggage policy on my existing ticket without fee?
+ExistingBooking_ModifyBooking	Can I shuffling changes to my airline's baggage policy on my existing ticket?
+ExistingBooking_ModifyBooking	Can one make changes to my airline's baggage policy on my existing ticket?
+ExistingBooking_ModifyBooking	dismiss I make changes to my airline's baggage policy on my existing ticket?
+ExistingBooking_ModifyBooking	potty I make changes to my airline's baggage policy on my existing ticket?
+ExistingBooking_ModifyBooking	Can I make changes to my airline's meal options on my existing ticket without tip?
+ExistingBooking_ModifyBooking	Can I make exchange to my airline's meal options on my existing ticket without fee?
+ExistingBooking_ModifyBooking	bottom I make changes to my airline's meal options on my existing ticket without fee?
+ExistingBooking_ModifyBooking	rear I make changes to my airline's meal options on my existing ticket without fee?
+ExistingBooking_ModifyBooking	Can I get changes to my airline's meal options on my existing ticket?
+ExistingBooking_ModifyBooking	Can I make convert to my airline's meal options on my existing ticket?
+ExistingBooking_ModifyBooking	Can I name changes to my airline's meal options on my existing ticket?
+ExistingBooking_ModifyBooking	Can I realise changes to my airline's meal options on my existing ticket?
+ExistingBooking_ModifyBooking	Can I get changes to my car rental booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Can I give changes to my car rental booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Can I make deepen to my car rental booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Can iodin make changes to my car rental booking without incurring additional fees?
+ExistingBooking_ModifyBooking	Can I hold changes to my travel dates without incurring a penalty?
+ExistingBooking_ModifyBooking	Can I puddle changes to my travel dates without incurring a penalty?
+ExistingBooking_ModifyBooking	dismiss I make changes to my travel dates without incurring a penalty?
+ExistingBooking_ModifyBooking	nates I make changes to my travel dates without incurring a penalty?
+ExistingBooking_ModifyBooking	Can I make changes to my travelling dates without incurring a surcharge fee?
+ExistingBooking_ModifyBooking	Can I make exchange to my travel dates without incurring a surcharge fee?
+ExistingBooking_ModifyBooking	Can I ready changes to my travel dates without incurring a surcharge fee?
+ExistingBooking_ModifyBooking	throne I make changes to my travel dates without incurring a surcharge fee?
+ExistingBooking_ModifyBooking	Can I throw changes to my travel dates without incurring a surcharge?
+ExistingBooking_ModifyBooking	Can i make changes to my travel dates without incurring a surcharge?
+ExistingBooking_ModifyBooking	fundament I make changes to my travel dates without incurring a surcharge?
+ExistingBooking_ModifyBooking	lav I make changes to my travel dates without incurring a surcharge?
+ExistingBooking_ModifyBooking	Can I name changes to my travel plans without incurring a penalty fee?
+ExistingBooking_ModifyBooking	Can I prepare changes to my travel plans without incurring a penalty fee?
+ExistingBooking_ModifyBooking	Can I wee-wee changes to my travel plans without incurring a penalty fee?
+ExistingBooking_ModifyBooking	tin I make changes to my travel plans without incurring a penalty fee?
+ExistingBooking_ModifyBooking	Can you assist me in altering the hotel reservation I engaged previously?
+ExistingBooking_ModifyBooking	Can you assist me in altering the hotel reservation ace booked previously?
+ExistingBooking_ModifyBooking	butt you assist me in altering the hotel reservation I booked previously?
+ExistingBooking_ModifyBooking	fire you assist me in altering the hotel reservation I booked previously?
+ExistingBooking_ModifyBooking	Can you assist me in updating my survive accommodation booking?
+ExistingBooking_ModifyBooking	potty you assist me in updating my existing accommodation booking?
+ExistingBooking_ModifyBooking	prat you assist me in updating my existing accommodation booking?
+ExistingBooking_ModifyBooking	tail you assist me in updating my existing accommodation booking?
+ExistingBooking_ModifyBooking	backside you update my existing booking with new travel dates?
+ExistingBooking_ModifyBooking	buns you update my existing booking with new travel dates?
+ExistingBooking_ModifyBooking	prat you update my existing booking with new travel dates?
+ExistingBooking_ModifyBooking	tail you update my existing booking with new travel dates?
+ExistingBooking_ModifyBooking	How do I cancel and rebook my entire jaunt?
+ExistingBooking_ModifyBooking	How do I cancel and rebook my entire travel?
+ExistingBooking_ModifyBooking	How do I cancel and rebook my intact trip?
+ExistingBooking_ModifyBooking	How do single cancel and rebook my entire trip?
+ExistingBooking_ModifyBooking	How do 1 modify a group booking I made for our company?
+ExistingBooking_ModifyBooking	How do I modify a group booking I ca-ca for our company?
+ExistingBooking_ModifyBooking	How do I modify a group booking I establish for our company?
+ExistingBooking_ModifyBooking	How do I modify a group booking I micturate for our company?
+ExistingBooking_ModifyBooking	How do I modify an existing booking I cause last month?
+ExistingBooking_ModifyBooking	How do I modify an existing booking I gain last month?
+ExistingBooking_ModifyBooking	How do I modify an existing booking I micturate last month?
+ExistingBooking_ModifyBooking	How do I modify an existing booking iodine made last month?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my business actuate due to company restructuring?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my business misstep due to company restructuring?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my business stumble due to company restructuring?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my business trip due to accompany restructuring?
+ExistingBooking_ModifyBooking	How do I petition a cancellation and rebooking for my conference booking?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my conference reservation?
+ExistingBooking_ModifyBooking	How do ane request a cancellation and rebooking for my conference booking?
+ExistingBooking_ModifyBooking	How do i request a cancellation and rebooking for my conference booking?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my go plans?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my journey plans?
+ExistingBooking_ModifyBooking	How do I request a cancellation and rebooking for my travel design?
+ExistingBooking_ModifyBooking	How do unity request a cancellation and rebooking for my travel plans?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire trip due to illness or harm?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire trip due to illness or wound?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire trip imputable to illness or injury?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my stallion trip due to illness or injury?
+ExistingBooking_ModifyBooking	How do 1 request a refund and rebook my entire trip due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire misstep due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire trip due to unforeseen destiny?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my stallion trip due to unforeseen circumstances?
+ExistingBooking_ModifyBooking	How do I request a refund and rebook my entire spark?
+ExistingBooking_ModifyBooking	How do ace request a refund and rebook my entire trip?
+ExistingBooking_ModifyBooking	How do i request a refund and rebook my entire trip?
+ExistingBooking_ModifyBooking	How do iodine request a refund and rebook my entire trip?
+ExistingBooking_ModifyBooking	I need to adapt my itinerary, please help.
+ExistingBooking_ModifyBooking	I need to adjust my itinerary, please service.
+ExistingBooking_ModifyBooking	I need to set my itinerary, please help.
+ExistingBooking_ModifyBooking	single need to adjust my itinerary, please help.
+ExistingBooking_ModifyBooking	I'd be happy to aid you with that. Here are 80 training statements for a corporate travel chatbot:
+ExistingBooking_ModifyBooking	I'd be happy to help you with that. Here are 80 direct statements for a corporate travel chatbot:
+ExistingBooking_ModifyBooking	I'd be happy to help you with that. Here are 80 training instruction for a corporate travel chatbot:
+ExistingBooking_ModifyBooking	I'd be happy to help you with that. Here are 80 training statements for a corporate trip chatbot:
+ExistingBooking_ModifyBooking	Is it possible to change the date of my travel contrive?
+ExistingBooking_ModifyBooking	Is it possible to shift the date of my travel plans?
+ExistingBooking_ModifyBooking	follow it possible to change the date of my travel plans?
+ExistingBooking_ModifyBooking	represent it possible to change the date of my travel plans?
+ExistingBooking_ModifyBooking	Is there an option to add or remove passengers from my existing reserve without penalty?
+ExistingBooking_ModifyBooking	Is there an option to impart or remove passengers from my existing booking without penalty?
+ExistingBooking_ModifyBooking	Is there an selection to add or remove passengers from my existing booking without penalty?
+ExistingBooking_ModifyBooking	exist there an option to add or remove passengers from my existing booking without penalty?
+ExistingBooking_ModifyBooking	Is there an option to ADHD or remove passengers from my existing ticket?
+ExistingBooking_ModifyBooking	Is there an option to add or remove passenger from my existing ticket?
+ExistingBooking_ModifyBooking	Is there an option to add or take passengers from my existing ticket?
+ExistingBooking_ModifyBooking	cost there an option to add or remove passengers from my existing ticket?
+ExistingBooking_ModifyBooking	Is there an option to convert the city of my conference?
+ExistingBooking_ModifyBooking	Is there an option to switch the city of my conference?
+ExistingBooking_ModifyBooking	Is there an selection to change the city of my conference?
+ExistingBooking_ModifyBooking	constitute there an option to change the city of my conference?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation I booked on dead notice?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation I booked on short discover?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation iodin booked on short notice?
+ExistingBooking_ModifyBooking	follow there an option to change the type of accommodation I booked on short notice?
+ExistingBooking_ModifyBooking	Is there an option to alter the type of accommodation I booked without penalty?
+ExistingBooking_ModifyBooking	Is there an option to change the character of accommodation I booked without penalty?
+ExistingBooking_ModifyBooking	Is there an option to interchange the type of accommodation I booked without penalty?
+ExistingBooking_ModifyBooking	exist there an option to change the type of accommodation I booked without penalty?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation 1 booked?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation I book?
+ExistingBooking_ModifyBooking	Is there an option to change the type of accommodation I set-aside?
+ExistingBooking_ModifyBooking	represent there an option to change the type of accommodation I booked?
+ExistingBooking_ModifyBooking	Is there an option to modify the docket of my existing booking without penalty?
+ExistingBooking_ModifyBooking	Is there an option to modify the schedule of my existing book without penalty?
+ExistingBooking_ModifyBooking	embody there an option to modify the schedule of my existing booking without penalty?
+ExistingBooking_ModifyBooking	represent there an option to modify the schedule of my existing booking without penalty?
+ExistingBooking_ModifyBooking	Is there an option to change the schedule of my existing booking?
+ExistingBooking_ModifyBooking	Is there an option to modify the schedule of my existing reserve?
+ExistingBooking_ModifyBooking	Is there an option to qualify the schedule of my existing booking?
+ExistingBooking_ModifyBooking	equal there an option to modify the schedule of my existing booking?
+ExistingBooking_ModifyBooking	Is there an option to swap my flights with individual else?
+ExistingBooking_ModifyBooking	Is there an option to swap my flights with mortal else?
+ExistingBooking_ModifyBooking	Is there an option to swap my flights with person else?
+ExistingBooking_ModifyBooking	Is there an option to swap my flights with soul else?
+ExistingBooking_ModifyBooking	Is there an option to rise or downgrade my travel plans without penalty?
+ExistingBooking_ModifyBooking	Is there an option to upgrade or downgrade my go plans without penalty?
+ExistingBooking_ModifyBooking	Is there an option to upgrade or downgrade my jaunt plans without penalty?
+ExistingBooking_ModifyBooking	follow there an option to upgrade or downgrade my travel plans without penalty?
+ExistingBooking_ModifyBooking	My business trigger is cancelled and I want to rebook.
+ExistingBooking_ModifyBooking	My business trip is cancelled and I wish to rebook.
+ExistingBooking_ModifyBooking	My business trip is cancelled and unity want to rebook.
+ExistingBooking_ModifyBooking	My business trip-up is cancelled and I want to rebook.
+ExistingBooking_ModifyBooking	My conference has been cancelled, can you aid me change it to another date?
+ExistingBooking_ModifyBooking	My conference has been cancelled, can you facilitate me change it to another date?
+ExistingBooking_ModifyBooking	My conference has been cancelled, can you help me transfer it to another date?
+ExistingBooking_ModifyBooking	My conference has been off, can you help me change it to another date?
+ExistingBooking_ModifyBooking	My flight has been cancelled, can you help me switch it to another date?
+ExistingBooking_ModifyBooking	My flight has been cancelled, can you help me variety it to another date?
+ExistingBooking_ModifyBooking	My flight has been cancelled, can you serve me change it to another date?
+ExistingBooking_ModifyBooking	My flight has been scrub, can you help me change it to another date?
+ExistingBooking_ModifyBooking	My flight has been check, can you help me change it to another date?
+ExistingBooking_ModifyBooking	My flight has been delayed, can you aid me change it to another date?
+ExistingBooking_ModifyBooking	My flight has been delayed, can you help me change it to another appointment?
+ExistingBooking_ModifyBooking	My flight has been delayed, can you help me modification it to another date?
+ExistingBooking_ModifyBooking	My hotel qualification has not been confirmed, can you help me change it?
+ExistingBooking_ModifyBooking	My hotel reservation has not been confirmed, can you avail me change it?
+ExistingBooking_ModifyBooking	My hotel reservation has not been confirmed, can you help me transfer it?
+ExistingBooking_ModifyBooking	My hotel reservation has not been confirmed, can you serve me change it?
+ExistingBooking_ModifyBooking	My hotel reservation is not what I carry, can you help me change it?
+ExistingBooking_ModifyBooking	My hotel reservation is not what I expected, can you help me alter it?
+ExistingBooking_ModifyBooking	My hotel reservation is not what I expected, can you help me interchange it?
+ExistingBooking_ModifyBooking	My hotel reservation is not what I expected, can you help me switch it?
+ExistingBooking_ModifyBooking	My slip is tomorrow and I need to make changes.
+ExistingBooking_ModifyBooking	My trip is tomorrow and I need to form changes.
+ExistingBooking_ModifyBooking	My trip is tomorrow and I need to hit changes.
+ExistingBooking_ModifyBooking	My trip is tomorrow and I need to name changes.
+ExistingBooking_ModifyBooking	What are the options for change a business class ticket on a short-notice basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a business class ticket on a short-notice foundation?
+ExistingBooking_ModifyBooking	What are the options for modifying a business classify ticket on a short-notice basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a clientele class ticket on a short-notice basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a business class ticket on short card basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a business class ticket on short notice base?
+ExistingBooking_ModifyBooking	What are the options for modifying a job class ticket on short notice basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a patronage class ticket on short notice basis?
+ExistingBooking_ModifyBooking	What are the options for modifying a car letting booking?
+ExistingBooking_ModifyBooking	What are the options for modifying a car rental engagement?
+ExistingBooking_ModifyBooking	What are the options for modifying a car rental reservation?
+ExistingBooking_ModifyBooking	What are the options for modifying a car rental reserve?
+ExistingBooking_ModifyBooking	What are the option for modifying a cruise itinerary without additional fees?
+ExistingBooking_ModifyBooking	What are the options for modifying a cruise itinerary without extra fees?
+ExistingBooking_ModifyBooking	What are the options for modifying a cruise path without additional fees?
+ExistingBooking_ModifyBooking	What are the options for modifying a cruise route without additional fees?
+ExistingBooking_ModifyBooking	What are the choice for modifying a cruise itinerary?
+ExistingBooking_ModifyBooking	What are the options for modifying a cruise path?
+ExistingBooking_ModifyBooking	What are the options for qualify a cruise itinerary?
+ExistingBooking_ModifyBooking	What are the selection for modifying a cruise itinerary?
+ExistingBooking_ModifyBooking	What are the alternative for modifying a flight I already booked?
+ExistingBooking_ModifyBooking	What are the option for modifying a flight I already booked?
+ExistingBooking_ModifyBooking	What are the options for modify a flight I already booked?
+ExistingBooking_ModifyBooking	What are the options for modifying a flight ane already booked?
+ExistingBooking_ModifyBooking	What are the requirements for modifying a business class fine?
+ExistingBooking_ModifyBooking	What are the requirements for modifying a clientele class ticket?
+ExistingBooking_ModifyBooking	What are the requirements for modifying a line class ticket?
+ExistingBooking_ModifyBooking	What are the requirements for modifying a patronage class ticket?
+ExistingBooking_ModifyBooking	What are the price and conditions for changing or cancelling a flight?
+ExistingBooking_ModifyBooking	What are the terms and conditions for changing or cancelling a flying?
+ExistingBooking_ModifyBooking	What are the terms and precondition for changing or cancelling a flight?
+ExistingBooking_ModifyBooking	What are the terms and term for changing or cancelling a flight?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancel a conference booking during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on deepen or cancelling a conference booking during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on exchange or cancelling a conference booking during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on modify or cancelling a conference booking during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a conference booking during top season?
+ExistingBooking_ModifyBooking	What is the policy on changing or delete a conference booking during peak season?
+ExistingBooking_ModifyBooking	What is the policy on convert or cancelling a conference booking during peak season?
+ExistingBooking_ModifyBooking	What is the policy on ever-changing or cancelling a conference booking during peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a escape ticket during peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a flight ticket during peak flavour?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a trajectory ticket during peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or delete a flight ticket during peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancel a hotel reservation during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or invalidate a hotel reservation during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on ever-changing or cancelling a hotel reservation during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on shift or cancelling a hotel reservation during off-peak season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a hotel reservation during height season?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a hotel reservation during peak flavor?
+ExistingBooking_ModifyBooking	What is the policy on changing or cancelling a hotel reservation during vertex season?
+ExistingBooking_ModifyBooking	What is the policy on interchange or cancelling a hotel reservation during peak season?

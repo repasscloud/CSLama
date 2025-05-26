@@ -1,0 +1,368 @@
+NewBooking_SelectFlight	Can you assist me with a complex route?
+NewBooking_SelectFlight	Can you help me with a complex itinerary?
+NewBooking_SelectFlight	stool you assist me with a complex itinerary?
+NewBooking_SelectFlight	terminate you assist me with a complex itinerary?
+NewBooking_SelectFlight	Can you assist me with a last-minute flight exchange?
+NewBooking_SelectFlight	butt you assist me with a last-minute flight change?
+NewBooking_SelectFlight	displace you assist me with a last-minute flight change?
+NewBooking_SelectFlight	tooshie you assist me with a last-minute flight change?
+NewBooking_SelectFlight	Can you find me a cockcrow flight?
+NewBooking_SelectFlight	Can you find me a dayspring flight?
+NewBooking_SelectFlight	Can you find me a morning escape?
+NewBooking_SelectFlight	terminate you find me a morning flight?
+NewBooking_SelectFlight	Can you avail me find a flight?
+NewBooking_SelectFlight	Can you facilitate me find a flight?
+NewBooking_SelectFlight	Can you help me find a escape?
+NewBooking_SelectFlight	fire you help me find a flight?
+NewBooking_SelectFlight	Can you help me breakthrough a morning flight?
+NewBooking_SelectFlight	Can you help me get a morning flight?
+NewBooking_SelectFlight	fundament you help me find a morning flight?
+NewBooking_SelectFlight	toilet you help me find a morning flight?
+NewBooking_SelectFlight	Can you recommend some business-friendly airline?
+NewBooking_SelectFlight	fanny you recommend some business-friendly airlines?
+NewBooking_SelectFlight	lav you recommend some business-friendly airlines?
+NewBooking_SelectFlight	terminate you recommend some business-friendly airlines?
+NewBooking_SelectFlight	Can you recommend some dependable airlines for business travel?
+NewBooking_SelectFlight	Can you recommend some well airlines for business travel?
+NewBooking_SelectFlight	nates you recommend some good airlines for business travel?
+NewBooking_SelectFlight	sack you recommend some good airlines for business travel?
+NewBooking_SelectFlight	Can you recommend some respectable airlines for long-haul flights?
+NewBooking_SelectFlight	john you recommend some good airlines for long-haul flights?
+NewBooking_SelectFlight	tail you recommend some good airlines for long-haul flights?
+NewBooking_SelectFlight	tush you recommend some good airlines for long-haul flights?
+NewBooking_SelectFlight	Can you recommend some adept business-class flights?
+NewBooking_SelectFlight	Can you recommend some good business-class flying?
+NewBooking_SelectFlight	displace you recommend some good business-class flights?
+NewBooking_SelectFlight	rump you recommend some good business-class flights?
+NewBooking_SelectFlight	Can you recommend some ripe business-friendly airlines?
+NewBooking_SelectFlight	Can you recommend some unspoilt business-friendly airlines?
+NewBooking_SelectFlight	ass you recommend some good business-friendly airlines?
+NewBooking_SelectFlight	prat you recommend some good business-friendly airlines?
+NewBooking_SelectFlight	Can you commend some good in-flight entertainment options?
+NewBooking_SelectFlight	Can you recommend some good in-flight amusement options?
+NewBooking_SelectFlight	Can you urge some good in-flight entertainment options?
+NewBooking_SelectFlight	displace you recommend some good in-flight entertainment options?
+NewBooking_SelectFlight	DO you have any available flights for tomorrow?
+NewBooking_SelectFlight	Do you have any available flying for tomorrow?
+NewBooking_SelectFlight	coiffure you have any available flights for tomorrow?
+NewBooking_SelectFlight	ut you have any available flights for tomorrow?
+NewBooking_SelectFlight	Do you have any available ass on the next available flight?
+NewBooking_SelectFlight	Do you have any available seats on the next available fledge?
+NewBooking_SelectFlight	Do you have any available sit on the next available flight?
+NewBooking_SelectFlight	practice you have any available seats on the next available flight?
+NewBooking_SelectFlight	Do you have any available behind on the next week's flight?
+NewBooking_SelectFlight	Do you have any available tail on the next week's flight?
+NewBooking_SelectFlight	Do you have any available tooshie on the next week's flight?
+NewBooking_SelectFlight	coif you have any available seats on the next week's flight?
+NewBooking_SelectFlight	Do you have any discounts for corporate guest?
+NewBooking_SelectFlight	Do you have any discounts for embodied clients?
+NewBooking_SelectFlight	coif you have any discounts for corporate clients?
+NewBooking_SelectFlight	doh you have any discounts for corporate clients?
+NewBooking_SelectFlight	Do you have any discounts for haunt flyers?
+NewBooking_SelectFlight	Do you have any disregard for frequent flyers?
+NewBooking_SelectFlight	do you have any discounts for frequent flyers?
+NewBooking_SelectFlight	set you have any discounts for frequent flyers?
+NewBooking_SelectFlight	Do you have any sales or promotions on business classify tickets?
+NewBooking_SelectFlight	behave you have any sales or promotions on business class tickets?
+NewBooking_SelectFlight	do you have any sales or promotions on business class tickets?
+NewBooking_SelectFlight	fare you have any sales or promotions on business class tickets?
+NewBooking_SelectFlight	exercise you have any sales or promotions on flights this month?
+NewBooking_SelectFlight	make you have any sales or promotions on flights this month?
+NewBooking_SelectFlight	practise you have any sales or promotions on flights this month?
+NewBooking_SelectFlight	set you have any sales or promotions on flights this month?
+NewBooking_SelectFlight	Here are 80 command to train a corporate travel chatbot:
+NewBooking_SelectFlight	Here are 80 statements to school a corporate travel chatbot:
+NewBooking_SelectFlight	Here are 80 statements to train a corporate travelling chatbot:
+NewBooking_SelectFlight	Here are 80 statements to train a incarnate travel chatbot:
+NewBooking_SelectFlight	I have an unexpected business misstep next week.
+NewBooking_SelectFlight	I have an unexpected business trigger next week.
+NewBooking_SelectFlight	I have an unexpected business trip-up next week.
+NewBooking_SelectFlight	I have an unexpected job trip next week.
+NewBooking_SelectFlight	I ask to book a last-minute flight tonight.
+NewBooking_SelectFlight	I need to Quran a last-minute flight tonight.
+NewBooking_SelectFlight	I need to book a last-minute flying tonight.
+NewBooking_SelectFlight	I pauperism to book a last-minute flight tonight.
+NewBooking_SelectFlight	I'll be locomote alone, can you find me a good seat?
+NewBooking_SelectFlight	I'll be traveling alone, can you find me a good derriere?
+NewBooking_SelectFlight	I'll be traveling alone, can you find me a good invest?
+NewBooking_SelectFlight	I'll be traveling alone, can you rule me a good seat?
+NewBooking_SelectFlight	I'll be traveling for three days, can you find me a adept hotel?
+NewBooking_SelectFlight	I'll be traveling for three days, can you find me a expert hotel?
+NewBooking_SelectFlight	I'll be traveling for three days, can you find me a secure hotel?
+NewBooking_SelectFlight	I'll be traveling for three days, can you uncovering me a good hotel?
+NewBooking_SelectFlight	I'll be traveling from New York to Los Angeles next hebdomad.
+NewBooking_SelectFlight	I'll be traveling from newly York to Los Angeles next week.
+NewBooking_SelectFlight	I'll be traveling from novel York to Los Angeles next week.
+NewBooking_SelectFlight	I'll be travelling from New York to Los Angeles next week.
+NewBooking_SelectFlight	I'll be traveling with a group of people, can you help USA book?
+NewBooking_SelectFlight	I'll be traveling with a group of people, can you help us Scripture?
+NewBooking_SelectFlight	I'll be traveling with a group of people, can you help us script?
+NewBooking_SelectFlight	I'll be trip with a group of people, can you help us book?
+NewBooking_SelectFlight	I'll be move with pets, can you help us book a suitable flight?
+NewBooking_SelectFlight	I'll be traveling with pets, can you aid us book a suitable flight?
+NewBooking_SelectFlight	I'll be traveling with pets, can you help us Scripture a suitable flight?
+NewBooking_SelectFlight	I'll be traveling with pets, can you help us volume a suitable flight?
+NewBooking_SelectFlight	I'm having fuss with my current airline's schedule.
+NewBooking_SelectFlight	I'm having incommode with my current airline's schedule.
+NewBooking_SelectFlight	I'm having pain with my current airline's schedule.
+NewBooking_SelectFlight	I'm having perturb with my current airline's schedule.
+NewBooking_SelectFlight	I'm looking for a morning flight, can you breakthrough one?
+NewBooking_SelectFlight	I'm looking for a morning flight, can you find ane?
+NewBooking_SelectFlight	I'm looking for a morning flight, can you witness one?
+NewBooking_SelectFlight	I'm search for a morning flight, can you find one?
+NewBooking_SelectFlight	I'm face for a non-stop flight to Boston.
+NewBooking_SelectFlight	I'm looking for a non-stop fledge to Boston.
+NewBooking_SelectFlight	I'm search for a non-stop flight to Boston.
+NewBooking_SelectFlight	I'm wait for a non-stop flight to Boston.
+NewBooking_SelectFlight	I'm expect for a non-stop flight to Los Angeles.
+NewBooking_SelectFlight	I'm looking for a non-stop trajectory to Los Angeles.
+NewBooking_SelectFlight	I'm reckon for a non-stop flight to Los Angeles.
+NewBooking_SelectFlight	I'm see for a non-stop flight to Los Angeles.
+NewBooking_SelectFlight	My company is broadcast me on a short notice trip.
+NewBooking_SelectFlight	My company is sending me on a curt notice trip.
+NewBooking_SelectFlight	My company is sending me on a scant notice trip.
+NewBooking_SelectFlight	My company is sending me on a short notice activate.
+NewBooking_SelectFlight	My company is mail me on a trip and needs my assistance.
+NewBooking_SelectFlight	My company is sending me on a stumble and needs my assistance.
+NewBooking_SelectFlight	My company is sending me on a trip and necessarily my assistance.
+NewBooking_SelectFlight	My company is sending me on a trip and needs my help.
+NewBooking_SelectFlight	My company is sponsoring a spark and needs my assistance.
+NewBooking_SelectFlight	My company is sponsoring a trip and postulate my assistance.
+NewBooking_SelectFlight	My company is sponsoring a trip and take my assistance.
+NewBooking_SelectFlight	My company is sponsoring a trip-up and needs my assistance.
+NewBooking_SelectFlight	My company is sponsoring a misstep and needs my expertise.
+NewBooking_SelectFlight	My company is sponsoring a trip and demand my expertise.
+NewBooking_SelectFlight	My company is sponsoring a trip and necessitate my expertise.
+NewBooking_SelectFlight	My company is sponsoring a trip and pauperization my expertise.
+NewBooking_SelectFlight	My flight is delayed and 1 need help rescheduling.
+NewBooking_SelectFlight	My flight is delayed and I ask help rescheduling.
+NewBooking_SelectFlight	My flight is delayed and I need avail rescheduling.
+NewBooking_SelectFlight	My flight is delayed and I want help rescheduling.
+NewBooking_SelectFlight	My flight was cancelled and 1 need rebooking.
+NewBooking_SelectFlight	My flight was cancelled and I pauperization rebooking.
+NewBooking_SelectFlight	My flight was cancelled and iodin need rebooking.
+NewBooking_SelectFlight	My flight was cancelled and iodine need rebooking.
+NewBooking_SelectFlight	What are the best airline for business class flights?
+NewBooking_SelectFlight	What are the honest airlines for business class flights?
+NewBooking_SelectFlight	What are the practiced airlines for business class flights?
+NewBooking_SelectFlight	What are the substantially airlines for business class flights?
+NewBooking_SelectFlight	What are the best airlines for international business trip?
+NewBooking_SelectFlight	What are the dear airlines for international business travel?
+NewBooking_SelectFlight	What are the outdo airlines for international business travel?
+NewBooking_SelectFlight	What are the well airlines for international business travel?
+NewBooking_SelectFlight	What are the best times to book concern class flights?
+NewBooking_SelectFlight	What are the best times to volume business class flights?
+NewBooking_SelectFlight	What are the safe times to book business class flights?
+NewBooking_SelectFlight	What are the topper times to book business class flights?
+NewBooking_SelectFlight	What are the best multiplication to book flights?
+NewBooking_SelectFlight	What are the outflank times to book flights?
+NewBooking_SelectFlight	What are the ripe times to book flights?
+NewBooking_SelectFlight	What are the topper times to book flights?
+NewBooking_SelectFlight	What are the cheapest flight from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the crummy flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the gaudy flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the inexpensive flights from Chicago to San Francisco?
+NewBooking_SelectFlight	What are the cheapest flight from Dallas to Denver?
+NewBooking_SelectFlight	What are the gimcrack flights from Dallas to Denver?
+NewBooking_SelectFlight	What are the inexpensive flights from Dallas to Denver?
+NewBooking_SelectFlight	What are the tinny flights from Dallas to Denver?
+NewBooking_SelectFlight	What are the cheapest flight from Dallas to Miami?
+NewBooking_SelectFlight	What are the cheapest trajectory from Dallas to Miami?
+NewBooking_SelectFlight	What are the tacky flights from Dallas to Miami?
+NewBooking_SelectFlight	What are the tinny flights from Dallas to Miami?
+NewBooking_SelectFlight	What are the cheapest flights from Los Angeles to Michigan?
+NewBooking_SelectFlight	What are the flashy flights from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the tacky flights from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the tawdry flights from Los Angeles to Chicago?
+NewBooking_SelectFlight	What are the brassy flights from Los Angeles to San Francisco?
+NewBooking_SelectFlight	What are the flashy flights from Los Angeles to San Francisco?
+NewBooking_SelectFlight	What are the tawdry flights from Los Angeles to San Francisco?
+NewBooking_SelectFlight	What are the tinny flights from Los Angeles to San Francisco?
+NewBooking_SelectFlight	What are the brassy flights from New York to Chicago?
+NewBooking_SelectFlight	What are the cheapest trajectory from New York to Chicago?
+NewBooking_SelectFlight	What are the flash flights from New York to Chicago?
+NewBooking_SelectFlight	What are the sleazy flights from New York to Chicago?
+NewBooking_SelectFlight	What are the brassy flights from Seattle to Denver?
+NewBooking_SelectFlight	What are the cheapest escape from Seattle to Denver?
+NewBooking_SelectFlight	What are the flashy flights from Seattle to Denver?
+NewBooking_SelectFlight	What are the gimcrack flights from Seattle to Denver?
+NewBooking_SelectFlight	What are the cheapest flight from Seattle to San Francisco?
+NewBooking_SelectFlight	What are the cheapest trajectory from Seattle to San Francisco?
+NewBooking_SelectFlight	What are the inexpensive flights from Seattle to San Francisco?
+NewBooking_SelectFlight	What are the tawdry flights from Seattle to San Francisco?
+NewBooking_SelectFlight	Can you book a new flight for tonight? I'm rattling stressed out about this.
+NewBooking_SelectFlight	fire you book a new flight for tonight? I'm really stressed out about this.
+NewBooking_SelectFlight	rear you book a new flight for tonight? I'm really stressed out about this.
+NewBooking_SelectFlight	tush you book a new flight for tonight? I'm really stressed out about this.
+NewBooking_SelectFlight	Can you hold me on the 6am flight from Chicago to Los Angeles?
+NewBooking_SelectFlight	fundament you book me on the 6am flight from Chicago to Los Angeles?
+NewBooking_SelectFlight	john you book me on the 6am flight from Chicago to Los Angeles?
+NewBooking_SelectFlight	potty you book me on the 6am flight from Chicago to Los Angeles?
+NewBooking_SelectFlight	arse you book me on the 8pm flight from Miami to Boston?
+NewBooking_SelectFlight	commode you book me on the 8pm flight from Miami to Boston?
+NewBooking_SelectFlight	stern you book me on the 8pm flight from Miami to Boston?
+NewBooking_SelectFlight	tin you book me on the 8pm flight from Miami to Boston?
+NewBooking_SelectFlight	Can you book me on the next available trajectory for tonight?
+NewBooking_SelectFlight	Can you book me on the next usable flight for tonight?
+NewBooking_SelectFlight	rear you book me on the next available flight for tonight?
+NewBooking_SelectFlight	seat you book me on the next available flight for tonight?
+NewBooking_SelectFlight	Can you volume me on the next available flight from Dallas to Chicago?
+NewBooking_SelectFlight	behind you book me on the next available flight from Dallas to Chicago?
+NewBooking_SelectFlight	can you book me on the next available flight from Dallas to Chicago?
+NewBooking_SelectFlight	throne you book me on the next available flight from Dallas to Chicago?
+NewBooking_SelectFlight	Can you calculate into flights from New York to Miami tonight as well as tomorrow morning?
+NewBooking_SelectFlight	Can you look into flight from New York to Miami tonight as well as tomorrow morning?
+NewBooking_SelectFlight	Can you look into flights from New York to Miami tonight as well as tomorrow cockcrow?
+NewBooking_SelectFlight	rear you look into flights from New York to Miami tonight as well as tomorrow morning?
+NewBooking_SelectFlight	Can you calculate into flights that would accommodate my late arrival in NYC today?
+NewBooking_SelectFlight	seat you look into flights that would accommodate my late arrival in NYC today?
+NewBooking_SelectFlight	stern you look into flights that would accommodate my late arrival in NYC today?
+NewBooking_SelectFlight	terminate you look into flights that would accommodate my late arrival in NYC today?
+NewBooking_SelectFlight	Can you please assist me with rebooking flights due to unexpected schedule commute?
+NewBooking_SelectFlight	Can you please assist me with rebooking flights due to unexpected schedule shift?
+NewBooking_SelectFlight	butt you please assist me with rebooking flights due to unexpected schedule changes?
+NewBooking_SelectFlight	nates you please assist me with rebooking flights due to unexpected schedule changes?
+NewBooking_SelectFlight	Can you please book a new flight for me? I'm work really behind schedule.
+NewBooking_SelectFlight	Can you please book a new trajectory for me? I'm running really behind schedule.
+NewBooking_SelectFlight	Can you please reserve a new flight for me? I'm running really behind schedule.
+NewBooking_SelectFlight	fundament you please book a new flight for me? I'm running really behind schedule.
+NewBooking_SelectFlight	Can you please book me on a different carrier as my preferred one is not influence out?
+NewBooking_SelectFlight	Can you please book me on a different carrier as my preferred one is not process out?
+NewBooking_SelectFlight	Can you please book me on a different carrier as my preferred one is not solve out?
+NewBooking_SelectFlight	Can you please record me on a different carrier as my preferred one is not working out?
+NewBooking_SelectFlight	Can you please avail me find a new flight for tomorrow morning?
+NewBooking_SelectFlight	Can you please help me breakthrough a new flight for tomorrow morning?
+NewBooking_SelectFlight	displace you please help me find a new flight for tomorrow morning?
+NewBooking_SelectFlight	stool you please help me find a new flight for tomorrow morning?
+NewBooking_SelectFlight	Can you please appear into rebooking flights due to inclement weather forecasted today?
+NewBooking_SelectFlight	Can you please flavor into rebooking flights due to inclement weather forecasted today?
+NewBooking_SelectFlight	buttocks you please look into rebooking flights due to inclement weather forecasted today?
+NewBooking_SelectFlight	tail you please look into rebooking flights due to inclement weather forecasted today?
+NewBooking_SelectFlight	I just found out that my original flight has been cancelled due to conditions.
+NewBooking_SelectFlight	I just found out that my original flight has been cancelled referable to weather.
+NewBooking_SelectFlight	I just observe out that my original flight has been cancelled due to weather.
+NewBooking_SelectFlight	I just receive out that my original flight has been cancelled due to weather.
+NewBooking_SelectFlight	I need a new flight ASAP as my current one is going to be cancelled due to mechanical takings.
+NewBooking_SelectFlight	I need a new flight ASAP as my current one is passing to be cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need a new flight ASAP as my current peerless is going to be cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need a new flight ASAP as my current unity is going to be cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need a new flight ASAP, but the airline celebrate telling me that they don't have any options available.
+NewBooking_SelectFlight	I need a new flight ASAP, but the airline keeps evidence me that they don't have any options available.
+NewBooking_SelectFlight	I need a new flight ASAP, but the airline keeps relation me that they don't have any options available.
+NewBooking_SelectFlight	single need a new flight ASAP, but the airline keeps telling me that they don't have any options available.
+NewBooking_SelectFlight	I need to bring to LA for work but my original flight was cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need to come to LA for work but my original flight was cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need to get to LA for process but my original flight was cancelled due to mechanical issues.
+NewBooking_SelectFlight	I need to get to LA for shape but my original flight was cancelled due to mechanical issues.
+NewBooking_SelectFlight	I'm having trouble getting my luggage checked, is there an option to baffle a new flight?
+NewBooking_SelectFlight	I'm having trouble getting my luggage checked, is there an option to pose a new flight?
+NewBooking_SelectFlight	I'm having trouble scram my luggage checked, is there an option to get a new flight?
+NewBooking_SelectFlight	I'm having upset getting my luggage checked, is there an option to get a new flight?
+NewBooking_SelectFlight	I'm having trouble acquire through to the airline's customer service, can you help?
+NewBooking_SelectFlight	I'm having trouble catch through to the airline's customer service, can you help?
+NewBooking_SelectFlight	I'm having trouble getting through to the airline's customer service, can you avail?
+NewBooking_SelectFlight	I'm having trouble have through to the airline's customer service, can you help?
+NewBooking_SelectFlight	I'm race late, and I need a new flight booked immediately.
+NewBooking_SelectFlight	I'm running belatedly, and I need a new flight booked immediately.
+NewBooking_SelectFlight	I'm running late, and I indigence a new flight booked immediately.
+NewBooking_SelectFlight	I'm running late, and I need a Modern flight booked immediately.
+NewBooking_SelectFlight	I'm so sorry but my flight was cancelled and I ask to book a new one ASAP.
+NewBooking_SelectFlight	I'm so sorry but my flight was cancelled and I need to book a new 1 ASAP.
+NewBooking_SelectFlight	I'm so sorry but my flight was cancelled and I pauperization to book a new one ASAP.
+NewBooking_SelectFlight	I'm so sorry but my flight was cancelled and unity need to book a new one ASAP.
+NewBooking_SelectFlight	I'm opine to give a presentation in DC, but my original flight got cancelled due to bad weather.
+NewBooking_SelectFlight	I'm supposed to give a presentation in DC, but my original flight bring cancelled due to bad weather.
+NewBooking_SelectFlight	I'm supposed to give a presentation in DC, but my original flight capture cancelled due to bad weather.
+NewBooking_SelectFlight	I'm supposed to give a presentation in DC, but my original flight suffer cancelled due to bad weather.
+NewBooking_SelectFlight	I've been trying for hours but haven't been able to incur rebooked yet.
+NewBooking_SelectFlight	I've been trying for hours but haven't been able to nonplus rebooked yet.
+NewBooking_SelectFlight	I've been trying for hours but haven't been able to sire rebooked yet.
+NewBooking_SelectFlight	I've been trying for hours but haven't been able-bodied to get rebooked yet.
+NewBooking_SelectFlight	I've been trying for hours to get through with the airline's customer servicing team but no luck so far.
+NewBooking_SelectFlight	I've been trying for hours to let through with the airline's customer service team but no luck so far.
+NewBooking_SelectFlight	I've been trying for hours to receive through with the airline's customer service team but no luck so far.
+NewBooking_SelectFlight	I've been trying for hours to stick through with the airline's customer service team but no luck so far.
+NewBooking_SelectFlight	I've got an early morning forgather in San Francisco but my original flight has been cancelled due to weather.
+NewBooking_SelectFlight	I've got an early morning meeting in San Francisco but my original escape has been cancelled due to weather.
+NewBooking_SelectFlight	I've got an early morning play in San Francisco but my original flight has been cancelled due to weather.
+NewBooking_SelectFlight	I've got an early sunrise meeting in San Francisco but my original flight has been cancelled due to weather.
+NewBooking_SelectFlight	I've begin an emergency meeting in Chicago and I need to get there today.
+NewBooking_SelectFlight	I've got an emergency meeting in Chicago and I need to nonplus there today.
+NewBooking_SelectFlight	I've got an emergency meeting in Chicago and I postulate to get there today.
+NewBooking_SelectFlight	I've got an emergency merging in Chicago and I need to get there today.
+NewBooking_SelectFlight	I've had egress with my passport and now my flight is delayed as well.
+NewBooking_SelectFlight	I've had issues with my passport and now my escape is delayed as well.
+NewBooking_SelectFlight	I've had issuing with my passport and now my flight is delayed as well.
+NewBooking_SelectFlight	I've had takings with my passport and now my flight is delayed as well.
+NewBooking_SelectFlight	I've assay rebooking several times, but it seems like the airline has no availability.
+NewBooking_SelectFlight	I've tried rebooking several times, but it seems like the airway has no availability.
+NewBooking_SelectFlight	I've tried rebooking several times, but it seems similar the airline has no availability.
+NewBooking_SelectFlight	I've tried rebooking various times, but it seems like the airline has no availability.
+NewBooking_SelectFlight	Is there a direct escape from Denver to Austin that can fit my schedule tonight?
+NewBooking_SelectFlight	Is there a direct flying from Denver to Austin that can fit my schedule tonight?
+NewBooking_SelectFlight	Is there a orchestrate flight from Denver to Austin that can fit my schedule tonight?
+NewBooking_SelectFlight	Is there a target flight from Denver to Austin that can fit my schedule tonight?
+NewBooking_SelectFlight	Is there a flight available from New York to LA tonight that can accommodate my docket?
+NewBooking_SelectFlight	Is there a flight available from fresh York to LA tonight that can accommodate my schedule?
+NewBooking_SelectFlight	Is there a flight available from novel York to LA tonight that can accommodate my schedule?
+NewBooking_SelectFlight	constitute there a flight available from New York to LA tonight that can accommodate my schedule?
+NewBooking_SelectFlight	My business trip was arrange in jeopardy due to flight cancellation from last night.
+NewBooking_SelectFlight	My business trip was put in jeopardy due to flight cancellation from close night.
+NewBooking_SelectFlight	My business trip was put in jeopardy due to flight cancellation from lowest night.
+NewBooking_SelectFlight	My business trip was put in jeopardy due to flight cancellation from survive night.
+NewBooking_SelectFlight	My company ask me to be in Houston for a conference and i was wondering if you could find an alternative flight.
+NewBooking_SelectFlight	My company requires me to be in Houston for a conference and I was question if you could find an substitute flight.
+NewBooking_SelectFlight	My company requires me to be in Houston for a conference and iodine was wondering if you could see an alternative flight.
+NewBooking_SelectFlight	My party requires me to be in Houston for a conference and 1 was wondering if you could find an alternative flight.
+NewBooking_SelectFlight	My company command me to be in New York by 9am, do you have any flights available?
+NewBooking_SelectFlight	My company requires me to be in Modern York by 9am, do you have any flights available?
+NewBooking_SelectFlight	My company requires me to be in New York by 9am, do you have any fledge available?
+NewBooking_SelectFlight	My company requires me to be in fresh York by 9am, do you have any flights available?
+NewBooking_SelectFlight	My current flight is check again, can you assist me with rebooking?
+NewBooking_SelectFlight	My current flight is delay again, can you assist me with rebooking?
+NewBooking_SelectFlight	My current flight is delayed again, can you serve me with rebooking?
+NewBooking_SelectFlight	My current flight is retard again, can you assist me with rebooking?
+NewBooking_SelectFlight	My family and I are in need of help chance a new flight after our previous one got lost.
+NewBooking_SelectFlight	My family and I are in need of help finding a new flight after our previous one catch lost.
+NewBooking_SelectFlight	My family and I are in need of help finding a new flight after our previous one got baffled.
+NewBooking_SelectFlight	My family and I are in need of help finding a new flight after our previous one receive lost.
+NewBooking_SelectFlight	My friend is divinatory to meet with me at the airport but now their flight has been delayed.
+NewBooking_SelectFlight	My friend is speculate to meet with me at the airport but now their flight has been delayed.
+NewBooking_SelectFlight	My friend is suppose to meet with me at the airport but now their flight has been delayed.
+NewBooking_SelectFlight	My friend is supposed to gather with me at the airport but now their flight has been delayed.
+NewBooking_SelectFlight	My friend's flight was delay, and now I'm worried about mine being delayed as well.
+NewBooking_SelectFlight	My friend's flight was delayed, and now I'm distressed about mine being delayed as well.
+NewBooking_SelectFlight	My friend's flight was delayed, and now I'm worried about mine being delayed as advantageously.
+NewBooking_SelectFlight	My friend's flight was delayed, and now I'm worried about mine being detain as well.
+NewBooking_SelectFlight	My friend's sis is going through some personal issues and needs my help finding a new flight.
+NewBooking_SelectFlight	My friend's sister is going through some personal issues and needs my assistance finding a new flight.
+NewBooking_SelectFlight	My friend's sister is going through some personal issues and needs my help finding a Modern flight.
+NewBooking_SelectFlight	My friend's sister is going through some personal issues and needs my help rule a new flight.
+NewBooking_SelectFlight	My job requires me to attend an important conference in Seattle, but my original flight mother delayed.
+NewBooking_SelectFlight	My job requires me to attend an important conference in Seattle, but my original flight pose delayed.
+NewBooking_SelectFlight	My job requires me to attend an important conference in Seattle, but my original flight sustain delayed.
+NewBooking_SelectFlight	My job requires me to see an important conference in Seattle, but my original flight got delayed.
+NewBooking_SelectFlight	My original flight was delayed due to weather and now I'm worried about it baffle cancelled as well.
+NewBooking_SelectFlight	My original flight was delayed due to weather and now I'm worried about it getting cancel as well.
+NewBooking_SelectFlight	My original flight was delayed due to weather and now I'm worried about it incur cancelled as well.
+NewBooking_SelectFlight	My original flight was delayed due to weather and now I'm worried about it suffer cancelled as well.
+NewBooking_SelectFlight	The airline has confounded my luggage, and I need a new flight booked as soon as possible.
+NewBooking_SelectFlight	The airline has helpless my luggage, and I need a new flight booked as soon as possible.
+NewBooking_SelectFlight	The airline has lost my luggage, and I involve a new flight booked as soon as possible.
+NewBooking_SelectFlight	The airline has lost my luggage, and I need a new flight set-aside as soon as possible.
+NewBooking_SelectFlight	The airline has messed up my go plans again, can you please assist me?
+NewBooking_SelectFlight	The airline has messed up my journey plans again, can you please assist me?
+NewBooking_SelectFlight	The airline has messed up my travel plans again, can you delight assist me?
+NewBooking_SelectFlight	The airway has messed up my travel plans again, can you please assist me?
+NewBooking_SelectFlight	The airline's customer help team was completely unhelpful to me, so can you please assist me instead?
+NewBooking_SelectFlight	The airline's customer service team was completely unhelpful to me, so can you please assistance me instead?
+NewBooking_SelectFlight	The airline's customer service team was completely unhelpful to me, so can you please serve me instead?
+NewBooking_SelectFlight	The airline's customer serving team was completely unhelpful to me, so can you please assist me instead?
+NewBooking_SelectFlight	The airline's customer Service team was unhelpful to me and I need your assistance.
+NewBooking_SelectFlight	The airline's customer service squad was unhelpful to me and I need your assistance.
+NewBooking_SelectFlight	The airline's customer service team was unhelpful to me and I need your help.
+NewBooking_SelectFlight	The airline's customer service team was unhelpful to me and I pauperization your assistance.
+NewBooking_SelectFlight	The flight attendants narrate me that my original flight got cancelled, can you please confirm?
+NewBooking_SelectFlight	The flight attendants severalise me that my original flight got cancelled, can you please confirm?
+NewBooking_SelectFlight	The flight attendants told me that my original flight baffle cancelled, can you please confirm?
+NewBooking_SelectFlight	The flight attendants told me that my original flight contract cancelled, can you please confirm?

@@ -1,0 +1,528 @@
+NewBooking_SelectMultiCityFlight	Book flight for three cities.
+NewBooking_SelectMultiCityFlight	Scripture flights for three cities.
+NewBooking_SelectMultiCityFlight	leger flights for three cities.
+NewBooking_SelectMultiCityFlight	record flights for three cities.
+NewBooking_SelectMultiCityFlight	Bible flights from Miami to Europe and back up.
+NewBooking_SelectMultiCityFlight	Book flights from Miami to Europe and backrest up.
+NewBooking_SelectMultiCityFlight	Book flights from Miami to Europe and endorse up.
+NewBooking_SelectMultiCityFlight	Book flights from Miami to Europe and rachis up.
+NewBooking_SelectMultiCityFlight	Book flights from new York to Chicago then Europe.
+NewBooking_SelectMultiCityFlight	Book trajectory from New York to Chicago then Europe.
+NewBooking_SelectMultiCityFlight	Word flights from New York to Chicago then Europe.
+NewBooking_SelectMultiCityFlight	script flights from New York to Chicago then Europe.
+NewBooking_SelectMultiCityFlight	Book flights from newly York to London and Paris.
+NewBooking_SelectMultiCityFlight	Book flights from young York to London and Paris.
+NewBooking_SelectMultiCityFlight	hold flights from New York to London and Paris.
+NewBooking_SelectMultiCityFlight	script flights from New York to London and Paris.
+NewBooking_SelectMultiCityFlight	Book flights from fresh York to Miami then Europe.
+NewBooking_SelectMultiCityFlight	Book flights from newfangled York to Miami then Europe.
+NewBooking_SelectMultiCityFlight	Book flights from novel York to Miami then Europe.
+NewBooking_SelectMultiCityFlight	Book trajectory from New York to Miami then Europe.
+NewBooking_SelectMultiCityFlight	Book flights from new York to Paris then Rome.
+NewBooking_SelectMultiCityFlight	Book trajectory from New York to Paris then Rome.
+NewBooking_SelectMultiCityFlight	book flights from New York to Paris then Rome.
+NewBooking_SelectMultiCityFlight	playscript flights from New York to Paris then Rome.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city B then city blow.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city B then city century.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city B then city cytosine.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city bacillus then city C.
+NewBooking_SelectMultiCityFlight	Book flights from city amp to city D and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city angstrom to city D and back up.
+NewBooking_SelectMultiCityFlight	Book trajectory from city A to city D and back up.
+NewBooking_SelectMultiCityFlight	reserve flights from city A to city D and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city E and stake up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to metropolis E and back up.
+NewBooking_SelectMultiCityFlight	Koran flights from city A to city E and back up.
+NewBooking_SelectMultiCityFlight	Scripture flights from city A to city E and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city F and gage up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city F and support up.
+NewBooking_SelectMultiCityFlight	Scripture flights from city A to city F and back up.
+NewBooking_SelectMultiCityFlight	ledger flights from city A to city F and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city G and hind up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city G and rearwards up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city gee and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city grand and back up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city H and rearward up.
+NewBooking_SelectMultiCityFlight	Book flights from city A to city H and spine up.
+NewBooking_SelectMultiCityFlight	Book flights from city amp to city H and back up.
+NewBooking_SelectMultiCityFlight	volume flights from city A to city H and back up.
+NewBooking_SelectMultiCityFlight	Book me flights from newly York to Paris.
+NewBooking_SelectMultiCityFlight	Book me flights from young York to Paris.
+NewBooking_SelectMultiCityFlight	Book me trajectory from New York to Paris.
+NewBooking_SelectMultiCityFlight	Koran me flights from New York to Paris.
+NewBooking_SelectMultiCityFlight	Can I al-Qur'an a ticket with multiple stops at the airport?
+NewBooking_SelectMultiCityFlight	Can I book a tag with multiple stops at the airport?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple block at the airport?
+NewBooking_SelectMultiCityFlight	displace I book a ticket with multiple stops at the airport?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple Chicago on American Airlines?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple stopover on American Airlines?
+NewBooking_SelectMultiCityFlight	derriere I book a ticket with multiple stops on American Airlines?
+NewBooking_SelectMultiCityFlight	fundament I book a ticket with multiple stops on American Airlines?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple Michigan on Delta?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple cease on Delta?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple diaphragm on Delta?
+NewBooking_SelectMultiCityFlight	hindquarters I book a ticket with multiple stops on Delta?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple cease on United?
+NewBooking_SelectMultiCityFlight	Can ace book a ticket with multiple stops on United?
+NewBooking_SelectMultiCityFlight	Can iodine book a ticket with multiple stops on United?
+NewBooking_SelectMultiCityFlight	derriere I book a ticket with multiple stops on United?
+NewBooking_SelectMultiCityFlight	Can I book a ticket with multiple arrest?
+NewBooking_SelectMultiCityFlight	backside I book a ticket with multiple stops?
+NewBooking_SelectMultiCityFlight	bathroom I book a ticket with multiple stops?
+NewBooking_SelectMultiCityFlight	lavatory I book a ticket with multiple stops?
+NewBooking_SelectMultiCityFlight	Can I generate multi-city flights?
+NewBooking_SelectMultiCityFlight	Can I get multi-city flight?
+NewBooking_SelectMultiCityFlight	Can I let multi-city flights?
+NewBooking_SelectMultiCityFlight	Can I take multi-city flights?
+NewBooking_SelectMultiCityFlight	Can you help me discovery flights that go through another airport?
+NewBooking_SelectMultiCityFlight	Can you help me find flights that fit through another airport?
+NewBooking_SelectMultiCityFlight	buttocks you help me find flights that go through another airport?
+NewBooking_SelectMultiCityFlight	tail you help me find flights that go through another airport?
+NewBooking_SelectMultiCityFlight	Can you assist me find flights with layovers?
+NewBooking_SelectMultiCityFlight	Can you help me chance flights with layovers?
+NewBooking_SelectMultiCityFlight	Can you help me detect flights with layovers?
+NewBooking_SelectMultiCityFlight	terminate you help me find flights with layovers?
+NewBooking_SelectMultiCityFlight	Can you assist me find flights with stops in both countries?
+NewBooking_SelectMultiCityFlight	Can you help me determine flights with stops in both countries?
+NewBooking_SelectMultiCityFlight	Can you help me happen flights with stops in both countries?
+NewBooking_SelectMultiCityFlight	tush you help me find flights with stops in both countries?
+NewBooking_SelectMultiCityFlight	Can you assistant me find the cheapest multi-city flights on Air France?
+NewBooking_SelectMultiCityFlight	Can you help me find the cheapest multi-city flights on air France?
+NewBooking_SelectMultiCityFlight	Can you help me find the cheapest multi-city flights on publicise France?
+NewBooking_SelectMultiCityFlight	buttocks you help me find the cheapest multi-city flights on Air France?
+NewBooking_SelectMultiCityFlight	Can you help me detect the cheapest multi-city flights on Lufthansa?
+NewBooking_SelectMultiCityFlight	Can you help me find the flashy multi-city flights on Lufthansa?
+NewBooking_SelectMultiCityFlight	behind you help me find the cheapest multi-city flights on Lufthansa?
+NewBooking_SelectMultiCityFlight	potty you help me find the cheapest multi-city flights on Lufthansa?
+NewBooking_SelectMultiCityFlight	Can you help me find the tatty multi-city flights on United?
+NewBooking_SelectMultiCityFlight	Can you help me regain the cheapest multi-city flights on United?
+NewBooking_SelectMultiCityFlight	arse you help me find the cheapest multi-city flights on United?
+NewBooking_SelectMultiCityFlight	behind you help me find the cheapest multi-city flights on United?
+NewBooking_SelectMultiCityFlight	Can you help me find the cheapest multi-city escape with connections?
+NewBooking_SelectMultiCityFlight	Can you help me find the cheapest multi-city flights with connective?
+NewBooking_SelectMultiCityFlight	Can you help me get the cheapest multi-city flights with connections?
+NewBooking_SelectMultiCityFlight	nates you help me find the cheapest multi-city flights with connections?
+NewBooking_SelectMultiCityFlight	Can you help me find the cheap multi-city flights?
+NewBooking_SelectMultiCityFlight	ass you help me find the cheapest multi-city flights?
+NewBooking_SelectMultiCityFlight	rump you help me find the cheapest multi-city flights?
+NewBooking_SelectMultiCityFlight	stern you help me find the cheapest multi-city flights?
+NewBooking_SelectMultiCityFlight	Connecting escape accepted for domestic travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights assume for domestic travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights recognised for domestic travel only.
+NewBooking_SelectMultiCityFlight	relate flights accepted for domestic travel only.
+NewBooking_SelectMultiCityFlight	Connecting flight accepted for domestic travel.
+NewBooking_SelectMultiCityFlight	Connecting flights accepted for domestic traveling.
+NewBooking_SelectMultiCityFlight	Connecting flights consent for domestic travel.
+NewBooking_SelectMultiCityFlight	unite flights accepted for domestic travel.
+NewBooking_SelectMultiCityFlight	Connecting flights accept?
+NewBooking_SelectMultiCityFlight	Connecting flights assume?
+NewBooking_SelectMultiCityFlight	Connecting flights take?
+NewBooking_SelectMultiCityFlight	Connecting flying accepted?
+NewBooking_SelectMultiCityFlight	Connecting flights deal for international travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights deliberate for international travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights view for international travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights weigh for international travel only.
+NewBooking_SelectMultiCityFlight	Connecting flights conceive.
+NewBooking_SelectMultiCityFlight	Connecting flights debate.
+NewBooking_SelectMultiCityFlight	colligate flights considered.
+NewBooking_SelectMultiCityFlight	link flights considered.
+NewBooking_SelectMultiCityFlight	Connecting escape okay for domestic travel too?
+NewBooking_SelectMultiCityFlight	Connecting flights hunky-dory for domestic travel too?
+NewBooking_SelectMultiCityFlight	associate flights okay for domestic travel too?
+NewBooking_SelectMultiCityFlight	colligate flights okay for domestic travel too?
+NewBooking_SelectMultiCityFlight	Connecting flights okay for international jaunt only.
+NewBooking_SelectMultiCityFlight	Connecting flights okay for international traveling only.
+NewBooking_SelectMultiCityFlight	Connecting flights okay for international trip only.
+NewBooking_SelectMultiCityFlight	relate flights okay for international travel only.
+NewBooking_SelectMultiCityFlight	Do you offer multi-destination airfare choice?
+NewBooking_SelectMultiCityFlight	Do you offer multi-destination airfare selection?
+NewBooking_SelectMultiCityFlight	cause you offer multi-destination airfare options?
+NewBooking_SelectMultiCityFlight	do you offer multi-destination airfare options?
+NewBooking_SelectMultiCityFlight	come you offer round-the-world tickets?
+NewBooking_SelectMultiCityFlight	do you offer round-the-world tickets?
+NewBooking_SelectMultiCityFlight	dress you offer round-the-world tickets?
+NewBooking_SelectMultiCityFlight	perform you offer round-the-world tickets?
+NewBooking_SelectMultiCityFlight	Flight choice with connections considered.
+NewBooking_SelectMultiCityFlight	Flight options with connections believe.
+NewBooking_SelectMultiCityFlight	Flight options with joining considered.
+NewBooking_SelectMultiCityFlight	Flight options with link considered.
+NewBooking_SelectMultiCityFlight	Flight options with layovers consider for business class too.
+NewBooking_SelectMultiCityFlight	Flight options with layovers considered for business category too.
+NewBooking_SelectMultiCityFlight	Flight options with layovers considered for business separate too.
+NewBooking_SelectMultiCityFlight	Flight options with layovers debate for business class too.
+NewBooking_SelectMultiCityFlight	Flights with connections ok?
+NewBooking_SelectMultiCityFlight	Flights with connections sanction?
+NewBooking_SelectMultiCityFlight	fledge with connections okay?
+NewBooking_SelectMultiCityFlight	trajectory with connections okay?
+NewBooking_SelectMultiCityFlight	Flights with layovers count for business class too.
+NewBooking_SelectMultiCityFlight	Flights with layovers take for business class too.
+NewBooking_SelectMultiCityFlight	Flights with stop considered for business class too.
+NewBooking_SelectMultiCityFlight	flight with layovers considered for business class too.
+NewBooking_SelectMultiCityFlight	Flights with layover considered for economy plus.
+NewBooking_SelectMultiCityFlight	Flights with layovers deliberate for economy plus.
+NewBooking_SelectMultiCityFlight	Flights with layovers moot for economy plus.
+NewBooking_SelectMultiCityFlight	fledge with layovers considered for economy plus.
+NewBooking_SelectMultiCityFlight	Flights with layovers believe for first class too.
+NewBooking_SelectMultiCityFlight	Flights with layovers considered for first stratum too.
+NewBooking_SelectMultiCityFlight	Flights with layovers deliberate for first class too.
+NewBooking_SelectMultiCityFlight	Flights with layovers think for first class too.
+NewBooking_SelectMultiCityFlight	How do I book a multi-stop flying?
+NewBooking_SelectMultiCityFlight	How do I record a multi-stop flight?
+NewBooking_SelectMultiCityFlight	How do I script a multi-stop flight?
+NewBooking_SelectMultiCityFlight	How do I volume a multi-stop flight?
+NewBooking_SelectMultiCityFlight	How do I book multiple arrest?
+NewBooking_SelectMultiCityFlight	How do I book multiple discontinue?
+NewBooking_SelectMultiCityFlight	How do I book multiple quit?
+NewBooking_SelectMultiCityFlight	How do I book multiple stopover?
+NewBooking_SelectMultiCityFlight	How do I encounter the cheapest flights with connections?
+NewBooking_SelectMultiCityFlight	How do I feel the cheapest flights with connections?
+NewBooking_SelectMultiCityFlight	How do I find the tacky flights with connections?
+NewBooking_SelectMultiCityFlight	How do I find the tatty flights with connections?
+NewBooking_SelectMultiCityFlight	I ask flights for two cities.
+NewBooking_SelectMultiCityFlight	I motive flights for two cities.
+NewBooking_SelectMultiCityFlight	I necessitate flights for two cities.
+NewBooking_SelectMultiCityFlight	I pauperism flights for two cities.
+NewBooking_SelectMultiCityFlight	I need flights from New York to Boston then EU.
+NewBooking_SelectMultiCityFlight	I need flights from novel York to Boston then Europe.
+NewBooking_SelectMultiCityFlight	I postulate flights from New York to Boston then Europe.
+NewBooking_SelectMultiCityFlight	I take flights from New York to Boston then Europe.
+NewBooking_SelectMultiCityFlight	I demand flights from New York to London and then Paris.
+NewBooking_SelectMultiCityFlight	I need fledge from New York to London and then Paris.
+NewBooking_SelectMultiCityFlight	I need flights from new York to London and then Paris.
+NewBooking_SelectMultiCityFlight	I need flights from novel York to London and then Paris.
+NewBooking_SelectMultiCityFlight	I'm attend for flights that go through another city.
+NewBooking_SelectMultiCityFlight	I'm depend for flights that go through another city.
+NewBooking_SelectMultiCityFlight	I'm looking for flights that belong through another city.
+NewBooking_SelectMultiCityFlight	I'm looking for flights that choke through another city.
+NewBooking_SelectMultiCityFlight	I'm planning a jaunt to Europe.
+NewBooking_SelectMultiCityFlight	I'm planning a trip to EEC.
+NewBooking_SelectMultiCityFlight	I'm planning a trip to EU.
+NewBooking_SelectMultiCityFlight	I'm planning a tripper to Europe.
+NewBooking_SelectMultiCityFlight	Is it possible to Bible flights with multiple layovers?
+NewBooking_SelectMultiCityFlight	Is it possible to book flights with multiple layover?
+NewBooking_SelectMultiCityFlight	Is it possible to book flights with multiple stop?
+NewBooking_SelectMultiCityFlight	comprise it possible to book flights with multiple layovers?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple cease at check-in online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple diaphragm at check-in online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple end at check-in online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple kibosh at check-in online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking escape with multiple stops at check-in?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple arrest at check-in?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple diaphragm at check-in?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple end at check-in?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple Chicago at the airport online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple kibosh at the airport online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple period at the airport online?
+NewBooking_SelectMultiCityFlight	follow there an option for booking flights with multiple stops at the airport online?
+NewBooking_SelectMultiCityFlight	Is there an alternative for booking flights with multiple stops in advance online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking escape with multiple stops in advance online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple stops in beforehand online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple stops in improvement online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple contain in advance?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple diaphragm in advance?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple discontinue in advance?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple kibosh in advance?
+NewBooking_SelectMultiCityFlight	Is there an option for book flights with multiple stops online?
+NewBooking_SelectMultiCityFlight	Is there an option for booking flights with multiple boodle online?
+NewBooking_SelectMultiCityFlight	Is there an option for reserve flights with multiple stops online?
+NewBooking_SelectMultiCityFlight	follow there an option for booking flights with multiple stops online?
+NewBooking_SelectMultiCityFlight	Is there an option for multiple address?
+NewBooking_SelectMultiCityFlight	Is there an option for multiple terminus?
+NewBooking_SelectMultiCityFlight	constitute there an option for multiple destinations?
+NewBooking_SelectMultiCityFlight	equal there an option for multiple destinations?
+NewBooking_SelectMultiCityFlight	Multi-city flights available for book?
+NewBooking_SelectMultiCityFlight	Multi-city flights available for reservation?
+NewBooking_SelectMultiCityFlight	Multi-city flights available for reserve?
+NewBooking_SelectMultiCityFlight	Multi-city flights usable for booking?
+NewBooking_SelectMultiCityFlight	Multi-city flights available for international go.
+NewBooking_SelectMultiCityFlight	Multi-city flights available for international move.
+NewBooking_SelectMultiCityFlight	Multi-city flights available for international travelling.
+NewBooking_SelectMultiCityFlight	Multi-city flights usable for international travel.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with airline XTC.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with airline ecstasy.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with airline go.
+NewBooking_SelectMultiCityFlight	Multi-city flying available with airline X.
+NewBooking_SelectMultiCityFlight	Multi-city escape available with business class too.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with business division too.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with business grade too.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with byplay class too.
+NewBooking_SelectMultiCityFlight	Multi-city escape available with economy plus.
+NewBooking_SelectMultiCityFlight	Multi-city flight available with economy plus.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with economy positive.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with thriftiness plus.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with firstly class too.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with get-go class too.
+NewBooking_SelectMultiCityFlight	Multi-city flights available with maiden class too.
+NewBooking_SelectMultiCityFlight	Multi-city flights usable with first class too.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on bare Canada.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on line Canada.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on send Canada.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on strain Canada.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare choice available on Delta.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on delta.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options uncommitted on Delta.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare pick available on Delta.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options uncommitted on Lufthansa.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options usable on Lufthansa.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare pick available on Lufthansa.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare selection available on Lufthansa.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare option available on Swiss.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options usable on Swiss.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare pick available on Swiss.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare selection available on Swiss.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare option available on United.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on join.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options available on unite.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare options usable on United.
+NewBooking_SelectMultiCityFlight	Multi-destination airfare alternative available?
+NewBooking_SelectMultiCityFlight	Multi-destination airfare choice available?
+NewBooking_SelectMultiCityFlight	Multi-destination airfare option available?
+NewBooking_SelectMultiCityFlight	Multi-destination airfare selection available?
+NewBooking_SelectMultiCityFlight	One intercept flight or multi-leg flights?
+NewBooking_SelectMultiCityFlight	One stay flight or multi-leg flights?
+NewBooking_SelectMultiCityFlight	One stop escape or multi-leg flights?
+NewBooking_SelectMultiCityFlight	One stop flight or multi-leg fledge?
+NewBooking_SelectMultiCityFlight	What's the cheapest way to locomotion Europe by plane?
+NewBooking_SelectMultiCityFlight	What's the cheapest way to travelling Europe by plane?
+NewBooking_SelectMultiCityFlight	What's the cheapest way to trip Europe by plane?
+NewBooking_SelectMultiCityFlight	What's the flash way to travel Europe by plane?
+NewBooking_SelectMultiCityFlight	al-Qur'an a multi-city flight from Chicago to Denver.
+NewBooking_SelectMultiCityFlight	ledger a multi-city flight from Chicago to Denver.
+NewBooking_SelectMultiCityFlight	playscript a multi-city flight from Chicago to Denver.
+NewBooking_SelectMultiCityFlight	reserve a multi-city flight from Chicago to Denver.
+NewBooking_SelectMultiCityFlight	Book a multi-city flight from Michigan.
+NewBooking_SelectMultiCityFlight	Book a multi-city flight from boodle.
+NewBooking_SelectMultiCityFlight	al-Qur'an a multi-city flight from Chicago.
+NewBooking_SelectMultiCityFlight	reserve a multi-city flight from Chicago.
+NewBooking_SelectMultiCityFlight	Book a multi-city escape from New York to Chicago.
+NewBooking_SelectMultiCityFlight	Book a multi-city flight from fresh York to Chicago.
+NewBooking_SelectMultiCityFlight	Book a multi-city flight from newly York to Chicago.
+NewBooking_SelectMultiCityFlight	volume a multi-city flight from New York to Chicago.
+NewBooking_SelectMultiCityFlight	Bible a one-way flight from Philadelphia to Toronto with connections.
+NewBooking_SelectMultiCityFlight	Scripture a one-way flight from Philadelphia to Toronto with connections.
+NewBooking_SelectMultiCityFlight	Word a one-way flight from Philadelphia to Toronto with connections.
+NewBooking_SelectMultiCityFlight	book a one-way flight from Philadelphia to Toronto with connections.
+NewBooking_SelectMultiCityFlight	Koran a one-way flight from San Diego to Seattle.
+NewBooking_SelectMultiCityFlight	Scripture a one-way flight from San Diego to Seattle.
+NewBooking_SelectMultiCityFlight	ledger a one-way flight from San Diego to Seattle.
+NewBooking_SelectMultiCityFlight	script a one-way flight from San Diego to Seattle.
+NewBooking_SelectMultiCityFlight	Book a one-way trajectory from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Koran a one-way flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	hold a one-way flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	reserve a one-way flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Book a assail trip from Paris to Bangkok with layovers.
+NewBooking_SelectMultiCityFlight	Book a round spark from Paris to Bangkok with layovers.
+NewBooking_SelectMultiCityFlight	Book a round stumble from Paris to Bangkok with layovers.
+NewBooking_SelectMultiCityFlight	record a round trip from Paris to Bangkok with layovers.
+NewBooking_SelectMultiCityFlight	Book a round-trip ticket from Dallas to Michigan.
+NewBooking_SelectMultiCityFlight	Scripture a round-trip ticket from Dallas to Chicago.
+NewBooking_SelectMultiCityFlight	Word a round-trip ticket from Dallas to Chicago.
+NewBooking_SelectMultiCityFlight	ledger a round-trip ticket from Dallas to Chicago.
+NewBooking_SelectMultiCityFlight	Book a round-trip fine from Miami to Atlanta.
+NewBooking_SelectMultiCityFlight	al-Qur'an a round-trip ticket from Miami to Atlanta.
+NewBooking_SelectMultiCityFlight	book a round-trip ticket from Miami to Atlanta.
+NewBooking_SelectMultiCityFlight	leger a round-trip ticket from Miami to Atlanta.
+NewBooking_SelectMultiCityFlight	Koran a round-trip ticket from Toronto to Vancouver.
+NewBooking_SelectMultiCityFlight	Word a round-trip ticket from Toronto to Vancouver.
+NewBooking_SelectMultiCityFlight	book a round-trip ticket from Toronto to Vancouver.
+NewBooking_SelectMultiCityFlight	playscript a round-trip ticket from Toronto to Vancouver.
+NewBooking_SelectMultiCityFlight	Can I arrest a quote for a multi-city ticket from Chicago?
+NewBooking_SelectMultiCityFlight	Can ane get a quote for a multi-city ticket from Chicago?
+NewBooking_SelectMultiCityFlight	fanny I get a quote for a multi-city ticket from Chicago?
+NewBooking_SelectMultiCityFlight	john I get a quote for a multi-city ticket from Chicago?
+NewBooking_SelectMultiCityFlight	Can I baffle assistance with booking a multi-city ticket?
+NewBooking_SelectMultiCityFlight	Can I contract assistance with booking a multi-city ticket?
+NewBooking_SelectMultiCityFlight	Can I produce assistance with booking a multi-city ticket?
+NewBooking_SelectMultiCityFlight	Can I suffer assistance with booking a multi-city ticket?
+NewBooking_SelectMultiCityFlight	Can I cause assistance with booking a one-way flight?
+NewBooking_SelectMultiCityFlight	Can iodine get assistance with booking a one-way flight?
+NewBooking_SelectMultiCityFlight	rump I get assistance with booking a one-way flight?
+NewBooking_SelectMultiCityFlight	tush I get assistance with booking a one-way flight?
+NewBooking_SelectMultiCityFlight	Can you assist me with hold a one-way flight from Vancouver?
+NewBooking_SelectMultiCityFlight	butt you assist me with booking a one-way flight from Vancouver?
+NewBooking_SelectMultiCityFlight	dismiss you assist me with booking a one-way flight from Vancouver?
+NewBooking_SelectMultiCityFlight	tin you assist me with booking a one-way flight from Vancouver?
+NewBooking_SelectMultiCityFlight	Can you service me book a flight from New York to Miami.
+NewBooking_SelectMultiCityFlight	commode you help me book a flight from New York to Miami.
+NewBooking_SelectMultiCityFlight	lavatory you help me book a flight from New York to Miami.
+NewBooking_SelectMultiCityFlight	sack you help me book a flight from New York to Miami.
+NewBooking_SelectMultiCityFlight	Can you help me find a flight that goes to Los Angeles future?
+NewBooking_SelectMultiCityFlight	Can you help me observe a flight that goes to Los Angeles next?
+NewBooking_SelectMultiCityFlight	Can you help me uncovering a flight that goes to Los Angeles next?
+NewBooking_SelectMultiCityFlight	lav you help me find a flight that goes to Los Angeles next?
+NewBooking_SelectMultiCityFlight	Can you help me find flights that plump through Miami and then to Atlanta.
+NewBooking_SelectMultiCityFlight	commode you help me find flights that go through Miami and then to Atlanta.
+NewBooking_SelectMultiCityFlight	nates you help me find flights that go through Miami and then to Atlanta.
+NewBooking_SelectMultiCityFlight	tush you help me find flights that go through Miami and then to Atlanta.
+NewBooking_SelectMultiCityFlight	Can you seek for flights from Boston to London with layovers?
+NewBooking_SelectMultiCityFlight	buttocks you search for flights from Boston to London with layovers?
+NewBooking_SelectMultiCityFlight	rear you search for flights from Boston to London with layovers?
+NewBooking_SelectMultiCityFlight	rump you search for flights from Boston to London with layovers?
+NewBooking_SelectMultiCityFlight	Can you search for flights that go from Los Angeles to New York with stop.
+NewBooking_SelectMultiCityFlight	Can you search for flights that locomote from Los Angeles to New York with layovers.
+NewBooking_SelectMultiCityFlight	Can you search for flights that travel from Los Angeles to New York with layovers.
+NewBooking_SelectMultiCityFlight	crapper you search for flights that go from Los Angeles to New York with layovers.
+NewBooking_SelectMultiCityFlight	commode you search for flights that go from New York to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	lav you search for flights that go from New York to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	pot you search for flights that go from New York to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	prat you search for flights that go from New York to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Can you search for flying that go through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Can you search for trajectory that go through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	potty you search for flights that go through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	tush you search for flights that go through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Can you look for flights that go to Dallas and then to LA?
+NewBooking_SelectMultiCityFlight	Can you search for flights that turn to Dallas and then to LA?
+NewBooking_SelectMultiCityFlight	Can you search for flights that whirl to Dallas and then to LA?
+NewBooking_SelectMultiCityFlight	backside you search for flights that go to Dallas and then to LA?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I beat the total cost of the flight?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I get the sum cost of the flight?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I get the total toll of the flight?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can ane get the total cost of the flight?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I have the total cost?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I mystify the total cost?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, can I obtain the total cost?
+NewBooking_SelectMultiCityFlight	trajectory itinerary includes multiple cities, can I get the total cost?
+NewBooking_SelectMultiCityFlight	Flight itinerary admit multiple cities, please help me.
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, delight help me.
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, please facilitate me.
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, please serve me.
+NewBooking_SelectMultiCityFlight	Flight itinerary include multiple cities, what's the total cost of the ticket?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, what's the tally cost of the ticket?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, what's the total price of the ticket?
+NewBooking_SelectMultiCityFlight	flying itinerary includes multiple cities, what's the total cost of the ticket?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, what's the summate cost?
+NewBooking_SelectMultiCityFlight	Flight itinerary includes multiple cities, what's the totality cost?
+NewBooking_SelectMultiCityFlight	escape itinerary includes multiple cities, what's the total cost?
+NewBooking_SelectMultiCityFlight	flight itinerary includes multiple cities, what's the total cost?
+NewBooking_SelectMultiCityFlight	Help, I need to acquire to San Francisco and then back to NYC.
+NewBooking_SelectMultiCityFlight	Help, I need to get to San Francisco and then indorse to NYC.
+NewBooking_SelectMultiCityFlight	Help, ace need to get to San Francisco and then back to NYC.
+NewBooking_SelectMultiCityFlight	Help, i need to get to San Francisco and then back to NYC.
+NewBooking_SelectMultiCityFlight	I ask to book a flight from San Diego to New York with stops.
+NewBooking_SelectMultiCityFlight	I motivation to book a flight from San Diego to New York with stops.
+NewBooking_SelectMultiCityFlight	I need to book a flight from San Diego to New York with finish.
+NewBooking_SelectMultiCityFlight	I need to book a flight from San Diego to unexampled York with stops.
+NewBooking_SelectMultiCityFlight	I motive to book a multi-city flight from San Francisco.
+NewBooking_SelectMultiCityFlight	I need to Scripture a multi-city flight from San Francisco.
+NewBooking_SelectMultiCityFlight	I need to book a multi-city trajectory from San Francisco.
+NewBooking_SelectMultiCityFlight	I pauperism to book a multi-city flight from San Francisco.
+NewBooking_SelectMultiCityFlight	I motive to book a round-trip ticket from Boston.
+NewBooking_SelectMultiCityFlight	I need to volume a round-trip ticket from Boston.
+NewBooking_SelectMultiCityFlight	I postulate to book a round-trip ticket from Boston.
+NewBooking_SelectMultiCityFlight	I take to book a round-trip ticket from Boston.
+NewBooking_SelectMultiCityFlight	I need to Koran a round-trip ticket from Miami to New York.
+NewBooking_SelectMultiCityFlight	I need to book a round-trip ticket from Miami to new York.
+NewBooking_SelectMultiCityFlight	I take to book a round-trip ticket from Miami to New York.
+NewBooking_SelectMultiCityFlight	ace need to book a round-trip ticket from Miami to New York.
+NewBooking_SelectMultiCityFlight	I'd like to book a fledge from Denver to Seattle with stops.
+NewBooking_SelectMultiCityFlight	I'd like to book a flight from Denver to Seattle with stay.
+NewBooking_SelectMultiCityFlight	I'd like to hold a flight from Denver to Seattle with stops.
+NewBooking_SelectMultiCityFlight	I'd like to ledger a flight from Denver to Seattle with stops.
+NewBooking_SelectMultiCityFlight	I'd alike to book a multi-city flight from Chicago.
+NewBooking_SelectMultiCityFlight	I'd care to book a multi-city flight from Chicago.
+NewBooking_SelectMultiCityFlight	I'd like to book a multi-city escape from Chicago.
+NewBooking_SelectMultiCityFlight	I'd similar to book a multi-city flight from Chicago.
+NewBooking_SelectMultiCityFlight	I'd care to book a multi-city flight from New York.
+NewBooking_SelectMultiCityFlight	I'd comparable to book a multi-city flight from New York.
+NewBooking_SelectMultiCityFlight	I'd like to book a multi-city trajectory from New York.
+NewBooking_SelectMultiCityFlight	I'd wish to book a multi-city flight from New York.
+NewBooking_SelectMultiCityFlight	I'd like to Scripture a one-way flight from Philadelphia to San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to book a one-way trajectory from Philadelphia to San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to hold a one-way flight from Philadelphia to San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to reserve a one-way flight from Philadelphia to San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to Koran a round-trip ticket from San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to record a round-trip ticket from San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to script a round-trip ticket from San Francisco.
+NewBooking_SelectMultiCityFlight	I'd like to volume a round-trip ticket from San Francisco.
+NewBooking_SelectMultiCityFlight	I'm flight from Boston to Miami with a connection.
+NewBooking_SelectMultiCityFlight	I'm flying from Beantown to Miami with a connection.
+NewBooking_SelectMultiCityFlight	I'm vaporize from Boston to Miami with a connection.
+NewBooking_SelectMultiCityFlight	I'm wing from Boston to Miami with a connection.
+NewBooking_SelectMultiCityFlight	I'm face for flights from New York to Chicago.
+NewBooking_SelectMultiCityFlight	I'm front for flights from New York to Chicago.
+NewBooking_SelectMultiCityFlight	I'm looking for flights from raw York to Chicago.
+NewBooking_SelectMultiCityFlight	I'm looking for flying from New York to Chicago.
+NewBooking_SelectMultiCityFlight	Is it possible to Bible a multi-city ticket on your platform?
+NewBooking_SelectMultiCityFlight	Is it possible to leger a multi-city ticket on your platform?
+NewBooking_SelectMultiCityFlight	Is it possible to script a multi-city ticket on your platform?
+NewBooking_SelectMultiCityFlight	cost it possible to book a multi-city ticket on your platform?
+NewBooking_SelectMultiCityFlight	Is it possible to discovery a direct flight from Boston?
+NewBooking_SelectMultiCityFlight	Is it possible to find a orchestrate flight from Boston?
+NewBooking_SelectMultiCityFlight	Is it possible to find a unmediated flight from Boston?
+NewBooking_SelectMultiCityFlight	Is it possible to get a direct flight from Boston?
+NewBooking_SelectMultiCityFlight	Is it possible to find a direct trajectory from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Is it possible to find a head flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Is it possible to regain a direct flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Is it possible to rule a direct flight from Seattle to Los Angeles.
+NewBooking_SelectMultiCityFlight	Is it possible to find a direct fledge from Seattle?
+NewBooking_SelectMultiCityFlight	Is it possible to find a organise flight from Seattle?
+NewBooking_SelectMultiCityFlight	Is it possible to rule a direct flight from Seattle?
+NewBooking_SelectMultiCityFlight	embody it possible to find a direct flight from Seattle?
+NewBooking_SelectMultiCityFlight	Is it possible to find a direct trajectory from Toronto?
+NewBooking_SelectMultiCityFlight	Is it possible to uncovering a direct flight from Toronto?
+NewBooking_SelectMultiCityFlight	cost it possible to find a direct flight from Toronto?
+NewBooking_SelectMultiCityFlight	follow it possible to find a direct flight from Toronto?
+NewBooking_SelectMultiCityFlight	Is it possible to find a direct trajectory from Vancouver.
+NewBooking_SelectMultiCityFlight	Is it possible to incur a direct flight from Vancouver.
+NewBooking_SelectMultiCityFlight	Is it potential to find a direct flight from Vancouver.
+NewBooking_SelectMultiCityFlight	exist it possible to find a direct flight from Vancouver.
+NewBooking_SelectMultiCityFlight	Is it possible to detect a direct flight from Vancouver?
+NewBooking_SelectMultiCityFlight	Is it possible to find a direct flying from Vancouver?
+NewBooking_SelectMultiCityFlight	Is it possible to obtain a direct flight from Vancouver?
+NewBooking_SelectMultiCityFlight	exist it possible to find a direct flight from Vancouver?
+NewBooking_SelectMultiCityFlight	Looking for flights that rifle from Chicago to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that whirl from Chicago to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	look for flights that go from Chicago to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	looking for flights that go from Chicago to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that XTC from Philadelphia to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that exit from Philadelphia to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that fling from Philadelphia to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that sound from Philadelphia to Los Angeles with layovers.
+NewBooking_SelectMultiCityFlight	Looking for flights that last through Atlanta and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that spell through Atlanta and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that tour through Atlanta and then to Boston.
+NewBooking_SelectMultiCityFlight	bet for flights that go through Atlanta and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that die through Atlanta and then to Miami.
+NewBooking_SelectMultiCityFlight	Looking for flights that tour through Atlanta and then to Miami.
+NewBooking_SelectMultiCityFlight	Looking for flights that turn through Atlanta and then to Miami.
+NewBooking_SelectMultiCityFlight	see for flights that go through Atlanta and then to Miami.
+NewBooking_SelectMultiCityFlight	Looking for flights that decease through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Looking for flights that offer through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Looking for flights that plump through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Looking for flights that proceed through Dallas and then to San Francisco.
+NewBooking_SelectMultiCityFlight	Looking for fledge that go through Houston and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that depart through Houston and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that expire through Houston and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that offer through Houston and then to Boston.
+NewBooking_SelectMultiCityFlight	Looking for flights that become through Houston and then to Dallas.
+NewBooking_SelectMultiCityFlight	Looking for flights that exit through Houston and then to Dallas.
+NewBooking_SelectMultiCityFlight	Looking for flights that last through Houston and then to Dallas.
+NewBooking_SelectMultiCityFlight	Looking for flights that pass through Houston and then to Dallas.
+NewBooking_SelectMultiCityFlight	Looking for flights that become through San Francisco and then to Denver.
+NewBooking_SelectMultiCityFlight	Looking for flights that break through San Francisco and then to Denver.
+NewBooking_SelectMultiCityFlight	Looking for flights that extend through San Francisco and then to Denver.
+NewBooking_SelectMultiCityFlight	Looking for flights that get through San Francisco and then to Denver.
+NewBooking_SelectMultiCityFlight	Looking for flights with association through Atlanta.
+NewBooking_SelectMultiCityFlight	Looking for flights with connecter through Atlanta.
+NewBooking_SelectMultiCityFlight	bet for flights with connections through Atlanta.
+NewBooking_SelectMultiCityFlight	reckon for flights with connections through Atlanta.
+NewBooking_SelectMultiCityFlight	Multi-city booking available on your website now.
+NewBooking_SelectMultiCityFlight	Multi-city booking uncommitted on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city hold available on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city reservation available on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city booking available, please assistance me.
+NewBooking_SelectMultiCityFlight	Multi-city booking usable, please assist me.
+NewBooking_SelectMultiCityFlight	Multi-city booking useable, please assist me.
+NewBooking_SelectMultiCityFlight	Multi-city engagement available, please assist me.
+NewBooking_SelectMultiCityFlight	Multi-city alternative available for booking today.
+NewBooking_SelectMultiCityFlight	Multi-city options usable for booking today.
+NewBooking_SelectMultiCityFlight	Multi-city options useable for booking today.
+NewBooking_SelectMultiCityFlight	Multi-city pick available for booking today.
+NewBooking_SelectMultiCityFlight	Multi-city alternative available on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city options available on your site today.
+NewBooking_SelectMultiCityFlight	Multi-city pick available on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city selection available on your website today.
+NewBooking_SelectMultiCityFlight	Multi-city option available, please assist me.
+NewBooking_SelectMultiCityFlight	Multi-city options available, please aid me.
+NewBooking_SelectMultiCityFlight	Multi-city options uncommitted, please assist me.
+NewBooking_SelectMultiCityFlight	Multi-city pick available, please assist me.
