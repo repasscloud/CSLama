@@ -1,0 +1,580 @@
+ExistingBooking_CancelBooking	Can I scratch my hotel reservation due to unforeseen event?
+ExistingBooking_CancelBooking	butt I cancel my hotel reservation due to unforeseen event?
+ExistingBooking_CancelBooking	displace I cancel my hotel reservation due to unforeseen event?
+ExistingBooking_CancelBooking	stool I cancel my hotel reservation due to unforeseen event?
+ExistingBooking_CancelBooking	Can i cancel my hotel stay due to unexpected event?
+ExistingBooking_CancelBooking	Can one cancel my hotel stay due to unexpected event?
+ExistingBooking_CancelBooking	Can unity cancel my hotel stay due to unexpected event?
+ExistingBooking_CancelBooking	arse I cancel my hotel stay due to unexpected event?
+ExistingBooking_CancelBooking	Can I please cancel my business trigger travel arrangements?
+ExistingBooking_CancelBooking	Can I please cancel my business trip locomotion arrangements?
+ExistingBooking_CancelBooking	Can I please cancel my byplay trip travel arrangements?
+ExistingBooking_CancelBooking	keister I please cancel my business trip travel arrangements?
+ExistingBooking_CancelBooking	Can I please cancel my business stumble?
+ExistingBooking_CancelBooking	Can one please cancel my business trip?
+ExistingBooking_CancelBooking	behind I please cancel my business trip?
+ExistingBooking_CancelBooking	rump I please cancel my business trip?
+ExistingBooking_CancelBooking	Can I please cancel my conference attendance due to switch?
+ExistingBooking_CancelBooking	Can I please scrub my conference attendance due to changes?
+ExistingBooking_CancelBooking	hindquarters I please cancel my conference attendance due to changes?
+ExistingBooking_CancelBooking	nates I please cancel my conference attendance due to changes?
+ExistingBooking_CancelBooking	Can I please offset my conference attendance due to personal reasons?
+ExistingBooking_CancelBooking	Can iodin please cancel my conference attendance due to personal reasons?
+ExistingBooking_CancelBooking	bum I please cancel my conference attendance due to personal reasons?
+ExistingBooking_CancelBooking	rump I please cancel my conference attendance due to personal reasons?
+ExistingBooking_CancelBooking	Can I please cancel my conference adjustment?
+ExistingBooking_CancelBooking	Can one please cancel my conference registration?
+ExistingBooking_CancelBooking	commode I please cancel my conference registration?
+ExistingBooking_CancelBooking	sack I please cancel my conference registration?
+ExistingBooking_CancelBooking	Can I please cancel my hotel reservation imputable to personal reasons?
+ExistingBooking_CancelBooking	Can single please cancel my hotel reservation due to personal reasons?
+ExistingBooking_CancelBooking	posterior I please cancel my hotel reservation due to personal reasons?
+ExistingBooking_CancelBooking	stern I please cancel my hotel reservation due to personal reasons?
+ExistingBooking_CancelBooking	Can ace please cancel my hotel reservation?
+ExistingBooking_CancelBooking	bottom I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	lav I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	stool I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	Can I please cancel my hotel stop due to personal reasons?
+ExistingBooking_CancelBooking	Can ane please cancel my hotel stay due to personal reasons?
+ExistingBooking_CancelBooking	tail I please cancel my hotel stay due to personal reasons?
+ExistingBooking_CancelBooking	throne I please cancel my hotel stay due to personal reasons?
+ExistingBooking_CancelBooking	Can I please cancel my hotel stay due to unforeseen upshot?
+ExistingBooking_CancelBooking	Can I please cancel my hotel stop due to unforeseen event?
+ExistingBooking_CancelBooking	butt I please cancel my hotel stay due to unforeseen event?
+ExistingBooking_CancelBooking	sack I please cancel my hotel stay due to unforeseen event?
+ExistingBooking_CancelBooking	Can I delight cancel my meeting room reservation?
+ExistingBooking_CancelBooking	Can I please cancel my fit room reservation?
+ExistingBooking_CancelBooking	Can I please cancel my receive room reservation?
+ExistingBooking_CancelBooking	pot I please cancel my meeting room reservation?
+ExistingBooking_CancelBooking	Cancellation insurance unclear, can you explain?
+ExistingBooking_CancelBooking	Cancellation policy ill-defined, can you explain?
+ExistingBooking_CancelBooking	Cancellation policy undecipherable, can you explain?
+ExistingBooking_CancelBooking	cancellation policy unclear, can you explain?
+ExistingBooking_CancelBooking	Cancellation bespeak for accommodation at hotel.
+ExistingBooking_CancelBooking	Cancellation petition for accommodation at hotel.
+ExistingBooking_CancelBooking	Cancellation postulation for accommodation at hotel.
+ExistingBooking_CancelBooking	Cancellation request for fitting at hotel.
+ExistingBooking_CancelBooking	Cancellation request for business slip accommodations.
+ExistingBooking_CancelBooking	Cancellation request for business travel accommodations.
+ExistingBooking_CancelBooking	Cancellation request for business trip accommodation.
+ExistingBooking_CancelBooking	Cancellation request for business trip adjustment.
+ExistingBooking_CancelBooking	Cancellation bespeak for business trip travel arrangements.
+ExistingBooking_CancelBooking	Cancellation quest for business trip travel arrangements.
+ExistingBooking_CancelBooking	Cancellation request for business activate travel arrangements.
+ExistingBooking_CancelBooking	Cancellation request for business trip move arrangements.
+ExistingBooking_CancelBooking	Cancellation asking for meeting space at venue.
+ExistingBooking_CancelBooking	Cancellation request for gather space at venue.
+ExistingBooking_CancelBooking	Cancellation request for meeting infinite at venue.
+ExistingBooking_CancelBooking	Cancellation request for suffer space at venue.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid business trip travel arrangement.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid business trip travel arranging.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid business trip traveling arrangements.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid business trip travelling arrangements.
+ExistingBooking_CancelBooking	Cancellation petition for pre-paid conference registration.
+ExistingBooking_CancelBooking	Cancellation postulation for pre-paid conference registration.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid conference enrolment.
+ExistingBooking_CancelBooking	Cancellation request for pre-paid conference readjustment.
+ExistingBooking_CancelBooking	Cancellation asking for trip to destination.
+ExistingBooking_CancelBooking	Cancellation request for activate to destination.
+ExistingBooking_CancelBooking	Cancellation request for actuate to destination.
+ExistingBooking_CancelBooking	Cancellation request for trip to finish.
+ExistingBooking_CancelBooking	Cancellation request for approaching trip.
+ExistingBooking_CancelBooking	Cancellation request for upcoming spark.
+ExistingBooking_CancelBooking	Cancellation request for upcoming stumble.
+ExistingBooking_CancelBooking	Cancellation request for upcoming trip-up.
+ExistingBooking_CancelBooking	Change of plans, I don't want to croak anymore.
+ExistingBooking_CancelBooking	Change of plans, I don't want to lead anymore.
+ExistingBooking_CancelBooking	Change of plans, iodine don't want to go anymore.
+ExistingBooking_CancelBooking	shift of plans, I don't want to go anymore.
+ExistingBooking_CancelBooking	Changes in company plans, motive to cancel and reschedule business trip travel arrangements.
+ExistingBooking_CancelBooking	Changes in company plans, need to cancel and reschedule business trip-up travel arrangements.
+ExistingBooking_CancelBooking	Changes in company plans, need to scrub and reschedule business trip travel arrangements.
+ExistingBooking_CancelBooking	modification in company plans, need to cancel and reschedule business trip travel arrangements.
+ExistingBooking_CancelBooking	Changes in company plans, involve to cancel and reschedule conference.
+ExistingBooking_CancelBooking	Changes in company plans, require to cancel and reschedule conference.
+ExistingBooking_CancelBooking	Changes in fellowship plans, need to cancel and reschedule conference.
+ExistingBooking_CancelBooking	commute in company plans, need to cancel and reschedule conference.
+ExistingBooking_CancelBooking	Changes in company plans, involve to cancel and reschedule flight tickets.
+ExistingBooking_CancelBooking	Changes in company plans, need to invalidate and reschedule flight tickets.
+ExistingBooking_CancelBooking	Changes in company project, need to cancel and reschedule flight tickets.
+ExistingBooking_CancelBooking	Changes in party plans, need to cancel and reschedule flight tickets.
+ExistingBooking_CancelBooking	Changes in personal design, need to cancel and reschedule travel arrangements.
+ExistingBooking_CancelBooking	Changes in personal plans, need to cancel and reschedule travel system.
+ExistingBooking_CancelBooking	Changes in personal plans, need to scrub and reschedule travel arrangements.
+ExistingBooking_CancelBooking	Changes in personal plans, pauperism to cancel and reschedule travel arrangements.
+ExistingBooking_CancelBooking	Changes in personal plans, need to cancel go.
+ExistingBooking_CancelBooking	Changes in personal plans, need to cancel locomotion.
+ExistingBooking_CancelBooking	deepen in personal plans, need to cancel travel.
+ExistingBooking_CancelBooking	modify in personal plans, need to cancel travel.
+ExistingBooking_CancelBooking	Changes in personal schedule, need to cancel and reschedule go plans.
+ExistingBooking_CancelBooking	Changes in personal schedule, postulate to cancel and reschedule travel plans.
+ExistingBooking_CancelBooking	Changes in personal schedule, want to cancel and reschedule travel plans.
+ExistingBooking_CancelBooking	switch in personal schedule, need to cancel and reschedule travel plans.
+ExistingBooking_CancelBooking	Changes in personal agenda, need to cancel conference booking.
+ExistingBooking_CancelBooking	Changes in personal schedule, need to cancel conference engagement.
+ExistingBooking_CancelBooking	modify in personal schedule, need to cancel conference booking.
+ExistingBooking_CancelBooking	shift in personal schedule, need to cancel conference booking.
+ExistingBooking_CancelBooking	Changes in personal locomotion plans, need to cancel everything.
+ExistingBooking_CancelBooking	Changes in personal travel plans, need to delete everything.
+ExistingBooking_CancelBooking	Changes in personal travel plans, postulate to cancel everything.
+ExistingBooking_CancelBooking	variety in personal travel plans, need to cancel everything.
+ExistingBooking_CancelBooking	Changes in travel plans, need to offset existing flight booking.
+ExistingBooking_CancelBooking	deepen in travel plans, need to cancel existing flight booking.
+ExistingBooking_CancelBooking	modify in travel plans, need to cancel existing flight booking.
+ExistingBooking_CancelBooking	shift in travel plans, need to cancel existing flight booking.
+ExistingBooking_CancelBooking	Changes to personal docket, need to cancel everything.
+ExistingBooking_CancelBooking	Changes to personal schedule, indigence to cancel everything.
+ExistingBooking_CancelBooking	Changes to personal schedule, pauperization to cancel everything.
+ExistingBooking_CancelBooking	commute to personal schedule, need to cancel everything.
+ExistingBooking_CancelBooking	Do you have a cancellation policy for flying?
+ExistingBooking_CancelBooking	answer you have a cancellation policy for flights?
+ExistingBooking_CancelBooking	coiffe you have a cancellation policy for flights?
+ExistingBooking_CancelBooking	set you have a cancellation policy for flights?
+ExistingBooking_CancelBooking	Do you have a policy for cancellations with shortsighted notice?
+ExistingBooking_CancelBooking	exercise you have a policy for cancellations with short notice?
+ExistingBooking_CancelBooking	manage you have a policy for cancellations with short notice?
+ExistingBooking_CancelBooking	serve you have a policy for cancellations with short notice?
+ExistingBooking_CancelBooking	brawl you have a policy for last-minute cancellations?
+ExistingBooking_CancelBooking	coiffe you have a policy for last-minute cancellations?
+ExistingBooking_CancelBooking	dress you have a policy for last-minute cancellations?
+ExistingBooking_CancelBooking	fare you have a policy for last-minute cancellations?
+ExistingBooking_CancelBooking	DO you have any flexibility with cancelling flights?
+ExistingBooking_CancelBooking	Do you have any flexibility with cancelling fledge?
+ExistingBooking_CancelBooking	coiffe you have any flexibility with cancelling flights?
+ExistingBooking_CancelBooking	suffice you have any flexibility with cancelling flights?
+ExistingBooking_CancelBooking	Do you have any flexibility with cancelling pre-paid reservation?
+ExistingBooking_CancelBooking	behave you have any flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	perform you have any flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	practise you have any flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	Do you have flexibility with cancelling pre-paid booking?
+ExistingBooking_CancelBooking	coiffe you have flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	doh you have flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	serve you have flexibility with cancelling pre-paid bookings?
+ExistingBooking_CancelBooking	Do you offer cancellations for last-minute fledge bookings?
+ExistingBooking_CancelBooking	Do you offer cancellations for last-minute flight booking?
+ExistingBooking_CancelBooking	brawl you offer cancellations for last-minute flight bookings?
+ExistingBooking_CancelBooking	serve you offer cancellations for last-minute flight bookings?
+ExistingBooking_CancelBooking	cause you offer cancellations for last-minute meetings?
+ExistingBooking_CancelBooking	do you offer cancellations for last-minute meetings?
+ExistingBooking_CancelBooking	set you offer cancellations for last-minute meetings?
+ExistingBooking_CancelBooking	ut you offer cancellations for last-minute meetings?
+ExistingBooking_CancelBooking	behave you offer cancellations for pre-paid bookings?
+ExistingBooking_CancelBooking	coif you offer cancellations for pre-paid bookings?
+ExistingBooking_CancelBooking	exercise you offer cancellations for pre-paid bookings?
+ExistingBooking_CancelBooking	perform you offer cancellations for pre-paid bookings?
+ExistingBooking_CancelBooking	bash you offer cancellations for pre-paid flights?
+ExistingBooking_CancelBooking	coiffure you offer cancellations for pre-paid flights?
+ExistingBooking_CancelBooking	come you offer cancellations for pre-paid flights?
+ExistingBooking_CancelBooking	ut you offer cancellations for pre-paid flights?
+ExistingBooking_CancelBooking	Do you extend cancellations for pre-paid meeting rooms?
+ExistingBooking_CancelBooking	Do you offer cancellations for pre-paid fulfil rooms?
+ExistingBooking_CancelBooking	Do you offer cancellations for pre-paid meeting way?
+ExistingBooking_CancelBooking	suffice you offer cancellations for pre-paid meeting rooms?
+ExistingBooking_CancelBooking	Do you extend refunds for cancelled bookings?
+ExistingBooking_CancelBooking	Do you offer return for cancelled bookings?
+ExistingBooking_CancelBooking	Do you provide refunds for cancelled bookings?
+ExistingBooking_CancelBooking	exercise you offer refunds for cancelled bookings?
+ExistingBooking_CancelBooking	Flight itinerary no longer requisite.
+ExistingBooking_CancelBooking	Flight itinerary no longer want.
+ExistingBooking_CancelBooking	flying itinerary no longer required.
+ExistingBooking_CancelBooking	trajectory itinerary no longer required.
+ExistingBooking_CancelBooking	I involve to cancel my flight.
+ExistingBooking_CancelBooking	I motivation to cancel my flight.
+ExistingBooking_CancelBooking	I motive to cancel my flight.
+ExistingBooking_CancelBooking	I pauperism to cancel my flight.
+ExistingBooking_CancelBooking	Need to cancel and reschedule league attendance.
+ExistingBooking_CancelBooking	motive to cancel and reschedule conference attendance.
+ExistingBooking_CancelBooking	postulate to cancel and reschedule conference attendance.
+ExistingBooking_CancelBooking	take to cancel and reschedule conference attendance.
+ExistingBooking_CancelBooking	Need to cancel and reschedule survive flight bookings.
+ExistingBooking_CancelBooking	Need to scratch and reschedule existing flight bookings.
+ExistingBooking_CancelBooking	motivation to cancel and reschedule existing flight bookings.
+ExistingBooking_CancelBooking	need to cancel and reschedule existing flight bookings.
+ExistingBooking_CancelBooking	Need to cancel and reschedule flight fine.
+ExistingBooking_CancelBooking	Need to natural and reschedule flight tickets.
+ExistingBooking_CancelBooking	Need to offset and reschedule flight tickets.
+ExistingBooking_CancelBooking	pauperization to cancel and reschedule flight tickets.
+ExistingBooking_CancelBooking	Need to modify or cancel be flight bookings.
+ExistingBooking_CancelBooking	Need to modify or cancel existent flight bookings.
+ExistingBooking_CancelBooking	Need to modify or delete existing flight bookings.
+ExistingBooking_CancelBooking	want to modify or cancel existing flight bookings.
+ExistingBooking_CancelBooking	Need to modify or cancel existing forgather room reservation.
+ExistingBooking_CancelBooking	Need to modify or cancel existing merging room reservation.
+ExistingBooking_CancelBooking	Need to modify or cancel subsist meeting room reservation.
+ExistingBooking_CancelBooking	need to modify or cancel existing meeting room reservation.
+ExistingBooking_CancelBooking	Need to change or cancel existing meeting space reservation.
+ExistingBooking_CancelBooking	Need to modify or cancel existing touch space reservation.
+ExistingBooking_CancelBooking	Need to modify or delete existing meeting space reservation.
+ExistingBooking_CancelBooking	need to modify or cancel existing meeting space reservation.
+ExistingBooking_CancelBooking	Need to modify or invalidate travel arrangements.
+ExistingBooking_CancelBooking	need to modify or cancel travel arrangements.
+ExistingBooking_CancelBooking	require to modify or cancel travel arrangements.
+ExistingBooking_CancelBooking	want to modify or cancel travel arrangements.
+ExistingBooking_CancelBooking	Need to reschedule and cancel existing fledge booking.
+ExistingBooking_CancelBooking	Need to reschedule and cancel existing flight book.
+ExistingBooking_CancelBooking	Need to reschedule and cancel existing flight engagement.
+ExistingBooking_CancelBooking	Need to reschedule and cancel existing flight reservation.
+ExistingBooking_CancelBooking	Need to annul travel arrangements.
+ExistingBooking_CancelBooking	Need to countermand travel arrangements.
+ExistingBooking_CancelBooking	Need to rescind travel arranging.
+ExistingBooking_CancelBooking	want to rescind travel arrangements.
+ExistingBooking_CancelBooking	No farseeing able to attend, cancel conference booking.
+ExistingBooking_CancelBooking	No long able to attend, cancel conference booking.
+ExistingBooking_CancelBooking	No longer able to hang, cancel conference booking.
+ExistingBooking_CancelBooking	No tenacious able to attend, cancel conference booking.
+ExistingBooking_CancelBooking	Request a cancellation of conference enrollment due to changes.
+ExistingBooking_CancelBooking	Request a cancellation of conference enrolment due to changes.
+ExistingBooking_CancelBooking	Request a cancellation of conference registration due to variety.
+ExistingBooking_CancelBooking	quest a cancellation of conference registration due to changes.
+ExistingBooking_CancelBooking	Request a cancellation of conference adjustment.
+ExistingBooking_CancelBooking	Request a cancellation of conference readjustment.
+ExistingBooking_CancelBooking	bespeak a cancellation of conference registration.
+ExistingBooking_CancelBooking	request a cancellation of conference registration.
+ExistingBooking_CancelBooking	Request cancellation of accommodation for coming stay.
+ExistingBooking_CancelBooking	Request cancellation of accommodation for upcoming bide.
+ExistingBooking_CancelBooking	bespeak cancellation of accommodation for upcoming stay.
+ExistingBooking_CancelBooking	quest cancellation of accommodation for upcoming stay.
+ExistingBooking_CancelBooking	Request cancellation of be conference registration.
+ExistingBooking_CancelBooking	Request cancellation of exist conference registration.
+ExistingBooking_CancelBooking	Request cancellation of existing conference enrolment.
+ExistingBooking_CancelBooking	quest cancellation of existing conference registration.
+ExistingBooking_CancelBooking	Request cancellation of existent hotel booking.
+ExistingBooking_CancelBooking	Request cancellation of existing hotel reservation.
+ExistingBooking_CancelBooking	Request cancellation of live hotel booking.
+ExistingBooking_CancelBooking	request cancellation of existing hotel booking.
+ExistingBooking_CancelBooking	Request cancellation of existent meeting space reservation.
+ExistingBooking_CancelBooking	Request cancellation of existing meeting quad reservation.
+ExistingBooking_CancelBooking	Request cancellation of existing merging space reservation.
+ExistingBooking_CancelBooking	bespeak cancellation of existing meeting space reservation.
+ExistingBooking_CancelBooking	Request to cancel existing fledge booking.
+ExistingBooking_CancelBooking	Request to cancel existing flight book.
+ExistingBooking_CancelBooking	Request to cancel live flight booking.
+ExistingBooking_CancelBooking	request to cancel existing flight booking.
+ExistingBooking_CancelBooking	Sorry but can I scrub the conference room reservation?
+ExistingBooking_CancelBooking	Sorry but can ane cancel the conference room reservation?
+ExistingBooking_CancelBooking	drab but can I cancel the conference room reservation?
+ExistingBooking_CancelBooking	pitiful but can I cancel the conference room reservation?
+ExistingBooking_CancelBooking	This booking is no longer necessitate.
+ExistingBooking_CancelBooking	This booking is no longer needful.
+ExistingBooking_CancelBooking	This booking is no prospicient needed.
+ExistingBooking_CancelBooking	This reserve is no longer needed.
+ExistingBooking_CancelBooking	Travel plans descend through, need to cancel everything.
+ExistingBooking_CancelBooking	Travel plans falling through, involve to cancel everything.
+ExistingBooking_CancelBooking	Travel plans falling through, need to invalidate everything.
+ExistingBooking_CancelBooking	go plans falling through, need to cancel everything.
+ExistingBooking_CancelBooking	Trip cancellation due to unforeseen context.
+ExistingBooking_CancelBooking	Trip cancellation due to unforeseen destiny.
+ExistingBooking_CancelBooking	trip-up cancellation due to unforeseen circumstances.
+ExistingBooking_CancelBooking	tripper cancellation due to unforeseen circumstances.
+ExistingBooking_CancelBooking	Trip cancelled due to company changes, can I bring refund?
+ExistingBooking_CancelBooking	Trip cancelled due to company changes, can I develop refund?
+ExistingBooking_CancelBooking	Trip cancelled due to company changes, can I let refund?
+ExistingBooking_CancelBooking	Trip cancelled due to company changes, can I sustain refund?
+ExistingBooking_CancelBooking	Trip cancelled due to unforeseen circumstances, can I cause refund?
+ExistingBooking_CancelBooking	Trip cancelled due to unforeseen circumstances, can I sustain refund?
+ExistingBooking_CancelBooking	Trip off due to unforeseen circumstances, can I get refund?
+ExistingBooking_CancelBooking	trigger cancelled due to unforeseen circumstances, can I get refund?
+ExistingBooking_CancelBooking	Trip is no foresightful feasible, need to cancel all arrangements.
+ExistingBooking_CancelBooking	Trip is no longer feasible, motive to cancel all arrangements.
+ExistingBooking_CancelBooking	Trip is no longer feasible, penury to cancel all arrangements.
+ExistingBooking_CancelBooking	Trip is no prospicient feasible, need to cancel all arrangements.
+ExistingBooking_CancelBooking	Trip is no longer viable, need to cancel all design.
+ExistingBooking_CancelBooking	Trip is no longer viable, need to cancel all programme.
+ExistingBooking_CancelBooking	activate is no longer viable, need to cancel all plans.
+ExistingBooking_CancelBooking	tripper is no longer viable, need to cancel all plans.
+ExistingBooking_CancelBooking	Trip itinerary no longer required, can I bewilder refund?
+ExistingBooking_CancelBooking	Trip itinerary no longer required, can I cause refund?
+ExistingBooking_CancelBooking	Trip itinerary no longer required, can I go refund?
+ExistingBooking_CancelBooking	Trip itinerary no longer required, can I mystify refund?
+ExistingBooking_CancelBooking	Trip itinerary no long required, please cancel.
+ExistingBooking_CancelBooking	Trip itinerary no longer mandatory, please cancel.
+ExistingBooking_CancelBooking	Trip itinerary no retentive required, please cancel.
+ExistingBooking_CancelBooking	Trip path no longer required, please cancel.
+ExistingBooking_CancelBooking	Can I cancel my hotel stay due to health conclude?
+ExistingBooking_CancelBooking	Can unity cancel my hotel stay due to health reasons?
+ExistingBooking_CancelBooking	bathroom I cancel my hotel stay due to health reasons?
+ExistingBooking_CancelBooking	lavatory I cancel my hotel stay due to health reasons?
+ExistingBooking_CancelBooking	Can I become a cancellation fee waiver due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I catch a cancellation fee waiver due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I develop a cancellation fee waiver due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I mother a cancellation fee waiver due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I baffle a refund on my airport parking fee?
+ExistingBooking_CancelBooking	Can I bring a refund on my airport parking fee?
+ExistingBooking_CancelBooking	Can I produce a refund on my airport parking fee?
+ExistingBooking_CancelBooking	Can I stupefy a refund on my airport parking fee?
+ExistingBooking_CancelBooking	Can I baffle a refund on my conference registration?
+ExistingBooking_CancelBooking	Can I bewilder a refund on my conference registration?
+ExistingBooking_CancelBooking	Can iodine get a refund on my conference registration?
+ExistingBooking_CancelBooking	buns I get a refund on my conference registration?
+ExistingBooking_CancelBooking	Can I commence a refund on my travel insurance policy?
+ExistingBooking_CancelBooking	Can I go a refund on my travel insurance policy?
+ExistingBooking_CancelBooking	Can I sustain a refund on my travel insurance policy?
+ExistingBooking_CancelBooking	buttocks I get a refund on my travel insurance policy?
+ExistingBooking_CancelBooking	Can 1 get assistance with cancelling a rental car reservation?
+ExistingBooking_CancelBooking	Can I arrest assistance with cancelling a rental car reservation?
+ExistingBooking_CancelBooking	Can I begin assistance with cancelling a rental car reservation?
+ExistingBooking_CancelBooking	behind I get assistance with cancelling a rental car reservation?
+ExistingBooking_CancelBooking	Can I aim assistance with filing a claim due to travel cancellation insurance policy?
+ExistingBooking_CancelBooking	Can I cause assistance with filing a claim due to travel cancellation insurance policy?
+ExistingBooking_CancelBooking	Can I get assistance with filing a take due to travel cancellation insurance policy?
+ExistingBooking_CancelBooking	bum I get assistance with filing a claim due to travel cancellation insurance policy?
+ExistingBooking_CancelBooking	Can I dumbfound assistance with filing a claim due to travel cancellation insurance?
+ExistingBooking_CancelBooking	Can I get aid with filing a claim due to travel cancellation insurance?
+ExistingBooking_CancelBooking	Can I get assistance with filing a claim due to travelling cancellation insurance?
+ExistingBooking_CancelBooking	Can I stimulate assistance with filing a claim due to travel cancellation insurance?
+ExistingBooking_CancelBooking	Can I get assistance with filing a call due to travel cancellation or trip interruption?
+ExistingBooking_CancelBooking	Can I get assistance with filing a claim due to travel cancellation or slip interruption?
+ExistingBooking_CancelBooking	Can I stick assistance with filing a claim due to travel cancellation or trip interruption?
+ExistingBooking_CancelBooking	stool I get assistance with filing a claim due to travel cancellation or trip interruption?
+ExistingBooking_CancelBooking	Can I get assistance with filing a claim due to move cancellation?
+ExistingBooking_CancelBooking	Can iodine get assistance with filing a claim due to travel cancellation?
+ExistingBooking_CancelBooking	tail I get assistance with filing a claim due to travel cancellation?
+ExistingBooking_CancelBooking	tin I get assistance with filing a claim due to travel cancellation?
+ExistingBooking_CancelBooking	Can I develop assistance with filing a claim due to unexpected trip cancellation?
+ExistingBooking_CancelBooking	Can I get assistance with filing a claim due to unexpected jaunt cancellation?
+ExistingBooking_CancelBooking	pot I get assistance with filing a claim due to unexpected trip cancellation?
+ExistingBooking_CancelBooking	terminate I get assistance with filing a claim due to unexpected trip cancellation?
+ExistingBooking_CancelBooking	Can I hold changes to my existing accommodation reservation and keep the same dates?
+ExistingBooking_CancelBooking	Can I make changes to my existing accommodation reservation and sustenance the same dates?
+ExistingBooking_CancelBooking	Can I ready changes to my existing accommodation reservation and keep the same dates?
+ExistingBooking_CancelBooking	fire I make changes to my existing accommodation reservation and keep the same dates?
+ExistingBooking_CancelBooking	Can I constitute changes to my existing accommodation reservation without incurring extra fees or penalties?
+ExistingBooking_CancelBooking	Can I do changes to my existing accommodation reservation without incurring extra fees or penalties?
+ExistingBooking_CancelBooking	Can I pretend changes to my existing accommodation reservation without incurring extra fees or penalties?
+ExistingBooking_CancelBooking	Can I seduce changes to my existing accommodation reservation without incurring extra fees or penalties?
+ExistingBooking_CancelBooking	Can I make exchange to my existing accommodation reservation without incurring extra fees?
+ExistingBooking_CancelBooking	Can I puddle changes to my existing accommodation reservation without incurring extra fees?
+ExistingBooking_CancelBooking	Can I ready changes to my existing accommodation reservation without incurring extra fees?
+ExistingBooking_CancelBooking	crapper I make changes to my existing accommodation reservation without incurring extra fees?
+ExistingBooking_CancelBooking	Can I make changes to my existing engagement online?
+ExistingBooking_CancelBooking	Can I wee-wee changes to my existing booking online?
+ExistingBooking_CancelBooking	arse I make changes to my existing booking online?
+ExistingBooking_CancelBooking	rear I make changes to my existing booking online?
+ExistingBooking_CancelBooking	Can I defecate changes to my existing flight itinerary without incurring additional fees or penalties?
+ExistingBooking_CancelBooking	Can iodin make changes to my existing flight itinerary without incurring additional fees or penalties?
+ExistingBooking_CancelBooking	fire I make changes to my existing flight itinerary without incurring additional fees or penalties?
+ExistingBooking_CancelBooking	tush I make changes to my existing flight itinerary without incurring additional fees or penalties?
+ExistingBooking_CancelBooking	Can I defecate changes to my existing flight itinerary without incurring additional fees?
+ExistingBooking_CancelBooking	Can I make changes to my survive flight itinerary without incurring additional fees?
+ExistingBooking_CancelBooking	Can I make switch to my existing flight itinerary without incurring additional fees?
+ExistingBooking_CancelBooking	rear I make changes to my existing flight itinerary without incurring additional fees?
+ExistingBooking_CancelBooking	Can I brand changes to my travel dates and keep the same flights?
+ExistingBooking_CancelBooking	Can I constitute changes to my travel dates and keep the same flights?
+ExistingBooking_CancelBooking	Can I make changes to my travel dates and keep the same flight?
+ExistingBooking_CancelBooking	Can I make changes to my travel dates and restrain the same flights?
+ExistingBooking_CancelBooking	Can I please cancel my business class tag?
+ExistingBooking_CancelBooking	Can I please cancel my concern class ticket?
+ExistingBooking_CancelBooking	fanny I please cancel my business class ticket?
+ExistingBooking_CancelBooking	stern I please cancel my business class ticket?
+ExistingBooking_CancelBooking	Can ace please cancel my hotel reservation?
+ExistingBooking_CancelBooking	buttocks I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	nates I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	pot I please cancel my hotel reservation?
+ExistingBooking_CancelBooking	Can I please scratch my hotel room for tomorrow night?
+ExistingBooking_CancelBooking	prat I please cancel my hotel room for tomorrow night?
+ExistingBooking_CancelBooking	terminate I please cancel my hotel room for tomorrow night?
+ExistingBooking_CancelBooking	tooshie I please cancel my hotel room for tomorrow night?
+ExistingBooking_CancelBooking	Can I please change or cancel my travel date for the upcoming trip?
+ExistingBooking_CancelBooking	Can I please change or cancel my travel dates for the forthcoming trip?
+ExistingBooking_CancelBooking	buns I please change or cancel my travel dates for the upcoming trip?
+ExistingBooking_CancelBooking	tin I please change or cancel my travel dates for the upcoming trip?
+ExistingBooking_CancelBooking	Do you have any advice on scrub a long-haul flight?
+ExistingBooking_CancelBooking	coif you have any advice on cancelling a long-haul flight?
+ExistingBooking_CancelBooking	do you have any advice on cancelling a long-haul flight?
+ExistingBooking_CancelBooking	set you have any advice on cancelling a long-haul flight?
+ExistingBooking_CancelBooking	Do you have any assist with cancelling a corporate booking?
+ExistingBooking_CancelBooking	Do you have any assistance with cancelling a incorporated booking?
+ExistingBooking_CancelBooking	exercise you have any assistance with cancelling a corporate booking?
+ExistingBooking_CancelBooking	ut you have any assistance with cancelling a corporate booking?
+ExistingBooking_CancelBooking	Do you have any assistance with cancelling a group circuit booking?
+ExistingBooking_CancelBooking	dress you have any assistance with cancelling a group tour booking?
+ExistingBooking_CancelBooking	practice you have any assistance with cancelling a group tour booking?
+ExistingBooking_CancelBooking	serve you have any assistance with cancelling a group tour booking?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a business meet due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a business meeting due to unforeseen fortune?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a business meeting imputable to unforeseen circumstances?
+ExistingBooking_CancelBooking	doh you have any options for cancelling a business meeting due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a car rental due to unforeseen circumstance?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a car rental due to unforeseen lot?
+ExistingBooking_CancelBooking	doh you have any options for cancelling a car rental due to unforeseen circumstances?
+ExistingBooking_CancelBooking	make you have any options for cancelling a car rental due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a car rental with additional drivers due to personal cause?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a car rental with additional drivers imputable to personal reasons?
+ExistingBooking_CancelBooking	practise you have any options for cancelling a car rental with additional drivers due to personal reasons?
+ExistingBooking_CancelBooking	ut you have any options for cancelling a car rental with additional drivers due to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a car rental with extra drivers?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a motorcar rental with additional drivers?
+ExistingBooking_CancelBooking	do you have any options for cancelling a car rental with additional drivers?
+ExistingBooking_CancelBooking	suffice you have any options for cancelling a car rental with additional drivers?
+ExistingBooking_CancelBooking	Do you have any options for cancel a conference registration due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a conference registration due to unforeseen portion?
+ExistingBooking_CancelBooking	cause you have any options for cancelling a conference registration due to unforeseen circumstances?
+ExistingBooking_CancelBooking	perform you have any options for cancelling a conference registration due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a group booking ascribable to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a group booking due to personal cause?
+ExistingBooking_CancelBooking	come you have any options for cancelling a group booking due to personal reasons?
+ExistingBooking_CancelBooking	dress you have any options for cancelling a group booking due to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a guided tour due to personal reasonableness?
+ExistingBooking_CancelBooking	Do you have any options for delete a guided tour due to personal reasons?
+ExistingBooking_CancelBooking	practise you have any options for cancelling a guided tour due to personal reasons?
+ExistingBooking_CancelBooking	set you have any options for cancelling a guided tour due to personal reasons?
+ExistingBooking_CancelBooking	brawl you have any options for cancelling a long-haul flight due to health reasons?
+ExistingBooking_CancelBooking	cause you have any options for cancelling a long-haul flight due to health reasons?
+ExistingBooking_CancelBooking	coiffure you have any options for cancelling a long-haul flight due to health reasons?
+ExistingBooking_CancelBooking	make you have any options for cancelling a long-haul flight due to health reasons?
+ExistingBooking_CancelBooking	Do you have any choice for cancelling a package deal?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a package allot?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a package grapple?
+ExistingBooking_CancelBooking	execute you have any options for cancelling a package deal?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a individual jet booking due to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a private jet engagement due to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a private spirt booking due to personal reasons?
+ExistingBooking_CancelBooking	practise you have any options for cancelling a private jet booking due to personal reasons?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a private jet booking referable to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any options for delete a private jet booking due to unforeseen circumstances?
+ExistingBooking_CancelBooking	fare you have any options for cancelling a private jet booking due to unforeseen circumstances?
+ExistingBooking_CancelBooking	set you have any options for cancelling a private jet booking due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Do you have any option for cancelling a private jet booking?
+ExistingBooking_CancelBooking	Do you have any options for cancelling a secret jet booking?
+ExistingBooking_CancelBooking	Do you have any options for scrub a private jet booking?
+ExistingBooking_CancelBooking	doh you have any options for cancelling a private jet booking?
+ExistingBooking_CancelBooking	cause you have any options for cancelling a room booking?
+ExistingBooking_CancelBooking	do you have any options for cancelling a room booking?
+ExistingBooking_CancelBooking	execute you have any options for cancelling a room booking?
+ExistingBooking_CancelBooking	perform you have any options for cancelling a room booking?
+ExistingBooking_CancelBooking	Here are 80 assertion for training a corporate travel chatbot to recognize when someone need to cancel an existing booking:
+ExistingBooking_CancelBooking	Here are 80 statements for grooming a corporate travel chatbot to recognize when someone wants to scrub an existing booking:
+ExistingBooking_CancelBooking	Here are 80 statements for training a corporate travel chatbot to recognize when someone deficiency to natural an existing booking:
+ExistingBooking_CancelBooking	Here are fourscore statements for education a corporate travel chatbot to recognize when someone wants to cancel an existing booking:
+ExistingBooking_CancelBooking	I think I involve to change or cancel my flights.
+ExistingBooking_CancelBooking	I think I need to alter or cancel my flights.
+ExistingBooking_CancelBooking	I think I need to alteration or cancel my flights.
+ExistingBooking_CancelBooking	I think I need to modification or cancel my flights.
+ExistingBooking_CancelBooking	I'm blend to need to make some changes, can you help me cancel?
+ExistingBooking_CancelBooking	I'm going to pauperization to make some changes, can you help me cancel?
+ExistingBooking_CancelBooking	I'm going to want to make some changes, can you help me cancel?
+ExistingBooking_CancelBooking	I'm live to need to make some changes, can you help me cancel?
+ExistingBooking_CancelBooking	I'm having second cerebration about my trip.
+ExistingBooking_CancelBooking	I'm having second intellection about my trip.
+ExistingBooking_CancelBooking	I'm having second thought about my trip.
+ExistingBooking_CancelBooking	I'm having second thoughts about my trip-up.
+ExistingBooking_CancelBooking	I've alter my mind, can I cancel the entire trip?
+ExistingBooking_CancelBooking	I've changed my brain, can I cancel the entire trip?
+ExistingBooking_CancelBooking	I've changed my mind, can I offset the entire trip?
+ExistingBooking_CancelBooking	I've modify my mind, can I cancel the entire trip?
+ExistingBooking_CancelBooking	I've befuddled interest in the trip, how do I cancel?
+ExistingBooking_CancelBooking	I've lose interest in the trip, how do I cancel?
+ExistingBooking_CancelBooking	I've lost interest in the trigger, how do I cancel?
+ExistingBooking_CancelBooking	I've lost stake in the trip, how do I cancel?
+ExistingBooking_CancelBooking	I've realized I don't need the cortege upgrade, can I cancel?
+ExistingBooking_CancelBooking	I've realized I don't need the suite rise, can I cancel?
+ExistingBooking_CancelBooking	I've realized I don't need the suite upgrade, can iodine cancel?
+ExistingBooking_CancelBooking	I've realized I don't need the suite upgrade, can single cancel?
+ExistingBooking_CancelBooking	Is it possible to cancel and rebook my fledge?
+ExistingBooking_CancelBooking	Is it possible to cancel and rebook my flying?
+ExistingBooking_CancelBooking	Is it possible to scratch and rebook my flights?
+ExistingBooking_CancelBooking	Is it possible to scrub and rebook my flights?
+ExistingBooking_CancelBooking	Is there an option to cancel and rebook flights for the same destination on dissimilar dates?
+ExistingBooking_CancelBooking	Is there an pick to cancel and rebook flights for the same destination on different dates?
+ExistingBooking_CancelBooking	equal there an option to cancel and rebook flights for the same destination on different dates?
+ExistingBooking_CancelBooking	exist there an option to cancel and rebook flights for the same destination on different dates?
+ExistingBooking_CancelBooking	Is there an option to delete and rebook flights for tomorrow?
+ExistingBooking_CancelBooking	Is there an pick to cancel and rebook flights for tomorrow?
+ExistingBooking_CancelBooking	follow there an option to cancel and rebook flights for tomorrow?
+ExistingBooking_CancelBooking	represent there an option to cancel and rebook flights for tomorrow?
+ExistingBooking_CancelBooking	Is there an choice to cancel and rebook flights with no change fees?
+ExistingBooking_CancelBooking	Is there an option to cancel and rebook flight with no change fees?
+ExistingBooking_CancelBooking	Is there an option to cancel and rebook flights with no switch fees?
+ExistingBooking_CancelBooking	Is there an pick to cancel and rebook flights with no change fees?
+ExistingBooking_CancelBooking	Is there an option to cancel my car letting and keep the same vehicle type?
+ExistingBooking_CancelBooking	Is there an option to cancel my car rental and preserve the same vehicle type?
+ExistingBooking_CancelBooking	Is there an option to scratch my car rental and keep the same vehicle type?
+ExistingBooking_CancelBooking	Is there an option to scrub my car rental and keep the same vehicle type?
+ExistingBooking_CancelBooking	Is there an option to cancel my cruise reservation due to seasickness?
+ExistingBooking_CancelBooking	Is there an option to delete my cruise booking due to seasickness?
+ExistingBooking_CancelBooking	Is there an option to scratch my cruise booking due to seasickness?
+ExistingBooking_CancelBooking	cost there an option to cancel my cruise booking due to seasickness?
+ExistingBooking_CancelBooking	Is there an option to cancel my hotel delay and rebook for a different date?
+ExistingBooking_CancelBooking	Is there an option to cancel my hotel remain and rebook for a different date?
+ExistingBooking_CancelBooking	exist there an option to cancel my hotel stay and rebook for a different date?
+ExistingBooking_CancelBooking	live there an option to cancel my hotel stay and rebook for a different date?
+ExistingBooking_CancelBooking	Is there an option to downgrade to economy class and delete business?
+ExistingBooking_CancelBooking	Is there an option to downgrade to economy grade and cancel business?
+ExistingBooking_CancelBooking	Is there an option to downgrade to saving class and cancel business?
+ExistingBooking_CancelBooking	Is there an pick to downgrade to economy class and cancel business?
+ExistingBooking_CancelBooking	Is there an alternative to downgrade to economy class and keep the same flight number?
+ExistingBooking_CancelBooking	Is there an option to downgrade to economy class and dungeon the same flight number?
+ExistingBooking_CancelBooking	equal there an option to downgrade to economy class and keep the same flight number?
+ExistingBooking_CancelBooking	exist there an option to downgrade to economy class and keep the same flight number?
+ExistingBooking_CancelBooking	Is there an option to downgrade to economy family without incurring additional fees?
+ExistingBooking_CancelBooking	Is there an option to downgrade to economy year without incurring additional fees?
+ExistingBooking_CancelBooking	comprise there an option to downgrade to economy class without incurring additional fees?
+ExistingBooking_CancelBooking	embody there an option to downgrade to economy class without incurring additional fees?
+ExistingBooking_CancelBooking	Is there an option to transfer my existent ticket to someone else?
+ExistingBooking_CancelBooking	Is there an option to transfer my existing ticket to person else?
+ExistingBooking_CancelBooking	Is there an option to transfer my existing ticket to soul else?
+ExistingBooking_CancelBooking	comprise there an option to transfer my existing ticket to someone else?
+ExistingBooking_CancelBooking	My accommodation provider cancelled on me, how do ace rebook now?
+ExistingBooking_CancelBooking	My accommodation provider cancelled on me, how do i rebook now?
+ExistingBooking_CancelBooking	My accommodation provider invalidate on me, how do I rebook now?
+ExistingBooking_CancelBooking	My accommodation provider off on me, how do I rebook now?
+ExistingBooking_CancelBooking	My accommodation provider cancel on me, what do I do now?
+ExistingBooking_CancelBooking	My accommodation provider off on me, what do I do now?
+ExistingBooking_CancelBooking	My accommodation provider scratch on me, what do I do now?
+ExistingBooking_CancelBooking	My accommodation provider scrub on me, what do I do now?
+ExistingBooking_CancelBooking	My business partner cancelled at the last minute, how do ace handle it now?
+ExistingBooking_CancelBooking	My business partner cancelled at the last narrow, how do I handle it now?
+ExistingBooking_CancelBooking	My byplay partner cancelled at the last minute, how do I handle it now?
+ExistingBooking_CancelBooking	My concern partner cancelled at the last minute, how do I handle it now?
+ExistingBooking_CancelBooking	My conference got cancelled, what alternative do I have left?
+ExistingBooking_CancelBooking	My conference mystify cancelled, what options do I have left?
+ExistingBooking_CancelBooking	My conference receive cancelled, what options do I have left?
+ExistingBooking_CancelBooking	My conference suffer cancelled, what options do I have left?
+ExistingBooking_CancelBooking	My conference has been cancelled, what options do I have entrust?
+ExistingBooking_CancelBooking	My conference has been cancelled, what options do I have impart?
+ExistingBooking_CancelBooking	My conference has been cancelled, what options do I have left-hand?
+ExistingBooking_CancelBooking	My conference has been cancelled, what options do ace have left?
+ExistingBooking_CancelBooking	My flight commence cancelled due to bad weather, what do I do now?
+ExistingBooking_CancelBooking	My flight engender cancelled due to bad weather, what do I do now?
+ExistingBooking_CancelBooking	My flight got cancelled due to spoiled weather, what do I do now?
+ExistingBooking_CancelBooking	My flight got scratch due to bad weather, what do I do now?
+ExistingBooking_CancelBooking	My plans changed unexpectedly, can 1 cancel or change my reservation?
+ExistingBooking_CancelBooking	My plans changed unexpectedly, can I cancel or interchange my reservation?
+ExistingBooking_CancelBooking	My plans changed unexpectedly, can I cancel or modification my reservation?
+ExistingBooking_CancelBooking	My plans deepen unexpectedly, can I cancel or change my reservation?
+ExistingBooking_CancelBooking	My plans come through, how do I cancel my travel arrangement?
+ExistingBooking_CancelBooking	My plans diminish through, how do I cancel my travel arrangement?
+ExistingBooking_CancelBooking	My plans fell through, how do ace cancel my travel arrangement?
+ExistingBooking_CancelBooking	My plans return through, how do I cancel my travel arrangement?
+ExistingBooking_CancelBooking	My journey companion cancelled at the last minute, what do I do now?
+ExistingBooking_CancelBooking	My travel companion cancelled at the last bit, what do I do now?
+ExistingBooking_CancelBooking	My travel companion cancelled at the last minute, what do ace do now?
+ExistingBooking_CancelBooking	My travel companion cancelled at the last minute, what do i do now?
+ExistingBooking_CancelBooking	My trip begin cancelled due to bad weather, what options do I have left?
+ExistingBooking_CancelBooking	My trip come cancelled due to bad weather, what options do I have left?
+ExistingBooking_CancelBooking	My trip find cancelled due to bad weather, what options do I have left?
+ExistingBooking_CancelBooking	My trip got cancelled due to bad weather, what options do I have give?
+ExistingBooking_CancelBooking	This trip is no farseeing feasible due to work commitments, can I cancel?
+ExistingBooking_CancelBooking	This trip is no longer feasible due to act commitments, can I cancel?
+ExistingBooking_CancelBooking	This trip is no longer feasible due to wreak commitments, can I cancel?
+ExistingBooking_CancelBooking	This trip is no longer feasible referable to work commitments, can I cancel?
+ExistingBooking_CancelBooking	This trip isn't become as planned, can I cancel my booking now?
+ExistingBooking_CancelBooking	This trip isn't decease as planned, can I cancel my booking now?
+ExistingBooking_CancelBooking	This trip isn't expiration as planned, can I cancel my booking now?
+ExistingBooking_CancelBooking	This trip isn't going as planned, can ane cancel my booking now?
+ExistingBooking_CancelBooking	This jaunt isn't going as planned, can I cancel?
+ExistingBooking_CancelBooking	This trip isn't fail as planned, can I cancel?
+ExistingBooking_CancelBooking	This trip isn't going as planned, can I invalidate?
+ExistingBooking_CancelBooking	This trip isn't going as plotted, can I cancel?
+ExistingBooking_CancelBooking	This trip isn't going as plan, can I start the cancellation process now?
+ExistingBooking_CancelBooking	This trip isn't going as planned, can I bulge the cancellation process now?
+ExistingBooking_CancelBooking	This trip isn't going as planned, can I start the cancellation litigate now?
+ExistingBooking_CancelBooking	This trip isn't going as planned, can I starting the cancellation process now?
+ExistingBooking_CancelBooking	This slip isn't working out, how do I start the cancellation process now?
+ExistingBooking_CancelBooking	This trip isn't operative out, how do I start the cancellation process now?
+ExistingBooking_CancelBooking	This trip isn't run out, how do I start the cancellation process now?
+ExistingBooking_CancelBooking	This trip isn't working out, how do I start the cancellation treat now?
+ExistingBooking_CancelBooking	This trip isn't lick out, how do I start the cancellation process?
+ExistingBooking_CancelBooking	This trip isn't running out, how do I start the cancellation process?
+ExistingBooking_CancelBooking	This trip isn't working out, how do I start the cancellation action?
+ExistingBooking_CancelBooking	This trip-up isn't working out, how do I start the cancellation process?

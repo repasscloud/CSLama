@@ -1,0 +1,604 @@
+NewBooking_AddInsurance	Are there any additional fees associated with adding insurance former?
+NewBooking_AddInsurance	Are there any additional fees associated with adding insurance late?
+NewBooking_AddInsurance	Are there any additional fees associated with summate insurance later?
+NewBooking_AddInsurance	embody there any additional fees associated with adding insurance later?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing adventure frolic travel insurance?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing hazard sports travel insurance?
+NewBooking_AddInsurance	Are there any mature restrictions for purchasing adventure sports travel insurance?
+NewBooking_AddInsurance	are there any age restrictions for purchasing adventure sports travel insurance?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing journey insurance?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing travel policy?
+NewBooking_AddInsurance	constitute there any age restrictions for purchasing travel insurance?
+NewBooking_AddInsurance	exist there any age restrictions for purchasing travel insurance?
+NewBooking_AddInsurance	Are there any deduction available for purchasing insurance at checkout?
+NewBooking_AddInsurance	Are there any discounts available for buying insurance at checkout?
+NewBooking_AddInsurance	Are there any ignore available for purchasing insurance at checkout?
+NewBooking_AddInsurance	comprise there any discounts available for purchasing insurance at checkout?
+NewBooking_AddInsurance	Are there any discounts available for purchasing multiple policies at once for both personal and occupation travel?
+NewBooking_AddInsurance	Are there any dismiss available for purchasing multiple policies at once for both personal and business travel?
+NewBooking_AddInsurance	equal there any discounts available for purchasing multiple policies at once for both personal and business travel?
+NewBooking_AddInsurance	represent there any discounts available for purchasing multiple policies at once for both personal and business travel?
+NewBooking_AddInsurance	Are there any discounts available for purchasing multiple policy at once?
+NewBooking_AddInsurance	Are there any dismiss available for purchasing multiple policies at once?
+NewBooking_AddInsurance	constitute there any discounts available for purchasing multiple policies at once?
+NewBooking_AddInsurance	personify there any discounts available for purchasing multiple policies at once?
+NewBooking_AddInsurance	Are there any elision or limitations on certain types of accidents under our standard policy?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain types of accidents under our received policy?
+NewBooking_AddInsurance	be there any exclusions or limitations on certain types of accidents under our standard policy?
+NewBooking_AddInsurance	comprise there any exclusions or limitations on certain types of accidents under our standard policy?
+NewBooking_AddInsurance	Are there any exclusions or limit on certain types of medical procedures under our standard policy?
+NewBooking_AddInsurance	Are there any exclusions or limitation on certain types of medical procedures under our standard policy?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain eccentric of medical procedures under our standard policy?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain types of medical procedures under our banner policy?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain character of medical procedures?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain typecast of medical procedures?
+NewBooking_AddInsurance	Are there any exclusions or limitations on certain types of checkup procedures?
+NewBooking_AddInsurance	Are there any exclusions or limitations on sure types of medical procedures?
+NewBooking_AddInsurance	Are there any exclusions or limit on my policy?
+NewBooking_AddInsurance	Are there any exclusions or limitations on my insurance?
+NewBooking_AddInsurance	live there any exclusions or limitations on my policy?
+NewBooking_AddInsurance	personify there any exclusions or limitations on my policy?
+NewBooking_AddInsurance	Are there any pre-existing circumstance that would make me ineligible for coverage?
+NewBooking_AddInsurance	Are there any pre-existing conditions that would draw me ineligible for coverage?
+NewBooking_AddInsurance	Are there any pre-existing conditions that would fix me ineligible for coverage?
+NewBooking_AddInsurance	are there any pre-existing conditions that would make me ineligible for coverage?
+NewBooking_AddInsurance	Are there any specific exclusion or limitations on certain types of accidents?
+NewBooking_AddInsurance	Are there any specific excommunication or limitations on certain types of accidents?
+NewBooking_AddInsurance	exist there any specific exclusions or limitations on certain types of accidents?
+NewBooking_AddInsurance	follow there any specific exclusions or limitations on certain types of accidents?
+NewBooking_AddInsurance	Are there any specific necessary for business travelers who want to add insurance coverage?
+NewBooking_AddInsurance	Are there any specific requirements for business travelers who deprivation to add insurance coverage?
+NewBooking_AddInsurance	Are there any specific requirements for business travelers who want to add insurance reporting?
+NewBooking_AddInsurance	Are there any specific requirements for business travelers who want to sum insurance coverage?
+NewBooking_AddInsurance	Are there any specific requirements for international business travelers who want to bestow insurance coverage?
+NewBooking_AddInsurance	Are there any specific requirements for outside business travelers who want to add insurance coverage?
+NewBooking_AddInsurance	cost there any specific requirements for international business travelers who want to add insurance coverage?
+NewBooking_AddInsurance	personify there any specific requirements for international business travelers who want to add insurance coverage?
+NewBooking_AddInsurance	Are there any specific requirements or restrictions on certain activities when journey with insurance, such as hiking or extreme cavort?
+NewBooking_AddInsurance	Are there any specific requirements or restrictions on certain activities when traveling with insurance, such as hike or extreme frolic?
+NewBooking_AddInsurance	Are there any specific requirements or restrictions on certain activities when trip with insurance, such as hiking or extreme play?
+NewBooking_AddInsurance	follow there any specific requirements or limitation on certain activities when traveling with insurance, such as hiking or extreme sports?
+NewBooking_AddInsurance	Are there any specific requirements or confinement on certain activities when traveling with insurance?
+NewBooking_AddInsurance	Are there any specific requirements or restrictions on certain activities when move with insurance?
+NewBooking_AddInsurance	ar there any specific requirements or restrictions on certain activities when traveling with insurance?
+NewBooking_AddInsurance	cost there any specific requirements or restrictions on certain activities when traveling with insurance?
+NewBooking_AddInsurance	Can I add a family member or dependent to my live policy?
+NewBooking_AddInsurance	Can iodin add a family member or dependent to my existing policy?
+NewBooking_AddInsurance	buttocks I add a family member or dependent to my existing policy?
+NewBooking_AddInsurance	dismiss I add a family member or dependent to my existing policy?
+NewBooking_AddInsurance	Can I lend insurance coverage for emergency services only?
+NewBooking_AddInsurance	Can I total insurance coverage for emergency services only?
+NewBooking_AddInsurance	ass I add insurance coverage for emergency services only?
+NewBooking_AddInsurance	backside I add insurance coverage for emergency services only?
+NewBooking_AddInsurance	Can 1 add insurance coverage for trip cancellations due to terrorism only?
+NewBooking_AddInsurance	arse I add insurance coverage for trip cancellations due to terrorism only?
+NewBooking_AddInsurance	displace I add insurance coverage for trip cancellations due to terrorism only?
+NewBooking_AddInsurance	stern I add insurance coverage for trip cancellations due to terrorism only?
+NewBooking_AddInsurance	Can I add insurance coverage for trip cancellation due to unforeseen circumstances only?
+NewBooking_AddInsurance	Can I bestow insurance coverage for trip cancellations due to unforeseen circumstances only?
+NewBooking_AddInsurance	Can ane add insurance coverage for trip cancellations due to unforeseen circumstances only?
+NewBooking_AddInsurance	backside I add insurance coverage for trip cancellations due to unforeseen circumstances only?
+NewBooking_AddInsurance	Can I ADHD insurance coverage for trip cancellations due to weather events only?
+NewBooking_AddInsurance	Can I add insurance coverage for jaunt cancellations due to weather events only?
+NewBooking_AddInsurance	Can unity add insurance coverage for trip cancellations due to weather events only?
+NewBooking_AddInsurance	throne I add insurance coverage for trip cancellations due to weather events only?
+NewBooking_AddInsurance	Can I experience a quote for a group policy with travel insurance?
+NewBooking_AddInsurance	Can I get a quote for a group policy with travel indemnity?
+NewBooking_AddInsurance	commode I get a quote for a group policy with travel insurance?
+NewBooking_AddInsurance	sack I get a quote for a group policy with travel insurance?
+NewBooking_AddInsurance	Can ane get proof of insurance for my trip when I arrive at the airport?
+NewBooking_AddInsurance	arse I get proof of insurance for my trip when I arrive at the airport?
+NewBooking_AddInsurance	buns I get proof of insurance for my trip when I arrive at the airport?
+NewBooking_AddInsurance	canful I get proof of insurance for my trip when I arrive at the airport?
+NewBooking_AddInsurance	Can I purchase travel insurance for a single trip or do I require an annual policy?
+NewBooking_AddInsurance	Can iodine purchase travel insurance for a single trip or do I need an annual policy?
+NewBooking_AddInsurance	behind I purchase travel insurance for a single trip or do I need an annual policy?
+NewBooking_AddInsurance	terminate I purchase travel insurance for a single trip or do I need an annual policy?
+NewBooking_AddInsurance	Can I purchase go insurance for a specific destination?
+NewBooking_AddInsurance	Can I purchase journey insurance for a specific destination?
+NewBooking_AddInsurance	Can I purchase trip insurance for a specific destination?
+NewBooking_AddInsurance	seat I purchase travel insurance for a specific destination?
+NewBooking_AddInsurance	Can I purchase jaunt insurance online or do I need to contact customer support?
+NewBooking_AddInsurance	Can I purchase travel insurance online or do I need to contact client support?
+NewBooking_AddInsurance	Can I purchase travel insurance online or do I need to contact customer subscribe?
+NewBooking_AddInsurance	Can I purchase travel insurance online or do I need to touch customer support?
+NewBooking_AddInsurance	Can I purchase travel insurance online with a one-time requital method?
+NewBooking_AddInsurance	Can I purchase trip insurance online with a one-time payment method?
+NewBooking_AddInsurance	backside I purchase travel insurance online with a one-time payment method?
+NewBooking_AddInsurance	canful I purchase travel insurance online with a one-time payment method?
+NewBooking_AddInsurance	Can I purchase journey insurance specifically designed for luxury travelers?
+NewBooking_AddInsurance	Can i purchase travel insurance specifically designed for luxury travelers?
+NewBooking_AddInsurance	Can single purchase travel insurance specifically designed for luxury travelers?
+NewBooking_AddInsurance	rump I purchase travel insurance specifically designed for luxury travelers?
+NewBooking_AddInsurance	Can I leverage travel insurance specifically designed for solo travelers?
+NewBooking_AddInsurance	Can I purchase travel insurance specifically design for solo travelers?
+NewBooking_AddInsurance	Can I purchase travelling insurance specifically designed for solo travelers?
+NewBooking_AddInsurance	sack I purchase travel insurance specifically designed for solo travelers?
+NewBooking_AddInsurance	Can I upgrade my policy to include aesculapian evacuation?
+NewBooking_AddInsurance	Can I upgrade my policy to include medical elimination?
+NewBooking_AddInsurance	Can I upgrade my policy to include medical emptying?
+NewBooking_AddInsurance	potty I upgrade my policy to include medical evacuation?
+NewBooking_AddInsurance	Can you add journey insurance to my booking?
+NewBooking_AddInsurance	Can you bestow travel insurance to my booking?
+NewBooking_AddInsurance	stern you add travel insurance to my booking?
+NewBooking_AddInsurance	toilet you add travel insurance to my booking?
+NewBooking_AddInsurance	Can you provide more information about your 24/heptad emergency assistance services?
+NewBooking_AddInsurance	Can you provide more information about your 24/septenary emergency assistance services?
+NewBooking_AddInsurance	keister you provide more information about your 24/7 emergency assistance services?
+NewBooking_AddInsurance	stool you provide more information about your 24/7 emergency assistance services?
+NewBooking_AddInsurance	Can you recommend an insurance provider for our bodied travel program?
+NewBooking_AddInsurance	Can you recommend an insurance provider for our corporate locomote program?
+NewBooking_AddInsurance	potty you recommend an insurance provider for our corporate travel program?
+NewBooking_AddInsurance	privy you recommend an insurance provider for our corporate travel program?
+NewBooking_AddInsurance	Do you have any package peck that include travel insurance?
+NewBooking_AddInsurance	Do you have any package pot that include travel insurance?
+NewBooking_AddInsurance	Do you have any parcel deals that include travel insurance?
+NewBooking_AddInsurance	do you have any package deals that include travel insurance?
+NewBooking_AddInsurance	arrange you offer additional coverage options for accidents?
+NewBooking_AddInsurance	make you offer additional coverage options for accidents?
+NewBooking_AddInsurance	practice you offer additional coverage options for accidents?
+NewBooking_AddInsurance	ut you offer additional coverage options for accidents?
+NewBooking_AddInsurance	Do you offer insurance policies specifically designed for adventure play?
+NewBooking_AddInsurance	Do you offer insurance policies specifically designed for adventure skylark?
+NewBooking_AddInsurance	Do you offer insurance policies specifically designed for venture sports?
+NewBooking_AddInsurance	come you offer insurance policies specifically designed for adventure sports?
+NewBooking_AddInsurance	Do you offer liability insurance for business trigger?
+NewBooking_AddInsurance	Do you offer liability insurance for clientele trips?
+NewBooking_AddInsurance	make you offer liability insurance for business trips?
+NewBooking_AddInsurance	serve you offer liability insurance for business trips?
+NewBooking_AddInsurance	Do you offer policies that blanket emergency medical evacuations outside the US specifically designed for international business travelers?
+NewBooking_AddInsurance	coiffe you offer policies that cover emergency medical evacuations outside the US specifically designed for international business travelers?
+NewBooking_AddInsurance	exercise you offer policies that cover emergency medical evacuations outside the US specifically designed for international business travelers?
+NewBooking_AddInsurance	make you offer policies that cover emergency medical evacuations outside the US specifically designed for international business travelers?
+NewBooking_AddInsurance	Do you offer insurance that cover emergency medical evacuations outside the US?
+NewBooking_AddInsurance	Do you offer policies that brood emergency medical evacuations outside the US?
+NewBooking_AddInsurance	Do you offer policies that plow emergency medical evacuations outside the US?
+NewBooking_AddInsurance	Do you offer policies that treat emergency medical evacuations outside the US?
+NewBooking_AddInsurance	Do you offer policies that cover equipment damage during line trips?
+NewBooking_AddInsurance	Do you offer policies that insure equipment damage during business trips?
+NewBooking_AddInsurance	Do you offering policies that cover equipment damage during business trips?
+NewBooking_AddInsurance	coiffure you offer policies that cover equipment damage during business trips?
+NewBooking_AddInsurance	Do you offer policies that comprehend equipment damage during leisure trips?
+NewBooking_AddInsurance	Do you offer policies that cover equipment damage during leisure spark?
+NewBooking_AddInsurance	Do you offer policies that cover equipment damage during leisure travel?
+NewBooking_AddInsurance	Do you offer policies that underwrite equipment damage during leisure trips?
+NewBooking_AddInsurance	Do you offer policies that brood natural disasters and weather-related events specifically designed for small business trips?
+NewBooking_AddInsurance	Do you offer policies that cover natural disasters and weather-related events specifically designed for small-scale business trips?
+NewBooking_AddInsurance	Do you proffer policies that cover natural disasters and weather-related events specifically designed for small business trips?
+NewBooking_AddInsurance	practice you offer policies that cover natural disasters and weather-related events specifically designed for small business trips?
+NewBooking_AddInsurance	Do you crack policies that cover natural disasters and weather-related events?
+NewBooking_AddInsurance	Do you offer policies that address natural disasters and weather-related events?
+NewBooking_AddInsurance	Do you offer policies that shroud natural disasters and weather-related events?
+NewBooking_AddInsurance	Do you offer policies that track natural disasters and weather-related events?
+NewBooking_AddInsurance	Do you offer insurance that cover trip cancellations due to war, civil unrest, or natural disasters?
+NewBooking_AddInsurance	Do you offer policies that cover activate cancellations due to war, civil unrest, or natural disasters?
+NewBooking_AddInsurance	Do you offer policies that cover trigger cancellations due to war, civil unrest, or natural disasters?
+NewBooking_AddInsurance	Do you offer policies that overcompensate trip cancellations due to war, civil unrest, or natural disasters?
+NewBooking_AddInsurance	Do you offer policies that cover trip cancellations, interruption, and medical expenses for international business trips?
+NewBooking_AddInsurance	Do you offer policies that cover trip cancellations, interruptions, and medical expenses for international concern trips?
+NewBooking_AddInsurance	arrange you offer policies that cover trip cancellations, interruptions, and medical expenses for international business trips?
+NewBooking_AddInsurance	coiffure you offer policies that cover trip cancellations, interruptions, and medical expenses for international business trips?
+NewBooking_AddInsurance	DO you offer travel insurance policies specifically designed for international business trips?
+NewBooking_AddInsurance	Do you offer travel insurance policies specifically designed for external business trips?
+NewBooking_AddInsurance	Do you offer travel insurance policies specifically designed for international business stumble?
+NewBooking_AddInsurance	Do you offer travel insurance policies specifically plan for international business trips?
+NewBooking_AddInsurance	Here are the affirmation:
+NewBooking_AddInsurance	Here are the assertion:
+NewBooking_AddInsurance	Here are the statement:
+NewBooking_AddInsurance	hither are the statements:
+NewBooking_AddInsurance	How can I request a policy amendment or alteration to my existing coverage?
+NewBooking_AddInsurance	How can I request a policy amendment or change to my live coverage?
+NewBooking_AddInsurance	How can i request a policy amendment or change to my existing coverage?
+NewBooking_AddInsurance	How can unity request a policy amendment or change to my existing coverage?
+NewBooking_AddInsurance	How can I request a policy upgrade or alteration my existing coverage level online?
+NewBooking_AddInsurance	How can I request a policy upgrade or change my be coverage level online?
+NewBooking_AddInsurance	How can I request a policy upgrade or change my existing coverage layer online?
+NewBooking_AddInsurance	How can unity request a policy upgrade or change my existing coverage level online?
+NewBooking_AddInsurance	How can I request a policy acclivity or change my existing coverage level?
+NewBooking_AddInsurance	How can I request a policy upgrade or change my existing coverage dismantle?
+NewBooking_AddInsurance	How can I request a policy upgrade or change my existing coverage floor?
+NewBooking_AddInsurance	How can I request a policy upgrade or switch my existing coverage level?
+NewBooking_AddInsurance	How can I petition a refund if my trip is cancelled due to unforeseen circumstances?
+NewBooking_AddInsurance	How can I request a refund if my stumble is cancelled due to unforeseen circumstances?
+NewBooking_AddInsurance	How can I request a refund if my trip is cancelled ascribable to unforeseen circumstances?
+NewBooking_AddInsurance	How can i request a refund if my trip is cancelled due to unforeseen circumstances?
+NewBooking_AddInsurance	How can I bespeak a waiver for my pre-existing condition under the policy?
+NewBooking_AddInsurance	How can I request a waiver for my pre-existing qualify under the policy?
+NewBooking_AddInsurance	How can I request a waiver for my pre-existing status under the policy?
+NewBooking_AddInsurance	How can ane request a waiver for my pre-existing condition under the policy?
+NewBooking_AddInsurance	How can I request proof of insurance for my byplay travelers during the flight?
+NewBooking_AddInsurance	How can I request proof of insurance for my job travelers during the flight?
+NewBooking_AddInsurance	How can I request substantiation of insurance for my business travelers during the flight?
+NewBooking_AddInsurance	How can ace request proof of insurance for my business travelers during the flight?
+NewBooking_AddInsurance	How can 1 request proof of insurance for my solo traveler during the flight?
+NewBooking_AddInsurance	How can I request proof of indemnity for my solo traveler during the flight?
+NewBooking_AddInsurance	How can ace request proof of insurance for my solo traveler during the flight?
+NewBooking_AddInsurance	How can iodin request proof of insurance for my solo traveler during the flight?
+NewBooking_AddInsurance	How do I constitute changes to my existing travel insurance policy?
+NewBooking_AddInsurance	How do I give changes to my existing travel insurance policy?
+NewBooking_AddInsurance	How do I make changes to my exist travel insurance policy?
+NewBooking_AddInsurance	How do I puddle changes to my existing travel insurance policy?
+NewBooking_AddInsurance	How do I purchase locomotion insurance online?
+NewBooking_AddInsurance	How do I purchase traveling insurance online?
+NewBooking_AddInsurance	How do I purchase travelling insurance online?
+NewBooking_AddInsurance	How do unity purchase travel insurance online?
+NewBooking_AddInsurance	How does your travel insurance policy handle pre-existing conditions or health number?
+NewBooking_AddInsurance	How does your travel insurance policy handle pre-existing conditions or health topic?
+NewBooking_AddInsurance	How does your travel insurance policy handle pre-existing conditions or health yield?
+NewBooking_AddInsurance	How does your travel insurance policy handle pre-existing discipline or health issues?
+NewBooking_AddInsurance	How does your move insurance policy handle trip cancellations due to illness or injury?
+NewBooking_AddInsurance	How does your travel insurance policy handle spark cancellations due to illness or injury?
+NewBooking_AddInsurance	How does your travel insurance policy handle trip cancellations ascribable to illness or injury?
+NewBooking_AddInsurance	How does your travel insurance policy handle trip cancellations due to illness or harm?
+NewBooking_AddInsurance	How does your jaunt insurance policy handle trip cancellations due to terrorism?
+NewBooking_AddInsurance	How does your travel insurance policy cover trip cancellations due to terrorism?
+NewBooking_AddInsurance	How does your travel insurance policy handle trigger cancellations due to terrorism?
+NewBooking_AddInsurance	How does your trip insurance policy handle trip cancellations due to terrorism?
+NewBooking_AddInsurance	How does your locomote insurance policy handle trip cancellations due to weather events?
+NewBooking_AddInsurance	How does your travel insurance policy handle trip cancellation due to weather events?
+NewBooking_AddInsurance	How does your travel insurance policy handle trip-up cancellations due to weather events?
+NewBooking_AddInsurance	How does your travel insurance policy wield trip cancellations due to weather events?
+NewBooking_AddInsurance	How does your go insurance policy handle trip interruptions due to unforeseen circumstances?
+NewBooking_AddInsurance	How does your travel insurance policy handle stumble interruptions due to unforeseen circumstances?
+NewBooking_AddInsurance	How does your travel insurance policy handle trigger interruptions due to unforeseen circumstances?
+NewBooking_AddInsurance	How does your travel insurance policy handle trip interruptions ascribable to unforeseen circumstances?
+NewBooking_AddInsurance	How lots does travel insurance cost per person?
+NewBooking_AddInsurance	How much does locomote insurance cost per person?
+NewBooking_AddInsurance	How much does travel insurance cost per somebody?
+NewBooking_AddInsurance	How much does travel insurance cost per someone?
+NewBooking_AddInsurance	I involve more comprehensive coverage for my trip; can you offer that?
+NewBooking_AddInsurance	I necessitate more comprehensive coverage for my trip; can you offer that?
+NewBooking_AddInsurance	I need more comprehensive coverage for my tripper; can you offer that?
+NewBooking_AddInsurance	I penury more comprehensive coverage for my trip; can you offer that?
+NewBooking_AddInsurance	I'd be felicitous to help you with that. However, ace need to clarify that I can only leave up to 20 responses. If you would like me to generate more, please let me know.
+NewBooking_AddInsurance	I'd be happy to assistant you with that. However, iodine need to clarify that ace can only provide up to 20 responses. If you would like me to generate more, please let me know.
+NewBooking_AddInsurance	I'd be happy to help you with that. notwithstanding, I need to clarify that I can only provide up to 20 responses. If you would comparable me to beget more, please let me know.
+NewBooking_AddInsurance	I'd be happy to help you with that. withal, I need to clarify that I can only leave up to 20 responses. If you would corresponding me to generate more, please let me know.
+NewBooking_AddInsurance	I'd ilk to purchase trip cancellation insurance for this flight.
+NewBooking_AddInsurance	I'd like to purchase spark cancellation insurance for this flight.
+NewBooking_AddInsurance	I'd like to purchase travel cancellation insurance for this flight.
+NewBooking_AddInsurance	I'd like to purchase tripper cancellation insurance for this flight.
+NewBooking_AddInsurance	What are the requirements for age and health consideration for insurance eligibility?
+NewBooking_AddInsurance	What are the requirements for age and health specify for insurance eligibility?
+NewBooking_AddInsurance	What are the requirements for age and health term for insurance eligibility?
+NewBooking_AddInsurance	What are the requirements for years and health conditions for insurance eligibility?
+NewBooking_AddInsurance	What's included in your BASIC travel insurance package?
+NewBooking_AddInsurance	What's included in your basic journey insurance package?
+NewBooking_AddInsurance	What's included in your basic travel insurance software?
+NewBooking_AddInsurance	What's included in your introductory travel insurance package?
+NewBooking_AddInsurance	What's the difference between basic and enhanced coverage under our banner policy?
+NewBooking_AddInsurance	What's the difference between basic and enhanced coverage under our measure policy?
+NewBooking_AddInsurance	What's the difference between basic and heighten coverage under our standard policy?
+NewBooking_AddInsurance	What's the difference between canonic and enhanced coverage under our standard policy?
+NewBooking_AddInsurance	What's the departure between basic and premium travel insurance coverage?
+NewBooking_AddInsurance	What's the difference between BASIC and premium travel insurance coverage?
+NewBooking_AddInsurance	What's the difference between basic and premium locomotion insurance coverage?
+NewBooking_AddInsurance	What's the difference between basic and premium travel insurance reporting?
+NewBooking_AddInsurance	What's the difference between jaunt insurance and travel protection?
+NewBooking_AddInsurance	What's the difference between travel insurance and locomotion protection?
+NewBooking_AddInsurance	What's the difference between travel insurance and travelling protection?
+NewBooking_AddInsurance	What's the difference between traveling insurance and travel protection?
+NewBooking_AddInsurance	What's the maximum amount of coverage bid under our business policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage offered under our line policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage tender under our business policy?
+NewBooking_AddInsurance	What's the maximum total of coverage offered under our business policy?
+NewBooking_AddInsurance	What's the maximal amount of coverage offered under our corporate policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage offered under our bodied policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage offered under our embodied policy?
+NewBooking_AddInsurance	What's the utmost amount of coverage offered under our corporate policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage bid under our standard policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage offered under our touchstone policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage provide under our standard policy?
+NewBooking_AddInsurance	What's the maximum amount of coverage tender under our standard policy?
+NewBooking_AddInsurance	What's the march for filing a claim if I need financial assistance due to trip cancellation or interruption?
+NewBooking_AddInsurance	What's the process for file a claim if I need financial assistance due to trip cancellation or interruption?
+NewBooking_AddInsurance	What's the process for filing a claim if ace need financial assistance due to trip cancellation or interruption?
+NewBooking_AddInsurance	What's the sue for filing a claim if I need financial assistance due to trip cancellation or interruption?
+NewBooking_AddInsurance	What's the process for charge a claim if I need financial assistance due to trip cancellation?
+NewBooking_AddInsurance	What's the process for filing a claim if I motive financial assistance due to trip cancellation?
+NewBooking_AddInsurance	What's the process for filing a claim if ace need financial assistance due to trip cancellation?
+NewBooking_AddInsurance	What's the process for filing a claim if single need financial assistance due to trip cancellation?
+NewBooking_AddInsurance	What's the process for filing a claim if I ask medical assistance abroad?
+NewBooking_AddInsurance	What's the process for filing a claim if I motivation medical assistance abroad?
+NewBooking_AddInsurance	What's the process for filing a claim if I need medical assist abroad?
+NewBooking_AddInsurance	What's the process for filing a claim if unity need medical assistance abroad?
+NewBooking_AddInsurance	What's the await period before coverage kicks in if I buy travel insurance now and have a preexisting condition that requires ongoing treatment?
+NewBooking_AddInsurance	What's the waiting period before coverage kicks in if I buy journey insurance now and have a pre-existing condition that postulate ongoing treatment?
+NewBooking_AddInsurance	What's the waiting period before coverage plain in if I purchase travel insurance now and have a pre-existing condition that requires ongoing treatment?
+NewBooking_AddInsurance	What's the waiting stop before coverage kicks in if ane buy travel insurance now and have a pre-existing condition that requires ongoing treatment?
+NewBooking_AddInsurance	What's the expect period before coverage kicks in if I buy travel insurance now and have pre-existing conditions?
+NewBooking_AddInsurance	What's the waiting catamenia before coverage kicks in if I buy travel insurance now and have pre-existing conditions?
+NewBooking_AddInsurance	What's the waiting period before coverage kicks in if I buy travel insurance now and have pre-existing status?
+NewBooking_AddInsurance	What's the waiting period before coverage kicks in if one buy travel insurance now and have pre-existing conditions?
+NewBooking_AddInsurance	What's the waiting menstruation before coverage kicks in if I buy travel insurance now?
+NewBooking_AddInsurance	What's the waiting period before coverage charge in if I buy travel insurance now?
+NewBooking_AddInsurance	What's the waiting period before coverage kicks in if I buy locomotion insurance now?
+NewBooking_AddInsurance	What's the waiting period before coverage kicks in if I purchase travel insurance now?
+NewBooking_AddInsurance	Will my employer blanket any medical expenses abroad due to a work-related accident?
+NewBooking_AddInsurance	Will my employer brood any medical expenses abroad due to a work-related accident?
+NewBooking_AddInsurance	Will my employer cover any medical expenses abroad ascribable to a work-related accident?
+NewBooking_AddInsurance	Will my employer overcompensate any medical expenses abroad due to a work-related accident?
+NewBooking_AddInsurance	Will my existing health indemnity cover me abroad if I add travel insurance?
+NewBooking_AddInsurance	Will my existing health insurance cover me abroad if I add travel indemnity?
+NewBooking_AddInsurance	Will my existing health insurance cover me abroad if one add travel insurance?
+NewBooking_AddInsurance	Will my existing health insurance masking me abroad if I add travel insurance?
+NewBooking_AddInsurance	Will you add insurance to this book automatically?
+NewBooking_AddInsurance	Will you add insurance to this hold automatically?
+NewBooking_AddInsurance	Will you tot insurance to this booking automatically?
+NewBooking_AddInsurance	testament you add insurance to this booking automatically?
+NewBooking_AddInsurance	Are there any additional bung for purchasing travel insurance?
+NewBooking_AddInsurance	Are there any extra fees for purchasing travel insurance?
+NewBooking_AddInsurance	cost there any additional fees for purchasing travel insurance?
+NewBooking_AddInsurance	embody there any additional fees for purchasing travel insurance?
+NewBooking_AddInsurance	Are there any age limitation for purchasing travel insurance for children?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing journey insurance for children?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing travel insurance for nipper?
+NewBooking_AddInsurance	embody there any age restrictions for purchasing travel insurance for children?
+NewBooking_AddInsurance	Are there any age restrictions for buy travel insurance?
+NewBooking_AddInsurance	Are there any age restrictions for purchasing trip insurance?
+NewBooking_AddInsurance	comprise there any age restrictions for purchasing travel insurance?
+NewBooking_AddInsurance	constitute there any age restrictions for purchasing travel insurance?
+NewBooking_AddInsurance	Are there any age restrictions for travelling insurance?
+NewBooking_AddInsurance	be there any age restrictions for travel insurance?
+NewBooking_AddInsurance	equal there any age restrictions for travel insurance?
+NewBooking_AddInsurance	exist there any age restrictions for travel insurance?
+NewBooking_AddInsurance	Are there any deductibles or copays associate with the policy?
+NewBooking_AddInsurance	Are there any deductibles or copays associated with the insurance?
+NewBooking_AddInsurance	constitute there any deductibles or copays associated with the policy?
+NewBooking_AddInsurance	live there any deductibles or copays associated with the policy?
+NewBooking_AddInsurance	Are there any discounts for bundling travel insurance with escape?
+NewBooking_AddInsurance	Are there any discounts for bundling trip insurance with flights?
+NewBooking_AddInsurance	Are there any discounts for wad travel insurance with flights?
+NewBooking_AddInsurance	Are there any disregard for bundling travel insurance with flights?
+NewBooking_AddInsurance	Are there any discounts for purchasing multiple policy at once?
+NewBooking_AddInsurance	Are there any dismiss for purchasing multiple policies at once?
+NewBooking_AddInsurance	ar there any discounts for purchasing multiple policies at once?
+NewBooking_AddInsurance	personify there any discounts for purchasing multiple policies at once?
+NewBooking_AddInsurance	Are there any discounts for buying multiple policies?
+NewBooking_AddInsurance	Are there any rebate for purchasing multiple policies?
+NewBooking_AddInsurance	comprise there any discounts for purchasing multiple policies?
+NewBooking_AddInsurance	equal there any discounts for purchasing multiple policies?
+NewBooking_AddInsurance	Are there any exclusion for certain types of travel, such as cruises?
+NewBooking_AddInsurance	Are there any exclusions for certain types of travel, such as cruise?
+NewBooking_AddInsurance	Are there any excommunication for certain types of travel, such as cruises?
+NewBooking_AddInsurance	be there any exclusions for certain types of travel, such as cruises?
+NewBooking_AddInsurance	Are there any censure for pre-existing medical conditions?
+NewBooking_AddInsurance	Are there any exclusions for pre-existing medical qualify?
+NewBooking_AddInsurance	Are there any exclusions for pre-existing medical weather?
+NewBooking_AddInsurance	Are there any expulsion for pre-existing medical conditions?
+NewBooking_AddInsurance	Can I add insurance coverage for specific countries or regions on brusk notice?
+NewBooking_AddInsurance	Can I add insurance coverage for specific countries or regions on short-circuit notice?
+NewBooking_AddInsurance	Can I add insurance coverage for specific countries or regions on unretentive notice?
+NewBooking_AddInsurance	Can I add insurance coverage for specific country or regions on short notice?
+NewBooking_AddInsurance	Can I ADD insurance coverage for specific countries or regions?
+NewBooking_AddInsurance	Can I add insurance coverage for specific country or regions?
+NewBooking_AddInsurance	Can I add insurance coverage for specific nation or regions?
+NewBooking_AddInsurance	Can I bring insurance coverage for specific countries or regions?
+NewBooking_AddInsurance	Can I take a quote for travel insurance today?
+NewBooking_AddInsurance	butt I get a quote for travel insurance today?
+NewBooking_AddInsurance	canful I get a quote for travel insurance today?
+NewBooking_AddInsurance	rump I get a quote for travel insurance today?
+NewBooking_AddInsurance	Can I begin a refund on my travel insurance policy if I cancel my plans?
+NewBooking_AddInsurance	Can I get a refund on my travel insurance policy if 1 cancel my plans?
+NewBooking_AddInsurance	canful I get a refund on my travel insurance policy if I cancel my plans?
+NewBooking_AddInsurance	rear I get a refund on my travel insurance policy if I cancel my plans?
+NewBooking_AddInsurance	Can I get a refund on my travel insurance policy if I exchange plans?
+NewBooking_AddInsurance	Can I scram a refund on my travel insurance policy if I change plans?
+NewBooking_AddInsurance	Can iodine get a refund on my travel insurance policy if I change plans?
+NewBooking_AddInsurance	fire I get a refund on my travel insurance policy if I change plans?
+NewBooking_AddInsurance	Can I capture an estimate of how much my policy will cost per day?
+NewBooking_AddInsurance	Can I dumbfound an estimate of how much my policy will cost per day?
+NewBooking_AddInsurance	bum I get an estimate of how much my policy will cost per day?
+NewBooking_AddInsurance	posterior I get an estimate of how much my policy will cost per day?
+NewBooking_AddInsurance	Can 1 get an estimate of how much my policy will cost per traveler?
+NewBooking_AddInsurance	Can I aim an estimate of how much my policy will cost per traveler?
+NewBooking_AddInsurance	Can I get an estimate of how practically my policy will cost per traveler?
+NewBooking_AddInsurance	Can I vex an estimate of how much my policy will cost per traveler?
+NewBooking_AddInsurance	Can I catch an estimate of how much my policy will cost?
+NewBooking_AddInsurance	Can I dumbfound an estimate of how much my policy will cost?
+NewBooking_AddInsurance	Can I vex an estimate of how much my policy will cost?
+NewBooking_AddInsurance	tooshie I get an estimate of how much my policy will cost?
+NewBooking_AddInsurance	Can I get journey insurance added to my upcoming trip?
+NewBooking_AddInsurance	Can I get travel insurance added to my upcoming spark?
+NewBooking_AddInsurance	hindquarters I get travel insurance added to my upcoming trip?
+NewBooking_AddInsurance	nates I get travel insurance added to my upcoming trip?
+NewBooking_AddInsurance	Can I purchase additional coverage for certain particular like luggage?
+NewBooking_AddInsurance	Can single purchase additional coverage for certain items like luggage?
+NewBooking_AddInsurance	crapper I purchase additional coverage for certain items like luggage?
+NewBooking_AddInsurance	dismiss I purchase additional coverage for certain items like luggage?
+NewBooking_AddInsurance	Can I purchase trip insurance at check-in?
+NewBooking_AddInsurance	buns I purchase travel insurance at check-in?
+NewBooking_AddInsurance	rear I purchase travel insurance at check-in?
+NewBooking_AddInsurance	stern I purchase travel insurance at check-in?
+NewBooking_AddInsurance	Can ane purchase travel insurance for a one-way ticket?
+NewBooking_AddInsurance	Can one purchase travel insurance for a one-way ticket?
+NewBooking_AddInsurance	displace I purchase travel insurance for a one-way ticket?
+NewBooking_AddInsurance	privy I purchase travel insurance for a one-way ticket?
+NewBooking_AddInsurance	Can I leverage travel insurance in multiple currencies?
+NewBooking_AddInsurance	Can I purchase move insurance in multiple currencies?
+NewBooking_AddInsurance	Can one purchase travel insurance in multiple currencies?
+NewBooking_AddInsurance	bum I purchase travel insurance in multiple currencies?
+NewBooking_AddInsurance	Do you bid insurance for adventure activities like hiking or skiing?
+NewBooking_AddInsurance	Do you offer insurance for gamble activities like hiking or skiing?
+NewBooking_AddInsurance	Do you offer policy for adventure activities like hiking or skiing?
+NewBooking_AddInsurance	make you offer insurance for adventure activities like hiking or skiing?
+NewBooking_AddInsurance	Do you offer insurance for adventure activities like horseback disembarrass or rafting?
+NewBooking_AddInsurance	Do you offer insurance for adventure activities like horseback free or rafting?
+NewBooking_AddInsurance	Do you offer insurance for jeopardize activities like horseback riding or rafting?
+NewBooking_AddInsurance	coif you offer insurance for adventure activities like horseback riding or rafting?
+NewBooking_AddInsurance	Do you offer insurance for adventure activities corresponding skiing or snowboarding?
+NewBooking_AddInsurance	Do you offer insurance for adventure activities like ski or snowboarding?
+NewBooking_AddInsurance	Do you pass insurance for adventure activities like skiing or snowboarding?
+NewBooking_AddInsurance	Do you provide insurance for adventure activities like skiing or snowboarding?
+NewBooking_AddInsurance	Do you offer insurance for adventure action like skydiving or bungee jumping?
+NewBooking_AddInsurance	Do you offer insurance for adventure activities same skydiving or bungee jumping?
+NewBooking_AddInsurance	Do you pass insurance for adventure activities like skydiving or bungee jumping?
+NewBooking_AddInsurance	answer you offer insurance for adventure activities like skydiving or bungee jumping?
+NewBooking_AddInsurance	DO you offer insurance for business class flights?
+NewBooking_AddInsurance	Do you offer insurance for business family flights?
+NewBooking_AddInsurance	Do you offer insurance for job class flights?
+NewBooking_AddInsurance	coif you offer insurance for business class flights?
+NewBooking_AddInsurance	Do you offer insurance for business meetings or league?
+NewBooking_AddInsurance	answer you offer insurance for business meetings or conferences?
+NewBooking_AddInsurance	cause you offer insurance for business meetings or conferences?
+NewBooking_AddInsurance	do you offer insurance for business meetings or conferences?
+NewBooking_AddInsurance	Do you offer insurance for group tours or jaunt?
+NewBooking_AddInsurance	Do you offer insurance for group tours or sashay?
+NewBooking_AddInsurance	Do you offer insurance for group turn or excursions?
+NewBooking_AddInsurance	arrange you offer insurance for group tours or excursions?
+NewBooking_AddInsurance	Do you offer insurance for short-term business trips or form assignments?
+NewBooking_AddInsurance	Do you offer insurance for short-term business trips or work naming?
+NewBooking_AddInsurance	coif you offer insurance for short-term business trips or work assignments?
+NewBooking_AddInsurance	exercise you offer insurance for short-term business trips or work assignments?
+NewBooking_AddInsurance	Do you bid insurance for solo travelers or backpackers?
+NewBooking_AddInsurance	Do you fling insurance for solo travelers or backpackers?
+NewBooking_AddInsurance	do you offer insurance for solo travelers or backpackers?
+NewBooking_AddInsurance	perform you offer insurance for solo travelers or backpackers?
+NewBooking_AddInsurance	Do you offer insurance for travel cancellations?
+NewBooking_AddInsurance	Do you offer insurance for tripper cancellations?
+NewBooking_AddInsurance	coiffe you offer insurance for trip cancellations?
+NewBooking_AddInsurance	execute you offer insurance for trip cancellations?
+NewBooking_AddInsurance	Do you offer insurance for spark delays or missed connections?
+NewBooking_AddInsurance	Do you offer insurance for trip delays or missed link?
+NewBooking_AddInsurance	arrange you offer insurance for trip delays or missed connections?
+NewBooking_AddInsurance	cause you offer insurance for trip delays or missed connections?
+NewBooking_AddInsurance	Do you offer liability insurance for clientele travelers?
+NewBooking_AddInsurance	execute you offer liability insurance for business travelers?
+NewBooking_AddInsurance	perform you offer liability insurance for business travelers?
+NewBooking_AddInsurance	serve you offer liability insurance for business travelers?
+NewBooking_AddInsurance	Does your company pass insurance for medical emergencies?
+NewBooking_AddInsurance	coiffure your company offer insurance for medical emergencies?
+NewBooking_AddInsurance	doe your company offer insurance for medical emergencies?
+NewBooking_AddInsurance	practice your company offer insurance for medical emergencies?
+NewBooking_AddInsurance	Here are 80 statements for rail a corporate travel chatbot to recognize when someone wants to append insurance to a new booking:
+NewBooking_AddInsurance	Here are 80 statements for training a corporate travel chatbot to greet when someone wants to add insurance to a newfangled booking:
+NewBooking_AddInsurance	Here are 80 statements for training a corporate travel chatbot to realize when somebody wants to add insurance to a new booking:
+NewBooking_AddInsurance	Here are 80 statements for training a corporate travel chatbot to recognize when person wants to tot insurance to a new booking:
+NewBooking_AddInsurance	How do I cancel my go insurance policy if needed?
+NewBooking_AddInsurance	How do I cancel my locomote insurance policy if needed?
+NewBooking_AddInsurance	How do I cancel my travel insurance policy if involve?
+NewBooking_AddInsurance	How do I offset my travel insurance policy if needed?
+NewBooking_AddInsurance	How do 1 file a claim on my travel insurance policy?
+NewBooking_AddInsurance	How do I file a claim on my locomote insurance policy?
+NewBooking_AddInsurance	How do iodin file a claim on my travel insurance policy?
+NewBooking_AddInsurance	How do unity file a claim on my travel insurance policy?
+NewBooking_AddInsurance	How do I acknowledge if my existing policy is still valid and in force?
+NewBooking_AddInsurance	How do I know if my existing policy is placid valid and in force?
+NewBooking_AddInsurance	How do I know if my existing policy is still valid and in thrust?
+NewBooking_AddInsurance	How do I know if my existing policy is tranquil valid and in force?
+NewBooking_AddInsurance	How do I cognise if my policy is valid for international travel?
+NewBooking_AddInsurance	How do I know if my policy is valid for international locomotion?
+NewBooking_AddInsurance	How do I know if my policy is valid for international travelling?
+NewBooking_AddInsurance	How do I recognise if my policy is valid for international travel?
+NewBooking_AddInsurance	How do I bed if my trip is eligible for insurance coverage?
+NewBooking_AddInsurance	How do I bonk if my trip is eligible for insurance coverage?
+NewBooking_AddInsurance	How do I live if my trip is eligible for insurance coverage?
+NewBooking_AddInsurance	How do one know if my trip is eligible for insurance coverage?
+NewBooking_AddInsurance	How do I bespeak an amendment to my existing policy?
+NewBooking_AddInsurance	How do ace request an amendment to my existing policy?
+NewBooking_AddInsurance	How do iodine request an amendment to my existing policy?
+NewBooking_AddInsurance	How do single request an amendment to my existing policy?
+NewBooking_AddInsurance	How do I asking to add insurance coverage for a specific activity or event?
+NewBooking_AddInsurance	How do I petition to add insurance coverage for a specific activity or event?
+NewBooking_AddInsurance	How do I request to add insurance coverage for a specific activity or outcome?
+NewBooking_AddInsurance	How do I request to tally insurance coverage for a specific activity or event?
+NewBooking_AddInsurance	How do I quest travel insurance coverage for a specific activity?
+NewBooking_AddInsurance	How do I request go insurance coverage for a specific activity?
+NewBooking_AddInsurance	How do ane request travel insurance coverage for a specific activity?
+NewBooking_AddInsurance	How do iodine request travel insurance coverage for a specific activity?
+NewBooking_AddInsurance	How long does it convey to get a new policy issued?
+NewBooking_AddInsurance	How long does it take to generate a new policy issued?
+NewBooking_AddInsurance	How long does it take to nonplus a new policy issued?
+NewBooking_AddInsurance	How long does it take to perplex a new policy issued?
+NewBooking_AddInsurance	How much does slip cancellation insurance cost?
+NewBooking_AddInsurance	How much does travel cancellation insurance cost?
+NewBooking_AddInsurance	How much does trip cancellation policy cost?
+NewBooking_AddInsurance	How much does trip-up cancellation insurance cost?
+NewBooking_AddInsurance	Is it admit in the initial booking price or extra?
+NewBooking_AddInsurance	Is it include in the initial booking price or extra?
+NewBooking_AddInsurance	Is it included in the initial booking price or excess?
+NewBooking_AddInsurance	Is it included in the initial booking price or redundant?
+NewBooking_AddInsurance	Is it possible to ADD accident insurance to my booking?
+NewBooking_AddInsurance	Is it possible to add fortuity insurance to my booking?
+NewBooking_AddInsurance	Is it possible to bring accident insurance to my booking?
+NewBooking_AddInsurance	follow it possible to add accident insurance to my booking?
+NewBooking_AddInsurance	Is it possible to ADHD insurance to a group booking?
+NewBooking_AddInsurance	Is it possible to add insurance to a group book?
+NewBooking_AddInsurance	Is it possible to append insurance to a group booking?
+NewBooking_AddInsurance	follow it possible to add insurance to a group booking?
+NewBooking_AddInsurance	Is it possible to purchase jaunt insurance as a one-time payment?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance as a onetime payment?
+NewBooking_AddInsurance	be it possible to purchase travel insurance as a one-time payment?
+NewBooking_AddInsurance	follow it possible to purchase travel insurance as a one-time payment?
+NewBooking_AddInsurance	Is it possible to leverage travel insurance as part of a package deal?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance as part of a package take?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance as parting of a package deal?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance as share of a package deal?
+NewBooking_AddInsurance	Is it possible to purchase go insurance at the airport?
+NewBooking_AddInsurance	cost it possible to purchase travel insurance at the airport?
+NewBooking_AddInsurance	live it possible to purchase travel insurance at the airport?
+NewBooking_AddInsurance	personify it possible to purchase travel insurance at the airport?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance with a credit placard?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance with a credit wit?
+NewBooking_AddInsurance	equal it possible to purchase travel insurance with a credit card?
+NewBooking_AddInsurance	represent it possible to purchase travel insurance with a credit card?
+NewBooking_AddInsurance	Is it possible to purchase travel insurance with a debit posting?
+NewBooking_AddInsurance	Is it possible to purchase traveling insurance with a debit card?
+NewBooking_AddInsurance	Is it possible to purchase travelling insurance with a debit card?
+NewBooking_AddInsurance	constitute it possible to purchase travel insurance with a debit card?
+NewBooking_AddInsurance	Is it possible to elevate my existing policy to include more coverage?
+NewBooking_AddInsurance	Is it possible to upgrade my subsist policy to include more coverage?
+NewBooking_AddInsurance	Is it possible to upgrade my survive policy to include more coverage?
+NewBooking_AddInsurance	constitute it possible to upgrade my existing policy to include more coverage?
+NewBooking_AddInsurance	Is my existing policy eligible for reclamation or upgrade?
+NewBooking_AddInsurance	Is my existing policy eligible for renewal or raise?
+NewBooking_AddInsurance	Is my survive policy eligible for renewal or upgrade?
+NewBooking_AddInsurance	equal my existing policy eligible for renewal or upgrade?
+NewBooking_AddInsurance	What is the policy on jaunt interruption insurance?
+NewBooking_AddInsurance	What is the policy on trigger interruption insurance?
+NewBooking_AddInsurance	What is the policy on trip gap insurance?
+NewBooking_AddInsurance	What is the policy on trip interruption policy?
+NewBooking_AddInsurance	What options do you have for additional reportage?
+NewBooking_AddInsurance	What options do you have for additional reporting?
+NewBooking_AddInsurance	What pick do you have for additional coverage?
+NewBooking_AddInsurance	What selection do you have for additional coverage?
+NewBooking_AddInsurance	What's the difference between personal and bodied travel insurance policies?
+NewBooking_AddInsurance	What's the difference between personal and corporate locomote insurance policies?
+NewBooking_AddInsurance	What's the difference between personal and corporate move insurance policies?
+NewBooking_AddInsurance	What's the difference between personal and corporate travel policy policies?
+NewBooking_AddInsurance	What's the difference between actuate cancellation and interruption insurance?
+NewBooking_AddInsurance	What's the difference between trip cancellation and gap insurance?
+NewBooking_AddInsurance	What's the difference between trip-up cancellation and interruption insurance?
+NewBooking_AddInsurance	What's the dispute between trip cancellation and interruption insurance?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in case of medical emergency?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in font of medical emergencies?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in incase of medical emergencies?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in slip of medical emergencies?
+NewBooking_AddInsurance	What's the maximal amount of coverage available per person in case of trip cancellations?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in caseful of trip cancellations?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per person in incase of trip cancellations?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per soul in case of trip cancellations?
+NewBooking_AddInsurance	What's the maximum amount of coverage available per someone?
+NewBooking_AddInsurance	What's the maximum amount of coverage useable per person?
+NewBooking_AddInsurance	What's the maximum amount of reportage available per person?
+NewBooking_AddInsurance	What's the uttermost amount of coverage available per person?
+NewBooking_AddInsurance	What's the maximal duration of insurance coverage?
+NewBooking_AddInsurance	What's the maximum duration of indemnity coverage?
+NewBooking_AddInsurance	What's the maximum duration of policy coverage?
+NewBooking_AddInsurance	What's the utmost duration of insurance coverage?
+NewBooking_AddInsurance	What's the appendage for adding insurance to an existing booking?
+NewBooking_AddInsurance	What's the operation for adding insurance to an existing booking?
+NewBooking_AddInsurance	What's the process for append insurance to an existing booking?
+NewBooking_AddInsurance	What's the work for adding insurance to an existing booking?
+NewBooking_AddInsurance	What's the outgrowth for filing a claim on my travel insurance policy?
+NewBooking_AddInsurance	What's the process for filing a claim on my move insurance policy?
+NewBooking_AddInsurance	What's the process for filing a claim on my travel indemnity policy?
+NewBooking_AddInsurance	What's the process for lodge a claim on my travel insurance policy?
+NewBooking_AddInsurance	What's the litigate for replacing lost or stolen documents with new insurance coverage?
+NewBooking_AddInsurance	What's the outgrowth for replacing lost or stolen documents with new insurance coverage?
+NewBooking_AddInsurance	What's the process for replacing befuddled or stolen documents with new insurance coverage?
+NewBooking_AddInsurance	What's the process for replacing bewildered or stolen documents with new insurance coverage?
+NewBooking_AddInsurance	What's the litigate for replacing lost or stolen luggage with new insurance coverage?
+NewBooking_AddInsurance	What's the process for replacing mixed-up or stolen luggage with new insurance coverage?
+NewBooking_AddInsurance	What's the serve for replacing lost or stolen luggage with new insurance coverage?
+NewBooking_AddInsurance	What's the sue for replacing lost or stolen luggage with new insurance coverage?

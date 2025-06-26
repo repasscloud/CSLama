@@ -1,0 +1,81 @@
+Can you confirm the check-in time and location details at the airport.
+Can you confirm the check-in time for my flight?
+Can you confirm the check-out time for my hotel stay?
+Can you confirm the dates of my trip?
+Can you confirm the flight status for my connecting flight?
+Can you confirm the meeting room details for my conference booking?
+Can you confirm the meeting room equipment and amenities.
+Can you confirm the meeting room layout and seating capacity.
+Can you confirm the meeting time and location change details for future bookings.
+Can you confirm the meeting time and location change details.
+Can you confirm the meeting time and location changes for multiple bookings.
+Can you confirm the meeting time and location details?
+Can you list all my flights for this trip?
+Can you please provide a map of my destination city?
+Can you please provide information on airport transfers.
+Can you please send me a copy of my booking confirmation email again?
+Can you please send me a copy of my booking confirmation email for this trip?
+Can you please send me a copy of my itinerary?
+Can you please send me a reminder about my flight departure time?
+Can you please send me a reminder about my flight?
+Can you please send me a reminder about my meeting?
+Can you please show me my booking details?
+Can you provide information on airport parking options?
+Can you provide information on flight cancellations and refunds.
+Can you show me the cost breakdown for my booking?
+Can you show me the cost of adding a layover to my flight?
+Can you show me the cost of adding a stopover to my flight?
+How can I access my booking confirmation email?
+How can I cancel my current booking?
+How can I request a flight change or cancellation?
+How can I request a flight upgrade or seating change?
+How can I request a hotel room change or upgrade?
+How can I request a refund or cancellation of my booking?
+How can I request a refund or cancellation of my car rental reservation?
+How can I request a refund or cancellation of my hotel stay?
+How can I request a room change or upgrade at the hotel?
+How can I request a travel adapter or converter for my destination?
+I need to see my car rental reservation booking details.
+I need to see my car rental reservation details.
+I need to see my train ticket reservation details.
+I need to see my travel insurance policy details.
+I need to see my travel itinerary for this month.
+I need to see my upcoming flight itinerary.
+I want to view my conference registration details.
+I want to view my conference registration payment details.
+I want to view my conference schedule and agenda.
+I want to view my hotel reservation for this week.
+I want to view my train ticket reservation details.
+I'll provide you with 80 statements to train your corporate travel chatbot.
+Please provide information on airport security procedures for passengers with disabilities.
+Please provide information on airport security procedures.
+Please provide information on my hotel room type.
+Please provide information on travel adapter options for my destination country.
+Please provide information on visa requirements for my destination country.
+Please provide my flight schedule for next month.
+Please show me my hotel room key card details.
+Please show me the status of my baggage claim.
+Show me my booking history, please.
+Show me my booking payment history.
+Show me my booking summary, including costs and dates.
+Show me my hotel loyalty program membership details.
+Show me my hotel loyalty program points balance.
+Show me my hotel loyalty program rewards balance.
+Show me my travel history, including past bookings and cancelled itineraries.
+Show me my travel history, including past bookings and itineraries.
+Show me my travel insurance policy details, please.
+Show me my travel itinerary for next month, please.
+Show me my travel itinerary for next week.
+Show me my travel itinerary for next year.
+What's my current booking status?
+What's the airline's policy on baggage fees?
+What's the airline's policy on in-flight entertainment options?
+What's the airline's policy on in-flight meal options for passengers with dietary restrictions?
+What's the airline's policy on luggage storage in premium cabins?
+What's the airline's policy on luggage storage?
+What's the airline's policy on luggage weight restrictions?
+What's the airline's policy on meal options on board?
+What's the airline's policy on seat selection for premium passengers?
+What's the airline's policy on seat selection?
+What's the name of my travel agent?
+What's the total cost of my current booking?

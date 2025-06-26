@@ -1,0 +1,472 @@
+Help_Restart	Are you ready to move advancing?
+Help_Restart	Are you ready to move forrad?
+Help_Restart	Are you ready to relocation forward?
+Help_Restart	equal you ready to move forward?
+Help_Restart	Can we begin again from the rootage?
+Help_Restart	fanny we begin again from the beginning?
+Help_Restart	fire we begin again from the beginning?
+Help_Restart	privy we begin again from the beginning?
+Help_Restart	Can we cover from the beginning?
+Help_Restart	buns we continue from the beginning?
+Help_Restart	privy we continue from the beginning?
+Help_Restart	stool we continue from the beginning?
+Help_Restart	Can we commence from scratch?
+Help_Restart	buns we start from scratch?
+Help_Restart	stool we start from scratch?
+Help_Restart	tush we start from scratch?
+Help_Restart	Can we start over from where we exit off?
+Help_Restart	Can we start over from where we leftfield off?
+Help_Restart	Can we start over from where we provide off?
+Help_Restart	tin we start over from where we left off?
+Help_Restart	Can we originate over please?
+Help_Restart	Can we scratch over please?
+Help_Restart	nates we start over please?
+Help_Restart	rump we start over please?
+Help_Restart	Can you start again from the begin?
+Help_Restart	bottom you start again from the beginning?
+Help_Restart	buns you start again from the beginning?
+Help_Restart	lav you start again from the beginning?
+Help_Restart	Do you have any other petition?
+Help_Restart	do you have any other requests?
+Help_Restart	doh you have any other requests?
+Help_Restart	exercise you have any other requests?
+Help_Restart	Do you head if we restart this conversation?
+Help_Restart	bash you mind if we restart this conversation?
+Help_Restart	brawl you mind if we restart this conversation?
+Help_Restart	serve you mind if we restart this conversation?
+Help_Restart	Do you recall what our word was about?
+Help_Restart	behave you recall what our discussion was about?
+Help_Restart	coiffure you recall what our discussion was about?
+Help_Restart	serve you recall what our discussion was about?
+Help_Restart	Do you recall what our premature discussion was about?
+Help_Restart	bash you recall what our previous discussion was about?
+Help_Restart	coif you recall what our previous discussion was about?
+Help_Restart	serve you recall what our previous discussion was about?
+Help_Restart	Do you recollection what we were discussing?
+Help_Restart	practice you recall what we were discussing?
+Help_Restart	practise you recall what we were discussing?
+Help_Restart	suffice you recall what we were discussing?
+Help_Restart	act you want to proceed with this conversation?
+Help_Restart	coif you want to proceed with this conversation?
+Help_Restart	make you want to proceed with this conversation?
+Help_Restart	manage you want to proceed with this conversation?
+Help_Restart	Do you want to restart this operation?
+Help_Restart	Do you wishing to restart this process?
+Help_Restart	coiffure you want to restart this process?
+Help_Restart	execute you want to restart this process?
+Help_Restart	How do I dumbfound back on track?
+Help_Restart	How do I experience back on track?
+Help_Restart	How do I gravel back on track?
+Help_Restart	How do I make back on track?
+Help_Restart	How do I contract back to that part again?
+Help_Restart	How do I find back to that part again?
+Help_Restart	How do I get back to that office again?
+Help_Restart	How do I get rear to that part again?
+Help_Restart	How do I contract back to that point?
+Help_Restart	How do I get back to that betoken?
+Help_Restart	How do I get back to that direct?
+Help_Restart	How do I get back to that stage?
+Help_Restart	How do I beat back to where we left off?
+Help_Restart	How do I dumbfound back to where we left off?
+Help_Restart	How do I get indorse to where we left off?
+Help_Restart	How do I get punt to where we left off?
+Help_Restart	I block what we were talking about.
+Help_Restart	I forgot what we were verbalise about.
+Help_Restart	iodin forgot what we were talking about.
+Help_Restart	iodine forgot what we were talking about.
+Help_Restart	Is there anything else I can assistance with?
+Help_Restart	Is there anything else ane can assist with?
+Help_Restart	Is there anything else one can assist with?
+Help_Restart	embody there anything else I can assist with?
+Help_Restart	Is there anything else I can helper you with?
+Help_Restart	Is there anything else iodin can help you with?
+Help_Restart	be there anything else I can help you with?
+Help_Restart	cost there anything else I can help you with?
+Help_Restart	Is there anything else I'd alike to say?
+Help_Restart	Is there anything else I'd like to enjoin?
+Help_Restart	Is there anything else I'd like to enunciate?
+Help_Restart	constitute there anything else I'd like to say?
+Help_Restart	Is there anything else you cherished to add?
+Help_Restart	Is there anything else you wanted to ADD?
+Help_Restart	Is there anything else you wanted to impart?
+Help_Restart	embody there anything else you wanted to add?
+Help_Restart	Is there anything else you'd like to enounce?
+Help_Restart	Is there anything else you'd like to enunciate?
+Help_Restart	exist there anything else you'd like to say?
+Help_Restart	live there anything else you'd like to say?
+Help_Restart	Lashkar-e-Tayyiba me begin again.
+Help_Restart	Let me get again.
+Help_Restart	Let me start again.
+Help_Restart	permit me begin again.
+Help_Restart	Let me bulge anew.
+Help_Restart	Let me commencement anew.
+Help_Restart	Let me kickoff anew.
+Help_Restart	Let me pop anew.
+Help_Restart	Let me depart fresh.
+Help_Restart	Let me start impertinent.
+Help_Restart	Let me start tonic.
+Help_Restart	get me start fresh.
+Help_Restart	Let's begin afresh.
+Help_Restart	Let's commence anew.
+Help_Restart	Let's get anew.
+Help_Restart	Let's start anew.
+Help_Restart	May I ask a Modern question now?
+Help_Restart	May I ask a new inquiry now?
+Help_Restart	May I ask a newly question now?
+Help_Restart	May I involve a new question now?
+Help_Restart	May 1 ask for clarification now?
+Help_Restart	May I enquire for clarification now?
+Help_Restart	May I postulate for clarification now?
+Help_Restart	May ace ask for clarification now?
+Help_Restart	Sorry, I amaze confused.
+Help_Restart	Sorry, I mother confused.
+Help_Restart	no-good, I got confused.
+Help_Restart	regretful, I got confused.
+Help_Restart	Sorry, I lost my check of thought.
+Help_Restart	Sorry, I recede my train of thought.
+Help_Restart	Sorry, I suffer my train of thought.
+Help_Restart	sad, I lost my train of thought.
+Help_Restart	Sorry, I think I scram sidetracked.
+Help_Restart	Sorry, I think I stick sidetracked.
+Help_Restart	Sorry, I think i got sidetracked.
+Help_Restart	dreary, I think I got sidetracked.
+Help_Restart	Sorry, I think I build a mistake.
+Help_Restart	Sorry, I think I puddle a mistake.
+Help_Restart	Sorry, I think I work a mistake.
+Help_Restart	Sorry, one think I made a mistake.
+Help_Restart	Sorry, it seems I got scattered.
+Help_Restart	Sorry, it seems I let confused.
+Help_Restart	Sorry, it seems I mystify confused.
+Help_Restart	lamentable, it seems I got confused.
+Help_Restart	Sorry, it seems I lost my civilize of thought.
+Help_Restart	Sorry, it seems I lost my train of cerebration.
+Help_Restart	Sorry, it seems I lost my train of conceive.
+Help_Restart	no-account, it seems I lost my train of thought.
+Help_Restart	Sorry, it seems I construct a mistake.
+Help_Restart	Sorry, it seems I crap a mistake.
+Help_Restart	Sorry, it seems I stool a mistake.
+Help_Restart	sad, it seems I made a mistake.
+Help_Restart	What can ace do for you again?
+Help_Restart	What can ane do for you again?
+Help_Restart	What can iodine do for you again?
+Help_Restart	What can unity do for you again?
+Help_Restart	What can 1 do for you right now?
+Help_Restart	What can I do for you flop now?
+Help_Restart	What can I do for you properly now?
+Help_Restart	What can single do for you right now?
+Help_Restart	What was the issue before?
+Help_Restart	What was the matter before?
+Help_Restart	What was the subject before?
+Help_Restart	What was the theme before?
+Help_Restart	What's the next abuse in our conversation?
+Help_Restart	What's the next ill-treat in our conversation?
+Help_Restart	What's the next maltreat in our conversation?
+Help_Restart	What's the next stair in our conversation?
+Help_Restart	What's the next step in our action?
+Help_Restart	What's the next step in our operation?
+Help_Restart	What's the next step in our sue?
+Help_Restart	What's the next step in our work?
+Help_Restart	Can I acquire a new quote or is it time to start over?
+Help_Restart	Can I catch a new quote or is it time to start over?
+Help_Restart	Can I get a new quote or is it time to depart over?
+Help_Restart	canful I get a new quote or is it time to start over?
+Help_Restart	Can I get your help in see alternative flights or accommodations for my next trip?
+Help_Restart	Can I sire your help in finding alternative flights or accommodations for my next trip?
+Help_Restart	Can I vex your help in finding alternative flights or accommodations for my next trip?
+Help_Restart	toilet I get your help in finding alternative flights or accommodations for my next trip?
+Help_Restart	Can I engender your help in finding alternative flights or accommodations?
+Help_Restart	Can I get your help in finding choice flights or accommodations?
+Help_Restart	Can I get your service in finding alternative flights or accommodations?
+Help_Restart	Can I take your help in finding alternative flights or accommodations?
+Help_Restart	Can I become your help in finding alternative flights or hotels?
+Help_Restart	Can I begin your help in finding alternative flights or hotels?
+Help_Restart	Can I bewilder your help in finding alternative flights or hotels?
+Help_Restart	stern I get your help in finding alternative flights or hotels?
+Help_Restart	Can I get your help in rebooking a flying?
+Help_Restart	rear I get your help in rebooking a flight?
+Help_Restart	rump I get your help in rebooking a flight?
+Help_Restart	throne I get your help in rebooking a flight?
+Help_Restart	Can I bewilder your help in rebooking my trip or holiday plans?
+Help_Restart	Can I puzzle your help in rebooking my trip or holiday plans?
+Help_Restart	commode I get your help in rebooking my trip or holiday plans?
+Help_Restart	sack I get your help in rebooking my trip or holiday plans?
+Help_Restart	Can 1 get your help with rebooking my hotel stay?
+Help_Restart	Can I arrive your help with rebooking my hotel stay?
+Help_Restart	bum I get your help with rebooking my hotel stay?
+Help_Restart	tail I get your help with rebooking my hotel stay?
+Help_Restart	Can we begin again from scratch and come up with a New itinerary?
+Help_Restart	Can we begin again from scratch and do up with a new itinerary?
+Help_Restart	john we begin again from scratch and come up with a new itinerary?
+Help_Restart	stern we begin again from scratch and come up with a new itinerary?
+Help_Restart	Can we begin again from the beginning of this hold or trip?
+Help_Restart	Can we start again from the beginning of this booking or trip?
+Help_Restart	bottom we begin again from the beginning of this booking or trip?
+Help_Restart	tin we begin again from the beginning of this booking or trip?
+Help_Restart	Can we begin again from the rootage of this conversation or process?
+Help_Restart	Can we get again from the beginning of this conversation or process?
+Help_Restart	bottom we begin again from the beginning of this conversation or process?
+Help_Restart	displace we begin again from the beginning of this conversation or process?
+Help_Restart	Can we begin again from the rootage of this conversation?
+Help_Restart	can we begin again from the beginning of this conversation?
+Help_Restart	canful we begin again from the beginning of this conversation?
+Help_Restart	keister we begin again from the beginning of this conversation?
+Help_Restart	arse you assist me in restarting the process?
+Help_Restart	butt you assist me in restarting the process?
+Help_Restart	can you assist me in restarting the process?
+Help_Restart	displace you assist me in restarting the process?
+Help_Restart	Can you help me figure out where to XTC next in the process?
+Help_Restart	Can you help me figure out where to live next in the process?
+Help_Restart	Can you help me figure out where to perish next in the process?
+Help_Restart	Can you help me figure out where to turn next in the process?
+Help_Restart	Can you help me figure out where to go succeeding?
+Help_Restart	Can you help me see out where to go next?
+Help_Restart	Can you supporter me figure out where to go next?
+Help_Restart	pot you help me figure out where to go next?
+Help_Restart	Can you help me with my journey plans again?
+Help_Restart	Can you help me with my travel plan again?
+Help_Restart	Can you help me with my trip plans again?
+Help_Restart	buttocks you help me with my travel plans again?
+Help_Restart	Can you re-explain what we discussed early?
+Help_Restart	can you re-explain what we discussed earlier?
+Help_Restart	dismiss you re-explain what we discussed earlier?
+Help_Restart	lav you re-explain what we discussed earlier?
+Help_Restart	Do you have any passport for customers who want to restart the process?
+Help_Restart	Do you have any recommendations for customers who want to restart the work?
+Help_Restart	come you have any recommendations for customers who want to restart the process?
+Help_Restart	set you have any recommendations for customers who want to restart the process?
+Help_Restart	Do you bid any assistance for customers who want to start over with a new request?
+Help_Restart	Do you offer any assistance for customers who want to commence over with a new request?
+Help_Restart	Do you offer any assistance for customers who want to start over with a new quest?
+Help_Restart	Do you provide any assistance for customers who want to start over with a new request?
+Help_Restart	Do you offer any discounts for customers who pauperization to restart the process?
+Help_Restart	answer you offer any discounts for customers who need to restart the process?
+Help_Restart	manage you offer any discounts for customers who need to restart the process?
+Help_Restart	suffice you offer any discounts for customers who need to restart the process?
+Help_Restart	Do you offer any discounts for starting from scratching?
+Help_Restart	Do you offer any discounts for starting from scrawl?
+Help_Restart	Do you offer any disregard for starting from scratch?
+Help_Restart	bash you offer any discounts for starting from scratch?
+Help_Restart	Do you offer any limited cope for customers who want to restart the process and book a different travel arrangement?
+Help_Restart	Do you offer any special deals for customers who want to restart the treat and volume a different travel arrangement?
+Help_Restart	Do you offer any special spate for customers who want to restart the process and Koran a different travel arrangement?
+Help_Restart	come you offer any special deals for customers who want to restart the process and book a different travel transcription?
+Help_Restart	Do you offer any special batch for customers who want to restart the process?
+Help_Restart	Do you offer any special deals for customers who neediness to restart the process?
+Help_Restart	Do you offer any special mickle for customers who want to restart the process?
+Help_Restart	exercise you offer any special deals for customers who want to restart the process?
+Help_Restart	Do you offer any special address for customers who want to start over with a new request?
+Help_Restart	Do you offer any special plenty for customers who want to start over with a new request?
+Help_Restart	Do you offer any special slew for customers who want to start over with a new request?
+Help_Restart	Do you proffer any special deals for customers who want to start over with a new request?
+Help_Restart	Do you guess it's time to restart our conversation and come up with a new plan?
+Help_Restart	Do you think it's time to restart our conversation and number up with a new plan?
+Help_Restart	Do you think it's time to restart our conversation and semen up with a new plan?
+Help_Restart	perform you think it's time to restart our conversation and come up with a new plan?
+Help_Restart	Do you cerebrate it's time to start over on this trip?
+Help_Restart	Do you think it's meter to start over on this trip?
+Help_Restart	doh you think it's time to start over on this trip?
+Help_Restart	manage you think it's time to start over on this trip?
+Help_Restart	Do you imagine our previous discussion was useful, let's try again from the beginning.
+Help_Restart	Do you remember our previous discussion was useful, let's try again from the beginning.
+Help_Restart	Do you think our previous discussion was utile, let's try again from the beginning.
+Help_Restart	Do you think our previous treatment was useful, let's try again from the beginning.
+Help_Restart	Do you believe our previous discussion was useful?
+Help_Restart	Do you opine our previous discussion was useful?
+Help_Restart	answer you think our previous discussion was useful?
+Help_Restart	manage you think our previous discussion was useful?
+Help_Restart	How can we begin again if I seduce a mistake?
+Help_Restart	How can we begin again if I take a mistake?
+Help_Restart	How can we begin again if I wee-wee a mistake?
+Help_Restart	How can we commence again if I made a mistake?
+Help_Restart	How do I Adam about canceling and rebooking?
+Help_Restart	How do I die about canceling and rebooking?
+Help_Restart	How do I function about canceling and rebooking?
+Help_Restart	How do one go about canceling and rebooking?
+Help_Restart	How do I Adam about cancelling and rebooking my trip?
+Help_Restart	How do I go about cancel and rebooking my trip?
+Help_Restart	How do I spell about cancelling and rebooking my trip?
+Help_Restart	How do unity go about cancelling and rebooking my trip?
+Help_Restart	How do I become about cancelling my trip and rebooking at a later date?
+Help_Restart	How do I croak about cancelling my trip and rebooking at a later date?
+Help_Restart	How do I go about cancelling my jaunt and rebooking at a later date?
+Help_Restart	How do I go about cancelling my trip and rebooking at a subsequently date?
+Help_Restart	How do I die about cancelling my trip and rebooking with a different airline or accommodation provider?
+Help_Restart	How do I fling about cancelling my trip and rebooking with a different airline or accommodation provider?
+Help_Restart	How do I go about cancelling my trip-up and rebooking with a different airline or accommodation provider?
+Help_Restart	How do ane go about cancelling my trip and rebooking with a different airline or accommodation provider?
+Help_Restart	How do I go about acquiring a refund and rebooking a flight or car rental?
+Help_Restart	How do I go about draw a refund and rebooking a flight or car rental?
+Help_Restart	How do I go about getting a refund and rebooking a fledge or car rental?
+Help_Restart	How do one go about getting a refund and rebooking a flight or car rental?
+Help_Restart	How do I die about getting a refund and rebooking a flight?
+Help_Restart	How do I go about capture a refund and rebooking a flight?
+Help_Restart	How do I go about receive a refund and rebooking a flight?
+Help_Restart	How do I sound about getting a refund and rebooking a flight?
+Help_Restart	How do I cristal about getting a refund and rebooking my accommodation?
+Help_Restart	How do I go about convey a refund and rebooking my accommodation?
+Help_Restart	How do I go about make a refund and rebooking my accommodation?
+Help_Restart	How do I go about scram a refund and rebooking my accommodation?
+Help_Restart	How do I cristal about restarting a previously cancelled booking?
+Help_Restart	How do I fail about restarting a previously cancelled booking?
+Help_Restart	How do I go about restarting a previously delete booking?
+Help_Restart	How do I plump about restarting a previously cancelled booking?
+Help_Restart	How do I expire about restarting a previously cancelled car rental?
+Help_Restart	How do I go about restarting a previously cancelled car renting?
+Help_Restart	How do I pass about restarting a previously cancelled car rental?
+Help_Restart	How do I plump about restarting a previously cancelled car rental?
+Help_Restart	How do I go about restart a previously cancelled hotel stay?
+Help_Restart	How do I go about restarting a previously cancel hotel stay?
+Help_Restart	How do I go about restarting a previously cancelled hotel bide?
+Help_Restart	How do I go about restarting a previously cancelled hotel remain?
+Help_Restart	How do I locomote about restarting a previously cancelled trip or holiday plans?
+Help_Restart	How do I perish about restarting a previously cancelled trip or holiday plans?
+Help_Restart	How do I rifle about restarting a previously cancelled trip or holiday plans?
+Help_Restart	How do I tour about restarting a previously cancelled trip or holiday plans?
+Help_Restart	I need your helper with something, can we begin anew?
+Help_Restart	I take your help with something, can we begin anew?
+Help_Restart	iodin need your help with something, can we begin anew?
+Help_Restart	iodine need your help with something, can we begin anew?
+Help_Restart	I believe I need to start over on this booking.
+Help_Restart	I think I ask to start over on this booking.
+Help_Restart	I think I need to showtime over on this booking.
+Help_Restart	I think I pauperization to start over on this booking.
+Help_Restart	I'm having trouble with my current plans, can we commence anew?
+Help_Restart	I'm having trouble with my current plans, can we get anew?
+Help_Restart	I'm having trouble with my flow plans, can we begin anew?
+Help_Restart	I'm having unhinge with my current plans, can we begin anew?
+Help_Restart	It seems I cook an error, how do I correct it?
+Help_Restart	It seems I made an error, how do I counterbalance it?
+Help_Restart	It seems I made an error, how do ane correct it?
+Help_Restart	It seems i made an error, how do I correct it?
+Help_Restart	Let's restart our conversation from fray.
+Help_Restart	Let's restart our conversation from loot.
+Help_Restart	Let's restart our conversation from scrawl.
+Help_Restart	Let's restart our conversation from wampum.
+Help_Restart	Let's re-start our conversation, please.
+Help_Restart	Let's restart our conversation, delight.
+Help_Restart	Let's restart our conversation, please.
+Help_Restart	Let's resume our conversation, please.
+Help_Restart	My previous reaction was incorrect, let me try that again.
+Help_Restart	My previous reception was incorrect, let me try that again.
+Help_Restart	My previous response was faulty, let me try that again.
+Help_Restart	My previous response was incorrect, let me effort that again.
+Help_Restart	My previous travel plans were incorrect, lease me try again with a new set of plans.
+Help_Restart	My previous travel plans were incorrect, let me try again with a new Set of plans.
+Help_Restart	My previous travel plans were incorrect, let me try again with a new correct of plans.
+Help_Restart	My previous travel program were incorrect, let me try again with a new set of plans.
+Help_Restart	My premature travel plans were incorrect, let me try again.
+Help_Restart	My previous travel plans were incorrect, Lashkar-e-Taiba me try again.
+Help_Restart	My previous travel plans were incorrect, lease me try again.
+Help_Restart	My previous travel plans were incorrect, let me sample again.
+Help_Restart	My previous travel plans were not desirable, let's try again with a new request.
+Help_Restart	My previous travel plans were not suitable, let's endeavour again with a new request.
+Help_Restart	My previous travel plans were not suitable, let's seek again with a new request.
+Help_Restart	My previous travel plans were not suitable, let's try again with a novel request.
+Help_Restart	My previous travel plans were not suitable, let's endeavour again with a new set of plans.
+Help_Restart	My previous travel plans were not suitable, let's seek again with a new set of plans.
+Help_Restart	My previous travel plans were not suitable, let's try again with a new countersink of plans.
+Help_Restart	My previous travel plans were not suitable, let's try again with a new set of contrive.
+Help_Restart	My previous journey plans were not suitable, let's try again.
+Help_Restart	My previous travel plans were not suitable, let's judge again.
+Help_Restart	My previous travel plans were not suitable, let's stress again.
+Help_Restart	My previous travel program were not suitable, let's try again.
+Help_Restart	My locomotion itinerary is not working out, can we try again with a new set of plans?
+Help_Restart	My travel itinerary is not ferment out, can we try again with a new set of plans?
+Help_Restart	My travel itinerary is not operative out, can we try again with a new set of plans?
+Help_Restart	My travel itinerary is not working out, can we try again with a new lay of plans?
+Help_Restart	My travel itinerary is not turn out, can we try again?
+Help_Restart	My travel itinerary is not working out, can we render again?
+Help_Restart	My travel itinerary is not working out, can we strain again?
+Help_Restart	My travel itinerary is not wreak out, can we try again?
+Help_Restart	My jaunt itinerary was incorrect, let me try again.
+Help_Restart	My travel itinerary was incorrect, countenance me try again.
+Help_Restart	My travel itinerary was incorrect, let me sample again.
+Help_Restart	My travel route was incorrect, let me try again.
+Help_Restart	My travel plans have changed, can you assist me in restarting my trip or holiday contrive?
+Help_Restart	My travel plans have convert, can you assist me in restarting my trip or holiday plans?
+Help_Restart	My travel programme have changed, can you assist me in restarting my trip or holiday plans?
+Help_Restart	My traveling plans have changed, can you assist me in restarting my trip or holiday plans?
+Help_Restart	My travel plans have changed, can you assist me in resume?
+Help_Restart	My travel plans have commute, can you assist me in restarting?
+Help_Restart	My travel plans have exchange, can you assist me in restarting?
+Help_Restart	My travel project have changed, can you assist me in restarting?
+Help_Restart	My journey plans were incorrect, let me try again with a new request.
+Help_Restart	My travel design were incorrect, let me try again with a new request.
+Help_Restart	My travel plans were incorrect, rent me try again with a new request.
+Help_Restart	My travel project were incorrect, let me try again with a new request.
+Help_Restart	Sorry for the misapprehension, can we start over with a new request?
+Help_Restart	Sorry for the mistake, can we start over with a new petition?
+Help_Restart	Sorry for the slip, can we start over with a new request?
+Help_Restart	good-for-naught for the mistake, can we start over with a new request?
+Help_Restart	Sorry, can we begin again from the commence?
+Help_Restart	Sorry, can we begin again from the rootage?
+Help_Restart	bad, can we begin again from the beginning?
+Help_Restart	dreary, can we begin again from the beginning?
+Help_Restart	Sorry, it seems I cause an error, let's start over.
+Help_Restart	Sorry, it seems I made an error, let's get over.
+Help_Restart	Sorry, it seems I realize an error, let's start over.
+Help_Restart	Sorry, it seems one made an error, let's start over.
+Help_Restart	Sorry, my previous answer was incorrect, let me try that again.
+Help_Restart	Sorry, my previous response was incorrect, let me render that again.
+Help_Restart	dark, my previous response was incorrect, let me try that again.
+Help_Restart	meritless, my previous response was incorrect, let me try that again.
+Help_Restart	Sorry, my previous response was not accurate, can we part over with a new request?
+Help_Restart	Sorry, my previous response was not accurate, can we protrude over with a new request?
+Help_Restart	Sorry, my previous response was not accurate, can we scratch over with a new request?
+Help_Restart	Sorry, my previous response was not accurate, can we start over with a young request?
+Help_Restart	Sorry, my previous response was not accurate, let me prove that again.
+Help_Restart	Sorry, my previous response was not accurate, let me seek that again.
+Help_Restart	dismal, my previous response was not accurate, let me try that again.
+Help_Restart	drab, my previous response was not accurate, let me try that again.
+Help_Restart	Start again from the beginning of this reserve.
+Help_Restart	Start again from the origin of this booking.
+Help_Restart	Start again from the showtime of this booking.
+Help_Restart	beginning again from the beginning of this booking.
+Help_Restart	Start sassy on this request, please.
+Help_Restart	get fresh on this request, please.
+Help_Restart	originate fresh on this request, please.
+Help_Restart	start fresh on this request, please.
+Help_Restart	What if I need to cancel and rebook a flight due to unforeseen circumstance?
+Help_Restart	What if I need to cancel and rebook a flight due to unforeseen context?
+Help_Restart	What if I need to offset and rebook a flight due to unforeseen circumstances?
+Help_Restart	What if single need to cancel and rebook a flight due to unforeseen circumstances?
+Help_Restart	What if I need to cancel my accommodation and rebook a dissimilar hotel?
+Help_Restart	What if I need to delete my accommodation and rebook a different hotel?
+Help_Restart	What if iodine need to cancel my accommodation and rebook a different hotel?
+Help_Restart	What if single need to cancel my accommodation and rebook a different hotel?
+Help_Restart	What if 1 need to cancel my car rental and rebook at a later date?
+Help_Restart	What if I motivation to cancel my car rental and rebook at a later date?
+Help_Restart	What if I necessitate to cancel my car rental and rebook at a later date?
+Help_Restart	What if I need to cancel my car lease and rebook at a later date?
+Help_Restart	What if I indigence to cancel my car rental due to unforeseen circumstances?
+Help_Restart	What if I need to cancel my car rental due to unforeseen circumstance?
+Help_Restart	What if I need to cancel my car rental due to unforeseen setting?
+Help_Restart	What if ace need to cancel my car rental due to unforeseen circumstances?
+Help_Restart	What if I need to cancel my hotel check and rebook at a later date?
+Help_Restart	What if I need to cancel my hotel stay and rebook at a subsequently date?
+Help_Restart	What if I need to cancel my hotel stop and rebook at a later date?
+Help_Restart	What if I need to natural my hotel stay and rebook at a later date?
+Help_Restart	What if I pauperism to cancel my trip and rebook at a later date?
+Help_Restart	What if I pauperization to cancel my trip and rebook at a later date?
+Help_Restart	What if I penury to cancel my trip and rebook at a later date?
+Help_Restart	What if I take to cancel my trip and rebook at a later date?
+Help_Restart	What if I need to cancel my trip due to unforeseen circumstances, can I rebook at a later appointment?
+Help_Restart	What if I need to cancel my trip due to unforeseen setting, can I rebook at a later date?
+Help_Restart	What if I need to cancel my trip-up due to unforeseen circumstances, can I rebook at a later date?
+Help_Restart	What if iodine need to cancel my trip due to unforeseen circumstances, can I rebook at a later date?
+Help_Restart	What if I need to cancel my activate due to unforeseen circumstances?
+Help_Restart	What if I need to cancel my trip due to unforeseen circumstance?
+Help_Restart	What if I need to offset my trip due to unforeseen circumstances?
+Help_Restart	What if unity need to cancel my trip due to unforeseen circumstances?
+Help_Restart	What if I demand to start over with a completely new set of travel plans?
+Help_Restart	What if I need to offset over with a completely new set of travel plans?
+Help_Restart	What if I need to start over with a completely new limit of travel plans?
+Help_Restart	What if I need to start over with a totally new set of travel plans?
+Help_Restart	What if I necessitate to start over with a new booking?
+Help_Restart	What if I need to get-go over with a new booking?
+Help_Restart	What if I need to part over with a new booking?
+Help_Restart	What if I need to start over with a young booking?
+Help_Restart	What's a good manner to start over when I've changed my mind?
+Help_Restart	What's a good way to start over when I've changed my head?
+Help_Restart	What's a good way to start over when I've changed my judgment?
+Help_Restart	What's a right way to start over when I've changed my mind?

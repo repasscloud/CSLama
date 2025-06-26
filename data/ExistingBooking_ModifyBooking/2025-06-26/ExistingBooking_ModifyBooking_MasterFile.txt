@@ -1,0 +1,636 @@
+ExistingBooking_ModifyBooking	Can I request a exchange in hotel location?
+ExistingBooking_ModifyBooking	Can single request a change in hotel location?
+ExistingBooking_ModifyBooking	potty I request a change in hotel location?
+ExistingBooking_ModifyBooking	stern I request a change in hotel location?
+ExistingBooking_ModifyBooking	Can I request a different typewrite of accommodation option?
+ExistingBooking_ModifyBooking	can I request a different type of accommodation option?
+ExistingBooking_ModifyBooking	posterior I request a different type of accommodation option?
+ExistingBooking_ModifyBooking	terminate I request a different type of accommodation option?
+ExistingBooking_ModifyBooking	Can I bespeak a different type of accommodation type now?
+ExistingBooking_ModifyBooking	fire I request a different type of accommodation type now?
+ExistingBooking_ModifyBooking	lav I request a different type of accommodation type now?
+ExistingBooking_ModifyBooking	sack I request a different type of accommodation type now?
+ExistingBooking_ModifyBooking	Can I bespeak a different type of accommodation type?
+ExistingBooking_ModifyBooking	Can I request a different type of accommodation eccentric?
+ExistingBooking_ModifyBooking	arse I request a different type of accommodation type?
+ExistingBooking_ModifyBooking	can I request a different type of accommodation type?
+ExistingBooking_ModifyBooking	Can I request a unlike type of accommodation?
+ExistingBooking_ModifyBooking	Can i request a different type of accommodation?
+ExistingBooking_ModifyBooking	Can iodin request a different type of accommodation?
+ExistingBooking_ModifyBooking	pot I request a different type of accommodation?
+ExistingBooking_ModifyBooking	Can I quest a different type of meal option?
+ExistingBooking_ModifyBooking	arse I request a different type of meal option?
+ExistingBooking_ModifyBooking	keister I request a different type of meal option?
+ExistingBooking_ModifyBooking	nates I request a different type of meal option?
+ExistingBooking_ModifyBooking	arse I request a different type of meal plan?
+ExistingBooking_ModifyBooking	ass I request a different type of meal plan?
+ExistingBooking_ModifyBooking	bum I request a different type of meal plan?
+ExistingBooking_ModifyBooking	commode I request a different type of meal plan?
+ExistingBooking_ModifyBooking	Can I request a different case of transportation method now?
+ExistingBooking_ModifyBooking	arse I request a different type of transportation method now?
+ExistingBooking_ModifyBooking	crapper I request a different type of transportation method now?
+ExistingBooking_ModifyBooking	nates I request a different type of transportation method now?
+ExistingBooking_ModifyBooking	Can I asking a different type of transportation method?
+ExistingBooking_ModifyBooking	Can I request a different type of conveyance method?
+ExistingBooking_ModifyBooking	Can I request a different type of transport method?
+ExistingBooking_ModifyBooking	tail I request a different type of transportation method?
+ExistingBooking_ModifyBooking	Can I request a different type of exile?
+ExistingBooking_ModifyBooking	Can iodine request a different type of transportation?
+ExistingBooking_ModifyBooking	canful I request a different type of transportation?
+ExistingBooking_ModifyBooking	hindquarters I request a different type of transportation?
+ExistingBooking_ModifyBooking	Can unity request a room change at the hotel?
+ExistingBooking_ModifyBooking	fanny I request a room change at the hotel?
+ExistingBooking_ModifyBooking	fundament I request a room change at the hotel?
+ExistingBooking_ModifyBooking	stern I request a room change at the hotel?
+ExistingBooking_ModifyBooking	Can I swap my existing airline ticket for another unmatchable?
+ExistingBooking_ModifyBooking	Can I swop my existing airline ticket for another one?
+ExistingBooking_ModifyBooking	bathroom I swap my existing airline ticket for another one?
+ExistingBooking_ModifyBooking	tooshie I swap my existing airline ticket for another one?
+ExistingBooking_ModifyBooking	Can you update my flight itinerary with a dissimilar airport?
+ExistingBooking_ModifyBooking	behind you update my flight itinerary with a different airport?
+ExistingBooking_ModifyBooking	john you update my flight itinerary with a different airport?
+ExistingBooking_ModifyBooking	potty you update my flight itinerary with a different airport?
+ExistingBooking_ModifyBooking	Can you update my flight to tomorrow's soonest available time?
+ExistingBooking_ModifyBooking	ass you update my flight to tomorrow's earliest available time?
+ExistingBooking_ModifyBooking	john you update my flight to tomorrow's earliest available time?
+ExistingBooking_ModifyBooking	lavatory you update my flight to tomorrow's earliest available time?
+ExistingBooking_ModifyBooking	Change my hotel room character, please.
+ExistingBooking_ModifyBooking	Change my hotel room typecast, please.
+ExistingBooking_ModifyBooking	Change my hotel way type, please.
+ExistingBooking_ModifyBooking	transfer my hotel room type, please.
+ExistingBooking_ModifyBooking	Change the check-in date for this book.
+ExistingBooking_ModifyBooking	Change the check-in date for this hold.
+ExistingBooking_ModifyBooking	deepen the check-in date for this booking.
+ExistingBooking_ModifyBooking	transfer the check-in date for this booking.
+ExistingBooking_ModifyBooking	Change the see on my booking now.
+ExistingBooking_ModifyBooking	change the dates on my booking now.
+ExistingBooking_ModifyBooking	transfer the dates on my booking now.
+ExistingBooking_ModifyBooking	vary the dates on my booking now.
+ExistingBooking_ModifyBooking	Change the flight schedule to reflect a belated departure.
+ExistingBooking_ModifyBooking	Change the flight schedule to reflect a posterior departure.
+ExistingBooking_ModifyBooking	alteration the flight schedule to reflect a later departure.
+ExistingBooking_ModifyBooking	interchange the flight schedule to reflect a later departure.
+ExistingBooking_ModifyBooking	Change the number of nights in my continue for this booking.
+ExistingBooking_ModifyBooking	Change the number of nighttime in my stay for this booking.
+ExistingBooking_ModifyBooking	commute the number of nights in my stay for this booking.
+ExistingBooking_ModifyBooking	exchange the number of nights in my stay for this booking.
+ExistingBooking_ModifyBooking	Change the bit of passengers in my booking now.
+ExistingBooking_ModifyBooking	Change the number of passengers in my book now.
+ExistingBooking_ModifyBooking	Change the total of passengers in my booking now.
+ExistingBooking_ModifyBooking	exchange the number of passengers in my booking now.
+ExistingBooking_ModifyBooking	Change the number of passengers in my book.
+ExistingBooking_ModifyBooking	alteration the number of passengers in my booking.
+ExistingBooking_ModifyBooking	convert the number of passengers in my booking.
+ExistingBooking_ModifyBooking	modification the number of passengers in my booking.
+ExistingBooking_ModifyBooking	Could you adjust the fledge schedule to a specific airline.
+ExistingBooking_ModifyBooking	Could you adjust the flight agenda to a specific airline.
+ExistingBooking_ModifyBooking	Could you adjust the trajectory schedule to a specific airline.
+ExistingBooking_ModifyBooking	Could you align the flight schedule to a specific airline.
+ExistingBooking_ModifyBooking	Could you adjust the escape schedule to a specific time zone?
+ExistingBooking_ModifyBooking	Could you adjust the flight agenda to a specific time zone?
+ExistingBooking_ModifyBooking	Could you adjust the flight schedule to a specific meter zone?
+ExistingBooking_ModifyBooking	Could you set the flight schedule to a specific time zone?
+ExistingBooking_ModifyBooking	Could you adjust the act of nights in my stay?
+ExistingBooking_ModifyBooking	Could you adjust the number of nights in my check?
+ExistingBooking_ModifyBooking	Could you adjust the number of nights in my persist?
+ExistingBooking_ModifyBooking	Could you align the number of nights in my stay?
+ExistingBooking_ModifyBooking	Could you adjust the travel dates to a specific date browse?
+ExistingBooking_ModifyBooking	Could you adjust the travel dates to a specific date grasp?
+ExistingBooking_ModifyBooking	Could you adjust the travel dates to a specific date stove?
+ExistingBooking_ModifyBooking	Could you adjust the travel dates to a specific date straddle?
+ExistingBooking_ModifyBooking	Could you adapt the travel plans for my vacation?
+ExistingBooking_ModifyBooking	Could you adjust the locomotion plans for my vacation?
+ExistingBooking_ModifyBooking	Could you aline the travel plans for my vacation?
+ExistingBooking_ModifyBooking	Could you correct the travel plans for my vacation?
+ExistingBooking_ModifyBooking	Could you change my flight schedule to an earlier departure?
+ExistingBooking_ModifyBooking	Could you modify my flight schedule to an earlier going?
+ExistingBooking_ModifyBooking	Could you modify my flight schedule to an earlier loss?
+ExistingBooking_ModifyBooking	Could you modify my flight schedule to an other departure?
+ExistingBooking_ModifyBooking	Could you modify the flight itinerary I booked death week?
+ExistingBooking_ModifyBooking	Could you modify the flight itinerary I booked lowest week?
+ExistingBooking_ModifyBooking	Could you modify the flight itinerary ane booked last week?
+ExistingBooking_ModifyBooking	Could you modify the flight path I booked last week?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary to include an additional passenger.
+ExistingBooking_ModifyBooking	Could you update the flight itinerary to include an surplus passenger.
+ExistingBooking_ModifyBooking	Could you update the flight path to include an extra passenger.
+ExistingBooking_ModifyBooking	Could you update the flight route to include an extra passenger.
+ExistingBooking_ModifyBooking	Could you update the escape itinerary with a specific airline?
+ExistingBooking_ModifyBooking	Could you update the fledge itinerary with a specific airline?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a specific airway?
+ExistingBooking_ModifyBooking	Could you update the flight path with a specific airline?
+ExistingBooking_ModifyBooking	Could you update the fledge itinerary with a specific destination now?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a particular destination now?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a specific address now?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a specific finish now?
+ExistingBooking_ModifyBooking	Could you update the escape itinerary with a specific destination?
+ExistingBooking_ModifyBooking	Could you update the fledge itinerary with a specific destination?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a specific finish?
+ExistingBooking_ModifyBooking	Could you update the flight itinerary with a specific goal?
+ExistingBooking_ModifyBooking	Could you update the flight schedule to an earlier arriver?
+ExistingBooking_ModifyBooking	Could you update the flight schedule to an originally arrival?
+ExistingBooking_ModifyBooking	Could you update the flight schedule to an other arrival?
+ExistingBooking_ModifyBooking	Could you update the flight schedule to an sooner arrival?
+ExistingBooking_ModifyBooking	Could you update the flight schedule to muse a later arrival.
+ExistingBooking_ModifyBooking	Could you update the flight schedule to reflect a former arrival.
+ExistingBooking_ModifyBooking	Could you update the flight schedule to speculate a later arrival.
+ExistingBooking_ModifyBooking	Could you update the trajectory schedule to reflect a later arrival.
+ExistingBooking_ModifyBooking	I'd like to alter my travel dates for this booking.
+ExistingBooking_ModifyBooking	I'd like to change my travel engagement for this booking.
+ExistingBooking_ModifyBooking	I'd like to change my trip dates for this booking.
+ExistingBooking_ModifyBooking	I'd like to modification my travel dates for this booking.
+ExistingBooking_ModifyBooking	Modify the airline tag to exclude a certain passenger.
+ExistingBooking_ModifyBooking	Modify the airway ticket to exclude a certain passenger.
+ExistingBooking_ModifyBooking	change the airline ticket to exclude a certain passenger.
+ExistingBooking_ModifyBooking	modify the airline ticket to exclude a certain passenger.
+ExistingBooking_ModifyBooking	Modify the airline fine to include an extra passenger.
+ExistingBooking_ModifyBooking	Modify the airline ticket to include an duplicate passenger.
+ExistingBooking_ModifyBooking	Modify the airline ticket to include an spare passenger.
+ExistingBooking_ModifyBooking	Modify the airline ticket to include an special passenger.
+ExistingBooking_ModifyBooking	Modify the business activate itinerary with more activities.
+ExistingBooking_ModifyBooking	Modify the business trip path with more activities.
+ExistingBooking_ModifyBooking	Modify the business tripper itinerary with more activities.
+ExistingBooking_ModifyBooking	Modify the line trip itinerary with more activities.
+ExistingBooking_ModifyBooking	Modify the business spark itinerary.
+ExistingBooking_ModifyBooking	Modify the business tripper itinerary.
+ExistingBooking_ModifyBooking	Modify the clientele trip itinerary.
+ExistingBooking_ModifyBooking	Modify the job trip itinerary.
+ExistingBooking_ModifyBooking	Modify the hotel room details to include more agreeableness now.
+ExistingBooking_ModifyBooking	Modify the hotel way details to include more amenities now.
+ExistingBooking_ModifyBooking	alter the hotel room details to include more amenities now.
+ExistingBooking_ModifyBooking	change the hotel room details to include more amenities now.
+ExistingBooking_ModifyBooking	Modify the hotel board details to include more amenities.
+ExistingBooking_ModifyBooking	Modify the hotel room details to admit more amenities.
+ExistingBooking_ModifyBooking	Modify the hotel room point to include more amenities.
+ExistingBooking_ModifyBooking	Modify the hotel way details to include more amenities.
+ExistingBooking_ModifyBooking	Modify the travel contrive to include more activities.
+ExistingBooking_ModifyBooking	Modify the travel plans to include more action.
+ExistingBooking_ModifyBooking	Modify the travel program to include more activities.
+ExistingBooking_ModifyBooking	alter the travel plans to include more activities.
+ExistingBooking_ModifyBooking	Modify the travel plans to include more relaxation clip.
+ExistingBooking_ModifyBooking	Modify the travel programme to include more relaxation time.
+ExistingBooking_ModifyBooking	alter the travel plans to include more relaxation time.
+ExistingBooking_ModifyBooking	qualify the travel plans to include more relaxation time.
+ExistingBooking_ModifyBooking	Modify the journey schedule to reflect an earlier arrival.
+ExistingBooking_ModifyBooking	Modify the travel schedule to reflect an earlier comer.
+ExistingBooking_ModifyBooking	Modify the travelling schedule to reflect an earlier arrival.
+ExistingBooking_ModifyBooking	alter the travel schedule to reflect an earlier arrival.
+ExistingBooking_ModifyBooking	Modify the go schedule to reflect an earlier departure.
+ExistingBooking_ModifyBooking	Modify the travel schedule to reflect an early departure.
+ExistingBooking_ModifyBooking	Modify the travel schedule to speculate an earlier departure.
+ExistingBooking_ModifyBooking	change the travel schedule to reflect an earlier departure.
+ExistingBooking_ModifyBooking	My airline ticket has been cancelled, can I rebook for tomorrow's flying?
+ExistingBooking_ModifyBooking	My airline ticket has been cancelled, can iodin rebook for tomorrow's flight?
+ExistingBooking_ModifyBooking	My airline ticket has been cancelled, can one rebook for tomorrow's flight?
+ExistingBooking_ModifyBooking	My airline ticket has been invalidate, can I rebook for tomorrow's flight?
+ExistingBooking_ModifyBooking	My airline fine has been cancelled, can I rebook?
+ExistingBooking_ModifyBooking	My airline slate has been cancelled, can I rebook?
+ExistingBooking_ModifyBooking	My airline ticket has been cancelled, can 1 rebook?
+ExistingBooking_ModifyBooking	My airline ticket has been cancelled, can ace rebook?
+ExistingBooking_ModifyBooking	My business activate has been rescheduled for tomorrow, can I rebook?
+ExistingBooking_ModifyBooking	My business stumble has been rescheduled for tomorrow, can I rebook?
+ExistingBooking_ModifyBooking	My business trip has been rescheduled for tomorrow, can ane rebook?
+ExistingBooking_ModifyBooking	My concern trip has been rescheduled for tomorrow, can I rebook?
+ExistingBooking_ModifyBooking	My business stumble has been rescheduled, can I rebook?
+ExistingBooking_ModifyBooking	My business trip has been rescheduled, can 1 rebook?
+ExistingBooking_ModifyBooking	My business trip has been rescheduled, can i rebook?
+ExistingBooking_ModifyBooking	My patronage trip has been rescheduled, can I rebook?
+ExistingBooking_ModifyBooking	My escape has been cancelled, can I rebook?
+ExistingBooking_ModifyBooking	My fledge has been cancelled, can I rebook?
+ExistingBooking_ModifyBooking	My flight has been cancelled, can ace rebook?
+ExistingBooking_ModifyBooking	My trajectory has been cancelled, can I rebook?
+ExistingBooking_ModifyBooking	My flight has been delayed, can one rebook?
+ExistingBooking_ModifyBooking	My flight has been delayed, can single rebook?
+ExistingBooking_ModifyBooking	My flight has been delayed, can unity rebook?
+ExistingBooking_ModifyBooking	My flight has been stay, can I rebook?
+ExistingBooking_ModifyBooking	My hotel room has been cancelled, can i rebook for tomorrow night?
+ExistingBooking_ModifyBooking	My hotel room has been cancelled, can iodin rebook for tomorrow night?
+ExistingBooking_ModifyBooking	My hotel room has been scratch, can I rebook for tomorrow night?
+ExistingBooking_ModifyBooking	My hotel room has been scrub, can I rebook for tomorrow night?
+ExistingBooking_ModifyBooking	My hotel room has been cancel, can I rebook?
+ExistingBooking_ModifyBooking	My hotel room has been cancelled, can 1 rebook?
+ExistingBooking_ModifyBooking	My hotel room has been cancelled, can ane rebook?
+ExistingBooking_ModifyBooking	My hotel room has been offset, can I rebook?
+ExistingBooking_ModifyBooking	My agenda has changed and I need to reschedule.
+ExistingBooking_ModifyBooking	My schedule has changed and I indigence to reschedule.
+ExistingBooking_ModifyBooking	My schedule has changed and ane need to reschedule.
+ExistingBooking_ModifyBooking	My schedule has exchange and I need to reschedule.
+ExistingBooking_ModifyBooking	My go plans have changed and I need to reschedule.
+ExistingBooking_ModifyBooking	My travel plans have changed and 1 need to reschedule.
+ExistingBooking_ModifyBooking	My travel plans have changed and I ask to reschedule.
+ExistingBooking_ModifyBooking	My travel plans have deepen and I need to reschedule.
+ExistingBooking_ModifyBooking	My jaunt plans have changed, can I reschedule?
+ExistingBooking_ModifyBooking	My move plans have changed, can I reschedule?
+ExistingBooking_ModifyBooking	My travel design have changed, can I reschedule?
+ExistingBooking_ModifyBooking	My travel plans have changed, can single reschedule?
+ExistingBooking_ModifyBooking	Need aid with updating my airline ticket fare now.
+ExistingBooking_ModifyBooking	Need assistance with updating my airline ticket come now.
+ExistingBooking_ModifyBooking	Need assistance with updating my airline ticket transportation now.
+ExistingBooking_ModifyBooking	postulate assistance with updating my airline ticket fare now.
+ExistingBooking_ModifyBooking	Need assistance with updating my airline ticket menu.
+ExistingBooking_ModifyBooking	involve assistance with updating my airline ticket fare.
+ExistingBooking_ModifyBooking	motivation assistance with updating my airline ticket fare.
+ExistingBooking_ModifyBooking	postulate assistance with updating my airline ticket fare.
+ExistingBooking_ModifyBooking	Need assistance with updating my airline fine.
+ExistingBooking_ModifyBooking	Need assistance with updating my airway ticket.
+ExistingBooking_ModifyBooking	involve assistance with updating my airline ticket.
+ExistingBooking_ModifyBooking	motivation assistance with updating my airline ticket.
+ExistingBooking_ModifyBooking	Need assist with updating my hotel reservation details.
+ExistingBooking_ModifyBooking	Need assistance with updating my hotel reservation point.
+ExistingBooking_ModifyBooking	ask assistance with updating my hotel reservation details.
+ExistingBooking_ModifyBooking	demand assistance with updating my hotel reservation details.
+ExistingBooking_ModifyBooking	Need assistance with updating my hotel reserve.
+ExistingBooking_ModifyBooking	ask assistance with updating my hotel reservation.
+ExistingBooking_ModifyBooking	pauperism assistance with updating my hotel reservation.
+ExistingBooking_ModifyBooking	want assistance with updating my hotel reservation.
+ExistingBooking_ModifyBooking	Need assist with updating my travel arrangements.
+ExistingBooking_ModifyBooking	ask assistance with updating my travel arrangements.
+ExistingBooking_ModifyBooking	require assistance with updating my travel arrangements.
+ExistingBooking_ModifyBooking	want assistance with updating my travel arrangements.
+ExistingBooking_ModifyBooking	Need avail changing the airline ticket fare.
+ExistingBooking_ModifyBooking	Need help changing the airline fine fare.
+ExistingBooking_ModifyBooking	Need help changing the airway ticket fare.
+ExistingBooking_ModifyBooking	want help changing the airline ticket fare.
+ExistingBooking_ModifyBooking	Need assist changing the airline ticket for an additional passenger.
+ExistingBooking_ModifyBooking	Need serve changing the airline ticket for an additional passenger.
+ExistingBooking_ModifyBooking	Need service changing the airline ticket for an additional passenger.
+ExistingBooking_ModifyBooking	want help changing the airline ticket for an additional passenger.
+ExistingBooking_ModifyBooking	Need help changing the appointment of my trip.
+ExistingBooking_ModifyBooking	Need help changing the dates of my stumble.
+ExistingBooking_ModifyBooking	motive help changing the dates of my trip.
+ExistingBooking_ModifyBooking	want help changing the dates of my trip.
+ExistingBooking_ModifyBooking	Need help changing the dates on my activate now.
+ExistingBooking_ModifyBooking	Need help changing the dates on my jaunt now.
+ExistingBooking_ModifyBooking	Need help shift the dates on my trip now.
+ExistingBooking_ModifyBooking	involve help changing the dates on my trip now.
+ExistingBooking_ModifyBooking	Need avail changing the dates on my trip.
+ExistingBooking_ModifyBooking	Need help changing the dates on my trigger.
+ExistingBooking_ModifyBooking	Need help changing the dates on my tripper.
+ExistingBooking_ModifyBooking	Need help vary the dates on my trip.
+ExistingBooking_ModifyBooking	Need aid changing the travel dates on my trip.
+ExistingBooking_ModifyBooking	Need assistant changing the travel dates on my trip.
+ExistingBooking_ModifyBooking	Need help convert the travel dates on my trip.
+ExistingBooking_ModifyBooking	Need help deepen the travel dates on my trip.
+ExistingBooking_ModifyBooking	Update my booking with a different check-in meter.
+ExistingBooking_ModifyBooking	Update my booking with a different check-in metre.
+ExistingBooking_ModifyBooking	Update my reservation with a different check-in time.
+ExistingBooking_ModifyBooking	update my booking with a different check-in time.
+ExistingBooking_ModifyBooking	Update my flight schedule to reflect a afterwards arrival.
+ExistingBooking_ModifyBooking	Update my flight schedule to reflect a later arriver.
+ExistingBooking_ModifyBooking	Update my flight schedule to reflect a later comer.
+ExistingBooking_ModifyBooking	Update my flight schedule to reflect a tardy arrival.
+ExistingBooking_ModifyBooking	Update the check-in date for this reservation now.
+ExistingBooking_ModifyBooking	Update the check-in date for this reserve now.
+ExistingBooking_ModifyBooking	Update the check-in escort for this booking now.
+ExistingBooking_ModifyBooking	update the check-in date for this booking now.
+ExistingBooking_ModifyBooking	Update the check-in meter for this booking now.
+ExistingBooking_ModifyBooking	Update the check-in time for this book now.
+ExistingBooking_ModifyBooking	Update the check-in time for this reserve now.
+ExistingBooking_ModifyBooking	update the check-in time for this booking now.
+ExistingBooking_ModifyBooking	Update the check-in meter for this booking.
+ExistingBooking_ModifyBooking	Update the check-in metre for this booking.
+ExistingBooking_ModifyBooking	Update the check-in time for this book.
+ExistingBooking_ModifyBooking	Update the check-in time for this reservation.
+ExistingBooking_ModifyBooking	Update the check-out clip for this booking.
+ExistingBooking_ModifyBooking	Update the check-out meter for this booking.
+ExistingBooking_ModifyBooking	Update the check-out metre for this booking.
+ExistingBooking_ModifyBooking	Update the check-out time for this hold.
+ExistingBooking_ModifyBooking	Update the hotel room details for this book.
+ExistingBooking_ModifyBooking	Update the hotel room details for this engagement.
+ExistingBooking_ModifyBooking	Update the hotel way details for this booking.
+ExistingBooking_ModifyBooking	update the hotel room details for this booking.
+ExistingBooking_ModifyBooking	Update the journey plans for my business trip.
+ExistingBooking_ModifyBooking	Update the travel plans for my business activate.
+ExistingBooking_ModifyBooking	Update the travel plans for my business actuate.
+ExistingBooking_ModifyBooking	Update the travel programme for my business trip.
+ExistingBooking_ModifyBooking	Would it be possible to amend the journey dates on this booking?
+ExistingBooking_ModifyBooking	Would it be possible to amend the locomotion dates on this booking?
+ExistingBooking_ModifyBooking	Would it be possible to amend the move dates on this booking?
+ExistingBooking_ModifyBooking	Would it be possible to amend the trip dates on this booking?
+ExistingBooking_ModifyBooking	Would you be able to help me alter this trip?
+ExistingBooking_ModifyBooking	Would you be able to help me modify this stumble?
+ExistingBooking_ModifyBooking	Would you be able to help me modify this travel?
+ExistingBooking_ModifyBooking	Would you be capable to help me modify this trip?
+ExistingBooking_ModifyBooking	Can you help me cut my booking details?
+ExistingBooking_ModifyBooking	canful you help me edit my booking details?
+ExistingBooking_ModifyBooking	john you help me edit my booking details?
+ExistingBooking_ModifyBooking	posterior you help me edit my booking details?
+ExistingBooking_ModifyBooking	Can you help me cut my existing itinerary?
+ExistingBooking_ModifyBooking	Can you helper me edit my existing itinerary?
+ExistingBooking_ModifyBooking	bathroom you help me edit my existing itinerary?
+ExistingBooking_ModifyBooking	fundament you help me edit my existing itinerary?
+ExistingBooking_ModifyBooking	Can you assistant me edit my itinerary?
+ExistingBooking_ModifyBooking	Can you help me edit my route?
+ExistingBooking_ModifyBooking	Can you service me edit my itinerary?
+ExistingBooking_ModifyBooking	prat you help me edit my itinerary?
+ExistingBooking_ModifyBooking	Can you assistance me fix my booking mistake immediately?
+ExistingBooking_ModifyBooking	Can you help me desexualize my booking mistake immediately?
+ExistingBooking_ModifyBooking	Can you help me fixing my booking mistake immediately?
+ExistingBooking_ModifyBooking	Can you help me specify my booking mistake immediately?
+ExistingBooking_ModifyBooking	Can you help me desex my booking mistake?
+ExistingBooking_ModifyBooking	Can you help me fasten my booking mistake?
+ExistingBooking_ModifyBooking	backside you help me fix my booking mistake?
+ExistingBooking_ModifyBooking	privy you help me fix my booking mistake?
+ExistingBooking_ModifyBooking	canful you modify my existing ticket details immediately?
+ExistingBooking_ModifyBooking	dismiss you modify my existing ticket details immediately?
+ExistingBooking_ModifyBooking	hindquarters you modify my existing ticket details immediately?
+ExistingBooking_ModifyBooking	stern you modify my existing ticket details immediately?
+ExistingBooking_ModifyBooking	Can you modify my existing ticket particular?
+ExistingBooking_ModifyBooking	Can you modify my subsist ticket details?
+ExistingBooking_ModifyBooking	backside you modify my existing ticket details?
+ExistingBooking_ModifyBooking	dismiss you modify my existing ticket details?
+ExistingBooking_ModifyBooking	Can you modify my existent ticket?
+ExistingBooking_ModifyBooking	Can you modify my existing fine?
+ExistingBooking_ModifyBooking	prat you modify my existing ticket?
+ExistingBooking_ModifyBooking	toilet you modify my existing ticket?
+ExistingBooking_ModifyBooking	Can you modify my locomote dates immediately?
+ExistingBooking_ModifyBooking	rear you modify my travel dates immediately?
+ExistingBooking_ModifyBooking	rump you modify my travel dates immediately?
+ExistingBooking_ModifyBooking	tin you modify my travel dates immediately?
+ExistingBooking_ModifyBooking	dismiss you update my flight itinerary ASAP?
+ExistingBooking_ModifyBooking	john you update my flight itinerary ASAP?
+ExistingBooking_ModifyBooking	keister you update my flight itinerary ASAP?
+ExistingBooking_ModifyBooking	potty you update my flight itinerary ASAP?
+ExistingBooking_ModifyBooking	Can you update my flight come ASAP?
+ExistingBooking_ModifyBooking	Can you update my flight count ASAP?
+ExistingBooking_ModifyBooking	Can you update my flight issue ASAP?
+ExistingBooking_ModifyBooking	fire you update my flight numbers ASAP?
+ExistingBooking_ModifyBooking	Can you update my fledge numbers immediately?
+ExistingBooking_ModifyBooking	nates you update my flight numbers immediately?
+ExistingBooking_ModifyBooking	prat you update my flight numbers immediately?
+ExistingBooking_ModifyBooking	toilet you update my flight numbers immediately?
+ExistingBooking_ModifyBooking	Can you update my flight figure?
+ExistingBooking_ModifyBooking	buttocks you update my flight numbers?
+ExistingBooking_ModifyBooking	stool you update my flight numbers?
+ExistingBooking_ModifyBooking	terminate you update my flight numbers?
+ExistingBooking_ModifyBooking	backside you update my hotel reservation?
+ExistingBooking_ModifyBooking	buttocks you update my hotel reservation?
+ExistingBooking_ModifyBooking	john you update my hotel reservation?
+ExistingBooking_ModifyBooking	posterior you update my hotel reservation?
+ExistingBooking_ModifyBooking	ass you update my hotel room type ASAP?
+ExistingBooking_ModifyBooking	buns you update my hotel room type ASAP?
+ExistingBooking_ModifyBooking	john you update my hotel room type ASAP?
+ExistingBooking_ModifyBooking	terminate you update my hotel room type ASAP?
+ExistingBooking_ModifyBooking	commode you update my hotel room type?
+ExistingBooking_ModifyBooking	john you update my hotel room type?
+ExistingBooking_ModifyBooking	keister you update my hotel room type?
+ExistingBooking_ModifyBooking	tail you update my hotel room type?
+ExistingBooking_ModifyBooking	Can you update my trip dates?
+ExistingBooking_ModifyBooking	bathroom you update my travel dates?
+ExistingBooking_ModifyBooking	crapper you update my travel dates?
+ExistingBooking_ModifyBooking	hindquarters you update my travel dates?
+ExistingBooking_ModifyBooking	Here are 80 statements for aim a corporate travelling chatbot to recognize when someone wants to modify an existing booking:
+ExistingBooking_ModifyBooking	Here are 80 statements for training a corporate travel chatbot to agnise when someone wants to modify an be booking:
+ExistingBooking_ModifyBooking	here are 80 statements for civilise a corporate travel chatbot to recognize when someone wants to modify an existing booking:
+ExistingBooking_ModifyBooking	here are 80 statements for training a corporate travel chatbot to recognize when someone wants to modify an existing engagement:
+ExistingBooking_ModifyBooking	I cause a mistake on my accommodation type.
+ExistingBooking_ModifyBooking	I constitute a mistake on my accommodation type.
+ExistingBooking_ModifyBooking	I take a mistake on my accommodation type.
+ExistingBooking_ModifyBooking	I wee a mistake on my accommodation type.
+ExistingBooking_ModifyBooking	I ca-ca a mistake on my original booking.
+ExistingBooking_ModifyBooking	I have a mistake on my original booking.
+ExistingBooking_ModifyBooking	I throw a mistake on my original booking.
+ExistingBooking_ModifyBooking	iodin made a mistake on my original booking.
+ExistingBooking_ModifyBooking	I made an error on my book confirmation.
+ExistingBooking_ModifyBooking	I made an error on my booking ratification.
+ExistingBooking_ModifyBooking	ane made an error on my booking confirmation.
+ExistingBooking_ModifyBooking	one made an error on my booking confirmation.
+ExistingBooking_ModifyBooking	I crap an error on my flight numbers.
+ExistingBooking_ModifyBooking	I form an error on my flight numbers.
+ExistingBooking_ModifyBooking	I made an erroneousness on my flight numbers.
+ExistingBooking_ModifyBooking	I made an error on my flight amount.
+ExistingBooking_ModifyBooking	I need to alteration the flight numbers.
+ExistingBooking_ModifyBooking	I need to change the flight enumerate.
+ExistingBooking_ModifyBooking	I need to vary the flight numbers.
+ExistingBooking_ModifyBooking	I pauperization to change the flight numbers.
+ExistingBooking_ModifyBooking	I ask to make changes to my accommodation type ASAP.
+ExistingBooking_ModifyBooking	I need to make changes to my fitting type ASAP.
+ExistingBooking_ModifyBooking	I pauperization to make changes to my accommodation type ASAP.
+ExistingBooking_ModifyBooking	iodine need to make changes to my accommodation type ASAP.
+ExistingBooking_ModifyBooking	I need to make alter to my existing flight itinerary ASAP.
+ExistingBooking_ModifyBooking	I need to name changes to my existing flight itinerary ASAP.
+ExistingBooking_ModifyBooking	I need to stimulate changes to my existing flight itinerary ASAP.
+ExistingBooking_ModifyBooking	I penury to make changes to my existing flight itinerary ASAP.
+ExistingBooking_ModifyBooking	I need to constitute changes to my existing ticket ASAP.
+ExistingBooking_ModifyBooking	I need to hold changes to my existing ticket ASAP.
+ExistingBooking_ModifyBooking	I need to realize changes to my existing ticket ASAP.
+ExistingBooking_ModifyBooking	ane need to make changes to my existing ticket ASAP.
+ExistingBooking_ModifyBooking	I need to create changes to my flight.
+ExistingBooking_ModifyBooking	I need to make alter to my flight.
+ExistingBooking_ModifyBooking	I need to make changes to my trajectory.
+ExistingBooking_ModifyBooking	I want to make changes to my flight.
+ExistingBooking_ModifyBooking	I indigence to make changes to my travel dates ASAP.
+ExistingBooking_ModifyBooking	I need to draw changes to my travel dates ASAP.
+ExistingBooking_ModifyBooking	I need to ready changes to my travel dates ASAP.
+ExistingBooking_ModifyBooking	I need to realise changes to my travel dates ASAP.
+ExistingBooking_ModifyBooking	I ask to make changes to my travel schedule ASAP.
+ExistingBooking_ModifyBooking	I need to produce changes to my travel schedule ASAP.
+ExistingBooking_ModifyBooking	I need to wee-wee changes to my travel schedule ASAP.
+ExistingBooking_ModifyBooking	i need to make changes to my travel schedule ASAP.
+ExistingBooking_ModifyBooking	I want to impart another person to my booking.
+ExistingBooking_ModifyBooking	ace want to add another person to my booking.
+ExistingBooking_ModifyBooking	i want to add another person to my booking.
+ExistingBooking_ModifyBooking	iodine want to add another person to my booking.
+ExistingBooking_ModifyBooking	I neediness to adjust my travel schedule ASAP.
+ExistingBooking_ModifyBooking	I want to adjust my travel agenda ASAP.
+ExistingBooking_ModifyBooking	I want to aline my travel schedule ASAP.
+ExistingBooking_ModifyBooking	iodine want to adjust my travel schedule ASAP.
+ExistingBooking_ModifyBooking	1 want to adjust my travel schedule.
+ExistingBooking_ModifyBooking	I want to conform my travel schedule.
+ExistingBooking_ModifyBooking	I want to correct my travel schedule.
+ExistingBooking_ModifyBooking	ane want to adjust my travel schedule.
+ExistingBooking_ModifyBooking	I want to Scripture a different airport for my return trip.
+ExistingBooking_ModifyBooking	I want to book a different airport for my rejoin trip.
+ExistingBooking_ModifyBooking	I want to book a different airport for my restitution trip.
+ExistingBooking_ModifyBooking	I want to book a different airport for my return actuate.
+ExistingBooking_ModifyBooking	I want to book a new airline that become me better.
+ExistingBooking_ModifyBooking	I want to book a new airline that suits me beneficial.
+ExistingBooking_ModifyBooking	I want to book a new airline that suits me dependable.
+ExistingBooking_ModifyBooking	I want to book a new airline that suits me practiced.
+ExistingBooking_ModifyBooking	I want to book a new flight that suit me better.
+ExistingBooking_ModifyBooking	I want to book a new flight that suits me unspoiled.
+ExistingBooking_ModifyBooking	I want to script a new flight that suits me better.
+ExistingBooking_ModifyBooking	I wishing to book a new flight that suits me better.
+ExistingBooking_ModifyBooking	I deprivation to book a new hotel that suits me better.
+ExistingBooking_ModifyBooking	I want to book a new hotel that suits me bettor.
+ExistingBooking_ModifyBooking	I want to book a new hotel that suits me full.
+ExistingBooking_ModifyBooking	I want to book a new hotel that suits me good.
+ExistingBooking_ModifyBooking	I want to book a new board type.
+ExistingBooking_ModifyBooking	I want to book a newfangled room type.
+ExistingBooking_ModifyBooking	I want to book a raw room type.
+ExistingBooking_ModifyBooking	I wish to book a new room type.
+ExistingBooking_ModifyBooking	I lack to cancel and rebook a different date ASAP.
+ExistingBooking_ModifyBooking	I want to delete and rebook a different date ASAP.
+ExistingBooking_ModifyBooking	I want to offset and rebook a different date ASAP.
+ExistingBooking_ModifyBooking	I wishing to cancel and rebook a different date ASAP.
+ExistingBooking_ModifyBooking	1 want to cancel and rebook a different date immediately.
+ExistingBooking_ModifyBooking	I want to cancel and rebook a different escort immediately.
+ExistingBooking_ModifyBooking	I want to cancel and rebook a different see immediately.
+ExistingBooking_ModifyBooking	I want to cancel and rebook a dissimilar date immediately.
+ExistingBooking_ModifyBooking	I want to delete and rebook a different date.
+ExistingBooking_ModifyBooking	I want to invalidate and rebook a different date.
+ExistingBooking_ModifyBooking	I want to offset and rebook a different date.
+ExistingBooking_ModifyBooking	I wishing to cancel and rebook a different date.
+ExistingBooking_ModifyBooking	I privation to change my dates of stay.
+ExistingBooking_ModifyBooking	I want to change my dates of abide.
+ExistingBooking_ModifyBooking	I want to exchange my dates of stay.
+ExistingBooking_ModifyBooking	I want to switch my dates of stay.
+ExistingBooking_ModifyBooking	I privation to change my travel dates ASAP.
+ExistingBooking_ModifyBooking	I want to change my locomote dates ASAP.
+ExistingBooking_ModifyBooking	I want to change my move dates ASAP.
+ExistingBooking_ModifyBooking	I want to change my travel appointment ASAP.
+ExistingBooking_ModifyBooking	I'd alike to book a different airline for one of the flights.
+ExistingBooking_ModifyBooking	I'd like to Book a different airline for one of the flights.
+ExistingBooking_ModifyBooking	I'd like to book a different airline for peerless of the flights.
+ExistingBooking_ModifyBooking	I'd like to book a different airline for unrivaled of the flights.
+ExistingBooking_ModifyBooking	I'd like to Scripture a different airport for one of the flights.
+ExistingBooking_ModifyBooking	I'd like to book a different airdrome for one of the flights.
+ExistingBooking_ModifyBooking	I'd like to book a different airport for i of the flights.
+ExistingBooking_ModifyBooking	I'd same to book a different airport for one of the flights.
+ExistingBooking_ModifyBooking	I'd comparable to book a new airline for one of the flights.
+ExistingBooking_ModifyBooking	I'd like to book a new airline for one of the fledge.
+ExistingBooking_ModifyBooking	I'd like to book a new airline for one of the flight.
+ExistingBooking_ModifyBooking	I'd like to book a young airline for one of the flights.
+ExistingBooking_ModifyBooking	I'd ilk to change the city of arrival/departure.
+ExistingBooking_ModifyBooking	I'd like to shift the city of arrival/departure.
+ExistingBooking_ModifyBooking	I'd like to variety the city of arrival/departure.
+ExistingBooking_ModifyBooking	I'd similar to change the city of arrival/departure.
+ExistingBooking_ModifyBooking	I'd alike to swap one airline with another.
+ExistingBooking_ModifyBooking	I'd like to swap 1 airline with another.
+ExistingBooking_ModifyBooking	I'd like to swap single airline with another.
+ExistingBooking_ModifyBooking	I'd like to swap unmatchable airline with another.
+ExistingBooking_ModifyBooking	I'd like to swap ace city with another for the return trip.
+ExistingBooking_ModifyBooking	I'd like to swap one city with another for the restitution trip.
+ExistingBooking_ModifyBooking	I'd like to swap one city with another for the return stumble.
+ExistingBooking_ModifyBooking	I'd like to swap single city with another for the return trip.
+ExistingBooking_ModifyBooking	I'd corresponding to swap one flight for another.
+ExistingBooking_ModifyBooking	I'd like to swap 1 flight for another.
+ExistingBooking_ModifyBooking	I'd like to swap unrivaled flight for another.
+ExistingBooking_ModifyBooking	I'd like to swap unrivalled flight for another.
+ExistingBooking_ModifyBooking	I'd corresponding to upgrade/downgrade my flight.
+ExistingBooking_ModifyBooking	I'd ilk to upgrade/downgrade my flight.
+ExistingBooking_ModifyBooking	I'd like to upgrade/downgrade my escape.
+ExistingBooking_ModifyBooking	I'd same to upgrade/downgrade my flight.
+ExistingBooking_ModifyBooking	I'm having discommode with my booking confirmation details.
+ExistingBooking_ModifyBooking	I'm having disturb with my booking confirmation details.
+ExistingBooking_ModifyBooking	I'm having trouble with my hold confirmation details.
+ExistingBooking_ModifyBooking	I'm having trouble with my reserve confirmation details.
+ExistingBooking_ModifyBooking	I'm having fuss with my booking confirmation email.
+ExistingBooking_ModifyBooking	I'm having pain with my booking confirmation email.
+ExistingBooking_ModifyBooking	I'm having problem with my booking confirmation email.
+ExistingBooking_ModifyBooking	I'm having trouble with my booking substantiation email.
+ExistingBooking_ModifyBooking	I'm having bother with my original accommodation choice.
+ExistingBooking_ModifyBooking	I'm having inconvenience with my original accommodation choice.
+ExistingBooking_ModifyBooking	I'm having trouble with my master accommodation choice.
+ExistingBooking_ModifyBooking	I'm having worry with my original accommodation choice.
+ExistingBooking_ModifyBooking	I'm not happy with the accommodation choice available in the city.
+ExistingBooking_ModifyBooking	I'm not happy with the accommodation options uncommitted in the city.
+ExistingBooking_ModifyBooking	I'm not happy with the accommodation options usable in the city.
+ExistingBooking_ModifyBooking	I'm not well-chosen with the accommodation options available in the city.
+ExistingBooking_ModifyBooking	I'm not glad with the accommodation options available.
+ExistingBooking_ModifyBooking	I'm not happy with the accommodation options useable.
+ExistingBooking_ModifyBooking	I'm not happy with the accommodation selection available.
+ExistingBooking_ModifyBooking	I'm not happy with the fitting options available.
+ExistingBooking_ModifyBooking	I'm not happy with the hotel I've book.
+ExistingBooking_ModifyBooking	I'm not happy with the hotel I've engaged.
+ExistingBooking_ModifyBooking	I'm not happy with the hotel I've reserve.
+ExistingBooking_ModifyBooking	I'm not well-chosen with the hotel I've booked.
+ExistingBooking_ModifyBooking	My colleague and I are rebooking for a different city.
+ExistingBooking_ModifyBooking	My colleagues and I are rebooking for a different metropolis.
+ExistingBooking_ModifyBooking	My colleagues and I are rebooking for a unlike city.
+ExistingBooking_ModifyBooking	My colleagues and ane are rebooking for a different city.
+ExistingBooking_ModifyBooking	My colleagues and I are rebooking for a different see.
+ExistingBooking_ModifyBooking	My colleagues and iodin are rebooking for a different date.
+ExistingBooking_ModifyBooking	My confrere and I are rebooking for a different date.
+ExistingBooking_ModifyBooking	My fellow and I are rebooking for a different date.
+ExistingBooking_ModifyBooking	My companion has decided we can't go on the planned trip for a different reason.
+ExistingBooking_ModifyBooking	My companionship has decided we can't go on the planned trip for a different reason.
+ExistingBooking_ModifyBooking	My company has decided we can't go on the plan trip for a different reason.
+ExistingBooking_ModifyBooking	My company has decided we can't go on the planned spark for a different reason.
+ExistingBooking_ModifyBooking	My company has decided we can't belong on the planned trip.
+ExistingBooking_ModifyBooking	My company has decided we can't choke on the planned trip.
+ExistingBooking_ModifyBooking	My company has decided we can't go on the planned activate.
+ExistingBooking_ModifyBooking	My company has decided we can't go on the planned jaunt.
+ExistingBooking_ModifyBooking	My companion has decided we can't make it as planned.
+ExistingBooking_ModifyBooking	My company has decided we can't make it as plan.
+ExistingBooking_ModifyBooking	My company has determine we can't make it as planned.
+ExistingBooking_ModifyBooking	My party has decided we can't make it as planned.
+ExistingBooking_ModifyBooking	My original flight itinerary is not process out.
+ExistingBooking_ModifyBooking	My original flight itinerary is not sour out.
+ExistingBooking_ModifyBooking	My original flight route is not working out.
+ExistingBooking_ModifyBooking	My original trajectory itinerary is not working out.
+ExistingBooking_ModifyBooking	My master flight itinerary is too expensive.
+ExistingBooking_ModifyBooking	My original escape itinerary is too expensive.
+ExistingBooking_ModifyBooking	My original flight path is too expensive.
+ExistingBooking_ModifyBooking	My original flight route is too expensive.
+ExistingBooking_ModifyBooking	My original fledge numbers are incorrect.
+ExistingBooking_ModifyBooking	My original flight come are incorrect.
+ExistingBooking_ModifyBooking	My original flight list are incorrect.
+ExistingBooking_ModifyBooking	My original flight numeral are incorrect.
+ExistingBooking_ModifyBooking	My master flights are not convenient for me anymore.
+ExistingBooking_ModifyBooking	My original escape are not convenient for me anymore.
+ExistingBooking_ModifyBooking	My original flights are not commodious for me anymore.
+ExistingBooking_ModifyBooking	My original trajectory are not convenient for me anymore.
+ExistingBooking_ModifyBooking	My original fledge are not working out.
+ExistingBooking_ModifyBooking	My original flights are not lick out.
+ExistingBooking_ModifyBooking	My original flights are not sour out.
+ExistingBooking_ModifyBooking	My original flights are not wreak out.
+ExistingBooking_ModifyBooking	My master hotel reservation is not available.
+ExistingBooking_ModifyBooking	My original hotel booking is not available.
+ExistingBooking_ModifyBooking	My original hotel reservation is not usable.
+ExistingBooking_ModifyBooking	My pilot hotel reservation is not available.
+ExistingBooking_ModifyBooking	My archetype hotel reservation is not suitable for me anymore.
+ExistingBooking_ModifyBooking	My master hotel reservation is not suitable for me anymore.
+ExistingBooking_ModifyBooking	My original hotel reservation is not desirable for me anymore.
+ExistingBooking_ModifyBooking	My pilot hotel reservation is not suitable for me anymore.
+ExistingBooking_ModifyBooking	My travel plan have changed and I need to modify them.
+ExistingBooking_ModifyBooking	My travel plans have changed and I need to change them.
+ExistingBooking_ModifyBooking	My travel plans have commute and I need to modify them.
+ExistingBooking_ModifyBooking	My travel programme have changed and I need to modify them.
+ExistingBooking_ModifyBooking	Please lease me know if you'd like me to generate more statements!
+ExistingBooking_ModifyBooking	Please let me know if you'd like me to generate more argument!
+ExistingBooking_ModifyBooking	Please let me know if you'd same me to generate more statements!
+ExistingBooking_ModifyBooking	Please let me screw if you'd like me to generate more statements!
+ExistingBooking_ModifyBooking	The company has vary its travel plans.
+ExistingBooking_ModifyBooking	The fellowship has changed its travel plans.
+ExistingBooking_ModifyBooking	The party has changed its travel plans.
+ExistingBooking_ModifyBooking	The troupe has changed its travel plans.
+ExistingBooking_ModifyBooking	The company has decided we can't endure on the planned trip for a different date.
+ExistingBooking_ModifyBooking	The company has decided we can't go on the planned slip for a different date.
+ExistingBooking_ModifyBooking	The company has decided we can't live on the planned trip for a different date.
+ExistingBooking_ModifyBooking	The company has decided we can't perish on the planned trip for a different date.
+ExistingBooking_ModifyBooking	The company has decided we demand more time off for a different date.
+ExistingBooking_ModifyBooking	The company has decided we involve more time off for a different date.
+ExistingBooking_ModifyBooking	The company has decided we need more time off for a different escort.
+ExistingBooking_ModifyBooking	The company has decided we need more time off for a dissimilar date.
+ExistingBooking_ModifyBooking	The company has decided we need more time off for a different cause.
+ExistingBooking_ModifyBooking	The company has decided we penury more time off for a different reason.
+ExistingBooking_ModifyBooking	The company has determine we need more time off for a different reason.
+ExistingBooking_ModifyBooking	The company has resolve we need more time off for a different reason.
+ExistingBooking_ModifyBooking	The company has decided we motive more time off.
+ExistingBooking_ModifyBooking	The company has decided we pauperization more time off.
+ExistingBooking_ModifyBooking	The company has decided we take more time off.
+ExistingBooking_ModifyBooking	The company has distinct we need more time off.
+ExistingBooking_ModifyBooking	The hotel I book is not available anymore.
+ExistingBooking_ModifyBooking	The hotel I booked is not usable anymore.
+ExistingBooking_ModifyBooking	The hotel I booked is not useable anymore.
+ExistingBooking_ModifyBooking	The hotel i booked is not available anymore.
+ExistingBooking_ModifyBooking	The hotel I booked is not suitable for my pauperism.
+ExistingBooking_ModifyBooking	The hotel ane booked is not suitable for my needs.
+ExistingBooking_ModifyBooking	The hotel iodin booked is not suitable for my needs.
+ExistingBooking_ModifyBooking	The hotel unity booked is not suitable for my needs.
+ExistingBooking_ModifyBooking	The people I am traveling with have change plans.
+ExistingBooking_ModifyBooking	The people I am traveling with have modify plans.
+ExistingBooking_ModifyBooking	The people I am traveling with have shift plans.
+ExistingBooking_ModifyBooking	The people iodine am traveling with have changed plans.
+ExistingBooking_ModifyBooking	The people I am traveling with have changed their beware about flying.
+ExistingBooking_ModifyBooking	The people I am traveling with have changed their minds about flee.
+ExistingBooking_ModifyBooking	The people I am traveling with have commute their minds about flying.
+ExistingBooking_ModifyBooking	The people ace am traveling with have changed their minds about flying.
+ExistingBooking_ModifyBooking	The multitude I am traveling with have changed their minds about the itinerary.
+ExistingBooking_ModifyBooking	The people I am go with have changed their minds about the itinerary.
+ExistingBooking_ModifyBooking	The people I am traveling with have changed their heed about the itinerary.
+ExistingBooking_ModifyBooking	The people unity am traveling with have changed their minds about the itinerary.
+ExistingBooking_ModifyBooking	The people I am traveling with have decided to exit early.
+ExistingBooking_ModifyBooking	The people I am traveling with have decided to farewell early.
+ExistingBooking_ModifyBooking	The people I am traveling with have decided to give early.
+ExistingBooking_ModifyBooking	The people single am traveling with have decided to leave early.

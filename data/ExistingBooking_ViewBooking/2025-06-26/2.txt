@@ -1,0 +1,65 @@
+Can I get an overview of my current booking?
+Can I get an overview of my current travel plans?
+Can I get an overview of my travel plans?
+Can I get an overview of my upcoming flights?
+Can I get an update on my flight status today?
+Can I get an update on my flight status?
+Can I get an update on my travel plans today?
+Can I get an update on my travel plans?
+Can I get the details of my booking?
+Can you confirm my travel dates?
+Can you give me a summary of my booking?
+Can you give me a summary of my current booking?
+Can you please show me my upcoming flight?
+Here are 80 training statements for a corporate travel chatbot to recognize when someone wants to view details of an existing booking:
+How do I access my booking history online?
+How do I access my booking history?
+How do I access my booking information?
+How do I access my travel booking history?
+How do I access my travel booking information?
+How do I check the status of my booking?
+How do I view my booking details?
+How do I view my booking summary online?
+How do I view my booking summary?
+I need to see my itinerary.
+I want to see my hotel room details.
+Please list all bookings under my name.
+Please list all bookings under this company's name.
+Please list all bookings under this employee's name.
+Please list all confirmed travel plans.
+Please list all upcoming bookings.
+Please list all upcoming trips under this company name.
+Please show me all bookings made under this company's account.
+Please show me all bookings under this company name.
+Please show me all bookings under this employee's name.
+Show me all bookings made under this company's name.
+Show me the confirmation email.
+Show me the details of my business class reservation including lounge access.
+Show me the details of my business class reservation including meal options.
+Show me the details of my business class reservation.
+Show me the details of my business trip itinerary.
+Show me the details of my first-class ticket including lounge access.
+Show me the details of my first-class ticket including seat selection.
+Show me the details of my first-class ticket.
+View my confirmed flights and hotel reservations for this trip.
+View my confirmed flights and hotel reservations.
+View my confirmed flights and hotels.
+View my confirmed flights for this trip.
+View my hotel room information including breakfast options.
+View my trip details including flights and hotels.
+View my trip itinerary including transportation and accommodation.
+View my trip itinerary including transportation and activities.
+View my trip itinerary including transportation.
+What are my flight times for tomorrow?
+What are the arrival times for my flight today?
+What are the arrival times for my flight tomorrow?
+What are the check-in times for my flight today?
+What are the check-in times for my flight tomorrow morning?
+What are the check-in times for my flight?
+What are the flight times for tomorrow afternoon?
+What are the flight times for tomorrow evening?
+What are the flight times for tomorrow morning?
+What are the travel dates on my reservation?
+What's my reservation number again?
+What's the number for my reservation?
+What's the status of my flight today?
