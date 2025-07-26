@@ -1,0 +1,620 @@
+NewBooking_SelectFlight	Are there any additional fees for services alike printing boarding passes or luggage handling?
+NewBooking_SelectFlight	Are there any additional fees for services like printing boarding happen or luggage handling?
+NewBooking_SelectFlight	Are there any additional fees for services like printing boarding lapse or luggage handling?
+NewBooking_SelectFlight	Are there any additional fees for services like printing boarding overstep or luggage handling?
+NewBooking_SelectFlight	Are there any airline partners that go loyalty programs or rewards credit cards for frequent travelers?
+NewBooking_SelectFlight	Are there any airline partners that offer allegiance programs or rewards credit cards for frequent travelers?
+NewBooking_SelectFlight	Are there any airline partners that offer loyalty programs or rewards citation cards for frequent travelers?
+NewBooking_SelectFlight	Are there any airline partners that offer loyalty programs or wages credit cards for frequent travelers?
+NewBooking_SelectFlight	Are there any airport hotels that you pardner with to offer convenient accommodations for passengers?
+NewBooking_SelectFlight	Are there any airport hotels that you partner with to extend convenient accommodations for passengers?
+NewBooking_SelectFlight	ar there any airport hotels that you partner with to offer convenient accommodations for passengers?
+NewBooking_SelectFlight	represent there any airport hotels that you partner with to offer convenient accommodations for passengers?
+NewBooking_SelectFlight	Are there any airport loaf that offer showers, laundry services, or other amenities?
+NewBooking_SelectFlight	Are there any airport lounges that offer exhibitor, laundry services, or other amenities?
+NewBooking_SelectFlight	Are there any airport lounges that offer shower, laundry services, or other amenities?
+NewBooking_SelectFlight	personify there any airport lounges that offer showers, laundry services, or other amenities?
+NewBooking_SelectFlight	ar there any airport restaurants or cafes that are convenient for passengers to grab a meal?
+NewBooking_SelectFlight	are there any airport restaurants or cafes that are convenient for passengers to grab a meal?
+NewBooking_SelectFlight	comprise there any airport restaurants or cafes that are convenient for passengers to grab a meal?
+NewBooking_SelectFlight	constitute there any airport restaurants or cafes that are convenient for passengers to grab a meal?
+NewBooking_SelectFlight	Are there any airport services corresponding Wi-Fi or power outlets available for passengers to access?
+NewBooking_SelectFlight	Are there any airport services like Wi-Fi or king outlets available for passengers to access?
+NewBooking_SelectFlight	Are there any airport services like Wi-Fi or power outlets available for passenger to access?
+NewBooking_SelectFlight	represent there any airport services like Wi-Fi or power outlets available for passengers to access?
+NewBooking_SelectFlight	Are there any bargain available on direct flights with a layover avoided?
+NewBooking_SelectFlight	Are there any deals available on direct flights with a layover debar?
+NewBooking_SelectFlight	Are there any softwood available on direct flights with a layover avoided?
+NewBooking_SelectFlight	Are there any spate available on direct flights with a layover avoided?
+NewBooking_SelectFlight	Are there any exclusive deals or packages uncommitted for business travelers booking through your system?
+NewBooking_SelectFlight	Are there any exclusive manage or packages available for business travelers booking through your system?
+NewBooking_SelectFlight	Are there any exclusive trade or packages available for business travelers booking through your system?
+NewBooking_SelectFlight	exist there any exclusive deals or packages available for business travelers booking through your system?
+NewBooking_SelectFlight	Are there any destitute Wi-Fi options available on your flights today?
+NewBooking_SelectFlight	Are there any disengage Wi-Fi options available on your flights today?
+NewBooking_SelectFlight	Are there any dislodge Wi-Fi options available on your flights today?
+NewBooking_SelectFlight	Are there any free Wi-Fi options available on your flying today?
+NewBooking_SelectFlight	Are there any non-stop flights uncommitted from Miami to Boston tonight?
+NewBooking_SelectFlight	ar there any non-stop flights available from Miami to Boston tonight?
+NewBooking_SelectFlight	exist there any non-stop flights available from Miami to Boston tonight?
+NewBooking_SelectFlight	live there any non-stop flights available from Miami to Boston tonight?
+NewBooking_SelectFlight	Are there any restrictions on use electronic devices during takeoff and landing phases?
+NewBooking_SelectFlight	Are there any restrictions on using electronic devices during takeoff and landing stage?
+NewBooking_SelectFlight	Are there any restrictions on using electronic gimmick during takeoff and landing phases?
+NewBooking_SelectFlight	live there any restrictions on using electronic devices during takeoff and landing phases?
+NewBooking_SelectFlight	Can I book a flight from this airdrome to that city, if possible?
+NewBooking_SelectFlight	bathroom I book a flight from this airport to that city, if possible?
+NewBooking_SelectFlight	crapper I book a flight from this airport to that city, if possible?
+NewBooking_SelectFlight	posterior I book a flight from this airport to that city, if possible?
+NewBooking_SelectFlight	Can I book a hotel and flight together from your organization?
+NewBooking_SelectFlight	posterior I book a hotel and flight together from your system?
+NewBooking_SelectFlight	throne I book a hotel and flight together from your system?
+NewBooking_SelectFlight	tooshie I book a hotel and flight together from your system?
+NewBooking_SelectFlight	Can I Koran a suite-style seat with more legroom in business class if available?
+NewBooking_SelectFlight	Can I book a suite-style can with more legroom in business class if available?
+NewBooking_SelectFlight	buttocks I book a suite-style seat with more legroom in business class if available?
+NewBooking_SelectFlight	lav I book a suite-style seat with more legroom in business class if available?
+NewBooking_SelectFlight	Can I book an airport lounge membership through your system as fountainhead?
+NewBooking_SelectFlight	Can I ledger an airport lounge membership through your system as well?
+NewBooking_SelectFlight	Can I playscript an airport lounge membership through your system as well?
+NewBooking_SelectFlight	buttocks I book an airport lounge membership through your system as well?
+NewBooking_SelectFlight	Can I book an upgrade to 1st class if available on my next flight?
+NewBooking_SelectFlight	Can I book an upgrade to first class if uncommitted on my next flight?
+NewBooking_SelectFlight	Can I book an upgrade to outset class if available on my next flight?
+NewBooking_SelectFlight	Can I leger an upgrade to first class if available on my next flight?
+NewBooking_SelectFlight	Can I ledger an upgrade to premium seating if available during the flight?
+NewBooking_SelectFlight	buttocks I book an upgrade to premium seating if available during the flight?
+NewBooking_SelectFlight	sack I book an upgrade to premium seating if available during the flight?
+NewBooking_SelectFlight	tooshie I book an upgrade to premium seating if available during the flight?
+NewBooking_SelectFlight	Can I Scripture an upgraded seat and enjoy more legroom on my next flight?
+NewBooking_SelectFlight	Can I book an upgraded induct and enjoy more legroom on my next flight?
+NewBooking_SelectFlight	Can I book an upgraded keister and enjoy more legroom on my next flight?
+NewBooking_SelectFlight	hindquarters I book an upgraded seat and enjoy more legroom on my next flight?
+NewBooking_SelectFlight	Can I request assist in booking an alternative flight due to medical reasons?
+NewBooking_SelectFlight	Can I request assistance in booking an alternative flight due to aesculapian reasons?
+NewBooking_SelectFlight	Can i request assistance in booking an alternative flight due to medical reasons?
+NewBooking_SelectFlight	Can one request assistance in booking an alternative flight due to medical reasons?
+NewBooking_SelectFlight	Can iodine request assistance in booking an alternative flight if I'm having trouble finding suitable options on my own?
+NewBooking_SelectFlight	backside I request assistance in booking an alternative flight if I'm having trouble finding suitable options on my own?
+NewBooking_SelectFlight	fire I request assistance in booking an alternative flight if I'm having trouble finding suitable options on my own?
+NewBooking_SelectFlight	tooshie I request assistance in booking an alternative flight if I'm having trouble finding suitable options on my own?
+NewBooking_SelectFlight	Can I request assistance in finding alternative flights after being sitting on the wrong plane due to airline errors?
+NewBooking_SelectFlight	bathroom I request assistance in finding alternative flights after being seated on the wrong plane due to airline errors?
+NewBooking_SelectFlight	fanny I request assistance in finding alternative flights after being seated on the wrong plane due to airline errors?
+NewBooking_SelectFlight	rear I request assistance in finding alternative flights after being seated on the wrong plane due to airline errors?
+NewBooking_SelectFlight	Can I request assistance to find a suitable alternative flight after being denied boarding ascribable to overbooking?
+NewBooking_SelectFlight	backside I request assistance to find a suitable alternative flight after being denied boarding due to overbooking?
+NewBooking_SelectFlight	butt I request assistance to find a suitable alternative flight after being denied boarding due to overbooking?
+NewBooking_SelectFlight	hindquarters I request assistance to find a suitable alternative flight after being denied boarding due to overbooking?
+NewBooking_SelectFlight	Can I quest assistance with booking a suitable flight for an important meeting?
+NewBooking_SelectFlight	Can I request assistance with hold a suitable flight for an important meeting?
+NewBooking_SelectFlight	backside I request assistance with booking a suitable flight for an important meeting?
+NewBooking_SelectFlight	posterior I request assistance with booking a suitable flight for an important meeting?
+NewBooking_SelectFlight	Can I request extra legroom seating referable to health issues during the flight?
+NewBooking_SelectFlight	bathroom I request extra legroom seating due to health issues during the flight?
+NewBooking_SelectFlight	displace I request extra legroom seating due to health issues during the flight?
+NewBooking_SelectFlight	fire I request extra legroom seating due to health issues during the flight?
+NewBooking_SelectFlight	arse I request special meal assistance due to dietary restrictions during my flight?
+NewBooking_SelectFlight	commode I request special meal assistance due to dietary restrictions during my flight?
+NewBooking_SelectFlight	fundament I request special meal assistance due to dietary restrictions during my flight?
+NewBooking_SelectFlight	hindquarters I request special meal assistance due to dietary restrictions during my flight?
+NewBooking_SelectFlight	Can you aid me in booking a same-day return trip from Seattle?
+NewBooking_SelectFlight	Can you assist me in booking a same-day proceeds trip from Seattle?
+NewBooking_SelectFlight	Can you assist me in booking a same-day repay trip from Seattle?
+NewBooking_SelectFlight	Can you assist me in booking a same-day return misstep from Seattle?
+NewBooking_SelectFlight	Can you supporter me book a last-minute trip to Chicago next week?
+NewBooking_SelectFlight	fundament you help me book a last-minute trip to Chicago next week?
+NewBooking_SelectFlight	prat you help me book a last-minute trip to Chicago next week?
+NewBooking_SelectFlight	terminate you help me book a last-minute trip to Chicago next week?
+NewBooking_SelectFlight	Can you facilitate me find a direct flight to Denver without layovers?
+NewBooking_SelectFlight	Can you help me determine a direct flight to Denver without layovers?
+NewBooking_SelectFlight	Can you help me find a take flight to Denver without layovers?
+NewBooking_SelectFlight	Can you helper me find a direct flight to Denver without layovers?
+NewBooking_SelectFlight	Can you recommend some flights from major drome around the country?
+NewBooking_SelectFlight	displace you recommend some flights from major airports around the country?
+NewBooking_SelectFlight	keister you recommend some flights from major airports around the country?
+NewBooking_SelectFlight	posterior you recommend some flights from major airports around the country?
+NewBooking_SelectFlight	Do you have a 24-hour customer backup hotline where I can get assistance with booking issues?
+NewBooking_SelectFlight	Do you have a 24-hour customer support hotline where I can get assistance with book issues?
+NewBooking_SelectFlight	Do you have a 24-hour customer support hotline where I can get assistance with hold issues?
+NewBooking_SelectFlight	make you have a 24-hour customer support hotline where I can get assistance with booking issues?
+NewBooking_SelectFlight	Do you have a mobile app where I can cut my flights and receive updates on departure times?
+NewBooking_SelectFlight	Do you have a mobile app where I can track my flights and get updates on departure times?
+NewBooking_SelectFlight	Do you have a mobile app where I can track my flights and obtain updates on departure times?
+NewBooking_SelectFlight	Do you have a mobile app where I can track my flights and receive update on departure times?
+NewBooking_SelectFlight	Do you have a partnership with any travel insurance providers that can assist me in caseful of trip cancellations?
+NewBooking_SelectFlight	Do you have a partnership with any travel insurance providers that can assist me in encase of trip cancellations?
+NewBooking_SelectFlight	Do you have a partnership with any travel insurance providers that can assist me in pillowcase of trip cancellations?
+NewBooking_SelectFlight	fare you have a partnership with any travel insurance providers that can assist me in case of trip cancellations?
+NewBooking_SelectFlight	Do you have a rewards program for frequent flyers who fell often with this airline?
+NewBooking_SelectFlight	Do you have a rewards program for frequent flyers who vanish often with this airline?
+NewBooking_SelectFlight	brawl you have a rewards program for frequent flyers who fly often with this airline?
+NewBooking_SelectFlight	manage you have a rewards program for frequent flyers who fly often with this airline?
+NewBooking_SelectFlight	Do you have any budget-friendly options for short-notice journey?
+NewBooking_SelectFlight	Do you have any budget-friendly options for short-notice traveling?
+NewBooking_SelectFlight	come you have any budget-friendly options for short-notice travel?
+NewBooking_SelectFlight	manage you have any budget-friendly options for short-notice travel?
+NewBooking_SelectFlight	Do you have any collective discounts available for frequent travelers like me?
+NewBooking_SelectFlight	cause you have any corporate discounts available for frequent travelers like me?
+NewBooking_SelectFlight	serve you have any corporate discounts available for frequent travelers like me?
+NewBooking_SelectFlight	ut you have any corporate discounts available for frequent travelers like me?
+NewBooking_SelectFlight	Do you have any contend available for students, seniors, or military personnel during this travel season?
+NewBooking_SelectFlight	Do you have any softwood available for students, seniors, or military personnel during this travel season?
+NewBooking_SelectFlight	Do you have any treat available for students, seniors, or military personnel during this travel season?
+NewBooking_SelectFlight	perform you have any deals available for students, seniors, or military personnel during this travel season?
+NewBooking_SelectFlight	Do you have any last-minute deals on occupation class tickets available?
+NewBooking_SelectFlight	perform you have any last-minute deals on business class tickets available?
+NewBooking_SelectFlight	practice you have any last-minute deals on business class tickets available?
+NewBooking_SelectFlight	suffice you have any last-minute deals on business class tickets available?
+NewBooking_SelectFlight	Do you have any lavishness flights available with a meal service?
+NewBooking_SelectFlight	Do you have any luxury fledge available with a meal service?
+NewBooking_SelectFlight	act you have any luxury flights available with a meal service?
+NewBooking_SelectFlight	practice you have any luxury flights available with a meal service?
+NewBooking_SelectFlight	Do you offer airport parking services, and what are the fees affiliate with it?
+NewBooking_SelectFlight	Do you offer drome parking services, and what are the fees associated with it?
+NewBooking_SelectFlight	doh you offer airport parking services, and what are the fees associated with it?
+NewBooking_SelectFlight	fare you offer airport parking services, and what are the fees associated with it?
+NewBooking_SelectFlight	Do you offer any discounts or promotions that can save me money on my next tripper?
+NewBooking_SelectFlight	bash you offer any discounts or promotions that can save me money on my next trip?
+NewBooking_SelectFlight	practice you offer any discounts or promotions that can save me money on my next trip?
+NewBooking_SelectFlight	ut you offer any discounts or promotions that can save me money on my next trip?
+NewBooking_SelectFlight	Do you offer in-flight entertainment options ilk movies or music on your flights today?
+NewBooking_SelectFlight	Do you offer in-flight entertainment options like movies or music on your escape today?
+NewBooking_SelectFlight	Do you offer in-flight entertainment options like movies or music on your flying today?
+NewBooking_SelectFlight	suffice you offer in-flight entertainment options like movies or music on your flights today?
+NewBooking_SelectFlight	Do you fling in-flight entertainment or do I need to bring my own tablet/laptop?
+NewBooking_SelectFlight	Do you offer in-flight entertainment or do I involve to bring my own tablet/laptop?
+NewBooking_SelectFlight	Do you offer in-flight entertainment or do I need to institute my own tablet/laptop?
+NewBooking_SelectFlight	Do you offer in-flight entertainment or do iodin need to bring my own tablet/laptop?
+NewBooking_SelectFlight	How do I check-in for my flight online, and what are the expect documents needed?
+NewBooking_SelectFlight	How do I check-in for my flight online, and what are the needful documents needed?
+NewBooking_SelectFlight	How do I check-in for my flight online, and what are the required documents requisite?
+NewBooking_SelectFlight	How do I check-in for my flight online, and what are the required papers needed?
+NewBooking_SelectFlight	How do I experience a boarding pass printed at your airport locations today?
+NewBooking_SelectFlight	How do I get a boarding exceed printed at your airport locations today?
+NewBooking_SelectFlight	How do I get a boarding offer printed at your airport locations today?
+NewBooking_SelectFlight	How do I sire a boarding pass printed at your airport locations today?
+NewBooking_SelectFlight	How do I get help from your customer reinforcement team if I'm having issues booking or cancelling flights?
+NewBooking_SelectFlight	How do I get help from your customer support team if I'm having egress booking or cancelling flights?
+NewBooking_SelectFlight	How do I get help from your customer underpin team if I'm having issues booking or cancelling flights?
+NewBooking_SelectFlight	How do one get help from your customer support team if I'm having issues booking or cancelling flights?
+NewBooking_SelectFlight	How far away is the adjacent flight available from my location right now?
+NewBooking_SelectFlight	How far away is the next flight available from my location justly now?
+NewBooking_SelectFlight	How far away is the next flight available from my location proper now?
+NewBooking_SelectFlight	How far forth is the next flight available from my location right now?
+NewBooking_SelectFlight	How Interahamwe in advance can I make changes to my itinerary without being charged extra fees?
+NewBooking_SelectFlight	How far in advance can I cook changes to my itinerary without being charged extra fees?
+NewBooking_SelectFlight	How far in advance can I make changes to my itinerary without being saddle extra fees?
+NewBooking_SelectFlight	How far in advance can I make exchange to my itinerary without being charged extra fees?
+NewBooking_SelectFlight	How FAR in advance do I need to book a suitable alternative flight if mine is cancelled due to smasher?
+NewBooking_SelectFlight	How far in advancement do I need to book a suitable alternative flight if mine is offset due to strikes?
+NewBooking_SelectFlight	How far in procession do I penury to book a suitable alternative flight if mine is cancelled due to strikes?
+NewBooking_SelectFlight	How far in raise do I need to book a suitable alternative flight if mine is cancelled due to discover?
+NewBooking_SelectFlight	How much acknowledge do you give before a flight departs and cancels due to inclement weather?
+NewBooking_SelectFlight	How much notice do you consecrate before a flight departs and cancels due to inclement weather?
+NewBooking_SelectFlight	How much notice do you give before a escape departs and cancels due to inclement weather?
+NewBooking_SelectFlight	How much notice do you give before a flight departs and cancels due to inclement conditions?
+NewBooking_SelectFlight	How much notice is required for changes in the booking organization today?
+NewBooking_SelectFlight	How much notice is required for switch in the booking system today?
+NewBooking_SelectFlight	How much notice is required for transfer in the booking system today?
+NewBooking_SelectFlight	How much notice is want for changes in the booking system today?
+NewBooking_SelectFlight	I'm booked on that flight but it's allow an hour later than my schedule.
+NewBooking_SelectFlight	I'm booked on that flight but it's leaving an hour late than my schedule.
+NewBooking_SelectFlight	I'm booked on that flight but it's provide an hour later than my schedule.
+NewBooking_SelectFlight	I'm hold on that flight but it's leaving an hour later than my schedule.
+NewBooking_SelectFlight	I'm having ail finding suitable flights due to limited options.
+NewBooking_SelectFlight	I'm having trouble finding suited flights due to limited options.
+NewBooking_SelectFlight	I'm having trouble retrieve suitable flights due to limited options.
+NewBooking_SelectFlight	I'm having trouble rule suitable flights due to limited options.
+NewBooking_SelectFlight	I'm carry late for my flight, do you have any flights leaving soon?
+NewBooking_SelectFlight	I'm race late for my flight, do you have any flights leaving soon?
+NewBooking_SelectFlight	I'm running late for my flight, do you have any trajectory leaving soon?
+NewBooking_SelectFlight	I'm scarper late for my flight, do you have any flights leaving soon?
+NewBooking_SelectFlight	I'm inquisitory for a last-minute weekend getaway; do you have any recommendations?
+NewBooking_SelectFlight	I'm probing for a last-minute weekend getaway; do you have any recommendations?
+NewBooking_SelectFlight	I'm searching for a last-minute weekend getaway; do you have any passport?
+NewBooking_SelectFlight	I'm seek for a last-minute weekend getaway; do you have any recommendations?
+NewBooking_SelectFlight	I've lost my boarding croak, can I get a new one for this flight?
+NewBooking_SelectFlight	I've lost my boarding pass, can I arrest a new one for this flight?
+NewBooking_SelectFlight	I've lost my boarding pass, can I get a new one for this fledge?
+NewBooking_SelectFlight	I've lost my boarding pass, can I obtain a new one for this flight?
+NewBooking_SelectFlight	Is it possible to cause a refund or rebooking in case of bad weather causing flight cancellations?
+NewBooking_SelectFlight	Is it possible to fetch a refund or rebooking in case of bad weather causing flight cancellations?
+NewBooking_SelectFlight	Is it possible to get a refund or rebooking in case of bad weather causation flight cancellations?
+NewBooking_SelectFlight	Is it possible to get a repayment or rebooking in case of bad weather causing flight cancellations?
+NewBooking_SelectFlight	Is there an early morning flight useable to Hawaii today or tomorrow?
+NewBooking_SelectFlight	Is there an early morning flying available to Hawaii today or tomorrow?
+NewBooking_SelectFlight	Is there an early sunrise flight available to Hawaii today or tomorrow?
+NewBooking_SelectFlight	live there an early morning flight available to Hawaii today or tomorrow?
+NewBooking_SelectFlight	My connecting fledge is delayed, what are my options now?
+NewBooking_SelectFlight	My connecting flight is delayed, what are my alternative now?
+NewBooking_SelectFlight	My link flight is delayed, what are my options now?
+NewBooking_SelectFlight	My relate flight is delayed, what are my options now?
+NewBooking_SelectFlight	My fledge has been overbooked and I need an upgrade or alternative.
+NewBooking_SelectFlight	My flight has been overbooked and I ask an upgrade or alternative.
+NewBooking_SelectFlight	My flight has been overbooked and I motive an upgrade or alternative.
+NewBooking_SelectFlight	My flight has been overbooked and iodin need an upgrade or alternative.
+NewBooking_SelectFlight	My flight is delayed again and I need to ascertain a new one ASAP.
+NewBooking_SelectFlight	My flight is delayed again and I need to find a fresh one ASAP.
+NewBooking_SelectFlight	My flight is delayed again and single need to find a new one ASAP.
+NewBooking_SelectFlight	My flight is stay again and I need to find a new one ASAP.
+NewBooking_SelectFlight	My original flight was cancelled due to weather and I demand an alternative.
+NewBooking_SelectFlight	My original flight was cancelled due to weather and single need an alternative.
+NewBooking_SelectFlight	My original flight was offset due to weather and I need an alternative.
+NewBooking_SelectFlight	My pilot flight was cancelled due to weather and I need an alternative.
+NewBooking_SelectFlight	My personal item doesn't fit under the bum in front of me; can I gate-check it?
+NewBooking_SelectFlight	My personal item doesn't fit under the seat in front of me; can 1 gate-check it?
+NewBooking_SelectFlight	My personal item doesn't go under the seat in front of me; can I gate-check it?
+NewBooking_SelectFlight	My personal item doesn't set under the seat in front of me; can I gate-check it?
+NewBooking_SelectFlight	What are my travel options if I missed my connecting flight due to airline erroneousness?
+NewBooking_SelectFlight	What are my travel options if I missed my connecting flight due to airline mistake?
+NewBooking_SelectFlight	What are my travel options if I missed my connecting flight due to airline wrongdoing?
+NewBooking_SelectFlight	What are my travel options if I overleap my connecting flight due to airline error?
+NewBooking_SelectFlight	What are the baggage confinement and fees for flights this month?
+NewBooking_SelectFlight	What are the baggage restriction and fees for flights this month?
+NewBooking_SelectFlight	What are the baggage restrictions and bung for flights this month?
+NewBooking_SelectFlight	What are the baggage restrictions and fees for fledge this month?
+NewBooking_SelectFlight	What are the best gouge for business travel between cities this month.
+NewBooking_SelectFlight	What are the best route for business travel between cities this month.
+NewBooking_SelectFlight	What are the best routes for byplay travel between cities this month.
+NewBooking_SelectFlight	What are the practiced routes for business travel between cities this month.
+NewBooking_SelectFlight	What are the check-in times for my flight, and can I agree in online?
+NewBooking_SelectFlight	What are the check-in times for my flight, and can I confirmation in online?
+NewBooking_SelectFlight	What are the check-in times for my flight, and can I tab in online?
+NewBooking_SelectFlight	What are the check-in times for my trajectory, and can I check in online?
+NewBooking_SelectFlight	What are the current prices for escape between major US cities this month?
+NewBooking_SelectFlight	What are the current prices for flights between major America cities this month?
+NewBooking_SelectFlight	What are the current prices for flights between major US city this month?
+NewBooking_SelectFlight	What are the current prices for flights between major uracil cities this month?
+NewBooking_SelectFlight	What are the late flights available from New York to LA today?
+NewBooking_SelectFlight	What are the latest flying available from New York to LA today?
+NewBooking_SelectFlight	What are the latest trajectory available from New York to LA today?
+NewBooking_SelectFlight	What are the tardy flights available from New York to LA today?
+NewBooking_SelectFlight	What are the options for rebooking a flight that has been overbooked and deny boarding?
+NewBooking_SelectFlight	What are the options for rebooking a flying that has been overbooked and denied boarding?
+NewBooking_SelectFlight	What are the options for rebooking a trajectory that has been overbooked and denied boarding?
+NewBooking_SelectFlight	What are the pick for rebooking a flight that has been overbooked and denied boarding?
+NewBooking_SelectFlight	What is the airline's policy on bringing emotional backing animals in the cabin or as checked baggage?
+NewBooking_SelectFlight	What is the airline's policy on bringing emotional corroborate animals in the cabin or as checked baggage?
+NewBooking_SelectFlight	What is the airline's policy on bringing emotional endure animals in the cabin or as checked baggage?
+NewBooking_SelectFlight	What is the airline's policy on bringing emotional support fauna in the cabin or as checked baggage?
+NewBooking_SelectFlight	What is the airline's policy on handling bemused or misplaced luggage claims?
+NewBooking_SelectFlight	What is the airline's policy on handling lost or misplaced luggage title?
+NewBooking_SelectFlight	What is the airline's policy on handling mazed or misplaced luggage claims?
+NewBooking_SelectFlight	What is the airline's policy on handling suffer or misplaced luggage claims?
+NewBooking_SelectFlight	What is the airline's policy on best-loved travel, if applicable?
+NewBooking_SelectFlight	What is the airline's policy on favorite travel, if applicable?
+NewBooking_SelectFlight	What is the airline's policy on favourite travel, if applicable?
+NewBooking_SelectFlight	What is the airline's policy on pet jaunt, if applicable?
+NewBooking_SelectFlight	What is the airline's policy on rebooking in case of cancellation due to strikes?
+NewBooking_SelectFlight	What is the airline's policy on rebooking in case of cancellations due to attain?
+NewBooking_SelectFlight	What is the airline's policy on rebooking in case of cancellations due to take?
+NewBooking_SelectFlight	What is the airline's policy on rebooking in case of cancellations referable to strikes?
+NewBooking_SelectFlight	What is the cancellation policy for your booking arrangement today?
+NewBooking_SelectFlight	What is the cancellation policy for your booking system nowadays?
+NewBooking_SelectFlight	What is the cancellation policy for your reservation system today?
+NewBooking_SelectFlight	What is the cancellation policy for your reserve system today?
+NewBooking_SelectFlight	What is the earlier possible flight out of San Francisco tomorrow morning?
+NewBooking_SelectFlight	What is the earliest possible escape out of San Francisco tomorrow morning?
+NewBooking_SelectFlight	What is the earliest possible flight out of San Francisco tomorrow sunup?
+NewBooking_SelectFlight	What is the other possible flight out of San Francisco tomorrow morning?
+NewBooking_SelectFlight	What is the estimated sentence of arrival and departure from my destination airport today?
+NewBooking_SelectFlight	What is the estimated time of arrival and departure from my goal airport today?
+NewBooking_SelectFlight	What is the estimated time of arrival and going from my destination airport today?
+NewBooking_SelectFlight	What is the estimated time of arrival and passing from my destination airport today?
+NewBooking_SelectFlight	What is the minimum age requirement for children go without accompanying adults?
+NewBooking_SelectFlight	What is the minimum age requirement for children locomote without accompanying adults?
+NewBooking_SelectFlight	What is the minimum age requirement for children traveling without follow adults?
+NewBooking_SelectFlight	What is the minimum mature requirement for children traveling without accompanying adults?
+NewBooking_SelectFlight	What is the minimum come for flights from New York City this week?
+NewBooking_SelectFlight	What is the minimum fare for flights from raw York City this week?
+NewBooking_SelectFlight	What is the minimum fare for flying from New York City this week?
+NewBooking_SelectFlight	What is the minimum transportation for flights from New York City this week?
+NewBooking_SelectFlight	What is the policy on food allergies, and can extra meals be arranged before departure?
+NewBooking_SelectFlight	What is the policy on food allergies, and can special meals be format before departure?
+NewBooking_SelectFlight	What is the policy on food allergies, and can special meals be put before departure?
+NewBooking_SelectFlight	What is the policy on food allergies, and can special repast be arranged before departure?
+NewBooking_SelectFlight	What is the advocate luggage size and weight requirements for domestic flights?
+NewBooking_SelectFlight	What is the recommend luggage size and weight requirements for domestic flights?
+NewBooking_SelectFlight	What is the recommended luggage size and slant requirements for domestic flights?
+NewBooking_SelectFlight	What is the recommended luggage size and weight requirements for domesticated flights?
+NewBooking_SelectFlight	Can you assist me in booking a Modern domestic flight?
+NewBooking_SelectFlight	Can you assist me in booking a unexampled domestic flight?
+NewBooking_SelectFlight	seat you assist me in booking a new domestic flight?
+NewBooking_SelectFlight	throne you assist me in booking a new domestic flight?
+NewBooking_SelectFlight	Can you assist me in booking a New flight that can fit all of my luggage.
+NewBooking_SelectFlight	Can you assist me in booking a newly flight that can fit all of my luggage.
+NewBooking_SelectFlight	Can you attend me in booking a new flight that can fit all of my luggage.
+NewBooking_SelectFlight	keister you assist me in booking a new flight that can fit all of my luggage.
+NewBooking_SelectFlight	Can you assist me in booking a newfangled international flight with more convenient schedules?
+NewBooking_SelectFlight	Can you assist me in hold a new international flight with more convenient schedules?
+NewBooking_SelectFlight	keister you assist me in booking a new international flight with more convenient schedules?
+NewBooking_SelectFlight	throne you assist me in booking a new international flight with more convenient schedules?
+NewBooking_SelectFlight	Can you assist me in booking a newfangled same-day flight?
+NewBooking_SelectFlight	displace you assist me in booking a new same-day flight?
+NewBooking_SelectFlight	fire you assist me in booking a new same-day flight?
+NewBooking_SelectFlight	rump you assist me in booking a new same-day flight?
+NewBooking_SelectFlight	Can you assist me in book a new same-day international flight with more convenient layovers?
+NewBooking_SelectFlight	bottom you assist me in booking a new same-day international flight with more convenient layovers?
+NewBooking_SelectFlight	crapper you assist me in booking a new same-day international flight with more convenient layovers?
+NewBooking_SelectFlight	hindquarters you assist me in booking a new same-day international flight with more convenient layovers?
+NewBooking_SelectFlight	Can you assist me in booking a new same-day International flight?
+NewBooking_SelectFlight	Can you assist me in booking a newly same-day international flight?
+NewBooking_SelectFlight	Can you assist me in hold a new same-day international flight?
+NewBooking_SelectFlight	fire you assist me in booking a new same-day international flight?
+NewBooking_SelectFlight	Can you assist me in hold a same-day flight to the East Coast?
+NewBooking_SelectFlight	ass you assist me in booking a same-day flight to the East Coast?
+NewBooking_SelectFlight	bum you assist me in booking a same-day flight to the East Coast?
+NewBooking_SelectFlight	stool you assist me in booking a same-day flight to the East Coast?
+NewBooking_SelectFlight	Can you aid me with rebooking a flight due to illness?
+NewBooking_SelectFlight	backside you assist me with rebooking a flight due to illness?
+NewBooking_SelectFlight	bathroom you assist me with rebooking a flight due to illness?
+NewBooking_SelectFlight	canful you assist me with rebooking a flight due to illness?
+NewBooking_SelectFlight	Can you help me book a freshly international flight to Japan?
+NewBooking_SelectFlight	Can you help me book a new international escape to Japan?
+NewBooking_SelectFlight	arse you help me book a new international flight to Japan?
+NewBooking_SelectFlight	crapper you help me book a new international flight to Japan?
+NewBooking_SelectFlight	Can you assist me find a new domestic flight with more affordable prices and convenient schedules?
+NewBooking_SelectFlight	Can you help me find a new domestic flight with more affordable prices and convenient agenda?
+NewBooking_SelectFlight	Can you help me find a novel domestic flight with more affordable prices and convenient schedules?
+NewBooking_SelectFlight	Can you help me uncovering a new domestic flight with more affordable prices and convenient schedules?
+NewBooking_SelectFlight	Can you help me find a newfangled domestic flight with more affordable prices?
+NewBooking_SelectFlight	Can you help me incur a new domestic flight with more affordable prices?
+NewBooking_SelectFlight	dismiss you help me find a new domestic flight with more affordable prices?
+NewBooking_SelectFlight	potty you help me find a new domestic flight with more affordable prices?
+NewBooking_SelectFlight	Can you help me discovery a new domestic flight with more convenient airport terminals?
+NewBooking_SelectFlight	Can you help me find a new domestic trajectory with more convenient airport terminals?
+NewBooking_SelectFlight	Can you help me find a newfangled domestic flight with more convenient airport terminals?
+NewBooking_SelectFlight	fire you help me find a new domestic flight with more convenient airport terminals?
+NewBooking_SelectFlight	Can you help me determine a new domestic flight with more convenient layovers?
+NewBooking_SelectFlight	crapper you help me find a new domestic flight with more convenient layovers?
+NewBooking_SelectFlight	fundament you help me find a new domestic flight with more convenient layovers?
+NewBooking_SelectFlight	terminate you help me find a new domestic flight with more convenient layovers?
+NewBooking_SelectFlight	Can you help me find a freshly flight that has food options available?
+NewBooking_SelectFlight	Can you help me happen a new flight that has food options available?
+NewBooking_SelectFlight	Can you help me recover a new flight that has food options available?
+NewBooking_SelectFlight	Can you help me regain a new flight that has food options available?
+NewBooking_SelectFlight	Can you aid me find a new flight to Chicago?
+NewBooking_SelectFlight	Can you help me bump a new flight to Chicago?
+NewBooking_SelectFlight	Can you help me find a newfangled flight to Chicago?
+NewBooking_SelectFlight	lav you help me find a new flight to Chicago?
+NewBooking_SelectFlight	Can you help me encounter a new flight with more legroom?
+NewBooking_SelectFlight	Can you help me find a new fledge with more legroom?
+NewBooking_SelectFlight	Can you help me find a raw flight with more legroom?
+NewBooking_SelectFlight	tin you help me find a new flight with more legroom?
+NewBooking_SelectFlight	bathroom you help me find a new last-minute flight?
+NewBooking_SelectFlight	buns you help me find a new last-minute flight?
+NewBooking_SelectFlight	fire you help me find a new last-minute flight?
+NewBooking_SelectFlight	fundament you help me find a new last-minute flight?
+NewBooking_SelectFlight	I just checked the weather betoken for my destination and it's not looking good.
+NewBooking_SelectFlight	I just checked the weather forecast for my destination and it's not calculate good.
+NewBooking_SelectFlight	I just checked the weather presage for my destination and it's not looking good.
+NewBooking_SelectFlight	I just chequer the weather forecast for my destination and it's not looking good.
+NewBooking_SelectFlight	I need a freshly flight that can cater to my dietary restrictions.
+NewBooking_SelectFlight	I need a new escape that can cater to my dietary restrictions.
+NewBooking_SelectFlight	I need a unexampled flight that can cater to my dietary restrictions.
+NewBooking_SelectFlight	I penury a new flight that can cater to my dietary restrictions.
+NewBooking_SelectFlight	I need a new flight that can cater to my medical inevitably and provide necessary equipment.
+NewBooking_SelectFlight	I need a new flight that can cater to my medical needs and furnish necessary equipment.
+NewBooking_SelectFlight	I need a new trajectory that can cater to my medical needs and provide necessary equipment.
+NewBooking_SelectFlight	I need a young flight that can cater to my medical needs and provide necessary equipment.
+NewBooking_SelectFlight	I need a new flight that can cater to my medical need.
+NewBooking_SelectFlight	I need a new flight that can supply to my medical needs.
+NewBooking_SelectFlight	I need a unexampled flight that can cater to my medical needs.
+NewBooking_SelectFlight	i need a new flight that can cater to my medical needs.
+NewBooking_SelectFlight	I indigence a new flight that can cater to my sleep disorders.
+NewBooking_SelectFlight	I motive a new flight that can cater to my sleep disorders.
+NewBooking_SelectFlight	I need a new flight that can cater to my sleep distract.
+NewBooking_SelectFlight	I need a new flying that can cater to my sleep disorders.
+NewBooking_SelectFlight	I need a new escape that can handle my mobility needs.
+NewBooking_SelectFlight	I need a new flight that can handle my mobility inevitably.
+NewBooking_SelectFlight	I need a new flight that can handle my mobility involve.
+NewBooking_SelectFlight	I need a new flying that can handle my mobility needs.
+NewBooking_SelectFlight	1 need a new flight that can handle my service dog.
+NewBooking_SelectFlight	I motivation a new flight that can handle my service dog.
+NewBooking_SelectFlight	I need a new fledge that can handle my service dog.
+NewBooking_SelectFlight	I need a new flight that can treat my service dog.
+NewBooking_SelectFlight	I motive a new flight to get back home as soon as possible after being flummox in the airport overnight.
+NewBooking_SelectFlight	I motive a new flight to get back menage as soon as possible after being stuck in the airport overnight.
+NewBooking_SelectFlight	I need a new flight to get back interior as soon as possible after being stuck in the airdrome overnight.
+NewBooking_SelectFlight	I need a new flight to mother back home as soon as possible after being puzzle in the airport overnight.
+NewBooking_SelectFlight	I need a Modern flight to get back home tonight.
+NewBooking_SelectFlight	I need a new flight to start back home tonight.
+NewBooking_SelectFlight	i need a new flight to get back home tonight.
+NewBooking_SelectFlight	single need a new flight to get back home tonight.
+NewBooking_SelectFlight	I was planning to natter family for the holidays but now I need to travel solo.
+NewBooking_SelectFlight	I was planning to visit family for the holidays but now I necessitate to travel solo.
+NewBooking_SelectFlight	I was planning to visit family for the holidays but now I need to locomote solo.
+NewBooking_SelectFlight	ace was planning to visit family for the holidays but now I need to travel solo.
+NewBooking_SelectFlight	I was wondering if I could beat a refund on my current flight.
+NewBooking_SelectFlight	I was wondering if I could get a refund on my stream flight.
+NewBooking_SelectFlight	I was wondering if I could receive a refund on my current flight.
+NewBooking_SelectFlight	i was wondering if I could get a refund on my current flight.
+NewBooking_SelectFlight	I'm having trouble quiescency because my current accommodation isn't near the airport.
+NewBooking_SelectFlight	I'm having trouble sleeping because my current accommodation isn't skinny the airport.
+NewBooking_SelectFlight	I'm having trouble sleeping because my current fitting isn't near the airport.
+NewBooking_SelectFlight	I'm having trouble sleeping because my flow accommodation isn't near the airport.
+NewBooking_SelectFlight	I'm having difficulty sleeping because my current flight is too early.
+NewBooking_SelectFlight	I'm having disorder sleeping because my current flight is too early.
+NewBooking_SelectFlight	I'm having trouble sleeping because my current flight is too betimes.
+NewBooking_SelectFlight	I'm having worry sleeping because my current flight is too early.
+NewBooking_SelectFlight	I'm operate out of time for my business trip.
+NewBooking_SelectFlight	I'm pass out of time for my business trip.
+NewBooking_SelectFlight	I'm running out of meter for my business trip.
+NewBooking_SelectFlight	I'm running out of time for my clientele trip.
+NewBooking_SelectFlight	I've been waiting at the airport for hours and my flight noneffervescent hasn't taken off yet.
+NewBooking_SelectFlight	I've been waiting at the airport for hours and my flight still hasn't get off yet.
+NewBooking_SelectFlight	I've been waiting at the airport for hours and my flight still hasn't hold off yet.
+NewBooking_SelectFlight	I've been waiting at the airport for hours and my flight still hasn't lease off yet.
+NewBooking_SelectFlight	I've just have an email stating that my flight has been cancelled due to a severe storm warning.
+NewBooking_SelectFlight	I've just received an email express that my flight has been cancelled due to a severe storm warning.
+NewBooking_SelectFlight	I've just received an email posit that my flight has been cancelled due to a severe storm warning.
+NewBooking_SelectFlight	I've just received an email stating that my flight has been cancelled referable to a severe storm warning.
+NewBooking_SelectFlight	I've just received an email stating that my flight has been delete due to a snowstorm.
+NewBooking_SelectFlight	I've just received an email stating that my trajectory has been cancelled due to a snowstorm.
+NewBooking_SelectFlight	I've just received an email submit that my flight has been cancelled due to a snowstorm.
+NewBooking_SelectFlight	I've just welcome an email stating that my flight has been cancelled due to a snowstorm.
+NewBooking_SelectFlight	I've just encounter an email stating that my flight was overbooked.
+NewBooking_SelectFlight	I've just experience an email stating that my flight was overbooked.
+NewBooking_SelectFlight	I've just meet an email stating that my flight was overbooked.
+NewBooking_SelectFlight	I've just received an email stating that my escape was overbooked.
+NewBooking_SelectFlight	I've lost my boarding pass and need a fresh one ASAP.
+NewBooking_SelectFlight	I've lost my boarding pass and need a new ace ASAP.
+NewBooking_SelectFlight	I've lost my boarding pass and need a novel one ASAP.
+NewBooking_SelectFlight	I've lost my boarding toss and need a new one ASAP.
+NewBooking_SelectFlight	I've confounded my passport and need to renew it ASAP.
+NewBooking_SelectFlight	I've lost my passport and need to regenerate it ASAP.
+NewBooking_SelectFlight	I've lost my passport and need to reincarnate it ASAP.
+NewBooking_SelectFlight	I've missed my passport and need to renew it ASAP.
+NewBooking_SelectFlight	I've lost my phone charger and need to boot it before my flight leaves.
+NewBooking_SelectFlight	I've lost my phone charger and need to consign it before my flight leaves.
+NewBooking_SelectFlight	I've lost my telephone charger and need to charge it before my flight leaves.
+NewBooking_SelectFlight	I've mislay my phone charger and need to charge it before my flight leaves.
+NewBooking_SelectFlight	I've bemused my travel documents and need to renew them ASAP.
+NewBooking_SelectFlight	I've lost my locomotion documents and need to renew them ASAP.
+NewBooking_SelectFlight	I've lost my travel documents and pauperization to renew them ASAP.
+NewBooking_SelectFlight	I've mislay my travel documents and need to renew them ASAP.
+NewBooking_SelectFlight	My Bos has asked me to attend an urgent meeting in the city.
+NewBooking_SelectFlight	My boss has asked me to attend an urgent fulfil in the city.
+NewBooking_SelectFlight	My boss has postulate me to attend an urgent meeting in the city.
+NewBooking_SelectFlight	My boss has take me to attend an urgent meeting in the city.
+NewBooking_SelectFlight	My company command me to attend an international conference and I need a new flight.
+NewBooking_SelectFlight	My company requires me to attend an international conference and I need a Modern flight.
+NewBooking_SelectFlight	My company requires me to attend an international conference and I need a new escape.
+NewBooking_SelectFlight	My company requires me to attend an international conference and I need a unexampled flight.
+NewBooking_SelectFlight	My current flight is not suitable for my motivation anymore.
+NewBooking_SelectFlight	My current flight is not suitable for my necessitate anymore.
+NewBooking_SelectFlight	My current flight is not suitable for my take anymore.
+NewBooking_SelectFlight	My current flying is not suitable for my needs anymore.
+NewBooking_SelectFlight	My current flight is drive too long and I'm going to miss my connecting flight.
+NewBooking_SelectFlight	My current flight is taking too long and I'm expiration to miss my connecting flight.
+NewBooking_SelectFlight	My current flight is taking too long and I'm going to drop my connecting flight.
+NewBooking_SelectFlight	My current flight is taking too long and I'm going to miss my link flight.
+NewBooking_SelectFlight	My flight has been delayed multiple clock this week.
+NewBooking_SelectFlight	My flight has been delayed multiple meter this week.
+NewBooking_SelectFlight	My flight has been delayed multiple multiplication this week.
+NewBooking_SelectFlight	My flying has been delayed multiple times this week.
+NewBooking_SelectFlight	My flight is leaving tomorrow and I just remembered I booked it concluding week.
+NewBooking_SelectFlight	My flight is leaving tomorrow and I just remembered I set-aside it last week.
+NewBooking_SelectFlight	My flight is leaving tomorrow and I just remembered iodine booked it last week.
+NewBooking_SelectFlight	My flight is leaving tomorrow and single just remembered I booked it last week.
+NewBooking_SelectFlight	My original flight is too expensive, can I detect a cheaper one?
+NewBooking_SelectFlight	My original flight is too expensive, can I find a meretricious one?
+NewBooking_SelectFlight	My original flight is too expensive, can I find a sleazy one?
+NewBooking_SelectFlight	My original flight is too expensive, can I happen a cheaper one?
+NewBooking_SelectFlight	My original flight was cancelled due to maintenance emergence with the plane.
+NewBooking_SelectFlight	My original flight was cancelled due to maintenance issues with the level.
+NewBooking_SelectFlight	My original flight was cancelled due to maintenance matter with the plane.
+NewBooking_SelectFlight	My original flight was delete due to maintenance issues with the plane.
+NewBooking_SelectFlight	My original flight was cancelled due to brave.
+NewBooking_SelectFlight	My original flight was cancelled imputable to weather.
+NewBooking_SelectFlight	My original flight was delete due to weather.
+NewBooking_SelectFlight	My original flight was scratch due to weather.
+NewBooking_SelectFlight	My original flight was imagine to be an overnight trip but now it's going to be shorter than expected.
+NewBooking_SelectFlight	My original flight was say to be an overnight trip but now it's going to be shorter than expected.
+NewBooking_SelectFlight	My original flight was supposed to be an overnight trip but now it's go to be shorter than expected.
+NewBooking_SelectFlight	My original flight was suppositious to be an overnight trip but now it's going to be shorter than expected.
+NewBooking_SelectFlight	My original flight was supposed to acquire off today but it's been cancelled due to mechanical issues.
+NewBooking_SelectFlight	My original flight was supposed to need off today but it's been cancelled due to mechanical issues.
+NewBooking_SelectFlight	My original flight was supposed to take off today but it's been cancelled due to mechanical outcome.
+NewBooking_SelectFlight	My original flight was supposed to take off today but it's been cancelled due to mechanical proceeds.
+NewBooking_SelectFlight	My original flight was supposed to ingest off today but now it's been cancelled due to pilot shortage.
+NewBooking_SelectFlight	My original flight was supposed to necessitate off today but now it's been cancelled due to pilot shortage.
+NewBooking_SelectFlight	My original flight was supposed to subscribe off today but now it's been cancelled due to pilot shortage.
+NewBooking_SelectFlight	My original flying was supposed to take off today but now it's been cancelled due to pilot shortage.
+NewBooking_SelectFlight	My master flight was supposed to take off today but now it's been cancelled due to unforeseen circumstances.
+NewBooking_SelectFlight	My original flight was supposed to carry off today but now it's been cancelled due to unforeseen circumstances.
+NewBooking_SelectFlight	My original flight was supposed to hire off today but now it's been cancelled due to unforeseen circumstances.
+NewBooking_SelectFlight	My original flight was supposed to take off today but now it's been cancelled due to unanticipated circumstances.
+NewBooking_SelectFlight	My original flight was supposed to demand off today but now it's been delayed multiple times due to weather.
+NewBooking_SelectFlight	My original flight was supposed to ingest off today but now it's been delayed multiple times due to weather.
+NewBooking_SelectFlight	My original flight was supposed to take off today but now it's been delayed multiple metre due to weather.
+NewBooking_SelectFlight	My original flight was think to take off today but now it's been delayed multiple times due to weather.
+NewBooking_SelectFlight	My original flight was conjecture to take off today but now it's been rescheduled for tomorrow due to mechanical takings.
+NewBooking_SelectFlight	My original flight was imagine to engage off today but now it's been rescheduled for tomorrow due to mechanical issues.
+NewBooking_SelectFlight	My original flight was supposed to select off today but now it's been rescheduled for tomorrow due to mechanical progeny.
+NewBooking_SelectFlight	My original flying was supposed to direct off today but now it's been rescheduled for tomorrow due to mechanical issues.
+NewBooking_SelectFlight	My master flight was supposed to take off today but now it's been rescheduled for tomorrow.
+NewBooking_SelectFlight	My original flight was supposed to carry off today but now it's been rescheduled for tomorrow.
+NewBooking_SelectFlight	My original flight was supposed to pack off today but now it's been rescheduled for tomorrow.
+NewBooking_SelectFlight	My original flight was supposed to postulate off today but now it's been rescheduled for tomorrow.
+NewBooking_SelectFlight	My original flight was guess to take off yesterday but it's been delayed multiple times.
+NewBooking_SelectFlight	My original flight was supposed to pack off yesterday but it's been delayed multiple times.
+NewBooking_SelectFlight	My original flight was supposed to select off yesterday but it's been delayed multiple times.
+NewBooking_SelectFlight	My original flight was supposed to train off yesterday but it's been delayed multiple times.
+NewBooking_SelectFlight	My original flight was reckon to engage off yesterday but now it's been cancelled due to construction in the area.
+NewBooking_SelectFlight	My original flight was supposed to carry off yesterday but now it's been cancelled due to construction in the arena.
+NewBooking_SelectFlight	My original flight was supposed to ingest off yesterday but now it's been cancelled due to construction in the sphere.
+NewBooking_SelectFlight	My original flight was think to consider off yesterday but now it's been cancelled due to construction in the area.
+NewBooking_SelectFlight	My original flight was imagine to take off yesterday but now it's been cancelled due to maintenance issues.
+NewBooking_SelectFlight	My original flight was supposed to make off yesterday but now it's been cancelled due to maintenance issues.
+NewBooking_SelectFlight	My original flight was supposed to rent off yesterday but now it's been cancelled due to maintenance issues.
+NewBooking_SelectFlight	My original flight was supposed to take off yesterday but now it's been cancelled due to maintenance publish.
+NewBooking_SelectFlight	My original escape was supposed to payoff off yesterday but now it's been delayed multiple times due to construction in the area.
+NewBooking_SelectFlight	My original flight was supposed to consume off yesterday but now it's been retard multiple times due to construction in the area.
+NewBooking_SelectFlight	My original flight was supposed to strike off yesterday but now it's been detain multiple times due to construction in the area.
+NewBooking_SelectFlight	My original flight was supposititious to exact off yesterday but now it's been delayed multiple times due to construction in the area.
+NewBooking_SelectFlight	My archetype flight was supposed to take off yesterday but now it's been rescheduled for nowadays due to mechanical issues.
+NewBooking_SelectFlight	My master flight was supposed to exact off yesterday but now it's been rescheduled for today due to mechanical issues.
+NewBooking_SelectFlight	My original flight was guess to bring off yesterday but now it's been rescheduled for today due to mechanical issues.
+NewBooking_SelectFlight	My original flight was supposed to postulate off yesterday but now it's been rescheduled for today due to mechanical outlet.
+NewBooking_SelectFlight	My original flight was hypothetic to take off yesterday but now it's been rescheduled for today.
+NewBooking_SelectFlight	My original flight was suppose to take off yesterday but now it's been rescheduled for today.
+NewBooking_SelectFlight	My original flight was supposed to ask off yesterday but now it's been rescheduled for today.
+NewBooking_SelectFlight	My original flight was supposed to remove off yesterday but now it's been rescheduled for today.
+NewBooking_SelectFlight	My schedule has changed and I now need to travel a Day earlier.
+NewBooking_SelectFlight	My schedule has changed and I now need to travel a day other.
+NewBooking_SelectFlight	My schedule has changed and I now need to travel a day sooner.
+NewBooking_SelectFlight	My schedule has changed and ane now need to travel a day earlier.
+NewBooking_SelectFlight	The airline enounce they won't be able to accommodate my request for a free upgrade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my petition for a free upgrade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for a free elevate.
+NewBooking_SelectFlight	The airline says they won't be able to admit my request for a free upgrade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my quest for a seat change.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for a seat modification.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for a seat modify.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for a sit change.
+NewBooking_SelectFlight	The airline allege they won't be able to accommodate my request for an earlier arrival at the destination airport.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my bespeak for an earlier arrival at the destination airport.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my postulation for an earlier arrival at the destination airport.
+NewBooking_SelectFlight	The airway says they won't be able to accommodate my request for an earlier arrival at the destination airport.
+NewBooking_SelectFlight	The airline say they won't be able to accommodate my request for an earlier flight.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an earliest flight.
+NewBooking_SelectFlight	The airline says they won't be able to suit my request for an earlier flight.
+NewBooking_SelectFlight	The airline says they won't be capable to accommodate my request for an earlier flight.
+NewBooking_SelectFlight	The airline articulate they won't be able to accommodate my request for an extra luggage allowance.
+NewBooking_SelectFlight	The airline says they won't be able to reconcile my request for an extra luggage allowance.
+NewBooking_SelectFlight	The airline says they won't be able-bodied to accommodate my request for an extra luggage allowance.
+NewBooking_SelectFlight	The airline suppose they won't be able to accommodate my request for an extra luggage allowance.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an overnight continue at the airport hotel.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an overnight stay at the aerodrome hotel.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an overnight stay at the drome hotel.
+NewBooking_SelectFlight	The airway says they won't be able to accommodate my request for an overnight stay at the airport hotel.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an upgrade to business grade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an upgrade to concern class.
+NewBooking_SelectFlight	The airline says they won't be able to suit my request for an upgrade to business class.
+NewBooking_SelectFlight	The airline state they won't be able to accommodate my request for an upgrade to business class.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an raise to first class.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an upgrade to kickoff class.
+NewBooking_SelectFlight	The airline suppose they won't be able to accommodate my request for an upgrade to first class.
+NewBooking_SelectFlight	The airway says they won't be able to accommodate my request for an upgrade to first class.
+NewBooking_SelectFlight	The airline articulate they won't be able to accommodate my request for an upgrade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an ascent.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for an climb.
+NewBooking_SelectFlight	The airline says they won't be able to oblige my request for an upgrade.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my postulation for extra legroom.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my quest for extra legroom.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for surplus legroom.
+NewBooking_SelectFlight	The airline says they won't be able to suit my request for extra legroom.
+NewBooking_SelectFlight	The airline aver they won't be able to accommodate my request for priority boarding.
+NewBooking_SelectFlight	The airline enunciate they won't be able to accommodate my request for priority boarding.
+NewBooking_SelectFlight	The airline read they won't be able to accommodate my request for priority boarding.
+NewBooking_SelectFlight	The airline says they won't be able to accommodate my request for precedency boarding.
+NewBooking_SelectFlight	The flight I have booked for next week will assign me behind schedule.
+NewBooking_SelectFlight	The flight I have booked for next week will couch me behind schedule.
+NewBooking_SelectFlight	The flight I have booked for next week will position me behind schedule.
+NewBooking_SelectFlight	The flight I have booked for next week will put me prat schedule.
+NewBooking_SelectFlight	The brave forecast says there will be a storm during my flight.
+NewBooking_SelectFlight	The weather forecast order there will be a storm during my flight.
+NewBooking_SelectFlight	The weather forecast state there will be a storm during my flight.
+NewBooking_SelectFlight	The weather foretell says there will be a storm during my flight.

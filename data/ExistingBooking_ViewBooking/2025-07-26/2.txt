@@ -1,0 +1,76 @@
+Can you check if I've already made a reservation?
+Can you check if I've been upgraded on my flight?
+Can you confirm my arrival time at the airport?
+Can you confirm my departure time and gate?
+Can you confirm my flight number and departure time?
+Can you give me a summary of my airfare and hotel costs?
+Can you give me a summary of my existing reservation?
+Can you give me a summary of my travel itinerary?
+Can you give me information on my existing booking?
+Can you give me information on my travel refund policy?
+Can you give me the fare difference from last year?
+Can you provide information on my accommodation?
+Can you provide information on my change fee policy?
+Can you provide information on my flight cancellation policy?
+Can you provide information on my hotel cancellation policy?
+Can you provide information on my travel insurance?
+Can you show me my upcoming flight details?
+Can you show me the estimated arrival and departure times?
+Can you show me the price difference between options?
+Do I have any changes to my booking pending?
+Do I have any changes to my existing reservation pending?
+Do I have any connecting flights booked?
+Do I have any flights booked for next month?
+Do I have any flights booked for next week?
+Do I have any flights booked within the next month?
+Do I have any flights booked within the next two weeks?
+Do I have any flights booked within the next week?
+Here are 80 statements to train a corporate travel chatbot:
+I need access to my booking please.
+I want to see the receipt for my payment.
+Is there an amendment to my existing reservation?
+Is there an update on my accommodation status today?
+Is there an update on my airfare status today?
+Is there an update on my flight status today?
+Is there an update on my travel insurance status today?
+Is there an update on my travel itinerary?
+Is there an update on my travel plans today?
+Is there an update on my travel plans?
+Is there an update on my travel status today?
+Is there an update on my travel status?
+Is there any new information about my booking?
+My airfare and hotel details are missing from my confirmation.
+My booking details please.
+My flight details are incomplete can you show me now.
+My flight details are incomplete please show me.
+My flight details are missing from my itinerary.
+My flight number is unknown can you find it for me now.
+My flight number is unknown can you help me find it.
+My flight number is unknown please find it for me.
+My flight number is unknown please help me find it.
+My travel itinerary is incomplete please show me.
+Show me my booked travel dates.
+Show me the breakdown of my airfare.
+Show me the cost of my airfare and hotel together.
+Show me the cost of my airfare only please.
+Show me the estimated arrival time at the airport please.
+Show me the estimated cost of my airfare only please.
+View my current accommodation and flight details online please.
+View my current accommodation and flight details online.
+View my current airfare and hotel details online now.
+View my current airfare and hotel details.
+View my current hotel reservation please.
+View my current travel booking details online now please.
+View my current travel booking details online now.
+View my current travel booking details online.
+What's my current itinerary look like?
+What's my flight number and departure time?
+What's the policy if I need to cancel my booking?
+What's the policy if I need to change my booking?
+What's the policy if I need to change my hotel reservation?
+What's the reason for the cancellation?
+What's the reason for the change in travel dates?
+What's the reason for the price increase on airfare?
+What's the reason for the price increase?
+What's the status of my flight?
+What's the status of my hotel reservation?

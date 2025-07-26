@@ -1,0 +1,81 @@
+Are there any changes to my flight schedule?
+Are there any discounts available for my booking?
+Are there any discounts available for seniors or students?
+Are there any restrictions on my travel type?
+Are there any special requests I can make with my booking?
+Are there any travel restrictions on my booking?
+Are there any travel restrictions on passengers with disabilities?
+Can you confirm my car rental booking confirmation number?
+Can you confirm my driver's license details for travel.
+Can you confirm my flight schedule time change details.
+Can you confirm my hotel reservation details.
+Can you confirm my seat selection on my flight?
+Can you confirm my seat selection upgrade on my flight?
+Can you provide an update on my travel status?
+Can you show me the breakdown of my total cost?
+Can you show me the list of hotels in the area I'll be staying at?
+Can you show me the map of my hotel location.
+Can you tell me about the status of my travel plans?
+Can you tell me details about my trip to Chicago?
+Can you tell me how much I owe for my booking?
+Can you tell me how much my baggage allowance costs?
+Can you tell me how to get to my hotel from the airport?
+Check if there's any additional fees for my flight.
+Check if there's any changes to my accommodation type.
+Check if there's any changes to my car rental pickup time.
+Check if there's any changes to my flight schedule time.
+Check if there's any changes to my hotel check-in time.
+Check if there's any changes to my hotel check-out time.
+Check if there's any extra fees for additional baggage allowance.
+Check if there's any extra fees for additional passengers.
+Check if there's any extra fees for airport parking or shuttle services.
+Check if there's any extra fees for my hotel stay.
+Check if there's any luggage allowance left.
+Check if there's any luggage restrictions on my booking.
+Check if there's any updates on my existing reservation.
+Here are 80 training statements for a corporate travel chatbot:
+I booked a room at a different location than expected.
+I booked a room with a different occupancy rate than expected.
+I need help with my upcoming business trip.
+I need help with printing my travel documents.
+I need to update my travel plans.
+I'm having trouble with my flight itinerary.
+I'm looking up my booking from last month.
+Is there a cancellation fee for any changes to my booking?
+Is there a cancellation fee for my booking?
+Is there a fee for making changes to my car rental pickup time?
+Is there a fee for making changes to my flight itinerary?
+Is there a hold on my payment for my booking?
+Is there a late fee for my booking cancellation?
+Show me a summary of my existing booking details.
+Show me a summary of my flight itinerary details.
+Show me a summary of my total booking cost.
+Show me a summary of my total payment amount.
+Show me the breakdown of my payment due date.
+Show me the breakdown of my payment.
+Show me the details of my existing car rental company.
+Show me the itinerary of my travel plans.
+Show me the list of flights on my itinerary.
+Show me the payment receipt for my booking.
+View details about my accommodation location.
+View details about my accommodation type.
+View details about my car rental company.
+View details about my existing accommodation.
+View details about my existing flight plans.
+View details about my existing travel plans.
+View details about my existing travel policy.
+View details about my last-minute flight change.
+View details about my travel insurance coverage.
+View details about my travel insurance policy.
+What is the address of my accommodation?
+What is the address of the airport I'm flying from?
+What is the address of the nearest train station to my hotel?
+What is the check-in time for my hotel?
+What is the earliest I can check out from my hotel?
+What is the process for cancelling my booking?
+What is the process for cancelling my trip?
+What is the process for making changes to my accommodation type?
+What is the status of my travel authorization?
+What was the cost of my hotel room?
+What was the original cost of my flight?
+What was the total cost of my hotel stay?
