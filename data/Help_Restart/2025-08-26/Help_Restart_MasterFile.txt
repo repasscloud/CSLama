@@ -1,0 +1,560 @@
+Help_Restart	Can I ask for clarification on what single did wrong?
+Help_Restart	butt I ask for clarification on what I did wrong?
+Help_Restart	pot I ask for clarification on what I did wrong?
+Help_Restart	stool I ask for clarification on what I did wrong?
+Help_Restart	Can I enquire for guidance?
+Help_Restart	Can ace ask for guidance?
+Help_Restart	fundament I ask for guidance?
+Help_Restart	john I ask for guidance?
+Help_Restart	Can iodine ask for your advice on how to proceed?
+Help_Restart	keister I ask for your advice on how to proceed?
+Help_Restart	nates I ask for your advice on how to proceed?
+Help_Restart	tooshie I ask for your advice on how to proceed?
+Help_Restart	Can I ask for your guidance on how to proceed with our current asking?
+Help_Restart	Can single ask for your guidance on how to proceed with our current request?
+Help_Restart	fire I ask for your guidance on how to proceed with our current request?
+Help_Restart	stern I ask for your guidance on how to proceed with our current request?
+Help_Restart	Can I inquire for your guidance?
+Help_Restart	Can I postulate for your guidance?
+Help_Restart	crapper I ask for your guidance?
+Help_Restart	keister I ask for your guidance?
+Help_Restart	Can I pop again from the beginning?
+Help_Restart	Can I start again from the first?
+Help_Restart	Can iodin start again from the beginning?
+Help_Restart	keister I start again from the beginning?
+Help_Restart	Can we go back to the beginning of this treat and start again?
+Help_Restart	Can we go backrest to the beginning of this process and start again?
+Help_Restart	Can we go endorse to the beginning of this process and start again?
+Help_Restart	fanny we go back to the beginning of this process and start again?
+Help_Restart	Can we locomote back to the beginning of this process?
+Help_Restart	Can we perish back to the beginning of this process?
+Help_Restart	Can we plump back to the beginning of this process?
+Help_Restart	lavatory we go back to the beginning of this process?
+Help_Restart	bum we reboot?
+Help_Restart	commode we reboot?
+Help_Restart	privy we reboot?
+Help_Restart	stern we reboot?
+Help_Restart	backside we redo our conversation?
+Help_Restart	bottom we redo our conversation?
+Help_Restart	crapper we redo our conversation?
+Help_Restart	tooshie we redo our conversation?
+Help_Restart	Can we redo the integral conversation?
+Help_Restart	hindquarters we redo the entire conversation?
+Help_Restart	lav we redo the entire conversation?
+Help_Restart	stool we redo the entire conversation?
+Help_Restart	Can we start fresh with a new bespeak and a new strategy?
+Help_Restart	Can we start impertinent with a new request and a new strategy?
+Help_Restart	Can we start invigorated with a new request and a new strategy?
+Help_Restart	stern we start fresh with a new request and a new strategy?
+Help_Restart	Can we go fresh with a new request?
+Help_Restart	Can we start sweet with a new request?
+Help_Restart	fundament we start fresh with a new request?
+Help_Restart	lavatory we start fresh with a new request?
+Help_Restart	hindquarters we start over?
+Help_Restart	lav we start over?
+Help_Restart	potty we start over?
+Help_Restart	tin we start over?
+Help_Restart	canful you explain how to proceed with our current conversation?
+Help_Restart	lavatory you explain how to proceed with our current conversation?
+Help_Restart	toilet you explain how to proceed with our current conversation?
+Help_Restart	tush you explain how to proceed with our current conversation?
+Help_Restart	hindquarters you explain how to proceed with the current request?
+Help_Restart	lavatory you explain how to proceed with the current request?
+Help_Restart	throne you explain how to proceed with the current request?
+Help_Restart	tush you explain how to proceed with the current request?
+Help_Restart	buns you explain how to proceed?
+Help_Restart	posterior you explain how to proceed?
+Help_Restart	rear you explain how to proceed?
+Help_Restart	tush you explain how to proceed?
+Help_Restart	behind you explain our current status again?
+Help_Restart	buttocks you explain our current status again?
+Help_Restart	tail you explain our current status again?
+Help_Restart	tin you explain our current status again?
+Help_Restart	Could we initiate fresh?
+Help_Restart	Could we start overbold?
+Help_Restart	Could we start refreshing?
+Help_Restart	Could we start unfermented?
+Help_Restart	Do you motive help restarting our discussion on this topic?
+Help_Restart	Do you postulate help restarting our discussion on this topic?
+Help_Restart	doh you need help restarting our discussion on this topic?
+Help_Restart	serve you need help restarting our discussion on this topic?
+Help_Restart	Do you necessitate help restarting our discussion?
+Help_Restart	Do you need help restarting our discourse?
+Help_Restart	coiffe you need help restarting our discussion?
+Help_Restart	practice you need help restarting our discussion?
+Help_Restart	Do you demand help with our current conversation?
+Help_Restart	Do you need assist with our current conversation?
+Help_Restart	Do you need avail with our current conversation?
+Help_Restart	Do you want help with our current conversation?
+Help_Restart	Do you demand me to review our conversation?
+Help_Restart	Do you need me to recap our conversation?
+Help_Restart	Do you need me to reexamination our conversation?
+Help_Restart	Do you want me to review our conversation?
+Help_Restart	Do you want me to embolden our conversation?
+Help_Restart	behave you want me to recreate our conversation?
+Help_Restart	exercise you want me to recreate our conversation?
+Help_Restart	ut you want me to recreate our conversation?
+Help_Restart	DO you want me to recreate our entire conversation from scratch?
+Help_Restart	Do you want me to recreate our integral conversation from scratch?
+Help_Restart	Do you wishing me to recreate our entire conversation from scratch?
+Help_Restart	arrange you want me to recreate our entire conversation from scratch?
+Help_Restart	Do you want me to play our entire conversation from the beginning?
+Help_Restart	Do you want me to recreate our total conversation from the beginning?
+Help_Restart	Do you want me to revivify our entire conversation from the beginning?
+Help_Restart	dress you want me to recreate our entire conversation from the beginning?
+Help_Restart	Do you require me to recreate our entire conversation?
+Help_Restart	Do you want me to revivify our entire conversation?
+Help_Restart	do you want me to recreate our entire conversation?
+Help_Restart	practise you want me to recreate our entire conversation?
+Help_Restart	Do you want me to begin over from the last step?
+Help_Restart	cause you want me to start over from the last step?
+Help_Restart	manage you want me to start over from the last step?
+Help_Restart	practise you want me to start over from the last step?
+Help_Restart	Do you want to go dorsum to the beginning?
+Help_Restart	Do you want to go second to the beginning?
+Help_Restart	Do you want to lead back to the beginning?
+Help_Restart	practice you want to go back to the beginning?
+Help_Restart	How about a do-over?
+Help_Restart	How about we re-start our conversation?
+Help_Restart	How about we restart our conversation?
+Help_Restart	How about we resume our conversation?
+Help_Restart	How can I improve my conversation flowing?
+Help_Restart	How can I meliorate my conversation flow?
+Help_Restart	How can i improve my conversation flow?
+Help_Restart	How can iodin improve my conversation flow?
+Help_Restart	How can I improve my conversation acquirement?
+Help_Restart	How can I improve my conversation attainment?
+Help_Restart	How can i improve my conversation skills?
+Help_Restart	How can iodine improve my conversation skills?
+Help_Restart	How can I ameliorate my process?
+Help_Restart	How can I improve my procedure?
+Help_Restart	How can one improve my process?
+Help_Restart	How can single improve my process?
+Help_Restart	How can I brand it right?
+Help_Restart	How can I fix it right?
+Help_Restart	How can I name it right?
+Help_Restart	How can I pretend it right?
+Help_Restart	How can I give our conversation more efficient?
+Help_Restart	How can I produce our conversation more efficient?
+Help_Restart	How can I shuffling our conversation more efficient?
+Help_Restart	How can ace make our conversation more efficient?
+Help_Restart	How can I build our conversation smoother?
+Help_Restart	How can I seduce our conversation smoother?
+Help_Restart	How can iodin make our conversation smoother?
+Help_Restart	How can single make our conversation smoother?
+Help_Restart	How can I make certain our conversation is clear and concise?
+Help_Restart	How can I make sure our conversation is well-defined and concise?
+Help_Restart	How can I urinate sure our conversation is clear and concise?
+Help_Restart	How can i make sure our conversation is clear and concise?
+Help_Restart	How can I create sure our conversation is efficient and effective?
+Help_Restart	How can I form sure our conversation is efficient and effective?
+Help_Restart	How can I seduce sure our conversation is efficient and effective?
+Help_Restart	How can I work sure our conversation is efficient and effective?
+Help_Restart	How can I build sure our conversation is successful?
+Help_Restart	How can I realise sure our conversation is successful?
+Help_Restart	How can one make sure our conversation is successful?
+Help_Restart	How can unity make sure our conversation is successful?
+Help_Restart	I think we engender off track.
+Help_Restart	I think we fix off track.
+Help_Restart	I think we got off trail.
+Help_Restart	ace think we got off track.
+Help_Restart	I think we cause stuck.
+Help_Restart	I think we generate stuck.
+Help_Restart	I think we incur stuck.
+Help_Restart	I think we stupefy stuck.
+Help_Restart	I'd like to reinitiate from lolly.
+Help_Restart	I'd like to reinitiate from pelf.
+Help_Restart	I'd like to reinitiate from scrape.
+Help_Restart	I'd like to reinitiate from scrub.
+Help_Restart	I'm ready to bulge over.
+Help_Restart	I'm ready to commence over.
+Help_Restart	I'm ready to commencement over.
+Help_Restart	I'm ready to depart over.
+Help_Restart	Let's Begin again.
+Help_Restart	Let's commence again.
+Help_Restart	Let's get again.
+Help_Restart	Let's start again.
+Help_Restart	Let's catch back on track with a new approach.
+Help_Restart	Let's develop back on track with a new approach.
+Help_Restart	Let's get back on rail with a new approach.
+Help_Restart	Let's scram back on track with a new approach.
+Help_Restart	Let's bewilder back on track with the current request.
+Help_Restart	Let's cause back on track with the current request.
+Help_Restart	Let's get rearwards on track with the current request.
+Help_Restart	Let's produce back on track with the current request.
+Help_Restart	Let's bewilder back on track.
+Help_Restart	Let's get backwards on track.
+Help_Restart	Let's get support on track.
+Help_Restart	Let's incur back on track.
+Help_Restart	Let's restart from the conclusion attempt.
+Help_Restart	Let's restart from the last assay.
+Help_Restart	Let's restart from the last effort.
+Help_Restart	Let's resume from the last attempt.
+Help_Restart	Let's restart from the finis step in our conversation.
+Help_Restart	Let's restart from the last footmark in our conversation.
+Help_Restart	Let's restart from the last-place step in our conversation.
+Help_Restart	Let's resume from the last step in our conversation.
+Help_Restart	Let's attempt a different approach.
+Help_Restart	Let's endeavour a different approach.
+Help_Restart	Let's prove a different approach.
+Help_Restart	Let's try a different feeler.
+Help_Restart	Let's attempt again from the beginning of this process.
+Help_Restart	Let's endeavour again from the beginning of this process.
+Help_Restart	Let's hear again from the beginning of this process.
+Help_Restart	Let's test again from the beginning of this process.
+Help_Restart	Let's essay again from the beginning.
+Help_Restart	Let's hear again from the beginning.
+Help_Restart	Let's try again from the kickoff.
+Help_Restart	Let's try again from the root.
+Help_Restart	Let's judge again with a new approach.
+Help_Restart	Let's test again with a new approach.
+Help_Restart	Let's try again with a new advance.
+Help_Restart	Let's try again with a novel approach.
+Help_Restart	Let's essay again with a new strategy.
+Help_Restart	Let's sample again with a new strategy.
+Help_Restart	Let's seek again with a new strategy.
+Help_Restart	Let's try again with a raw strategy.
+Help_Restart	bad for the confusion.
+Help_Restart	drear for the confusion.
+Help_Restart	good-for-naught for the confusion.
+Help_Restart	lamentable for the confusion.
+Help_Restart	Sorry, I recall there was a mistake with our previous response.
+Help_Restart	Sorry, I reckon there was a mistake with our previous response.
+Help_Restart	Sorry, iodin think there was a mistake with our previous response.
+Help_Restart	drear, I think there was a mistake with our previous response.
+Help_Restart	Sorry, I conceive there was an error.
+Help_Restart	Sorry, single think there was an error.
+Help_Restart	no-count, I think there was an error.
+Help_Restart	sad, I think there was an error.
+Help_Restart	Sorry, I cogitate there was an issue with our previous response.
+Help_Restart	Sorry, I think there was an issue with our previous reply.
+Help_Restart	Sorry, I think there was an offspring with our previous response.
+Help_Restart	Sorry, I think there was an upshot with our previous response.
+Help_Restart	Sorry, I'm mazed.
+Help_Restart	Sorry, I'm missed.
+Help_Restart	gloomy, I'm lost.
+Help_Restart	no-account, I'm lost.
+Help_Restart	Sorry, I'm not sure what find next.
+Help_Restart	Sorry, I'm not sure what happen next.
+Help_Restart	Sorry, I'm not sure what pass next.
+Help_Restart	lamentable, I'm not sure what happened next.
+Help_Restart	bad, I'm not sure what happened.
+Help_Restart	dingy, I'm not sure what happened.
+Help_Restart	no-good, I'm not sure what happened.
+Help_Restart	regretful, I'm not sure what happened.
+Help_Restart	Sorry, I'm not sure what's croak on.
+Help_Restart	Sorry, I'm not sure what's decease on.
+Help_Restart	Sorry, I'm not sure what's exit on.
+Help_Restart	lamentable, I'm not sure what's going on.
+Help_Restart	Sorry, can iodine help with something else?
+Help_Restart	dark, can I help with something else?
+Help_Restart	drab, can I help with something else?
+Help_Restart	dreary, can I help with something else?
+Help_Restart	What if I didn't aim it right in my last attempt?
+Help_Restart	What if I didn't fix it right in my last attempt?
+Help_Restart	What if I didn't get it justly in my last attempt?
+Help_Restart	What if I didn't grow it right in my last attempt?
+Help_Restart	What if I didn't find it right?
+Help_Restart	What if I didn't get it powerful?
+Help_Restart	What if I didn't gravel it right?
+Help_Restart	What if I didn't grow it right?
+Help_Restart	What if I didn't sympathize correctly in my last attempt?
+Help_Restart	What if I didn't understand correctly in my last undertake?
+Help_Restart	What if I didn't understand correctly in my live attempt?
+Help_Restart	What if i didn't understand correctly in my last attempt?
+Help_Restart	What if I didn't realize correctly?
+Help_Restart	What if I didn't understand aright?
+Help_Restart	What if I didn't understand right?
+Help_Restart	What if ane didn't understand correctly?
+Help_Restart	What if I do a mistake?
+Help_Restart	What if I name a mistake?
+Help_Restart	What if I prepare a mistake?
+Help_Restart	What if I stimulate a mistake?
+Help_Restart	What if I gain a wrong decision?
+Help_Restart	What if I made a incorrect decision?
+Help_Restart	What if I made a wrong decisiveness?
+Help_Restart	What if I take a wrong decision?
+Help_Restart	What if 1 messed up the previous conversation?
+Help_Restart	What if I messed up the former conversation?
+Help_Restart	What if I messed up the old conversation?
+Help_Restart	What if one messed up the previous conversation?
+Help_Restart	What if I messed up the former request?
+Help_Restart	What if i messed up the previous request?
+Help_Restart	What if iodin messed up the previous request?
+Help_Restart	What if single messed up the previous request?
+Help_Restart	What if I messed up the former step in our process?
+Help_Restart	What if I messed up the previous ill-use in our process?
+Help_Restart	What if I messed up the previous maltreat in our process?
+Help_Restart	What if I messed up the previous step in our march?
+Help_Restart	What if I mess up?
+Help_Restart	What if i messed up?
+Help_Restart	What if one messed up?
+Help_Restart	What if unity messed up?
+Help_Restart	What if we did affair differently?
+Help_Restart	What if we did matter differently?
+Help_Restart	What if we did thing differently?
+Help_Restart	What if we did things otherwise?
+Help_Restart	Are there any other accommodations you'd like me to produce?
+Help_Restart	Are there any other accommodations you'd like me to urinate?
+Help_Restart	live there any other accommodations you'd like me to make?
+Help_Restart	personify there any other accommodations you'd like me to make?
+Help_Restart	Are there any other destinations we should believe visiting instead?
+Help_Restart	Are there any other destinations we should consider chaffer instead?
+Help_Restart	Are there any other destinations we should consider chat instead?
+Help_Restart	cost there any other destinations we should consider visiting instead?
+Help_Restart	Are there any specific amenities you'd like me to appear out for in the hotel, such as breakfast options?
+Help_Restart	Are there any specific amenities you'd like me to aspect out for in the hotel, such as breakfast options?
+Help_Restart	Are there any specific amenities you'd like me to look out for in the hotel, such as breakfast selection?
+Help_Restart	Are there any specific amenities you'd like me to smell out for in the hotel, such as breakfast options?
+Help_Restart	Are there any specific amenities you'd alike me to look out for in the hotel?
+Help_Restart	Are there any specific amenities you'd like me to feeling out for in the hotel?
+Help_Restart	Are there any specific amenities you'd like me to see out for in the hotel?
+Help_Restart	Are there any specific amenities you'd wish me to look out for in the hotel?
+Help_Restart	Are there any specific dietary restrictions I should be cognisant of?
+Help_Restart	Are there any specific dietary restrictions iodin should be aware of?
+Help_Restart	are there any specific dietary restrictions I should be aware of?
+Help_Restart	be there any specific dietary restrictions I should be aware of?
+Help_Restart	Are there any specific necessary for the meeting rooms, such as equipment or seating arrangements?
+Help_Restart	Are there any specific requirements for the confluence rooms, such as equipment or seating arrangements?
+Help_Restart	Are there any specific requirements for the meeting rooms, such as equipment or seating agreement?
+Help_Restart	Are there any specific requirements for the touch rooms, such as equipment or seating arrangements?
+Help_Restart	Are there any specific essential for the meeting rooms, such as equipment or seating?
+Help_Restart	Are there any specific requirements for the confluence rooms, such as equipment or seating?
+Help_Restart	Are there any specific requirements for the meeting room, such as equipment or seating?
+Help_Restart	exist there any specific requirements for the meeting rooms, such as equipment or seating?
+Help_Restart	Can I assistance you further with your corporate travel plans?
+Help_Restart	backside I assist you further with your corporate travel plans?
+Help_Restart	seat I assist you further with your corporate travel plans?
+Help_Restart	tin I assist you further with your corporate travel plans?
+Help_Restart	Can I confirm your accessibility for business trips next month?
+Help_Restart	dismiss I confirm your availability for business trips next month?
+Help_Restart	hindquarters I confirm your availability for business trips next month?
+Help_Restart	privy I confirm your availability for business trips next month?
+Help_Restart	Can I offer you a gratuitous upgrade to a higher room category?
+Help_Restart	ass I offer you a complimentary upgrade to a higher room category?
+Help_Restart	backside I offer you a complimentary upgrade to a higher room category?
+Help_Restart	stool I offer you a complimentary upgrade to a higher room category?
+Help_Restart	Can 1 offer you a travel voucher or reimbursement option?
+Help_Restart	Can I offer you a go voucher or reimbursement option?
+Help_Restart	crapper I offer you a travel voucher or reimbursement option?
+Help_Restart	throne I offer you a travel voucher or reimbursement option?
+Help_Restart	Can i offer you an upgrade to a higher room category?
+Help_Restart	buns I offer you an upgrade to a higher room category?
+Help_Restart	buttocks I offer you an upgrade to a higher room category?
+Help_Restart	nates I offer you an upgrade to a higher room category?
+Help_Restart	Can I bid you any additional services, such as airport transfers or meal arrangements?
+Help_Restart	Can I offer you any additional Service, such as airport transfers or meal arrangements?
+Help_Restart	fire I offer you any additional services, such as airport transfers or meal arrangements?
+Help_Restart	potty I offer you any additional services, such as airport transfers or meal arrangements?
+Help_Restart	john I offer you any additional services, such as airport transfers?
+Help_Restart	posterior I offer you any additional services, such as airport transfers?
+Help_Restart	stern I offer you any additional services, such as airport transfers?
+Help_Restart	tin I offer you any additional services, such as airport transfers?
+Help_Restart	Can single provide more information on our company's employee benefits and perks?
+Help_Restart	can I provide more information on our company's employee benefits and perks?
+Help_Restart	fire I provide more information on our company's employee benefits and perks?
+Help_Restart	hindquarters I provide more information on our company's employee benefits and perks?
+Help_Restart	backside I provide more information on our company's employee benefits?
+Help_Restart	commode I provide more information on our company's employee benefits?
+Help_Restart	hindquarters I provide more information on our company's employee benefits?
+Help_Restart	nates I provide more information on our company's employee benefits?
+Help_Restart	Can I provide more information on our company's jaunt discounts and incentives?
+Help_Restart	Can I supply more information on our company's travel discounts and incentives?
+Help_Restart	Can one provide more information on our company's travel discounts and incentives?
+Help_Restart	potty I provide more information on our company's travel discounts and incentives?
+Help_Restart	bottom I provide more information on our company's travel policies and procedures?
+Help_Restart	buns I provide more information on our company's travel policies and procedures?
+Help_Restart	prat I provide more information on our company's travel policies and procedures?
+Help_Restart	stool I provide more information on our company's travel policies and procedures?
+Help_Restart	Can 1 provide more information on our company's travel policies?
+Help_Restart	buns I provide more information on our company's travel policies?
+Help_Restart	lav I provide more information on our company's travel policies?
+Help_Restart	throne I provide more information on our company's travel policies?
+Help_Restart	Can I allow more information on our corporate travel discounts?
+Help_Restart	Can I provide more information on our corporate locomotion discounts?
+Help_Restart	fundament I provide more information on our corporate travel discounts?
+Help_Restart	john I provide more information on our corporate travel discounts?
+Help_Restart	Do you have a pet method of payment for your business trip expenses?
+Help_Restart	Do you have a preferred method of payment for your line trip expenses?
+Help_Restart	fare you have a preferred method of payment for your business trip expenses?
+Help_Restart	ut you have a preferred method of payment for your business trip expenses?
+Help_Restart	Do you have any other destinations we should consider visiting instead of Tokio?
+Help_Restart	Do you have any other destinations we should consider visiting rather of Tokyo?
+Help_Restart	Do you have any other destinations we should see visiting instead of Tokyo?
+Help_Restart	act you have any other destinations we should consider visiting instead of Tokyo?
+Help_Restart	Do you have any other questions or concerns affect the trip itinerary so far?
+Help_Restart	Do you have any other questions or concerns regarding the travel itinerary so far?
+Help_Restart	Do you have any other questions or concerns regarding the trip itinerary so Interahamwe?
+Help_Restart	act you have any other questions or concerns regarding the trip itinerary so far?
+Help_Restart	DO you have any other questions or concerns regarding the trip?
+Help_Restart	Do you have any other questions or concerns regard the trip?
+Help_Restart	Do you have any other questions or concerns regarding the trip-up?
+Help_Restart	do you have any other questions or concerns regarding the trip?
+Help_Restart	DO you have any specific requirements for the meeting rooms?
+Help_Restart	Do you have any specific requirements for the meeting room?
+Help_Restart	perform you have any specific requirements for the meeting rooms?
+Help_Restart	serve you have any specific requirements for the meeting rooms?
+Help_Restart	Do you need assistance with anything else connect to your business trip?
+Help_Restart	bash you need assistance with anything else related to your business trip?
+Help_Restart	brawl you need assistance with anything else related to your business trip?
+Help_Restart	serve you need assistance with anything else related to your business trip?
+Help_Restart	do you need assistance with anything else today?
+Help_Restart	exercise you need assistance with anything else today?
+Help_Restart	make you need assistance with anything else today?
+Help_Restart	practice you need assistance with anything else today?
+Help_Restart	DO you need assistance with packing or preparing anything for the trip?
+Help_Restart	Do you need assistance with packing or machinate anything for the trip?
+Help_Restart	Do you need assistance with packing or preparing anything for the trigger?
+Help_Restart	Do you need assistance with packing or set anything for the trip?
+Help_Restart	Do you need facilitate with anything else related to your business trip?
+Help_Restart	Do you need help with anything else relate to your business trip?
+Help_Restart	Do you need help with anything else related to your business spark?
+Help_Restart	make you need help with anything else related to your business trip?
+Help_Restart	How can I help you now that we've discussed the flight choice?
+Help_Restart	How can I help you now that we've discussed the flying options?
+Help_Restart	How can I help you now that we've discussed the trajectory options?
+Help_Restart	How can iodine help you now that we've discussed the flight options?
+Help_Restart	How's everything going with your escape arrangements so far, really?
+Help_Restart	How's everything going with your flight arrangements so FAR, really?
+Help_Restart	How's everything going with your flight arrangements so Interahamwe, really?
+Help_Restart	How's everything last with your flight arrangements so far, really?
+Help_Restart	How's everything going with your jaunt plans in general, really?
+Help_Restart	How's everything going with your travel plans in worldwide, really?
+Help_Restart	How's everything going with your travel programme in general, really?
+Help_Restart	How's everything move with your travel plans in general, really?
+Help_Restart	How's everything become with your travel plans in general?
+Help_Restart	How's everything leaving with your travel plans in general?
+Help_Restart	How's everything run with your travel plans in general?
+Help_Restart	How's everything start with your travel plans in general?
+Help_Restart	How's everything become with your travel plans so far, really?
+Help_Restart	How's everything going with your travel plans so FAR, really?
+Help_Restart	How's everything going with your travel plans so far, genuinely?
+Help_Restart	How's everything going with your travel plans so far, truly?
+Help_Restart	How's everything going with your journey plans, really?
+Help_Restart	How's everything going with your travel plan, really?
+Help_Restart	How's everything proceed with your travel plans, really?
+Help_Restart	How's everything survive with your travel plans, really?
+Help_Restart	How's your budget attend for this business trip?
+Help_Restart	How's your budget calculate for this business trip?
+Help_Restart	How's your budget depend for this business trip?
+Help_Restart	How's your budget looking for this business travel?
+Help_Restart	How's your experience been with our corporate travel services so ALIR?
+Help_Restart	How's your experience been with our corporate travel servicing so far?
+Help_Restart	How's your experience been with our corporate traveling services so far?
+Help_Restart	How's your experience been with our corporate travelling services so far?
+Help_Restart	Is everything all mighty with the car service arrangements so far?
+Help_Restart	Is everything all powerful with the car service arrangements so far?
+Help_Restart	Is everything all right with the machine service arrangements so far?
+Help_Restart	Is everything all rightfulness with the car service arrangements so far?
+Help_Restart	Is everything all flop with the conference room reservations so far?
+Help_Restart	Is everything all properly with the conference room reservations so far?
+Help_Restart	Is everything all right-hand with the conference room reservations so far?
+Help_Restart	Is everything all ripe with the conference room reservations so far?
+Help_Restart	Is everything all correctly with your flight arrangements so far?
+Help_Restart	Is everything all right with your flight arrangements so FAR?
+Help_Restart	comprise everything all right with your flight arrangements so far?
+Help_Restart	embody everything all right with your flight arrangements so far?
+Help_Restart	Is there a particular airline or airport preference that iodin should be aware of?
+Help_Restart	be there a particular airline or airport preference that I should be aware of?
+Help_Restart	comprise there a particular airline or airport preference that I should be aware of?
+Help_Restart	exist there a particular airline or airport preference that I should be aware of?
+Help_Restart	Is there a particular airline or airdrome preference?
+Help_Restart	Is there a particular airline or airport penchant?
+Help_Restart	Is there a particular airline or airport taste?
+Help_Restart	embody there a particular airline or airport preference?
+Help_Restart	Is there a exceptional type of accommodation that suits your preferences better?
+Help_Restart	Is there a particular type of accommodation that suits your preferences right?
+Help_Restart	Is there a particular type of accommodation that suits your preferences undecomposed?
+Help_Restart	Is there a particular type of accommodation that wooing your preferences better?
+Help_Restart	Is there a specific type of accommodation that case your preferences better?
+Help_Restart	Is there a specific type of accommodation that suits your preferences dependable?
+Help_Restart	Is there a specific type of accommodation that suits your preferences unspoilt?
+Help_Restart	constitute there a specific type of accommodation that suits your preferences better?
+Help_Restart	Let's follow-up the itinerary again, shall we?
+Help_Restart	Let's recapitulation the itinerary again, shall we?
+Help_Restart	Let's review the route again, shall we?
+Help_Restart	Let's survey the itinerary again, shall we?
+Help_Restart	Shall we confirm all the details of your business actuate now that we've discussed everything?
+Help_Restart	Shall we confirm all the details of your business jaunt now that we've discussed everything?
+Help_Restart	Shall we confirm all the details of your business travel now that we've discussed everything?
+Help_Restart	Shall we confirm all the particular of your business trip now that we've discussed everything?
+Help_Restart	Shall we confirm all the contingent of your business trip now?
+Help_Restart	Shall we confirm all the details of your clientele trip now?
+Help_Restart	Shall we confirm all the item of your business trip now?
+Help_Restart	Shall we reassert all the details of your business trip now?
+Help_Restart	Shall we confirm the forgather schedule now?
+Help_Restart	Shall we confirm the fulfill schedule now?
+Help_Restart	Shall we confirm the gather schedule now?
+Help_Restart	Shall we confirm the play schedule now?
+Help_Restart	Shall we finalize the book now and confirm all details, please?
+Help_Restart	Shall we finalize the booking now and confirm all item, please?
+Help_Restart	Shall we finalize the booking now and confirm all point, please?
+Help_Restart	Shall we finalize the booking now and support all details, please?
+Help_Restart	Shall we finalize the book now and confirm all details?
+Help_Restart	Shall we finalize the booking now and affirm all details?
+Help_Restart	Shall we finalize the engagement now and confirm all details?
+Help_Restart	Shall we finalize the reserve now and confirm all details?
+Help_Restart	Shall we proceed with booking the fledge and hotels now that we've discussed everything?
+Help_Restart	Shall we proceed with engagement the flights and hotels now that we've discussed everything?
+Help_Restart	Shall we proceed with hold the flights and hotels now that we've discussed everything?
+Help_Restart	Shall we proceed with reserve the flights and hotels now that we've discussed everything?
+Help_Restart	Shall we continue with booking the flights and hotels now?
+Help_Restart	Shall we keep with booking the flights and hotels now?
+Help_Restart	Shall we proceed with book the flights and hotels now?
+Help_Restart	Shall we proceed with booking the escape and hotels now?
+Help_Restart	What time of day is best for you to travel on Monday dayspring?
+Help_Restart	What time of day is honorable for you to travel on Monday morning?
+Help_Restart	What time of day is safe for you to travel on Monday morning?
+Help_Restart	What time of day is unspoiled for you to travel on Monday morning?
+Help_Restart	Would you like me to ADD any additional activities or excursions for you?
+Help_Restart	Would you like me to add any additional activities or jaunt for you?
+Help_Restart	Would you like me to bring any additional activities or excursions for you?
+Help_Restart	Would you like me to supply any additional activities or excursions for you?
+Help_Restart	Would you like me to add any additional activities to your travel?
+Help_Restart	Would you like me to add any extra activities to your trip?
+Help_Restart	Would you like me to tot any additional activities to your trip?
+Help_Restart	Would you similar me to add any additional activities to your trip?
+Help_Restart	Would you corresponding me to add any specific activities or excursions for you?
+Help_Restart	Would you like me to add any specific activities or digression for you?
+Help_Restart	Would you like me to contribute any specific activities or excursions for you?
+Help_Restart	Would you similar me to add any specific activities or excursions for you?
+Help_Restart	Would you ilk me to book a hotel room for you as well?
+Help_Restart	Would you like me to Scripture a hotel room for you as well?
+Help_Restart	Would you like me to book a hotel room for you as substantially?
+Help_Restart	Would you similar me to book a hotel room for you as well?
+Help_Restart	Would you like me to appear into renting a car for you instead of hiring a service?
+Help_Restart	Would you like me to await into renting a car for you instead of hiring a service?
+Help_Restart	Would you like me to flavor into renting a car for you instead of hiring a service?
+Help_Restart	Would you like me to look into engage a car for you instead of hiring a service?
+Help_Restart	Would you like me to flavour into renting a car for you instead?
+Help_Restart	Would you like me to look into renting a auto for you instead?
+Help_Restart	Would you like me to see into renting a car for you instead?
+Help_Restart	Would you similar me to look into renting a car for you instead?
+Help_Restart	Would you like me to build any changes to the conference schedule now?
+Help_Restart	Would you like me to hold any changes to the conference schedule now?
+Help_Restart	Would you like me to make any commute to the conference schedule now?
+Help_Restart	Would you like me to shit any changes to the conference schedule now?
+Help_Restart	Would you comparable me to make any changes to the itinerary already?
+Help_Restart	Would you like me to get any changes to the itinerary already?
+Help_Restart	Would you like me to make any deepen to the itinerary already?
+Help_Restart	Would you similar me to make any changes to the itinerary already?
+Help_Restart	Would you like me to attain any changes to the meeting schedule now?
+Help_Restart	Would you like me to make any changes to the adjoin schedule now?
+Help_Restart	Would you like me to make any changes to the receive schedule now?
+Help_Restart	Would you like me to shuffle any changes to the meeting schedule now?
+Help_Restart	Would you like me to research some new invest for you to visit instead of Paris?
+Help_Restart	Would you like me to research some new place for you to visit instead of Paris?
+Help_Restart	Would you like me to research some new places for you to chatter instead of Paris?
+Help_Restart	Would you like me to research some new point for you to visit instead of Paris?
+Help_Restart	Would you like me to research some new localise for you to visit instead?
+Help_Restart	Would you like me to research some new office for you to visit instead?
+Help_Restart	Would you like me to research some new places for you to chit-chat instead?
+Help_Restart	Would you like me to research some new rank for you to visit instead?
+Help_Restart	Would you like me to research some new billet for you?
+Help_Restart	Would you like me to research some new direct for you?
+Help_Restart	Would you like me to research some new piazza for you?
+Help_Restart	Would you like me to research some young places for you?
+Help_Restart	Would you favor a different type of accommodation, such as a suite?
+Help_Restart	Would you prefer a different eccentric of accommodation, such as a suite?
+Help_Restart	Would you prefer a different type of adjustment, such as a suite?
+Help_Restart	Would you prefer a different typewrite of accommodation, such as a suite?

@@ -1,0 +1,624 @@
+NewBooking_FlightTypeSelection	Are there any last-minute business class batch available?
+NewBooking_FlightTypeSelection	Are there any last-minute business class trade available?
+NewBooking_FlightTypeSelection	Are there any last-minute patronage class deals available?
+NewBooking_FlightTypeSelection	ar there any last-minute business class deals available?
+NewBooking_FlightTypeSelection	Can I go a discount on business class tickets if I book early?
+NewBooking_FlightTypeSelection	Can I vex a discount on business class tickets if I book early?
+NewBooking_FlightTypeSelection	backside I get a discount on business class tickets if I book early?
+NewBooking_FlightTypeSelection	buttocks I get a discount on business class tickets if I book early?
+NewBooking_FlightTypeSelection	Can I commence a refund if my business class flight is canceled or postponed?
+NewBooking_FlightTypeSelection	Can iodin get a refund if my business class flight is canceled or postponed?
+NewBooking_FlightTypeSelection	ass I get a refund if my business class flight is canceled or postponed?
+NewBooking_FlightTypeSelection	bathroom I get a refund if my business class flight is canceled or postponed?
+NewBooking_FlightTypeSelection	Can I get a refund if my business separate flight is delayed or canceled?
+NewBooking_FlightTypeSelection	behind I get a refund if my business class flight is delayed or canceled?
+NewBooking_FlightTypeSelection	prat I get a refund if my business class flight is delayed or canceled?
+NewBooking_FlightTypeSelection	tin I get a refund if my business class flight is delayed or canceled?
+NewBooking_FlightTypeSelection	Can I come a refund if my business class flight is delayed or cancelled?
+NewBooking_FlightTypeSelection	Can I get a refund if my business family flight is delayed or cancelled?
+NewBooking_FlightTypeSelection	Can I get a refund if my concern class flight is delayed or cancelled?
+NewBooking_FlightTypeSelection	rear I get a refund if my business class flight is delayed or cancelled?
+NewBooking_FlightTypeSelection	Can I get a refund on my economy ticket if I modification my plans?
+NewBooking_FlightTypeSelection	Can I get a refund on my economy ticket if one change my plans?
+NewBooking_FlightTypeSelection	Can I get a return on my economy ticket if I change my plans?
+NewBooking_FlightTypeSelection	displace I get a refund on my economy ticket if I change my plans?
+NewBooking_FlightTypeSelection	Can I come an economy ticket with priority boarding?
+NewBooking_FlightTypeSelection	Can I gravel an economy ticket with priority boarding?
+NewBooking_FlightTypeSelection	Can I suffer an economy ticket with priority boarding?
+NewBooking_FlightTypeSelection	prat I get an economy ticket with priority boarding?
+NewBooking_FlightTypeSelection	Can I obtain priority at immigration with my business class ticket?
+NewBooking_FlightTypeSelection	Can I produce priority at immigration with my business class ticket?
+NewBooking_FlightTypeSelection	Can iodin get priority at immigration with my business class ticket?
+NewBooking_FlightTypeSelection	arse I get priority at immigration with my business class ticket?
+NewBooking_FlightTypeSelection	Can I get priority at security with my business division ticket?
+NewBooking_FlightTypeSelection	Can I get priority at security with my occupation class ticket?
+NewBooking_FlightTypeSelection	Can single get priority at security with my business class ticket?
+NewBooking_FlightTypeSelection	john I get priority at security with my business class ticket?
+NewBooking_FlightTypeSelection	Can I generate priority check-in for my business class ticket?
+NewBooking_FlightTypeSelection	Can I stupefy priority check-in for my business class ticket?
+NewBooking_FlightTypeSelection	buttocks I get priority check-in for my business class ticket?
+NewBooking_FlightTypeSelection	dismiss I get priority check-in for my business class ticket?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to business with a credit menu point?
+NewBooking_FlightTypeSelection	buttocks I upgrade from economy to business with a credit card point?
+NewBooking_FlightTypeSelection	potty I upgrade from economy to business with a credit card point?
+NewBooking_FlightTypeSelection	sack I upgrade from economy to business with a credit card point?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to business with a loyalty program channelise?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to business with a loyalty program maneuver?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to business with a loyalty program stop?
+NewBooking_FlightTypeSelection	commode I upgrade from economy to business with a loyalty program point?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to business with my luff?
+NewBooking_FlightTypeSelection	buns I upgrade from economy to business with my points?
+NewBooking_FlightTypeSelection	buttocks I upgrade from economy to business with my points?
+NewBooking_FlightTypeSelection	john I upgrade from economy to business with my points?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to first class with my bespeak?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to first class with my period?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to first sort with my points?
+NewBooking_FlightTypeSelection	Can I upgrade from economy to initiative class with my points?
+NewBooking_FlightTypeSelection	backside you book me a business class flight from New York to London?
+NewBooking_FlightTypeSelection	prat you book me a business class flight from New York to London?
+NewBooking_FlightTypeSelection	stool you book me a business class flight from New York to London?
+NewBooking_FlightTypeSelection	tooshie you book me a business class flight from New York to London?
+NewBooking_FlightTypeSelection	Can you book me a one-way business course flight?
+NewBooking_FlightTypeSelection	Can you book me a one-way business sort flight?
+NewBooking_FlightTypeSelection	buttocks you book me a one-way business class flight?
+NewBooking_FlightTypeSelection	potty you book me a one-way business class flight?
+NewBooking_FlightTypeSelection	Can you Koran me a same-day business class flight?
+NewBooking_FlightTypeSelection	Can you record me a same-day business class flight?
+NewBooking_FlightTypeSelection	keister you book me a same-day business class flight?
+NewBooking_FlightTypeSelection	privy you book me a same-day business class flight?
+NewBooking_FlightTypeSelection	Can you book me an early dawning business class flight?
+NewBooking_FlightTypeSelection	fire you book me an early morning business class flight?
+NewBooking_FlightTypeSelection	nates you book me an early morning business class flight?
+NewBooking_FlightTypeSelection	privy you book me an early morning business class flight?
+NewBooking_FlightTypeSelection	Can you Scripture me an overnight business class layover?
+NewBooking_FlightTypeSelection	Can you book me an overnight business assort layover?
+NewBooking_FlightTypeSelection	keister you book me an overnight business class layover?
+NewBooking_FlightTypeSelection	tush you book me an overnight business class layover?
+NewBooking_FlightTypeSelection	Can you recommend escape by airport code for economy or business?
+NewBooking_FlightTypeSelection	Can you recommend flights by airport code for economy or occupation?
+NewBooking_FlightTypeSelection	crapper you recommend flights by airport code for economy or business?
+NewBooking_FlightTypeSelection	lavatory you recommend flights by airport code for economy or business?
+NewBooking_FlightTypeSelection	dismiss you recommend flights by budget airline?
+NewBooking_FlightTypeSelection	pot you recommend flights by budget airline?
+NewBooking_FlightTypeSelection	potty you recommend flights by budget airline?
+NewBooking_FlightTypeSelection	terminate you recommend flights by budget airline?
+NewBooking_FlightTypeSelection	Can you recommend flights by city and country for an economy slate?
+NewBooking_FlightTypeSelection	Can you recommend flights by city and nation for an economy ticket?
+NewBooking_FlightTypeSelection	backside you recommend flights by city and country for an economy ticket?
+NewBooking_FlightTypeSelection	sack you recommend flights by city and country for an economy ticket?
+NewBooking_FlightTypeSelection	derriere you recommend flights by economy class?
+NewBooking_FlightTypeSelection	rear you recommend flights by economy class?
+NewBooking_FlightTypeSelection	terminate you recommend flights by economy class?
+NewBooking_FlightTypeSelection	tin you recommend flights by economy class?
+NewBooking_FlightTypeSelection	Can you recommend flights by route for an economy or job ticket?
+NewBooking_FlightTypeSelection	ass you recommend flights by route for an economy or business ticket?
+NewBooking_FlightTypeSelection	bathroom you recommend flights by route for an economy or business ticket?
+NewBooking_FlightTypeSelection	stern you recommend flights by route for an economy or business ticket?
+NewBooking_FlightTypeSelection	Can you recommend flights by travel date for an economy or job ticket?
+NewBooking_FlightTypeSelection	bum you recommend flights by travel date for an economy or business ticket?
+NewBooking_FlightTypeSelection	prat you recommend flights by travel date for an economy or business ticket?
+NewBooking_FlightTypeSelection	stool you recommend flights by travel date for an economy or business ticket?
+NewBooking_FlightTypeSelection	Can you recommend flights by move dates for an economy or business ticket?
+NewBooking_FlightTypeSelection	Can you recommend flights by travel dates for an economy or concern ticket?
+NewBooking_FlightTypeSelection	Can you recommend flights by travel dates for an economy or line ticket?
+NewBooking_FlightTypeSelection	rump you recommend flights by travel dates for an economy or business ticket?
+NewBooking_FlightTypeSelection	Can you recommend flights by journey duration for an economy or business ticket?
+NewBooking_FlightTypeSelection	arse you recommend flights by travel duration for an economy or business ticket?
+NewBooking_FlightTypeSelection	ass you recommend flights by travel duration for an economy or business ticket?
+NewBooking_FlightTypeSelection	commode you recommend flights by travel duration for an economy or business ticket?
+NewBooking_FlightTypeSelection	Can you show me all available flights by airline and drome for an economy ticket?
+NewBooking_FlightTypeSelection	ass you show me all available flights by airline and airport for an economy ticket?
+NewBooking_FlightTypeSelection	bathroom you show me all available flights by airline and airport for an economy ticket?
+NewBooking_FlightTypeSelection	behind you show me all available flights by airline and airport for an economy ticket?
+NewBooking_FlightTypeSelection	displace you show me all available flights by business class airline?
+NewBooking_FlightTypeSelection	lavatory you show me all available flights by business class airline?
+NewBooking_FlightTypeSelection	rear you show me all available flights by business class airline?
+NewBooking_FlightTypeSelection	stern you show me all available flights by business class airline?
+NewBooking_FlightTypeSelection	Can you show me all domestic business flights available nowadays?
+NewBooking_FlightTypeSelection	Can you show me all domestic job flights available today?
+NewBooking_FlightTypeSelection	arse you show me all domestic business flights available today?
+NewBooking_FlightTypeSelection	throne you show me all domestic business flights available today?
+NewBooking_FlightTypeSelection	Can you demo me all domestic economy flights available today?
+NewBooking_FlightTypeSelection	commode you show me all domestic economy flights available today?
+NewBooking_FlightTypeSelection	displace you show me all domestic economy flights available today?
+NewBooking_FlightTypeSelection	tooshie you show me all domestic economy flights available today?
+NewBooking_FlightTypeSelection	Can you record me all domestic flights by business airline available today?
+NewBooking_FlightTypeSelection	Can you show me all domestic flights by business airline uncommitted today?
+NewBooking_FlightTypeSelection	lavatory you show me all domestic flights by business airline available today?
+NewBooking_FlightTypeSelection	stool you show me all domestic flights by business airline available today?
+NewBooking_FlightTypeSelection	Can you show me all international line flights available today?
+NewBooking_FlightTypeSelection	posterior you show me all international business flights available today?
+NewBooking_FlightTypeSelection	prat you show me all international business flights available today?
+NewBooking_FlightTypeSelection	throne you show me all international business flights available today?
+NewBooking_FlightTypeSelection	Can you designate me flights by airline that offers an affordable business class option?
+NewBooking_FlightTypeSelection	Can you express me flights by airline that offers an affordable business class option?
+NewBooking_FlightTypeSelection	Can you point me flights by airline that offers an affordable business class option?
+NewBooking_FlightTypeSelection	Can you show me flights by airline that whirl an affordable business class option?
+NewBooking_FlightTypeSelection	Can you show me flights by airline that offers business family?
+NewBooking_FlightTypeSelection	Can you show me flights by airline that pass business class?
+NewBooking_FlightTypeSelection	Can you show me trajectory by airline that offers business class?
+NewBooking_FlightTypeSelection	derriere you show me flights by airline that offers business class?
+NewBooking_FlightTypeSelection	Can you designate me flights by business class only?
+NewBooking_FlightTypeSelection	Can you show me fledge by business class only?
+NewBooking_FlightTypeSelection	Can you testify me flights by business class only?
+NewBooking_FlightTypeSelection	nates you show me flights by business class only?
+NewBooking_FlightTypeSelection	Economy or business, which is more easy?
+NewBooking_FlightTypeSelection	Economy or business, which is more well-situated?
+NewBooking_FlightTypeSelection	Economy or line, which is more comfortable?
+NewBooking_FlightTypeSelection	economy or business, which is more comfortable?
+NewBooking_FlightTypeSelection	Economy or job, which is more convenient for my schedule?
+NewBooking_FlightTypeSelection	Economy or line, which is more convenient for my schedule?
+NewBooking_FlightTypeSelection	economy or business, which is more convenient for my schedule?
+NewBooking_FlightTypeSelection	thriftiness or business, which is more convenient for my schedule?
+NewBooking_FlightTypeSelection	Here are 80 affirmation to train a corporate travel chatbot:
+NewBooking_FlightTypeSelection	Here are 80 instruction to train a corporate travel chatbot:
+NewBooking_FlightTypeSelection	Here are 80 statements to take a corporate travel chatbot:
+NewBooking_FlightTypeSelection	Here are 80 statements to train a embodied travel chatbot:
+NewBooking_FlightTypeSelection	How do I choose between economy and agio economy?
+NewBooking_FlightTypeSelection	How do I choose between economy and bounty economy?
+NewBooking_FlightTypeSelection	How do I choose between saving and premium economy?
+NewBooking_FlightTypeSelection	How do i choose between economy and premium economy?
+NewBooking_FlightTypeSelection	How do I bang if I need a business or first class ticket?
+NewBooking_FlightTypeSelection	How do I know if I need a business or 1st class ticket?
+NewBooking_FlightTypeSelection	How do I know if one need a business or first class ticket?
+NewBooking_FlightTypeSelection	How do I love if I need a business or first class ticket?
+NewBooking_FlightTypeSelection	How do I know if I need a visa for an international business class spark?
+NewBooking_FlightTypeSelection	How do I know if I need a visa for an international business class trigger?
+NewBooking_FlightTypeSelection	How do I know if I need a visa for an international byplay class trip?
+NewBooking_FlightTypeSelection	How do I know if I take a visa for an international business class trip?
+NewBooking_FlightTypeSelection	How do I experience when I should choose business over premium economy?
+NewBooking_FlightTypeSelection	How do I know when I should choose business over agiotage economy?
+NewBooking_FlightTypeSelection	How do I know when ace should choose business over premium economy?
+NewBooking_FlightTypeSelection	How do iodin know when I should choose business over premium economy?
+NewBooking_FlightTypeSelection	How do I know when to Koran business class versus economy?
+NewBooking_FlightTypeSelection	How do I know when to book concern class versus economy?
+NewBooking_FlightTypeSelection	How do I love when to book business class versus economy?
+NewBooking_FlightTypeSelection	How do ace know when to book business class versus economy?
+NewBooking_FlightTypeSelection	How do I hump when to choose business over economy?
+NewBooking_FlightTypeSelection	How do I know when to prefer business over economy?
+NewBooking_FlightTypeSelection	How do I know when to take business over economy?
+NewBooking_FlightTypeSelection	How do one know when to choose business over economy?
+NewBooking_FlightTypeSelection	How do I bang when to choose premium over business class?
+NewBooking_FlightTypeSelection	How do I know when to choose premium over business division?
+NewBooking_FlightTypeSelection	How do I know when to choose premium over business year?
+NewBooking_FlightTypeSelection	How do I love when to choose premium over business class?
+NewBooking_FlightTypeSelection	How do 1 understand the difference between 'business elite' and regular business?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'business elite' and regular concern?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'business elite' and regular patronage?
+NewBooking_FlightTypeSelection	How do iodin understand the difference between 'business elite' and regular business?
+NewBooking_FlightTypeSelection	How do I realise the difference between 'business first' and regular business?
+NewBooking_FlightTypeSelection	How do I translate the difference between 'business first' and regular business?
+NewBooking_FlightTypeSelection	How do I understand the departure between 'business first' and regular business?
+NewBooking_FlightTypeSelection	How do I understand the deviation between 'business first' and regular business?
+NewBooking_FlightTypeSelection	How do I realise the difference between 'economy plus' and regular economy?
+NewBooking_FlightTypeSelection	How do I see the difference between 'economy plus' and regular economy?
+NewBooking_FlightTypeSelection	How do I translate the difference between 'economy plus' and regular economy?
+NewBooking_FlightTypeSelection	How do I understand the conflict between 'economy plus' and regular economy?
+NewBooking_FlightTypeSelection	How do I translate the difference between 'executive' and regular business?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'executive' and regular concern?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'executive' and steady business?
+NewBooking_FlightTypeSelection	How do iodin understand the difference between 'executive' and regular business?
+NewBooking_FlightTypeSelection	How do I translate the difference between 'premium economy plus' and regular premium?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'bounty economy plus' and regular premium?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'premium economy plus' and steady premium?
+NewBooking_FlightTypeSelection	How do I understand the difference between 'premium thriftiness plus' and regular premium?
+NewBooking_FlightTypeSelection	I ask to book a domestic flight in economy.
+NewBooking_FlightTypeSelection	I motivation to book a domestic flight in economy.
+NewBooking_FlightTypeSelection	I need to hold a domestic flight in economy.
+NewBooking_FlightTypeSelection	I require to book a domestic flight in economy.
+NewBooking_FlightTypeSelection	I'd like to book an economy fine please.
+NewBooking_FlightTypeSelection	I'd like to book an economy ticket delight.
+NewBooking_FlightTypeSelection	I'd like to book an saving ticket please.
+NewBooking_FlightTypeSelection	I'd like to hold an economy ticket please.
+NewBooking_FlightTypeSelection	Is there a business elevate available for this flight?
+NewBooking_FlightTypeSelection	Is there a business upgrade uncommitted for this flight?
+NewBooking_FlightTypeSelection	Is there a business upgrade usable for this flight?
+NewBooking_FlightTypeSelection	Is there a clientele upgrade available for this flight?
+NewBooking_FlightTypeSelection	Is there a discount on saving tickets during off-peak season?
+NewBooking_FlightTypeSelection	constitute there a discount on economy tickets during off-peak season?
+NewBooking_FlightTypeSelection	exist there a discount on economy tickets during off-peak season?
+NewBooking_FlightTypeSelection	follow there a discount on economy tickets during off-peak season?
+NewBooking_FlightTypeSelection	Is there a fee to ADD luggage on a business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to add luggage on a business grade flight?
+NewBooking_FlightTypeSelection	Is there a fee to append luggage on a business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to tally luggage on a business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to Scripture a last-minute business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to book a last-minute business classify flight?
+NewBooking_FlightTypeSelection	Is there a fee to book a last-minute line class flight?
+NewBooking_FlightTypeSelection	Is there a fee to script a last-minute business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to constitute changes to a business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to construct changes to a business class flight?
+NewBooking_FlightTypeSelection	Is there a fee to make alter to a business class flight?
+NewBooking_FlightTypeSelection	follow there a fee to make changes to a business class flight?
+NewBooking_FlightTypeSelection	Is there a bung to make changes to a business class itinerary?
+NewBooking_FlightTypeSelection	Is there a fee to make deepen to a business class itinerary?
+NewBooking_FlightTypeSelection	Is there a fee to make modify to a business class itinerary?
+NewBooking_FlightTypeSelection	Is there a fee to piss changes to a business class itinerary?
+NewBooking_FlightTypeSelection	Is there a fee to upgrade from economy to clientele?
+NewBooking_FlightTypeSelection	comprise there a fee to upgrade from economy to business?
+NewBooking_FlightTypeSelection	exist there a fee to upgrade from economy to business?
+NewBooking_FlightTypeSelection	follow there a fee to upgrade from economy to business?
+NewBooking_FlightTypeSelection	Is there a loyalty broadcast that rewards business class upgrades?
+NewBooking_FlightTypeSelection	Is there a loyalty program that rewards business class advance?
+NewBooking_FlightTypeSelection	Is there a loyalty program that rewards job class upgrades?
+NewBooking_FlightTypeSelection	embody there a loyalty program that rewards business class upgrades?
+NewBooking_FlightTypeSelection	Is there a way to earn mi on a business class ticket?
+NewBooking_FlightTypeSelection	Is there a way to earn miles on a business year ticket?
+NewBooking_FlightTypeSelection	Is there a way to earn miles on a occupation class ticket?
+NewBooking_FlightTypeSelection	comprise there a way to earn miles on a business class ticket?
+NewBooking_FlightTypeSelection	Is there a way to earn orient on a business class ticket?
+NewBooking_FlightTypeSelection	Is there a way to earn target on a business class ticket?
+NewBooking_FlightTypeSelection	Is there a way to gain points on a business class ticket?
+NewBooking_FlightTypeSelection	represent there a way to earn points on a business class ticket?
+NewBooking_FlightTypeSelection	Is there a means to guarantee availability of business class seats?
+NewBooking_FlightTypeSelection	Is there a way to guarantee availability of business class rump?
+NewBooking_FlightTypeSelection	Is there a way to guarantee availability of patronage class seats?
+NewBooking_FlightTypeSelection	be there a way to guarantee availability of business class seats?
+NewBooking_FlightTypeSelection	Is there a style to save money on business class tickets by flying during off-peak season?
+NewBooking_FlightTypeSelection	Is there a way to save money on business class tickets by pilot during off-peak season?
+NewBooking_FlightTypeSelection	Is there a way to save money on business sort tickets by flying during off-peak season?
+NewBooking_FlightTypeSelection	embody there a way to save money on business class tickets by flying during off-peak season?
+NewBooking_FlightTypeSelection	Is there a direction to save money on business class tickets by flying with budget airlines?
+NewBooking_FlightTypeSelection	Is there a path to save money on business class tickets by flying with budget airlines?
+NewBooking_FlightTypeSelection	Is there a way to save money on job class tickets by flying with budget airlines?
+NewBooking_FlightTypeSelection	Is there a way to spare money on business class tickets by flying with budget airlines?
+NewBooking_FlightTypeSelection	What's the best mode to save money on business class tickets?
+NewBooking_FlightTypeSelection	What's the best way to economize money on business class tickets?
+NewBooking_FlightTypeSelection	What's the best way to save money on business category tickets?
+NewBooking_FlightTypeSelection	What's the upright way to save money on business class tickets?
+NewBooking_FlightTypeSelection	What's the difference between 'basic economy' and even economy?
+NewBooking_FlightTypeSelection	What's the difference between 'basic economy' and veritable economy?
+NewBooking_FlightTypeSelection	What's the difference between 'staple economy' and regular economy?
+NewBooking_FlightTypeSelection	What's the divergence between 'basic economy' and regular economy?
+NewBooking_FlightTypeSelection	What's the difference between a regular thriftiness ticket and an upgrade?
+NewBooking_FlightTypeSelection	What's the difference between a steady economy ticket and an upgrade?
+NewBooking_FlightTypeSelection	What's the dispute between a regular economy ticket and an upgrade?
+NewBooking_FlightTypeSelection	What's the divergence between a regular economy ticket and an upgrade?
+NewBooking_FlightTypeSelection	What's the conflict between business and premium economy?
+NewBooking_FlightTypeSelection	What's the departure between business and premium economy?
+NewBooking_FlightTypeSelection	What's the difference between byplay and premium economy?
+NewBooking_FlightTypeSelection	What's the divergence between business and premium economy?
+NewBooking_FlightTypeSelection	What's the insurance on baggage allowance in premium economy?
+NewBooking_FlightTypeSelection	What's the policy on baggage allowance in bounty economy?
+NewBooking_FlightTypeSelection	What's the policy on baggage allowance in premium saving?
+NewBooking_FlightTypeSelection	What's the policy on baggage allowance in premium thriftiness?
+NewBooking_FlightTypeSelection	What's the policy on business class loaf access?
+NewBooking_FlightTypeSelection	What's the policy on business class lounge admittance?
+NewBooking_FlightTypeSelection	What's the policy on business classify lounge access?
+NewBooking_FlightTypeSelection	What's the policy on job class lounge access?
+NewBooking_FlightTypeSelection	What's the insurance on canceling a flight in business or economy?
+NewBooking_FlightTypeSelection	What's the policy on cancel a flight in business or economy?
+NewBooking_FlightTypeSelection	What's the policy on canceling a flight in business or saving?
+NewBooking_FlightTypeSelection	What's the policy on canceling a flight in clientele or economy?
+NewBooking_FlightTypeSelection	What's the policy on changes to a business class path?
+NewBooking_FlightTypeSelection	What's the policy on changes to a business grade itinerary?
+NewBooking_FlightTypeSelection	What's the policy on deepen to a business class itinerary?
+NewBooking_FlightTypeSelection	What's the policy on shift to a business class itinerary?
+NewBooking_FlightTypeSelection	What's the insurance on changing flight plans in economy?
+NewBooking_FlightTypeSelection	What's the policy on changing flight programme in economy?
+NewBooking_FlightTypeSelection	What's the policy on changing flying plans in economy?
+NewBooking_FlightTypeSelection	What's the policy on commute flight plans in economy?
+NewBooking_FlightTypeSelection	What's the policy on luggage allowance in business year?
+NewBooking_FlightTypeSelection	What's the policy on luggage allowance in clientele class?
+NewBooking_FlightTypeSelection	What's the policy on luggage allowance in job class?
+NewBooking_FlightTypeSelection	What's the policy on luggage leeway in business class?
+NewBooking_FlightTypeSelection	What's the policy on meal options in clientele class?
+NewBooking_FlightTypeSelection	What's the policy on meal options in job class?
+NewBooking_FlightTypeSelection	What's the policy on meal options in occupation class?
+NewBooking_FlightTypeSelection	What's the policy on meal selection in business class?
+NewBooking_FlightTypeSelection	What's the policy on nates assignments in business class?
+NewBooking_FlightTypeSelection	What's the policy on seat assignments in business sort?
+NewBooking_FlightTypeSelection	What's the policy on stern assignments in business class?
+NewBooking_FlightTypeSelection	What's the policy on tush assignments in business class?
+NewBooking_FlightTypeSelection	What's the policy on derriere selection in business class?
+NewBooking_FlightTypeSelection	What's the policy on seat selection in business family?
+NewBooking_FlightTypeSelection	What's the policy on seat selection in business form?
+NewBooking_FlightTypeSelection	What's the policy on seat selection in occupation class?
+NewBooking_FlightTypeSelection	What's the policy on arse width in business class?
+NewBooking_FlightTypeSelection	What's the policy on seat width in business assort?
+NewBooking_FlightTypeSelection	What's the policy on seat width in business separate?
+NewBooking_FlightTypeSelection	What's the policy on seat width in concern class?
+NewBooking_FlightTypeSelection	Are economy and premium economy the same matter?
+NewBooking_FlightTypeSelection	Are economy and premium thriftiness the same thing?
+NewBooking_FlightTypeSelection	be economy and premium economy the same thing?
+NewBooking_FlightTypeSelection	represent economy and premium economy the same thing?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking at the last minute to secure right seats?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking at the lastly minute to secure better seats?
+NewBooking_FlightTypeSelection	fundament you explain the benefits of booking at the last minute to secure better seats?
+NewBooking_FlightTypeSelection	posterior you explain the benefits of booking at the last minute to secure better seats?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking at the concluding minute?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking at the last arcminute?
+NewBooking_FlightTypeSelection	Can you explicate the benefits of booking at the last minute?
+NewBooking_FlightTypeSelection	nates you explain the benefits of booking at the last minute?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking in advance to secure honorable seats?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking in advance to secure unspoiled seats?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking in further to secure better seats?
+NewBooking_FlightTypeSelection	crapper you explain the benefits of booking in advance to secure better seats?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking in overture?
+NewBooking_FlightTypeSelection	Can you explain the benefits of booking in supercharge?
+NewBooking_FlightTypeSelection	crapper you explain the benefits of booking in advance?
+NewBooking_FlightTypeSelection	rump you explain the benefits of booking in advance?
+NewBooking_FlightTypeSelection	Can you explain the benefits of business category?
+NewBooking_FlightTypeSelection	Can you explain the benefits of job class?
+NewBooking_FlightTypeSelection	canful you explain the benefits of business class?
+NewBooking_FlightTypeSelection	posterior you explain the benefits of business class?
+NewBooking_FlightTypeSelection	Can you help me compare economy and business separate prices?
+NewBooking_FlightTypeSelection	Can you help me compare economy and occupation class prices?
+NewBooking_FlightTypeSelection	posterior you help me compare economy and business class prices?
+NewBooking_FlightTypeSelection	tush you help me compare economy and business class prices?
+NewBooking_FlightTypeSelection	bum you help me compare prices between different airlines on this route?
+NewBooking_FlightTypeSelection	hindquarters you help me compare prices between different airlines on this route?
+NewBooking_FlightTypeSelection	lav you help me compare prices between different airlines on this route?
+NewBooking_FlightTypeSelection	lavatory you help me compare prices between different airlines on this route?
+NewBooking_FlightTypeSelection	Can you help me compare Price between different airlines?
+NewBooking_FlightTypeSelection	fanny you help me compare prices between different airlines?
+NewBooking_FlightTypeSelection	john you help me compare prices between different airlines?
+NewBooking_FlightTypeSelection	privy you help me compare prices between different airlines?
+NewBooking_FlightTypeSelection	Can you help me witness a seat with more legroom?
+NewBooking_FlightTypeSelection	lav you help me find a seat with more legroom?
+NewBooking_FlightTypeSelection	posterior you help me find a seat with more legroom?
+NewBooking_FlightTypeSelection	tail you help me find a seat with more legroom?
+NewBooking_FlightTypeSelection	Can you help me empathize the difference between economy and first class?
+NewBooking_FlightTypeSelection	Can you help me realise the difference between economy and first class?
+NewBooking_FlightTypeSelection	Can you help me understand the difference between economy and foremost class?
+NewBooking_FlightTypeSelection	buns you help me understand the difference between economy and first class?
+NewBooking_FlightTypeSelection	ass you recommend a fast flight option?
+NewBooking_FlightTypeSelection	buns you recommend a fast flight option?
+NewBooking_FlightTypeSelection	potty you recommend a fast flight option?
+NewBooking_FlightTypeSelection	rear you recommend a fast flight option?
+NewBooking_FlightTypeSelection	Can you recommend a flight with a just meal option?
+NewBooking_FlightTypeSelection	Can you recommend a flight with a thoroughly meal option?
+NewBooking_FlightTypeSelection	can you recommend a flight with a good meal option?
+NewBooking_FlightTypeSelection	pot you recommend a flight with a good meal option?
+NewBooking_FlightTypeSelection	Can you recommend a flight with practiced customer service?
+NewBooking_FlightTypeSelection	john you recommend a flight with good customer service?
+NewBooking_FlightTypeSelection	prat you recommend a flight with good customer service?
+NewBooking_FlightTypeSelection	rear you recommend a flight with good customer service?
+NewBooking_FlightTypeSelection	Can you recommend a flight with minimal detain?
+NewBooking_FlightTypeSelection	arse you recommend a flight with minimal delays?
+NewBooking_FlightTypeSelection	pot you recommend a flight with minimal delays?
+NewBooking_FlightTypeSelection	tooshie you recommend a flight with minimal delays?
+NewBooking_FlightTypeSelection	Can you recommend a flight with minimal layover?
+NewBooking_FlightTypeSelection	bottom you recommend a flight with minimal layovers?
+NewBooking_FlightTypeSelection	displace you recommend a flight with minimal layovers?
+NewBooking_FlightTypeSelection	toilet you recommend a flight with minimal layovers?
+NewBooking_FlightTypeSelection	How do I choose between economy and business assort?
+NewBooking_FlightTypeSelection	How do I choose between economy and concern class?
+NewBooking_FlightTypeSelection	How do I choose between economy and line class?
+NewBooking_FlightTypeSelection	How do I choose between economy and occupation class?
+NewBooking_FlightTypeSelection	How do I know which airline offers the best business course experience?
+NewBooking_FlightTypeSelection	How do I know which airline offers the estimable business class experience?
+NewBooking_FlightTypeSelection	How do I know which airline offers the outflank business class experience?
+NewBooking_FlightTypeSelection	How do I know which airline offers the substantially business class experience?
+NewBooking_FlightTypeSelection	How do I cognize which flight type is right for me?
+NewBooking_FlightTypeSelection	How do I know which escape type is right for me?
+NewBooking_FlightTypeSelection	How do I know which flight type is rightfulness for me?
+NewBooking_FlightTypeSelection	How do I know which flight typecast is right for me?
+NewBooking_FlightTypeSelection	How do I bed which flight type is right for my budget?
+NewBooking_FlightTypeSelection	How do I cognise which flight type is right for my budget?
+NewBooking_FlightTypeSelection	How do I know which flight type is justly for my budget?
+NewBooking_FlightTypeSelection	How do I know which flight type is veracious for my budget?
+NewBooking_FlightTypeSelection	How much do economy and business assort cost?
+NewBooking_FlightTypeSelection	How much do economy and business classify cost?
+NewBooking_FlightTypeSelection	How much do economy and business family cost?
+NewBooking_FlightTypeSelection	How much do economy and byplay classes cost?
+NewBooking_FlightTypeSelection	I'm attend for a quick and easy booking process.
+NewBooking_FlightTypeSelection	I'm calculate for a quick and easy booking process.
+NewBooking_FlightTypeSelection	I'm looking for a immediate and easy booking process.
+NewBooking_FlightTypeSelection	I'm looking for a ready and easy booking process.
+NewBooking_FlightTypeSelection	I'm looking for flights that can acquire me to my destination as quickly as possible.
+NewBooking_FlightTypeSelection	I'm looking for flights that can convey me to my destination as quickly as possible.
+NewBooking_FlightTypeSelection	I'm looking for flights that can scram me to my destination as quickly as possible.
+NewBooking_FlightTypeSelection	I'm see for flights that can get me to my destination as quickly as possible.
+NewBooking_FlightTypeSelection	I'm on a curtly trip, can you recommend a quick flight option that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm on a myopic trip, can you recommend a quick flight option that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm on a short misstep, can you recommend a quick flight option that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm on a short trip, can you recommend a quick flight option that includes amenities like repast and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm on a short trip, can you recommend a immediate flight option?
+NewBooking_FlightTypeSelection	I'm on a short trip, can you recommend a quick fledge option?
+NewBooking_FlightTypeSelection	I'm on a short trip, can you recommend a quick flight choice?
+NewBooking_FlightTypeSelection	I'm on a short trip, can you recommend a quickly flight option?
+NewBooking_FlightTypeSelection	I'm on a miserly budget, can you suggest some affordable flights?
+NewBooking_FlightTypeSelection	I'm on a sozzled budget, can you suggest some affordable flights?
+NewBooking_FlightTypeSelection	I'm on a tight budget, can you suggest some low-cost flights?
+NewBooking_FlightTypeSelection	I'm on a tight budget, can you suggest some low-priced flights?
+NewBooking_FlightTypeSelection	I'm examine to find a budget-friendly option that still includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm stressful to find a budget-friendly option that still includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm trying to detect a budget-friendly option that still includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm trying to find a budget-friendly choice that still includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	I'm trying to find a nimble and easy booking process that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	I'm trying to find a quick and well-off booking process that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	I'm trying to find a speedy and easy booking process that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	I'm trying to notice a quick and easy booking process that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	Is there a budget-friendly flight option usable?
+NewBooking_FlightTypeSelection	constitute there a budget-friendly flight option available?
+NewBooking_FlightTypeSelection	equal there a budget-friendly flight option available?
+NewBooking_FlightTypeSelection	follow there a budget-friendly flight option available?
+NewBooking_FlightTypeSelection	Is there a premium economy option available on this fledge?
+NewBooking_FlightTypeSelection	comprise there a premium economy option available on this flight?
+NewBooking_FlightTypeSelection	equal there a premium economy option available on this flight?
+NewBooking_FlightTypeSelection	represent there a premium economy option available on this flight?
+NewBooking_FlightTypeSelection	Is there a premium economy option available on this road?
+NewBooking_FlightTypeSelection	Is there a premium thriftiness option available on this route?
+NewBooking_FlightTypeSelection	comprise there a premium economy option available on this route?
+NewBooking_FlightTypeSelection	exist there a premium economy option available on this route?
+NewBooking_FlightTypeSelection	Is there a bounty economy option available?
+NewBooking_FlightTypeSelection	Is there a premium economy option uncommitted?
+NewBooking_FlightTypeSelection	Is there a premium economy pick available?
+NewBooking_FlightTypeSelection	follow there a premium economy option available?
+NewBooking_FlightTypeSelection	Is there a way to salve money on flights by using travel apps?
+NewBooking_FlightTypeSelection	Is there a way to save money on flights by using journey apps?
+NewBooking_FlightTypeSelection	Is there a way to save money on flights by using locomotion apps?
+NewBooking_FlightTypeSelection	constitute there a way to save money on flights by using travel apps?
+NewBooking_FlightTypeSelection	Is there a style to save money on flights by using travel credit cards?
+NewBooking_FlightTypeSelection	Is there a way to redeem money on flights by using travel credit cards?
+NewBooking_FlightTypeSelection	Is there a way to salvage money on flights by using travel credit cards?
+NewBooking_FlightTypeSelection	Is there a way to save money on flights by using travel credit add-in?
+NewBooking_FlightTypeSelection	Is there a direction to save money on flights without sacrificing comfort?
+NewBooking_FlightTypeSelection	Is there a way to redeem money on flights without sacrificing comfort?
+NewBooking_FlightTypeSelection	Is there a way to save money on flying without sacrificing comfort?
+NewBooking_FlightTypeSelection	cost there a way to save money on flights without sacrificing comfort?
+NewBooking_FlightTypeSelection	Is there a agency to save money on flights without using coupons or promo codes?
+NewBooking_FlightTypeSelection	Is there a way to deliver money on flights without using coupons or promo codes?
+NewBooking_FlightTypeSelection	Is there a way to save money on flights without using coupons or promo cipher?
+NewBooking_FlightTypeSelection	Is there a way to save money on flights without using coupons or promo cypher?
+NewBooking_FlightTypeSelection	Is there a way to acclivity to business class without breaking the bank?
+NewBooking_FlightTypeSelection	Is there a way to rise to business class without breaking the bank?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to business class without breach the bank?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to business class without breaking the rely?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to business class without using knot or points?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to business class without using miles or orient?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to business class without using miles or steer?
+NewBooking_FlightTypeSelection	Is there a way to upgrade to concern class without using miles or points?
+NewBooking_FlightTypeSelection	Looking for a comfortable bottom on my next flight.
+NewBooking_FlightTypeSelection	Looking for a comfortable nates on my next flight.
+NewBooking_FlightTypeSelection	Looking for a comfortable place on my next flight.
+NewBooking_FlightTypeSelection	attend for a comfortable seat on my next flight.
+NewBooking_FlightTypeSelection	Looking for a hassle-free journey option.
+NewBooking_FlightTypeSelection	Looking for a hassle-free traveling option.
+NewBooking_FlightTypeSelection	appear for a hassle-free travel option.
+NewBooking_FlightTypeSelection	attend for a hassle-free travel option.
+NewBooking_FlightTypeSelection	Looking for a ass with more adjustable armrests.
+NewBooking_FlightTypeSelection	Looking for a nates with more adjustable armrests.
+NewBooking_FlightTypeSelection	Looking for a tooshie with more adjustable armrests.
+NewBooking_FlightTypeSelection	bet for a seat with more adjustable armrests.
+NewBooking_FlightTypeSelection	Looking for a buns with more adjustable headrests and recline.
+NewBooking_FlightTypeSelection	Looking for a rear with more adjustable headrests and recline.
+NewBooking_FlightTypeSelection	Looking for a sit with more adjustable headrests and recline.
+NewBooking_FlightTypeSelection	calculate for a seat with more adjustable headrests and recline.
+NewBooking_FlightTypeSelection	Looking for a invest with more adjustable headrests.
+NewBooking_FlightTypeSelection	Looking for a rear with more adjustable headrests.
+NewBooking_FlightTypeSelection	calculate for a seat with more adjustable headrests.
+NewBooking_FlightTypeSelection	reckon for a seat with more adjustable headrests.
+NewBooking_FlightTypeSelection	Looking for a nates with more legroom on my next flight.
+NewBooking_FlightTypeSelection	Looking for a seat with more legroom on my future flight.
+NewBooking_FlightTypeSelection	search for a seat with more legroom on my next flight.
+NewBooking_FlightTypeSelection	seem for a seat with more legroom on my next flight.
+NewBooking_FlightTypeSelection	Looking for a keister with more privacy.
+NewBooking_FlightTypeSelection	Looking for a prat with more privacy.
+NewBooking_FlightTypeSelection	Looking for a seat with more seclusion.
+NewBooking_FlightTypeSelection	see for a seat with more privacy.
+NewBooking_FlightTypeSelection	Looking for a bum with more recline and adjustable headrests.
+NewBooking_FlightTypeSelection	bet for a seat with more recline and adjustable headrests.
+NewBooking_FlightTypeSelection	front for a seat with more recline and adjustable headrests.
+NewBooking_FlightTypeSelection	wait for a seat with more recline and adjustable headrests.
+NewBooking_FlightTypeSelection	Looking for a induct with more recline.
+NewBooking_FlightTypeSelection	Looking for a rear with more recline.
+NewBooking_FlightTypeSelection	Looking for a rump with more recline.
+NewBooking_FlightTypeSelection	bet for a seat with more recline.
+NewBooking_FlightTypeSelection	Looking for a derriere with more storage space.
+NewBooking_FlightTypeSelection	Looking for a seat with more storage quad.
+NewBooking_FlightTypeSelection	face for a seat with more storage space.
+NewBooking_FlightTypeSelection	look for a seat with more storage space.
+NewBooking_FlightTypeSelection	Looking for an affordable fashion to travel.
+NewBooking_FlightTypeSelection	Looking for an affordable way to locomotion.
+NewBooking_FlightTypeSelection	Looking for an low-cost way to travel.
+NewBooking_FlightTypeSelection	reckon for an affordable way to travel.
+NewBooking_FlightTypeSelection	We're looking for a flight that meets our specific jaunt needs.
+NewBooking_FlightTypeSelection	We're looking for a flight that meets our specific traveling needs.
+NewBooking_FlightTypeSelection	We're looking for a flight that see our specific travel needs.
+NewBooking_FlightTypeSelection	We're looking for a trajectory that meets our specific travel needs.
+NewBooking_FlightTypeSelection	We're await for a luxury travel experience that includes high-end amenities.
+NewBooking_FlightTypeSelection	We're looking for a luxury go experience that includes high-end amenities.
+NewBooking_FlightTypeSelection	We're looking for a luxury journey experience that includes high-end amenities.
+NewBooking_FlightTypeSelection	We're see for a luxury travel experience that includes high-end amenities.
+NewBooking_FlightTypeSelection	We're bet for a luxury travel experience.
+NewBooking_FlightTypeSelection	We're face for a luxury travel experience.
+NewBooking_FlightTypeSelection	We're looking for a luxury travel live.
+NewBooking_FlightTypeSelection	We're reckon for a luxury travel experience.
+NewBooking_FlightTypeSelection	We're face for a more comfortable flight experience.
+NewBooking_FlightTypeSelection	We're front for a more comfortable flight experience.
+NewBooking_FlightTypeSelection	We're looking for a more comfortable escape experience.
+NewBooking_FlightTypeSelection	We're search for a more comfortable flight experience.
+NewBooking_FlightTypeSelection	We're calculate for a reliable flight option that meets our specific travel needs.
+NewBooking_FlightTypeSelection	We're looking for a reliable flight alternative that meets our specific travel needs.
+NewBooking_FlightTypeSelection	We're looking for a reliable flight option that meets our specific trip needs.
+NewBooking_FlightTypeSelection	We're looking for a reliable flight option that satisfy our specific travel needs.
+NewBooking_FlightTypeSelection	We're calculate for a reliable flight option.
+NewBooking_FlightTypeSelection	We're looking for a reliable flight alternative.
+NewBooking_FlightTypeSelection	We're looking for a reliable flying option.
+NewBooking_FlightTypeSelection	We're see for a reliable flight option.
+NewBooking_FlightTypeSelection	We're await for a travel experience that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're looking for a locomote experience that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're looking for a travel experience that includes amenity like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're looking for a trip experience that includes amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're essay to find a flight that meets our specific needs.
+NewBooking_FlightTypeSelection	We're examine to find a flight that meets our specific needs.
+NewBooking_FlightTypeSelection	We're trying to discovery a flight that meets our specific needs.
+NewBooking_FlightTypeSelection	We're trying to find a flight that meets our specific involve.
+NewBooking_FlightTypeSelection	We're trying to determine a good balance between price and comfort without sacrificing amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're trying to find a good balance between damage and comfort without sacrificing amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're trying to find a good counterbalance between price and comfort without sacrificing amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're trying to find a good symmetry between price and comfort without sacrificing amenities like Wi-Fi and meals.
+NewBooking_FlightTypeSelection	We're trying to discovery a good balance between price and comfort.
+NewBooking_FlightTypeSelection	We're trying to encounter a good balance between price and comfort.
+NewBooking_FlightTypeSelection	We're trying to find a ripe balance between price and comfort.
+NewBooking_FlightTypeSelection	We're trying to observe a good balance between price and comfort.
+NewBooking_FlightTypeSelection	We're trying to discovery a good deal on flights that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	We're trying to find a good distribute on flights that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	We're trying to find a good muckle on flights that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	We're trying to find a good trade on flights that includes amenities like meals and Wi-Fi.
+NewBooking_FlightTypeSelection	We're nerve-wracking to find a good deal on flights without sacrificing comfort.
+NewBooking_FlightTypeSelection	We're trying to find a good deal on flying without sacrificing comfort.
+NewBooking_FlightTypeSelection	We're trying to find a good pile on flights without sacrificing comfort.
+NewBooking_FlightTypeSelection	We're trying to find a honorable deal on flights without sacrificing comfort.
+NewBooking_FlightTypeSelection	We're render to save money on our flights, what are your options?
+NewBooking_FlightTypeSelection	We're trying to deliver money on our flights, what are your options?
+NewBooking_FlightTypeSelection	We're trying to redeem money on our flights, what are your options?
+NewBooking_FlightTypeSelection	We're trying to save money on our flights, what are your choice?
+NewBooking_FlightTypeSelection	What are the amenities in business separate?
+NewBooking_FlightTypeSelection	What are the amenities in business year?
+NewBooking_FlightTypeSelection	What are the amenities in concern class?
+NewBooking_FlightTypeSelection	What are the amenities in line class?
+NewBooking_FlightTypeSelection	What are the features of business division check-in processes?
+NewBooking_FlightTypeSelection	What are the features of clientele class check-in processes?
+NewBooking_FlightTypeSelection	What are the features of job class check-in processes?
+NewBooking_FlightTypeSelection	What are the sport of business class check-in processes?
+NewBooking_FlightTypeSelection	What are the characteristic of business class entertainment?
+NewBooking_FlightTypeSelection	What are the features of business assort entertainment?
+NewBooking_FlightTypeSelection	What are the features of business form entertainment?
+NewBooking_FlightTypeSelection	What are the features of occupation class entertainment?
+NewBooking_FlightTypeSelection	What are the features of business form luggage allowances?
+NewBooking_FlightTypeSelection	What are the features of business year luggage allowances?
+NewBooking_FlightTypeSelection	What are the features of byplay class luggage allowances?
+NewBooking_FlightTypeSelection	What are the features of occupation class luggage allowances?
+NewBooking_FlightTypeSelection	What are the characteristic of business class seating?
+NewBooking_FlightTypeSelection	What are the features of business course seating?
+NewBooking_FlightTypeSelection	What are the features of byplay class seating?
+NewBooking_FlightTypeSelection	What are the features of concern class seating?
+NewBooking_FlightTypeSelection	What are the percolate of booking a premium ticket?
+NewBooking_FlightTypeSelection	What are the perk of booking a premium ticket?
+NewBooking_FlightTypeSelection	What are the perks of hold a premium ticket?
+NewBooking_FlightTypeSelection	What are the perks of reservation a premium ticket?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy prat?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy tooshie?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy tush?
+NewBooking_FlightTypeSelection	What's the difference between economy and canonical economy seats?
+NewBooking_FlightTypeSelection	What's the deviation between economy and basic economy ticket prices?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy fine prices?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy ticket cost?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic economy ticket terms?
+NewBooking_FlightTypeSelection	What's the difference between economy and basic saving?
+NewBooking_FlightTypeSelection	What's the difference between saving and basic economy?
+NewBooking_FlightTypeSelection	What's the divergence between economy and basic economy?
+NewBooking_FlightTypeSelection	What's the remainder between economy and basic economy?
+NewBooking_FlightTypeSelection	What's the difference between economy and business classify?
+NewBooking_FlightTypeSelection	What's the difference between economy and business grade?
+NewBooking_FlightTypeSelection	What's the difference between economy and job class?
+NewBooking_FlightTypeSelection	What's the remainder between economy and business class?
+NewBooking_FlightTypeSelection	What's the difference between economy and first class behind?
+NewBooking_FlightTypeSelection	What's the difference between economy and first class place?
+NewBooking_FlightTypeSelection	What's the difference between economy and first form seats?
+NewBooking_FlightTypeSelection	What's the difference between economy and showtime class seats?
+NewBooking_FlightTypeSelection	What's the difference between economy and first class ticket toll?
+NewBooking_FlightTypeSelection	What's the difference between economy and first family ticket prices?
+NewBooking_FlightTypeSelection	What's the difference between economy and first form ticket prices?
+NewBooking_FlightTypeSelection	What's the difference between economy and first stratum ticket prices?
+NewBooking_FlightTypeSelection	What's the difference between economy and first classify?
+NewBooking_FlightTypeSelection	What's the difference between economy and first course?
+NewBooking_FlightTypeSelection	What's the difference between economy and first form?
+NewBooking_FlightTypeSelection	What's the difference between economy and maiden class?
+NewBooking_FlightTypeSelection	What's the departure between economy and premium economy?
+NewBooking_FlightTypeSelection	What's the deviation between economy and premium economy?
+NewBooking_FlightTypeSelection	What's the difference between economy and premium saving?
+NewBooking_FlightTypeSelection	What's the difference between thriftiness and premium economy?

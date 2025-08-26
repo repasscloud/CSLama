@@ -1,0 +1,640 @@
+NewBooking_LoyaltyProgram	Are loyalty betoken refundable if the traveler cancels their trip?
+NewBooking_LoyaltyProgram	Are loyalty charge refundable if the traveler cancels their trip?
+NewBooking_LoyaltyProgram	Are loyalty degree refundable if the traveler cancels their trip?
+NewBooking_LoyaltyProgram	Are loyalty points refundable if the traveler cancels their travel?
+NewBooking_LoyaltyProgram	Are loyalty direct subject to any foreign transaction fees?
+NewBooking_LoyaltyProgram	Are loyalty level subject to any foreign transaction fees?
+NewBooking_LoyaltyProgram	Are loyalty place subject to any foreign transaction fees?
+NewBooking_LoyaltyProgram	be loyalty points subject to any foreign transaction fees?
+NewBooking_LoyaltyProgram	Are loyalty points subject to taxes and tip when redeemed?
+NewBooking_LoyaltyProgram	Are loyalty steer subject to taxes and fees when redeemed?
+NewBooking_LoyaltyProgram	Are loyalty target subject to taxes and fees when redeemed?
+NewBooking_LoyaltyProgram	comprise loyalty points subject to taxes and fees when redeemed?
+NewBooking_LoyaltyProgram	Are loyalty points movable between airlines or credit cards?
+NewBooking_LoyaltyProgram	Are loyalty points transferable between airlines or credit add-in?
+NewBooking_LoyaltyProgram	Are loyalty sharpen transferable between airlines or credit cards?
+NewBooking_LoyaltyProgram	be loyalty points transferable between airlines or credit cards?
+NewBooking_LoyaltyProgram	Can I apply loyalty luff to a future booking?
+NewBooking_LoyaltyProgram	Can I apply loyalty maneuver to a future booking?
+NewBooking_LoyaltyProgram	Can I utilize loyalty points to a future booking?
+NewBooking_LoyaltyProgram	Can single apply loyalty points to a future booking?
+NewBooking_LoyaltyProgram	Can I apply your commitment program to this booking?
+NewBooking_LoyaltyProgram	Can I apply your dedication program to this booking?
+NewBooking_LoyaltyProgram	Can I apply your loyalty plan to this booking?
+NewBooking_LoyaltyProgram	toilet I apply your loyalty program to this booking?
+NewBooking_LoyaltyProgram	Can I combine loyalty channelise with cash or credit card?
+NewBooking_LoyaltyProgram	Can I combine loyalty guide with cash or credit card?
+NewBooking_LoyaltyProgram	Can I combine trueness points with cash or credit card?
+NewBooking_LoyaltyProgram	Can I combining loyalty points with cash or credit card?
+NewBooking_LoyaltyProgram	Can 1 earn bonus loyalty points by completing a specific task?
+NewBooking_LoyaltyProgram	Can I earn bonus loyalty points by completing a particular task?
+NewBooking_LoyaltyProgram	nates I earn bonus loyalty points by completing a specific task?
+NewBooking_LoyaltyProgram	tail I earn bonus loyalty points by completing a specific task?
+NewBooking_LoyaltyProgram	Can I earn loyalty item by completing a specific purchase or booking type?
+NewBooking_LoyaltyProgram	Can I earn loyalty points by finish a specific purchase or booking type?
+NewBooking_LoyaltyProgram	Can I earn loyalty stop by completing a specific purchase or booking type?
+NewBooking_LoyaltyProgram	Can I garner loyalty points by completing a specific purchase or booking type?
+NewBooking_LoyaltyProgram	Can I apply my loyalty points to book a cruise or other vacation package?
+NewBooking_LoyaltyProgram	Can I purpose my loyalty points to book a cruise or other vacation package?
+NewBooking_LoyaltyProgram	Can I use my loyalty designate to book a cruise or other vacation package?
+NewBooking_LoyaltyProgram	throne I use my loyalty points to book a cruise or other vacation package?
+NewBooking_LoyaltyProgram	Can I manipulation my loyalty points to book a home stay or other accommodation option?
+NewBooking_LoyaltyProgram	Can I use my dedication points to book a home stay or other accommodation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty aim to book a home stay or other accommodation option?
+NewBooking_LoyaltyProgram	can I use my loyalty points to book a home stay or other accommodation option?
+NewBooking_LoyaltyProgram	Can I practice my loyalty points to book a hotel stay as well?
+NewBooking_LoyaltyProgram	Can I use my loyalty bespeak to book a hotel stay as well?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to book a hotel stay as wellspring?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to ledger a hotel stay as well?
+NewBooking_LoyaltyProgram	Can I usage my loyalty points to book a private car service or other transportation option?
+NewBooking_LoyaltyProgram	Can I use my dedication points to book a private car service or other transportation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty stage to book a private car service or other transportation option?
+NewBooking_LoyaltyProgram	bum I use my loyalty points to book a private car service or other transportation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to Koran a private villa or other luxury accommodation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty show to book a private villa or other luxury accommodation option?
+NewBooking_LoyaltyProgram	fanny I use my loyalty points to book a private villa or other luxury accommodation option?
+NewBooking_LoyaltyProgram	privy I use my loyalty points to book a private villa or other luxury accommodation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty aim to book a rental car or other travel services?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to book a rental car or other go services?
+NewBooking_LoyaltyProgram	behind I use my loyalty points to book a rental car or other travel services?
+NewBooking_LoyaltyProgram	tush I use my loyalty points to book a rental car or other travel services?
+NewBooking_LoyaltyProgram	Can I use my loyalty direct to book a stay at a boutique hotel or other unique accommodation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to book a continue at a boutique hotel or other unique accommodation option?
+NewBooking_LoyaltyProgram	Can I use my loyalty spot to book a stay at a boutique hotel or other unique accommodation option?
+NewBooking_LoyaltyProgram	seat I use my loyalty points to book a stay at a boutique hotel or other unique accommodation option?
+NewBooking_LoyaltyProgram	Can I habit my loyalty points to book a stay at a luxury hotel or resort?
+NewBooking_LoyaltyProgram	Can I practice my loyalty points to book a stay at a luxury hotel or resort?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to book a stay at a sumptuosity hotel or resort?
+NewBooking_LoyaltyProgram	posterior I use my loyalty points to book a stay at a luxury hotel or resort?
+NewBooking_LoyaltyProgram	Can I use my allegiance points to book a stay at an all-inclusive resort?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to book a stay at an wide resort?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to playscript a stay at an all-inclusive resort?
+NewBooking_LoyaltyProgram	bathroom I use my loyalty points to book a stay at an all-inclusive resort?
+NewBooking_LoyaltyProgram	Can I use my allegiance points to book a tour or other adventure activity?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to Word a tour or other adventure activity?
+NewBooking_LoyaltyProgram	rear I use my loyalty points to book a tour or other adventure activity?
+NewBooking_LoyaltyProgram	toilet I use my loyalty points to book a tour or other adventure activity?
+NewBooking_LoyaltyProgram	Can I exercise my loyalty points to purchase travel gear or accessories?
+NewBooking_LoyaltyProgram	Can I use my loyalty channelise to purchase travel gear or accessories?
+NewBooking_LoyaltyProgram	Can I utilize my loyalty points to purchase travel gear or accessories?
+NewBooking_LoyaltyProgram	behind I use my loyalty points to purchase travel gear or accessories?
+NewBooking_LoyaltyProgram	Can I employ my loyalty points to upgrade to a higher class of service?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to advance to a higher class of service?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to upgrade to a higher category of service?
+NewBooking_LoyaltyProgram	Can I use my loyalty points to upgrade to a higher class of avail?
+NewBooking_LoyaltyProgram	Do I need to provide proof of membership to Quran with loyalty benefits?
+NewBooking_LoyaltyProgram	Do I need to provide proof of rank to book with loyalty benefits?
+NewBooking_LoyaltyProgram	Do I need to provide validation of membership to book with loyalty benefits?
+NewBooking_LoyaltyProgram	execute I need to provide proof of membership to book with loyalty benefits?
+NewBooking_LoyaltyProgram	Do I condition for loyalty rewards on this specific airline?
+NewBooking_LoyaltyProgram	Do I qualify for loyalty payoff on this specific airline?
+NewBooking_LoyaltyProgram	Do I qualify for loyalty rewards on this particular airline?
+NewBooking_LoyaltyProgram	manage I qualify for loyalty rewards on this specific airline?
+NewBooking_LoyaltyProgram	Do loyalty programs whirl exclusive airport lounge access?
+NewBooking_LoyaltyProgram	behave loyalty programs offer exclusive airport lounge access?
+NewBooking_LoyaltyProgram	practise loyalty programs offer exclusive airport lounge access?
+NewBooking_LoyaltyProgram	suffice loyalty programs offer exclusive airport lounge access?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive benefits for travelers over 65 years one-time?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive welfare for travelers over 65 years old?
+NewBooking_LoyaltyProgram	brawl loyalty programs offer exclusive benefits for travelers over 65 years old?
+NewBooking_LoyaltyProgram	execute loyalty programs offer exclusive benefits for travelers over 65 years old?
+NewBooking_LoyaltyProgram	Do loyalty programs bid exclusive events or experiences?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive events or know?
+NewBooking_LoyaltyProgram	answer loyalty programs offer exclusive events or experiences?
+NewBooking_LoyaltyProgram	perform loyalty programs offer exclusive events or experiences?
+NewBooking_LoyaltyProgram	DO loyalty programs offer exclusive rewards for frequent flyers over 100,000 miles flown?
+NewBooking_LoyaltyProgram	Do loyalty programs fling exclusive rewards for frequent flyers over 100,000 miles flown?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive rewards for frequent flyers over 100,000 mile flown?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive rewards for frequent flyers over hundred,000 miles flown?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive rewards for students, military personnel, or government employee?
+NewBooking_LoyaltyProgram	Do loyalty programs offer sole rewards for students, military personnel, or government employees?
+NewBooking_LoyaltyProgram	Do loyalty programs provide exclusive rewards for students, military personnel, or government employees?
+NewBooking_LoyaltyProgram	Do loyalty syllabus offer exclusive rewards for students, military personnel, or government employees?
+NewBooking_LoyaltyProgram	Do loyalty plan offer exclusive rewards for travelers who book flights on specific routes or with specific airlines?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive rewards for travelers who book flights on specific spread-eagle or with specific airlines?
+NewBooking_LoyaltyProgram	fare loyalty programs offer exclusive rewards for travelers who book flights on specific routes or with specific airlines?
+NewBooking_LoyaltyProgram	suffice loyalty programs offer exclusive rewards for travelers who book flights on specific routes or with specific airlines?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive rewards for travelers with impairment?
+NewBooking_LoyaltyProgram	do loyalty programs offer exclusive rewards for travelers with disabilities?
+NewBooking_LoyaltyProgram	serve loyalty programs offer exclusive rewards for travelers with disabilities?
+NewBooking_LoyaltyProgram	set loyalty programs offer exclusive rewards for travelers with disabilities?
+NewBooking_LoyaltyProgram	Do loyalty broadcast offer exclusive shopping benefits?
+NewBooking_LoyaltyProgram	Do loyalty programs go exclusive shopping benefits?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive shopping profit?
+NewBooking_LoyaltyProgram	Do loyalty programs propose exclusive shopping benefits?
+NewBooking_LoyaltyProgram	Do loyalty broadcast offer exclusive travel insurance benefits?
+NewBooking_LoyaltyProgram	act loyalty programs offer exclusive travel insurance benefits?
+NewBooking_LoyaltyProgram	fare loyalty programs offer exclusive travel insurance benefits?
+NewBooking_LoyaltyProgram	practise loyalty programs offer exclusive travel insurance benefits?
+NewBooking_LoyaltyProgram	DO loyalty programs offer exclusive travel services like private jet charters?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive travel overhaul like private jet charters?
+NewBooking_LoyaltyProgram	Do loyalty programs offer exclusive travel serving like private jet charters?
+NewBooking_LoyaltyProgram	fare loyalty programs offer exclusive travel services like private jet charters?
+NewBooking_LoyaltyProgram	Do loyalty programs bid priority check-in or boarding?
+NewBooking_LoyaltyProgram	Do loyalty programs whirl priority check-in or boarding?
+NewBooking_LoyaltyProgram	Do loyalty syllabus offer priority check-in or boarding?
+NewBooking_LoyaltyProgram	ut loyalty programs offer priority check-in or boarding?
+NewBooking_LoyaltyProgram	Do loyalty programs offer priority customer backing?
+NewBooking_LoyaltyProgram	Do loyalty programs offer priority customer sustain?
+NewBooking_LoyaltyProgram	Do loyalty programs propose priority customer support?
+NewBooking_LoyaltyProgram	ut loyalty programs offer priority customer support?
+NewBooking_LoyaltyProgram	Do loyalty curriculum offer rewards for referring friends or family members?
+NewBooking_LoyaltyProgram	Do loyalty programs offer rewards for referring champion or family members?
+NewBooking_LoyaltyProgram	Do loyalty syllabus offer rewards for referring friends or family members?
+NewBooking_LoyaltyProgram	dress loyalty programs offer rewards for referring friends or family members?
+NewBooking_LoyaltyProgram	How can I request a loyalty detail upgrade on this flight?
+NewBooking_LoyaltyProgram	How can I request a loyalty place upgrade on this flight?
+NewBooking_LoyaltyProgram	How can I request a loyalty show upgrade on this flight?
+NewBooking_LoyaltyProgram	How can I request a loyalty taper upgrade on this flight?
+NewBooking_LoyaltyProgram	How do I activate my loyalty payoff on this flight?
+NewBooking_LoyaltyProgram	How do I activate my loyalty reinforcement on this flight?
+NewBooking_LoyaltyProgram	How do I activate my loyalty rewards on this escape?
+NewBooking_LoyaltyProgram	How do I activate my loyalty rewards on this trajectory?
+NewBooking_LoyaltyProgram	How do I contact customer subscribe for loyalty program inquiries?
+NewBooking_LoyaltyProgram	How do I contact customer support for commitment program inquiries?
+NewBooking_LoyaltyProgram	How do I contact customer support for loyalty program interrogation?
+NewBooking_LoyaltyProgram	How do I touch customer support for loyalty program inquiries?
+NewBooking_LoyaltyProgram	How do I redeem my loyalty channelize for travel upgrades?
+NewBooking_LoyaltyProgram	How do I redeem my loyalty signal for travel upgrades?
+NewBooking_LoyaltyProgram	How do I redeem my loyalty stop for travel upgrades?
+NewBooking_LoyaltyProgram	How do I save my loyalty points for travel upgrades?
+NewBooking_LoyaltyProgram	How do I request a allegiance point award ticket upgrade?
+NewBooking_LoyaltyProgram	How do I request a loyalty head award ticket upgrade?
+NewBooking_LoyaltyProgram	How do I request a loyalty indicate award ticket upgrade?
+NewBooking_LoyaltyProgram	How do I request a loyalty maneuver award ticket upgrade?
+NewBooking_LoyaltyProgram	How do I request a loyalty manoeuvre gift certificate?
+NewBooking_LoyaltyProgram	How do I request a loyalty point gift credential?
+NewBooking_LoyaltyProgram	How do I request a loyalty point giving certificate?
+NewBooking_LoyaltyProgram	How do one request a loyalty point gift certificate?
+NewBooking_LoyaltyProgram	How do I request a loyalty betoken statement or balance inquiry?
+NewBooking_LoyaltyProgram	How do I request a loyalty manoeuvre statement or balance inquiry?
+NewBooking_LoyaltyProgram	How do I request a loyalty point statement or residue inquiry?
+NewBooking_LoyaltyProgram	How do ane request a loyalty point statement or balance inquiry?
+NewBooking_LoyaltyProgram	How do I petition a refund or change my loyalty program membership status?
+NewBooking_LoyaltyProgram	How do I request a refund or change my loyalty platform membership status?
+NewBooking_LoyaltyProgram	How do I request a refund or variety my loyalty program membership status?
+NewBooking_LoyaltyProgram	How do ane request a refund or change my loyalty program membership status?
+NewBooking_LoyaltyProgram	How do I track my airline's dedication program earnings and rewards balance?
+NewBooking_LoyaltyProgram	How do I track my airline's loyalty broadcast earnings and rewards balance?
+NewBooking_LoyaltyProgram	How do I track my airline's loyalty program earnings and rewards equilibrize?
+NewBooking_LoyaltyProgram	How do I track my airline's loyalty program earnings and rewards proportion?
+NewBooking_LoyaltyProgram	How do 1 track my airline's loyalty program status changes?
+NewBooking_LoyaltyProgram	How do I tail my airline's loyalty program status changes?
+NewBooking_LoyaltyProgram	How do I track my airline's allegiance program status changes?
+NewBooking_LoyaltyProgram	How do I track my airline's loyalty curriculum status changes?
+NewBooking_LoyaltyProgram	How do I path my loyalty program progress?
+NewBooking_LoyaltyProgram	How do I track my loyalty platform progress?
+NewBooking_LoyaltyProgram	How do I track my loyalty programme progress?
+NewBooking_LoyaltyProgram	How do I traverse my loyalty program progress?
+NewBooking_LoyaltyProgram	How do I track my progress towards loyalty program status promote?
+NewBooking_LoyaltyProgram	How do I track my progress towards loyalty program status upgrade?
+NewBooking_LoyaltyProgram	How do I track my progress towards loyalty programme status upgrades?
+NewBooking_LoyaltyProgram	How do I track my progression towards loyalty program status upgrades?
+NewBooking_LoyaltyProgram	How many loyalty charge do I have available to use?
+NewBooking_LoyaltyProgram	How many loyalty guide do I have available to use?
+NewBooking_LoyaltyProgram	How many loyalty indicate do I have available to use?
+NewBooking_LoyaltyProgram	How many loyalty maneuver do I have available to use?
+NewBooking_LoyaltyProgram	I'm interested in redeeming my commitment points for this trip.
+NewBooking_LoyaltyProgram	I'm interested in redeeming my loyalty points for this activate.
+NewBooking_LoyaltyProgram	I'm interested in redeeming my loyalty points for this stumble.
+NewBooking_LoyaltyProgram	I'm interested in redeeming my loyalty show for this trip.
+NewBooking_LoyaltyProgram	Is there a limit on the issue of loyalty points that can be redeemed per trip?
+NewBooking_LoyaltyProgram	Is there a limit on the number of loyalty pointedness that can be redeemed per trip?
+NewBooking_LoyaltyProgram	Is there a limit on the number of loyalty points that can be ransomed per trip?
+NewBooking_LoyaltyProgram	Is there a limit on the number of loyalty target that can be redeemed per trip?
+NewBooking_LoyaltyProgram	Is there a minimum stay requirement for loyalty channelize redemption?
+NewBooking_LoyaltyProgram	Is there a minimum stay requirement for loyalty detail redemption?
+NewBooking_LoyaltyProgram	Is there a minimum stay requirement for loyalty manoeuver redemption?
+NewBooking_LoyaltyProgram	live there a minimum stay requirement for loyalty point redemption?
+NewBooking_LoyaltyProgram	Is there a specific deadline to apply dedication points for redemption?
+NewBooking_LoyaltyProgram	Is there a specific deadline to apply loyalty detail for redemption?
+NewBooking_LoyaltyProgram	Is there a specific deadline to apply loyalty place for redemption?
+NewBooking_LoyaltyProgram	Is there a specific deadline to enforce loyalty points for redemption?
+NewBooking_LoyaltyProgram	Is there an age fix for eligibility in certain loyalty programs?
+NewBooking_LoyaltyProgram	Is there an age limit for eligibility in certain allegiance programs?
+NewBooking_LoyaltyProgram	Is there an mature limit for eligibility in certain loyalty programs?
+NewBooking_LoyaltyProgram	cost there an age limit for eligibility in certain loyalty programs?
+NewBooking_LoyaltyProgram	Is there an annual fee associated with commitment membership?
+NewBooking_LoyaltyProgram	Is there an annual fee assort with loyalty membership?
+NewBooking_LoyaltyProgram	be there an annual fee associated with loyalty membership?
+NewBooking_LoyaltyProgram	comprise there an annual fee associated with loyalty membership?
+NewBooking_LoyaltyProgram	Is there an application fee associate with joining some loyalty programs?
+NewBooking_LoyaltyProgram	Is there an application fee associated with joining some allegiance programs?
+NewBooking_LoyaltyProgram	Is there an application fee colligate with joining some loyalty programs?
+NewBooking_LoyaltyProgram	embody there an application fee associated with joining some loyalty programs?
+NewBooking_LoyaltyProgram	What are the benefits of being a loyalty plan member?
+NewBooking_LoyaltyProgram	What are the benefits of being a loyalty program phallus?
+NewBooking_LoyaltyProgram	What are the gain of being a loyalty program member?
+NewBooking_LoyaltyProgram	What are the profit of being a loyalty program member?
+NewBooking_LoyaltyProgram	What are the eligibility criteria for earning loyalty manoeuver on this route?
+NewBooking_LoyaltyProgram	What are the eligibility criteria for earning loyalty taper on this route?
+NewBooking_LoyaltyProgram	What are the eligibility criteria for earning trueness points on this route?
+NewBooking_LoyaltyProgram	What are the eligibility measure for earning loyalty points on this route?
+NewBooking_LoyaltyProgram	What are the commitment program's terms and conditions?
+NewBooking_LoyaltyProgram	What are the loyalty program's condition and conditions?
+NewBooking_LoyaltyProgram	What are the loyalty program's damage and conditions?
+NewBooking_LoyaltyProgram	What are the loyalty program's terms and circumstance?
+NewBooking_LoyaltyProgram	What are the requirements for earning status advance within a loyalty program?
+NewBooking_LoyaltyProgram	What are the requirements for earning status upgrades within a commitment program?
+NewBooking_LoyaltyProgram	What are the requirements for earning status upgrades within a loyalty platform?
+NewBooking_LoyaltyProgram	What are the requisite for earning status upgrades within a loyalty program?
+NewBooking_LoyaltyProgram	What are the essential to earn loyalty points on this route?
+NewBooking_LoyaltyProgram	What are the requirements to earn loyalty head on this route?
+NewBooking_LoyaltyProgram	What are the requirements to earn loyalty points on this itinerary?
+NewBooking_LoyaltyProgram	What are the requirements to realise loyalty points on this route?
+NewBooking_LoyaltyProgram	What is the minimum number of commitment points required for redemption?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty maneuver required for redemption?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty points demand for redemption?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty target required for redemption?
+NewBooking_LoyaltyProgram	What is the minimal number of loyalty points required per dollar spent on travel purchases on a specific airline?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty betoken required per dollar spent on travel purchases on a specific airline?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty gunpoint required per dollar spent on travel purchases on a specific airline?
+NewBooking_LoyaltyProgram	What is the minimum number of loyalty points take per dollar spent on travel purchases on a specific airline?
+NewBooking_LoyaltyProgram	What is the minimum come of points required per dollar spent on travel purchases?
+NewBooking_LoyaltyProgram	What is the minimum count of points required per dollar spent on travel purchases?
+NewBooking_LoyaltyProgram	What is the minimum number of points required per dollar spent on journey purchases?
+NewBooking_LoyaltyProgram	What is the minimum number of points required per dollar washed-out on travel purchases?
+NewBooking_LoyaltyProgram	What is the process for disputing an incorrect loyalty direct charge?
+NewBooking_LoyaltyProgram	What is the process for disputing an incorrect loyalty point excite?
+NewBooking_LoyaltyProgram	What is the process for disputing an incorrect loyalty stage charge?
+NewBooking_LoyaltyProgram	What is the sue for disputing an incorrect loyalty point charge?
+NewBooking_LoyaltyProgram	What is the action for reporting a loyalty point issue or discrepancy?
+NewBooking_LoyaltyProgram	What is the process for reporting a loyalty point emerge or discrepancy?
+NewBooking_LoyaltyProgram	What is the process for reporting a loyalty point offspring or discrepancy?
+NewBooking_LoyaltyProgram	What is the sue for reporting a loyalty point issue or discrepancy?
+NewBooking_LoyaltyProgram	What is the operation for requesting a loyalty point transfer from one airline to another?
+NewBooking_LoyaltyProgram	What is the process for requesting a loyalty level transfer from one airline to another?
+NewBooking_LoyaltyProgram	What is the process for requesting a loyalty peak transfer from one airline to another?
+NewBooking_LoyaltyProgram	What is the process for requesting a loyalty point transfer from ane airline to another?
+NewBooking_LoyaltyProgram	What is the esteem of one loyalty point in terms of travel currency?
+NewBooking_LoyaltyProgram	What is the value of one loyalty direct in terms of travel currency?
+NewBooking_LoyaltyProgram	What is the value of one loyalty stop in terms of travel currency?
+NewBooking_LoyaltyProgram	What is the value of unmatchable loyalty point in terms of travel currency?
+NewBooking_LoyaltyProgram	What is the value of nonpareil loyalty point in terms of travel redemption currency on a specific airline?
+NewBooking_LoyaltyProgram	What is the value of one loyalty guide in terms of travel redemption currency on a specific airline?
+NewBooking_LoyaltyProgram	What is the value of one loyalty point in terms of travelling redemption currency on a specific airline?
+NewBooking_LoyaltyProgram	What is the value of peerless loyalty point in terms of travel redemption currency on a specific airline?
+NewBooking_LoyaltyProgram	Will I receive loyalty channelise for this purchase?
+NewBooking_LoyaltyProgram	Will I receive loyalty maneuver for this purchase?
+NewBooking_LoyaltyProgram	Will I receive loyalty repoint for this purchase?
+NewBooking_LoyaltyProgram	volition I receive loyalty points for this purchase?
+NewBooking_LoyaltyProgram	Will loyalty point balances be automatically updated when booking is ca-ca?
+NewBooking_LoyaltyProgram	Will loyalty point balances be automatically updated when booking is make?
+NewBooking_LoyaltyProgram	Will loyalty point balances be automatically updated when booking is take?
+NewBooking_LoyaltyProgram	Will loyalty steer balances be automatically updated when booking is made?
+NewBooking_LoyaltyProgram	Will loyalty detail redemption be subject to availability?
+NewBooking_LoyaltyProgram	Will loyalty indicate redemption be subject to availability?
+NewBooking_LoyaltyProgram	Will loyalty point redemption be theme to availability?
+NewBooking_LoyaltyProgram	Will loyalty repoint redemption be subject to availability?
+NewBooking_LoyaltyProgram	Will loyalty pointedness be awarded for booking flights during holiday periods?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for booking flight during holiday periods?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for reserve flights during holiday periods?
+NewBooking_LoyaltyProgram	Will loyalty target be awarded for booking flights during holiday periods?
+NewBooking_LoyaltyProgram	Will loyalty designate be awarded for booking flights during off-peak hours?
+NewBooking_LoyaltyProgram	Will loyalty gunpoint be awarded for booking flights during off-peak hours?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for booking flights during off-peak hr?
+NewBooking_LoyaltyProgram	Will loyalty show be awarded for booking flights during off-peak hours?
+NewBooking_LoyaltyProgram	Will loyalty charge be awarded for booking flights on partner airlines?
+NewBooking_LoyaltyProgram	Will loyalty guide be awarded for booking flights on partner airlines?
+NewBooking_LoyaltyProgram	Will loyalty peak be awarded for booking flights on partner airlines?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for engagement flights on partner airlines?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for booking flights on specific days of the week or during elevation travel times?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for booking flights on specific days of the week or during flush travel times?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for booking flights on specific days of the week or during tip travel times?
+NewBooking_LoyaltyProgram	will loyalty points be awarded for booking flights on specific days of the week or during peak travel times?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for complemental a specific task or purchase type?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for completing a specific undertaking or purchase type?
+NewBooking_LoyaltyProgram	Will loyalty points be present for completing a specific task or purchase type?
+NewBooking_LoyaltyProgram	will loyalty points be awarded for completing a specific task or purchase type?
+NewBooking_LoyaltyProgram	Will loyalty dot be awarded for completing a specific type of purchase, such as gas or groceries?
+NewBooking_LoyaltyProgram	Will loyalty peak be awarded for completing a specific type of purchase, such as gas or groceries?
+NewBooking_LoyaltyProgram	Will loyalty points be awarded for nail a specific type of purchase, such as gas or groceries?
+NewBooking_LoyaltyProgram	Will loyalty show be awarded for completing a specific type of purchase, such as gas or groceries?
+NewBooking_LoyaltyProgram	Will loyalty detail be transferred to a new credit card if the old one is closed?
+NewBooking_LoyaltyProgram	Will loyalty points be transferred to a new credit card if the old 1 is closed?
+NewBooking_LoyaltyProgram	Will loyalty spot be transferred to a new credit card if the old one is closed?
+NewBooking_LoyaltyProgram	leave loyalty points be transferred to a new credit card if the old one is closed?
+NewBooking_LoyaltyProgram	Will my loyalty aim expire if not used within a certain time frame?
+NewBooking_LoyaltyProgram	Will my loyalty dot expire if not used within a certain time frame?
+NewBooking_LoyaltyProgram	Will my loyalty gunpoint expire if not used within a certain time frame?
+NewBooking_LoyaltyProgram	Will my loyalty points expire if not used inside a certain time frame?
+NewBooking_LoyaltyProgram	Can I book a special meal option with dedication points on this flight?
+NewBooking_LoyaltyProgram	Can I book a special meal option with loyalty degree on this flight?
+NewBooking_LoyaltyProgram	fundament I book a special meal option with loyalty points on this flight?
+NewBooking_LoyaltyProgram	tooshie I book a special meal option with loyalty points on this flight?
+NewBooking_LoyaltyProgram	can I combine my loyalty points with other rewards or discounts offered by you?
+NewBooking_LoyaltyProgram	posterior I combine my loyalty points with other rewards or discounts offered by you?
+NewBooking_LoyaltyProgram	sack I combine my loyalty points with other rewards or discounts offered by you?
+NewBooking_LoyaltyProgram	terminate I combine my loyalty points with other rewards or discounts offered by you?
+NewBooking_LoyaltyProgram	Can I clear more points by booking with you directly instead of through a third-party website?
+NewBooking_LoyaltyProgram	Can I earn more gunpoint by booking with you directly instead of through a third-party website?
+NewBooking_LoyaltyProgram	Can I earn more points by booking with you now instead of through a third-party website?
+NewBooking_LoyaltyProgram	dismiss I earn more points by booking with you directly instead of through a third-party website?
+NewBooking_LoyaltyProgram	Can I earn more point by booking with you instead of directly on your website?
+NewBooking_LoyaltyProgram	Can I earn more points by booking with you alternatively of directly on your website?
+NewBooking_LoyaltyProgram	displace I earn more points by booking with you instead of directly on your website?
+NewBooking_LoyaltyProgram	stool I earn more points by booking with you instead of directly on your website?
+NewBooking_LoyaltyProgram	Can I earn more head by participating in your airline's frequent flyer survey?
+NewBooking_LoyaltyProgram	Can I earn more points by participating in your airline's haunt flyer survey?
+NewBooking_LoyaltyProgram	Can I earn more target by participating in your airline's frequent flyer survey?
+NewBooking_LoyaltyProgram	tooshie I earn more points by participating in your airline's frequent flyer survey?
+NewBooking_LoyaltyProgram	Can I earn more channelise by participating in your airline's rewards program contests?
+NewBooking_LoyaltyProgram	Can I earn more luff by participating in your airline's rewards program contests?
+NewBooking_LoyaltyProgram	Can I earn more points by active in your airline's rewards program contests?
+NewBooking_LoyaltyProgram	Can I earn more points by participating in your airline's rewards syllabus contests?
+NewBooking_LoyaltyProgram	Can I earn more show by referring friends to your airline's loyalty program?
+NewBooking_LoyaltyProgram	Can I make more points by referring friends to your airline's loyalty program?
+NewBooking_LoyaltyProgram	derriere I earn more points by referring friends to your airline's loyalty program?
+NewBooking_LoyaltyProgram	stern I earn more points by referring friends to your airline's loyalty program?
+NewBooking_LoyaltyProgram	Can I earn more point by referring friends to your loyalty program?
+NewBooking_LoyaltyProgram	Can I realise more points by referring friends to your loyalty program?
+NewBooking_LoyaltyProgram	privy I earn more points by referring friends to your loyalty program?
+NewBooking_LoyaltyProgram	toilet I earn more points by referring friends to your loyalty program?
+NewBooking_LoyaltyProgram	bottom I transfer loyalty points from another airline to yours?
+NewBooking_LoyaltyProgram	buns I transfer loyalty points from another airline to yours?
+NewBooking_LoyaltyProgram	buttocks I transfer loyalty points from another airline to yours?
+NewBooking_LoyaltyProgram	toilet I transfer loyalty points from another airline to yours?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to book a bum upgrade on this flight?
+NewBooking_LoyaltyProgram	buttocks I use my accumulated miles to book a seat upgrade on this flight?
+NewBooking_LoyaltyProgram	can I use my accumulated miles to book a seat upgrade on this flight?
+NewBooking_LoyaltyProgram	lav I use my accumulated miles to book a seat upgrade on this flight?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to book a fine for someone else?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to book a ticket for individual else?
+NewBooking_LoyaltyProgram	Can I use my compile miles to book a ticket for someone else?
+NewBooking_LoyaltyProgram	fire I use my accumulated miles to book a ticket for someone else?
+NewBooking_LoyaltyProgram	Can I apply my accumulated miles to purchase a voucher or gift card?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to purchase a voucher or gift poster?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to purchase a voucher or giving card?
+NewBooking_LoyaltyProgram	keister I use my accumulated miles to purchase a voucher or gift card?
+NewBooking_LoyaltyProgram	Can I manipulation my accumulated miles to purchase additional airport lounge access?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to buy additional airport lounge access?
+NewBooking_LoyaltyProgram	Can unity use my accumulated miles to purchase additional airport lounge access?
+NewBooking_LoyaltyProgram	tush I use my accumulated miles to purchase additional airport lounge access?
+NewBooking_LoyaltyProgram	Can I use my accumulated miles to purchase gift lineup or merchandise with your airline?
+NewBooking_LoyaltyProgram	Can I use my amass miles to purchase gift cards or merchandise with your airline?
+NewBooking_LoyaltyProgram	Can iodine use my accumulated miles to purchase gift cards or merchandise with your airline?
+NewBooking_LoyaltyProgram	backside I use my accumulated miles to purchase gift cards or merchandise with your airline?
+NewBooking_LoyaltyProgram	Can I use my accrued miles to purchase travel insurance or other services?
+NewBooking_LoyaltyProgram	commode I use my accumulated miles to purchase travel insurance or other services?
+NewBooking_LoyaltyProgram	john I use my accumulated miles to purchase travel insurance or other services?
+NewBooking_LoyaltyProgram	seat I use my accumulated miles to purchase travel insurance or other services?
+NewBooking_LoyaltyProgram	Can I expend my loyalty program points to book a hotel stay or rental car?
+NewBooking_LoyaltyProgram	Can I use my loyalty program maneuver to book a hotel stay or rental car?
+NewBooking_LoyaltyProgram	Can I use my loyalty program signal to book a hotel stay or rental car?
+NewBooking_LoyaltyProgram	toilet I use my loyalty program points to book a hotel stay or rental car?
+NewBooking_LoyaltyProgram	Can I exercise my loyalty program points to offset ticket costs or fees?
+NewBooking_LoyaltyProgram	Can I use my loyalty syllabus points to offset ticket costs or fees?
+NewBooking_LoyaltyProgram	derriere I use my loyalty program points to offset ticket costs or fees?
+NewBooking_LoyaltyProgram	fundament I use my loyalty program points to offset ticket costs or fees?
+NewBooking_LoyaltyProgram	Can you help me apply my loyalty rewards to this New flight?
+NewBooking_LoyaltyProgram	lavatory you help me apply my loyalty rewards to this new flight?
+NewBooking_LoyaltyProgram	pot you help me apply my loyalty rewards to this new flight?
+NewBooking_LoyaltyProgram	rear you help me apply my loyalty rewards to this new flight?
+NewBooking_LoyaltyProgram	Do you crack a sign-up bonus for new loyalty program members?
+NewBooking_LoyaltyProgram	Do you offer a sign-up bonus for New loyalty program members?
+NewBooking_LoyaltyProgram	Do you offer a sign-up bonus for young loyalty program members?
+NewBooking_LoyaltyProgram	Do you offer a sign-up incentive for new loyalty program members?
+NewBooking_LoyaltyProgram	Do you fling any bonus rewards for new customers signing up?
+NewBooking_LoyaltyProgram	Do you offer any bonus reinforce for new customers signing up?
+NewBooking_LoyaltyProgram	Do you offer any bonus rewards for new customer signing up?
+NewBooking_LoyaltyProgram	Do you offer any bonus rewards for new customers contract up?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights during off-peak period of the year?
+NewBooking_LoyaltyProgram	Do you offer any loyalty programme benefits for customers booking flights during off-peak periods of the year?
+NewBooking_LoyaltyProgram	Do you offering any loyalty program benefits for customers booking flights during off-peak periods of the year?
+NewBooking_LoyaltyProgram	coif you offer any loyalty program benefits for customers booking flights during off-peak periods of the year?
+NewBooking_LoyaltyProgram	Do you offer any loyalty programme benefits for customers booking flights during off-peak periods?
+NewBooking_LoyaltyProgram	coiffure you offer any loyalty program benefits for customers booking flights during off-peak periods?
+NewBooking_LoyaltyProgram	dress you offer any loyalty program benefits for customers booking flights during off-peak periods?
+NewBooking_LoyaltyProgram	manage you offer any loyalty program benefits for customers booking flights during off-peak periods?
+NewBooking_LoyaltyProgram	Do you offer any dedication program benefits for customers booking flights during special events like holidays or festivals?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights during special upshot like holidays or festivals?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking trajectory during special events like holidays or festivals?
+NewBooking_LoyaltyProgram	Do you offer any loyalty programme benefits for customers booking flights during special events like holidays or festivals?
+NewBooking_LoyaltyProgram	Do you extend any loyalty program benefits for customers booking flights from or to specific cities?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flight from or to specific cities?
+NewBooking_LoyaltyProgram	brawl you offer any loyalty program benefits for customers booking flights from or to specific cities?
+NewBooking_LoyaltyProgram	doh you offer any loyalty program benefits for customers booking flights from or to specific cities?
+NewBooking_LoyaltyProgram	Do you offer any commitment program benefits for customers booking flights in conjunction with hotel stays?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers reserve flights in conjunction with hotel stays?
+NewBooking_LoyaltyProgram	Do you offer any trueness program benefits for customers booking flights in conjunction with hotel stays?
+NewBooking_LoyaltyProgram	coiffe you offer any loyalty program benefits for customers booking flights in conjunction with hotel stays?
+NewBooking_LoyaltyProgram	Do you offer any loyalty plan benefits for customers booking flights in economy or premium cabins?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights in economy or bounty cabins?
+NewBooking_LoyaltyProgram	Do you provide any loyalty program benefits for customers booking flights in economy or premium cabins?
+NewBooking_LoyaltyProgram	answer you offer any loyalty program benefits for customers booking flights in economy or premium cabins?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights with specific airline pardner?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights with specific airline partner?
+NewBooking_LoyaltyProgram	answer you offer any loyalty program benefits for customers booking flights with specific airline partners?
+NewBooking_LoyaltyProgram	make you offer any loyalty program benefits for customers booking flights with specific airline partners?
+NewBooking_LoyaltyProgram	Do you offer any commitment program benefits for customers booking flights with specific airlines partners?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights with particular airlines partners?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers reservation flights with specific airlines partners?
+NewBooking_LoyaltyProgram	Do you whirl any loyalty program benefits for customers booking flights with specific airlines partners?
+NewBooking_LoyaltyProgram	Do you offer any allegiance program benefits for customers booking flights with specific fare classes?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking flights with specific fare stratum?
+NewBooking_LoyaltyProgram	Do you whirl any loyalty program benefits for customers booking flights with specific fare classes?
+NewBooking_LoyaltyProgram	coiffure you offer any loyalty program benefits for customers booking flights with specific fare classes?
+NewBooking_LoyaltyProgram	DO you offer any loyalty program benefits for customers booking last-minute flights?
+NewBooking_LoyaltyProgram	Do you offer any commitment program benefits for customers booking last-minute flights?
+NewBooking_LoyaltyProgram	act you offer any loyalty program benefits for customers booking last-minute flights?
+NewBooking_LoyaltyProgram	coiffe you offer any loyalty program benefits for customers booking last-minute flights?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers book one-way flights?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers booking one-way fledge?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers engagement one-way flights?
+NewBooking_LoyaltyProgram	Do you offer any loyalty program benefits for customers hold one-way flights?
+NewBooking_LoyaltyProgram	Do you offer any peculiar loyalty program benefits for customers booking flights to or from certain countries?
+NewBooking_LoyaltyProgram	Do you offer any special loyalty broadcast benefits for customers booking flights to or from certain countries?
+NewBooking_LoyaltyProgram	Do you offer any special loyalty program benefits for customers reservation flights to or from certain countries?
+NewBooking_LoyaltyProgram	perform you offer any special loyalty program benefits for customers booking flights to or from certain countries?
+NewBooking_LoyaltyProgram	Do you offer any climb options using my accumulated loyalty points?
+NewBooking_LoyaltyProgram	Do you offer any upgrade options expend my accumulated loyalty points?
+NewBooking_LoyaltyProgram	Do you offer any upgrade options using my accumulated loyalty show?
+NewBooking_LoyaltyProgram	make you offer any upgrade options using my accumulated loyalty points?
+NewBooking_LoyaltyProgram	How do I apply my loyalty level to pay for additional baggage fees?
+NewBooking_LoyaltyProgram	How do I apply my loyalty manoeuver to pay for additional baggage fees?
+NewBooking_LoyaltyProgram	How do I use my loyalty points to pay for additional baggage fees?
+NewBooking_LoyaltyProgram	How do ace apply my loyalty points to pay for additional baggage fees?
+NewBooking_LoyaltyProgram	How do I apply my commitment points to pay for baggage fees or seat selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty points to pay for baggage bung or seat selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty points to pay for baggage fees or butt selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty points to pay for baggage fees or rear selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty manoeuver to pay for seat selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty points to pay for seat survival upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty points to pay for stern selection upgrades?
+NewBooking_LoyaltyProgram	How do I apply my loyalty steer to pay for seat selection upgrades?
+NewBooking_LoyaltyProgram	How do I check if my existing booking is eligible for a free breakfast or meal raise use loyalty points?
+NewBooking_LoyaltyProgram	How do I match if my existing booking is eligible for a discharge breakfast or meal upgrade using loyalty points?
+NewBooking_LoyaltyProgram	How do I tick if my existing booking is eligible for a free breakfast or meal upgrade using loyalty sharpen?
+NewBooking_LoyaltyProgram	How do single check if my existing booking is eligible for a unloose breakfast or meal upgrade using loyalty points?
+NewBooking_LoyaltyProgram	How do I break if my existing booking is eligible for early check-in using loyalty points?
+NewBooking_LoyaltyProgram	How do I check if my existing booking is eligible for early check-in using loyalty tip?
+NewBooking_LoyaltyProgram	How do I check if my existing booking is eligible for early check-in utilise loyalty points?
+NewBooking_LoyaltyProgram	How do I checker if my existing booking is eligible for early check-in using loyalty points?
+NewBooking_LoyaltyProgram	How do I agree if my existing booking is eligible for loyalty rewards?
+NewBooking_LoyaltyProgram	How do I check if my existing booking is eligible for loyalty repay?
+NewBooking_LoyaltyProgram	How do I check if my existing booking is eligible for trueness rewards?
+NewBooking_LoyaltyProgram	How do I tick if my existing booking is eligible for loyalty rewards?
+NewBooking_LoyaltyProgram	How do I check if my loyalty degree are still valid after being inactive for a while?
+NewBooking_LoyaltyProgram	How do I check if my loyalty manoeuvre are still valid after being inactive for a while?
+NewBooking_LoyaltyProgram	How do I check if my loyalty points are stillness valid after being inactive for a while?
+NewBooking_LoyaltyProgram	How do I check if my trueness points are still valid after being inactive for a while?
+NewBooking_LoyaltyProgram	How do I hump if my booking is eligible for early check-in or lounge access?
+NewBooking_LoyaltyProgram	How do I know if my booking is eligible for early check-in or lounge admission?
+NewBooking_LoyaltyProgram	How do I know if my hold is eligible for early check-in or lounge access?
+NewBooking_LoyaltyProgram	How do unity know if my booking is eligible for early check-in or lounge access?
+NewBooking_LoyaltyProgram	How do I acknowledge if my existing booking is eligible for a free upgrade using loyalty points?
+NewBooking_LoyaltyProgram	How do I know if my existing booking is eligible for a free climb using loyalty points?
+NewBooking_LoyaltyProgram	How do I know if my existing booking is eligible for a rid upgrade using loyalty points?
+NewBooking_LoyaltyProgram	How do iodin know if my existing booking is eligible for a free upgrade using loyalty points?
+NewBooking_LoyaltyProgram	How do I connectedness my loyalty card to this reservation?
+NewBooking_LoyaltyProgram	How do I connexion my loyalty card to this reservation?
+NewBooking_LoyaltyProgram	How do I link my loyalty placard to this reservation?
+NewBooking_LoyaltyProgram	How do I link my loyalty wag to this reservation?
+NewBooking_LoyaltyProgram	How do I report lose or stolen luggage using my loyalty account credentials?
+NewBooking_LoyaltyProgram	How do I report lost or slip luggage using my loyalty account credentials?
+NewBooking_LoyaltyProgram	How do I report lost or stolen luggage using my allegiance account credentials?
+NewBooking_LoyaltyProgram	How do I report lost or stolen luggage using my loyalty bill credentials?
+NewBooking_LoyaltyProgram	How do I report lost or stolen luggage apply my loyalty points?
+NewBooking_LoyaltyProgram	How do I report lost or stolen luggage using my loyalty item?
+NewBooking_LoyaltyProgram	How do I report lost or stolen luggage victimization my loyalty points?
+NewBooking_LoyaltyProgram	How do I report miss or stolen luggage using my loyalty points?
+NewBooking_LoyaltyProgram	How do I update my loyalty plan account information with you?
+NewBooking_LoyaltyProgram	How do I update my loyalty platform account information with you?
+NewBooking_LoyaltyProgram	How do I update my loyalty program story information with you?
+NewBooking_LoyaltyProgram	How do I update my trueness program account information with you?
+NewBooking_LoyaltyProgram	How does your airline's loyalty program differ from others I've utilize?
+NewBooking_LoyaltyProgram	How does your airline's loyalty program differ from others I've victimised?
+NewBooking_LoyaltyProgram	How does your airline's loyalty programme differ from others I've used?
+NewBooking_LoyaltyProgram	How does your airline's trueness program differ from others I've used?
+NewBooking_LoyaltyProgram	How many loyalty head are required for a free upgrade on this ticket?
+NewBooking_LoyaltyProgram	How many loyalty orient are required for a free upgrade on this ticket?
+NewBooking_LoyaltyProgram	How many loyalty points are necessitate for a free upgrade on this ticket?
+NewBooking_LoyaltyProgram	How many trueness points are required for a free upgrade on this ticket?
+NewBooking_LoyaltyProgram	I want to append my loyalty program details to this booking.
+NewBooking_LoyaltyProgram	I want to sum my loyalty program details to this booking.
+NewBooking_LoyaltyProgram	I want to summate my loyalty program details to this booking.
+NewBooking_LoyaltyProgram	I want to tally my loyalty program details to this booking.
+NewBooking_LoyaltyProgram	I'd like to bonk how many points I can earn on this trip.
+NewBooking_LoyaltyProgram	I'd like to know how many points I can earn on this slip.
+NewBooking_LoyaltyProgram	I'd like to know how many stage I can earn on this trip.
+NewBooking_LoyaltyProgram	I'd like to know how many steer I can earn on this trip.
+NewBooking_LoyaltyProgram	I'm interested in using my accumulated miles for promote or extras.
+NewBooking_LoyaltyProgram	I'm interested in utilise my accumulated miles for upgrades or extras.
+NewBooking_LoyaltyProgram	I'm interested in utilize my accumulated miles for upgrades or extras.
+NewBooking_LoyaltyProgram	I'm occupy in using my accumulated miles for upgrades or extras.
+NewBooking_LoyaltyProgram	My companionship has a corporate discount card, can you apply it here?
+NewBooking_LoyaltyProgram	My company has a corporal discount card, can you apply it here?
+NewBooking_LoyaltyProgram	My company has a corporate discount placard, can you apply it here?
+NewBooking_LoyaltyProgram	My company has a incorporated discount card, can you apply it here?
+NewBooking_LoyaltyProgram	My company has a specific bodied travel policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My company has a specific corporate travel policy, can we discuss it further about this qualification?
+NewBooking_LoyaltyProgram	My company has a specific incarnate travel policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My fellowship has a specific corporate travel policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My company has a specific corporate travel policy, can you discourse it with me about this booking?
+NewBooking_LoyaltyProgram	My company has a specific corporate travel policy, can you discus it with me about this booking?
+NewBooking_LoyaltyProgram	My company has a specific corporate travel policy, can you discuss it with me about this reservation?
+NewBooking_LoyaltyProgram	My company has a specific corporate travel policy, can you saucer it with me about this booking?
+NewBooking_LoyaltyProgram	My caller has a specific loyalty program policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My company has a specific loyalty program policy, can we discuss it further about this qualification?
+NewBooking_LoyaltyProgram	My company has a specific loyalty programme policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My party has a specific loyalty program policy, can we discuss it further about this reservation?
+NewBooking_LoyaltyProgram	My company has a specific loyalty broadcast policy, can you honor it for this reservation?
+NewBooking_LoyaltyProgram	My company has a specific loyalty program policy, can you reward it for this reservation?
+NewBooking_LoyaltyProgram	My fellowship has a specific loyalty program policy, can you honor it for this reservation?
+NewBooking_LoyaltyProgram	My society has a specific loyalty program policy, can you honor it for this reservation?
+NewBooking_LoyaltyProgram	My caller has a strict loyalty program policy, can we discuss it further?
+NewBooking_LoyaltyProgram	My company has a strict commitment program policy, can we discuss it further?
+NewBooking_LoyaltyProgram	My company has a strict loyalty programme policy, can we discuss it further?
+NewBooking_LoyaltyProgram	My company has a strict trueness program policy, can we discuss it further?
+NewBooking_LoyaltyProgram	My frequent flyer miles are about to expire, can I append this booking to my account now?
+NewBooking_LoyaltyProgram	My frequent flyer miles are about to expire, can I summate this booking to my account now?
+NewBooking_LoyaltyProgram	My frequent flyer miles are about to expire, can I total this booking to my account now?
+NewBooking_LoyaltyProgram	My frequent handbill miles are about to expire, can I add this booking to my account now?
+NewBooking_LoyaltyProgram	My frequent flyer miles have increased significantly, can I apply the difference to this hold?
+NewBooking_LoyaltyProgram	My frequent flyer miles have increased significantly, can I apply the divergence to this booking?
+NewBooking_LoyaltyProgram	My frequent flyer miles have increased significantly, can ane apply the difference to this booking?
+NewBooking_LoyaltyProgram	My sponsor flyer miles have increased significantly, can I apply the difference to this booking?
+NewBooking_LoyaltyProgram	My dedication program has a specific expiration date, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty plan has a specific expiration date, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty platform has a specific expiration date, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty program has a specific departure date, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty program is about to expire, can 1 renew it now?
+NewBooking_LoyaltyProgram	My loyalty program is about to expire, can iodine renew it now?
+NewBooking_LoyaltyProgram	My loyalty program is about to perish, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty syllabus is about to expire, can I renew it now?
+NewBooking_LoyaltyProgram	My loyalty program is based on a frequent airman mileage curriculum, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My loyalty program is based on a frequent broadside mileage program, can we discuss how it equate to other programs?
+NewBooking_LoyaltyProgram	My loyalty program is based on a frequent flyer mileage program, can we discuss how it liken to other plan?
+NewBooking_LoyaltyProgram	My loyalty program is based on a patronize flyer mileage platform, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My loyalty broadcast is based on a specific airline, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My loyalty program is based on a specific airway, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My loyalty program is found on a specific airline, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My loyalty programme is based on a specific airline, can we discuss how it compares to other programs?
+NewBooking_LoyaltyProgram	My partner has a different airline allegiance program, can we share benefits together?
+NewBooking_LoyaltyProgram	My partner has a different airline loyalty curriculum, can we share benefits together?
+NewBooking_LoyaltyProgram	My partner has a different airline loyalty syllabus, can we share benefits together?
+NewBooking_LoyaltyProgram	My spouse has a different airline loyalty program, can we share benefits together?
+NewBooking_LoyaltyProgram	My partner has a loyalty program card, can we part benefits together?
+NewBooking_LoyaltyProgram	My partner has a loyalty program card, can we share welfare together?
+NewBooking_LoyaltyProgram	My partner has a loyalty program posting, can we share benefits together?
+NewBooking_LoyaltyProgram	My partner has a loyalty syllabus card, can we share benefits together?
+NewBooking_LoyaltyProgram	What are the benefits of connect your loyalty program for business travel?
+NewBooking_LoyaltyProgram	What are the benefits of joining your dedication program for business travel?
+NewBooking_LoyaltyProgram	What are the benefits of joining your loyalty platform for business travel?
+NewBooking_LoyaltyProgram	What are the benefits of joining your loyalty program for business locomotion?
+NewBooking_LoyaltyProgram	What are the most pop redemption options available for hotel stays with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for hotel outride with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for hotel stays with your loyalty curriculum?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for hotel stoppage with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most pop redemption options available for upgrades on premium cabins?
+NewBooking_LoyaltyProgram	What are the most popular redemption option available for upgrades on premium cabins?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for ascent on premium cabins?
+NewBooking_LoyaltyProgram	What are the most popular redemption options useable for upgrades on premium cabins?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for promote with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for rise with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available for upgrades with your trueness program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options uncommitted for upgrades with your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular buyback options available through your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption option available through your loyalty program?
+NewBooking_LoyaltyProgram	What are the most popular redemption options available through your trueness program?
+NewBooking_LoyaltyProgram	What are the most popular redemption selection available through your loyalty program?
+NewBooking_LoyaltyProgram	What are the prerequisite to become a loyal customer of your airline?
+NewBooking_LoyaltyProgram	What are the requirements to become a fast customer of your airline?
+NewBooking_LoyaltyProgram	What are the requirements to become a truehearted customer of your airline?
+NewBooking_LoyaltyProgram	What are the requisite to become a loyal customer of your airline?
+NewBooking_LoyaltyProgram	What character of loyalty rewards are available for business class tickets?
+NewBooking_LoyaltyProgram	What types of loyalty rewards are available for business class fine?
+NewBooking_LoyaltyProgram	What types of loyalty rewards are available for business sort tickets?
+NewBooking_LoyaltyProgram	What types of loyalty rewards are available for job class tickets?
+NewBooking_LoyaltyProgram	What's the best way to redeem my accumulated loyalty channelise on this booking?
+NewBooking_LoyaltyProgram	What's the best way to redeem my accumulated loyalty luff on this booking?
+NewBooking_LoyaltyProgram	What's the best way to redeem my accumulated loyalty manoeuver on this booking?
+NewBooking_LoyaltyProgram	What's the best way to redeem my accumulated loyalty stage on this booking?
+NewBooking_LoyaltyProgram	What's the best way to track my dedication program earnings and rewards balances?
+NewBooking_LoyaltyProgram	What's the comfortably way to track my loyalty program earnings and rewards balances?
+NewBooking_LoyaltyProgram	What's the effective way to track my loyalty program earnings and rewards balances?
+NewBooking_LoyaltyProgram	What's the unspoiled way to track my loyalty program earnings and rewards balances?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and my personal reinforcement card?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and my personal rewards add-in?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and my personal rewards placard?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty syllabus and my personal rewards card?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty curriculum and other airline rewards programs?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and other airline honour programs?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and other airline rewards broadcast?
+NewBooking_LoyaltyProgram	What's the difference between your airline's loyalty program and other airline rewards syllabus?
+NewBooking_LoyaltyProgram	What's the minimum number of loyalty aim required to redeem a specific reward with you?
+NewBooking_LoyaltyProgram	What's the minimum number of loyalty gunpoint required to redeem a specific reward with you?
+NewBooking_LoyaltyProgram	What's the minimum number of loyalty head required to redeem a specific reward with you?
+NewBooking_LoyaltyProgram	What's the minimum number of loyalty points required to redeem a specific repay with you?
+NewBooking_LoyaltyProgram	What's the minimum enumerate of miles required to redeem a reward with you?
+NewBooking_LoyaltyProgram	What's the minimum number of miles command to redeem a reward with you?
+NewBooking_LoyaltyProgram	What's the minimum number of miles require to redeem a reward with you?
+NewBooking_LoyaltyProgram	What's the minimum numerate of miles required to redeem a reward with you?
+NewBooking_LoyaltyProgram	What's the procedure to report lost or stolen loyalty cards?
+NewBooking_LoyaltyProgram	What's the process to composition lost or stolen loyalty cards?
+NewBooking_LoyaltyProgram	What's the process to report lose or stolen loyalty cards?
+NewBooking_LoyaltyProgram	What's the serve to report lost or stolen loyalty cards?
+NewBooking_LoyaltyProgram	What's the process to request a refund of unused loyalty level after cancellation of flight?
+NewBooking_LoyaltyProgram	What's the process to request a refund of unused loyalty manoeuvre after cancellation of flight?
+NewBooking_LoyaltyProgram	What's the process to request a refund of unused loyalty orient after cancellation of flight?
+NewBooking_LoyaltyProgram	What's the process to request a return of unused loyalty points after cancellation of flight?

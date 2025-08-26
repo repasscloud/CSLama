@@ -1,0 +1,616 @@
+NewBooking_SelectCarHire	Are there any consider on SUVs for weekend rentals?
+NewBooking_SelectCarHire	Are there any deal on SUVs for weekend rentals?
+NewBooking_SelectCarHire	Are there any muckle on SUVs for weekend rentals?
+NewBooking_SelectCarHire	Are there any stack on SUVs for weekend rentals?
+NewBooking_SelectCarHire	Are there any discounts for haunt renters?
+NewBooking_SelectCarHire	Are there any discounts for shop renters?
+NewBooking_SelectCarHire	live there any discounts for frequent renters?
+NewBooking_SelectCarHire	represent there any discounts for frequent renters?
+NewBooking_SelectCarHire	Are there any discounts for renting automobile over long distances?
+NewBooking_SelectCarHire	Are there any discounts for renting cars over farsighted distances?
+NewBooking_SelectCarHire	Are there any discounts for renting machine over long distances?
+NewBooking_SelectCarHire	be there any discounts for renting cars over long distances?
+NewBooking_SelectCarHire	Are there any discounts for students or senior renting cars?
+NewBooking_SelectCarHire	Are there any discounts for students or seniors renting gondola?
+NewBooking_SelectCarHire	Are there any ignore for students or seniors renting cars?
+NewBooking_SelectCarHire	exist there any discounts for students or seniors renting cars?
+NewBooking_SelectCarHire	Are there any enshroud costs associated with car hire?
+NewBooking_SelectCarHire	Are there any hidden costs associated with car employ?
+NewBooking_SelectCarHire	ar there any hidden costs associated with car hire?
+NewBooking_SelectCarHire	live there any hidden costs associated with car hire?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain arena?
+NewBooking_SelectCarHire	Are there any restrictions on ride in certain areas?
+NewBooking_SelectCarHire	are there any restrictions on driving in certain areas?
+NewBooking_SelectCarHire	follow there any restrictions on driving in certain areas?
+NewBooking_SelectCarHire	Are there any vehicles available for long-term lease over 30 days?
+NewBooking_SelectCarHire	Are there any vehicles uncommitted for long-term rentals over 30 days?
+NewBooking_SelectCarHire	ar there any vehicles available for long-term rentals over 30 days?
+NewBooking_SelectCarHire	comprise there any vehicles available for long-term rentals over 30 days?
+NewBooking_SelectCarHire	Are there any vehicles available for luxury or exotic auto?
+NewBooking_SelectCarHire	Are there any vehicles available for luxury or exotic car?
+NewBooking_SelectCarHire	ar there any vehicles available for luxury or exotic cars?
+NewBooking_SelectCarHire	live there any vehicles available for luxury or exotic cars?
+NewBooking_SelectCarHire	Are there any vehicle available for manual transmission only?
+NewBooking_SelectCarHire	constitute there any vehicles available for manual transmission only?
+NewBooking_SelectCarHire	personify there any vehicles available for manual transmission only?
+NewBooking_SelectCarHire	represent there any vehicles available for manual transmission only?
+NewBooking_SelectCarHire	Are there any vehicles available for boast cars or high-performance rentals?
+NewBooking_SelectCarHire	Are there any vehicles available for gambol cars or high-performance rentals?
+NewBooking_SelectCarHire	Are there any vehicles useable for sports cars or high-performance rentals?
+NewBooking_SelectCarHire	embody there any vehicles available for sports cars or high-performance rentals?
+NewBooking_SelectCarHire	Are there any fomite available for wheelchair accessibility needs?
+NewBooking_SelectCarHire	Are there any vehicle available for wheelchair accessibility needs?
+NewBooking_SelectCarHire	be there any vehicles available for wheelchair accessibility needs?
+NewBooking_SelectCarHire	cost there any vehicles available for wheelchair accessibility needs?
+NewBooking_SelectCarHire	butt I book a car hire online using a mobile app?
+NewBooking_SelectCarHire	crapper I book a car hire online using a mobile app?
+NewBooking_SelectCarHire	hindquarters I book a car hire online using a mobile app?
+NewBooking_SelectCarHire	toilet I book a car hire online using a mobile app?
+NewBooking_SelectCarHire	Can I book car hire online or should I address?
+NewBooking_SelectCarHire	Can I book car hire online or should I birdcall?
+NewBooking_SelectCarHire	canful I book car hire online or should I call?
+NewBooking_SelectCarHire	lavatory I book car hire online or should I call?
+NewBooking_SelectCarHire	Can I get a costless upgrade to a higher class car?
+NewBooking_SelectCarHire	Can I get a spare upgrade to a higher class car?
+NewBooking_SelectCarHire	Can I get a unblock upgrade to a higher class car?
+NewBooking_SelectCarHire	prat I get a free upgrade to a higher class car?
+NewBooking_SelectCarHire	Can I let an estimate for the rental period?
+NewBooking_SelectCarHire	Can I stimulate an estimate for the rental period?
+NewBooking_SelectCarHire	displace I get an estimate for the rental period?
+NewBooking_SelectCarHire	rump I get an estimate for the rental period?
+NewBooking_SelectCarHire	Can I acquire assistance with collecting luggage at the airport?
+NewBooking_SelectCarHire	Can I beat assistance with collecting luggage at the airport?
+NewBooking_SelectCarHire	crapper I get assistance with collecting luggage at the airport?
+NewBooking_SelectCarHire	posterior I get assistance with collecting luggage at the airport?
+NewBooking_SelectCarHire	Can I rent a car for an extended period of time without penalization?
+NewBooking_SelectCarHire	Can I rive a car for an extended period of time without penalty?
+NewBooking_SelectCarHire	Can I split a car for an extended period of time without penalty?
+NewBooking_SelectCarHire	butt I rent a car for an extended period of time without penalty?
+NewBooking_SelectCarHire	arse I rent a car with a specific GPS device or navigation system available?
+NewBooking_SelectCarHire	can I rent a car with a specific GPS device or navigation system available?
+NewBooking_SelectCarHire	derriere I rent a car with a specific GPS device or navigation system available?
+NewBooking_SelectCarHire	pot I rent a car with a specific GPS device or navigation system available?
+NewBooking_SelectCarHire	Can I pull a car with a specific fuel type available?
+NewBooking_SelectCarHire	Can I rent a car with a specific fuel typecast available?
+NewBooking_SelectCarHire	fanny I rent a car with a specific fuel type available?
+NewBooking_SelectCarHire	lav I rent a car with a specific fuel type available?
+NewBooking_SelectCarHire	ass I rent a car with a specific fuel type required?
+NewBooking_SelectCarHire	bathroom I rent a car with a specific fuel type required?
+NewBooking_SelectCarHire	privy I rent a car with a specific fuel type required?
+NewBooking_SelectCarHire	tin I rent a car with a specific fuel type required?
+NewBooking_SelectCarHire	Can I rent a car with a specific language translation alternative available?
+NewBooking_SelectCarHire	Can I rent a car with a specific language translation choice available?
+NewBooking_SelectCarHire	commode I rent a car with a specific language translation option available?
+NewBooking_SelectCarHire	lav I rent a car with a specific language translation option available?
+NewBooking_SelectCarHire	Can I rent a car with a specific license home number reserved?
+NewBooking_SelectCarHire	Can I rent a car with a specific license plate come reserved?
+NewBooking_SelectCarHire	Can I rent a car with a specific license shell number reserved?
+NewBooking_SelectCarHire	fanny I rent a car with a specific license plate number reserved?
+NewBooking_SelectCarHire	Can I rent a car without a accredit card?
+NewBooking_SelectCarHire	Can I rent a car without a credit bill?
+NewBooking_SelectCarHire	Can I rent a car without a credit carte?
+NewBooking_SelectCarHire	Can I rent a railcar without a credit card?
+NewBooking_SelectCarHire	Can I hold a car for a specific date and time?
+NewBooking_SelectCarHire	Can I reserve a car for a specific appointment and time?
+NewBooking_SelectCarHire	Can I stockpile a car for a specific date and time?
+NewBooking_SelectCarHire	bottom I reserve a car for a specific date and time?
+NewBooking_SelectCarHire	Can I reserve a car for a specific travel date array?
+NewBooking_SelectCarHire	Can I reserve a car for a specific travel date scope?
+NewBooking_SelectCarHire	potty I reserve a car for a specific travel date range?
+NewBooking_SelectCarHire	prat I reserve a car for a specific travel date range?
+NewBooking_SelectCarHire	Can I reserve a car with a specific license denture number?
+NewBooking_SelectCarHire	Can I reserve a car with a specific license plate numerate?
+NewBooking_SelectCarHire	sack I reserve a car with a specific license plate number?
+NewBooking_SelectCarHire	tush I reserve a car with a specific license plate number?
+NewBooking_SelectCarHire	Can I reserve a car with a specific make and example?
+NewBooking_SelectCarHire	Can I reserve a car with a specific make and mannikin?
+NewBooking_SelectCarHire	Can I reserve a car with a specific puddle and model?
+NewBooking_SelectCarHire	backside I reserve a car with a specific make and model?
+NewBooking_SelectCarHire	Can I reserve a specific type of machine?
+NewBooking_SelectCarHire	lavatory I reserve a specific type of car?
+NewBooking_SelectCarHire	pot I reserve a specific type of car?
+NewBooking_SelectCarHire	tail I reserve a specific type of car?
+NewBooking_SelectCarHire	Can you evince me some options for renting a car?
+NewBooking_SelectCarHire	Can you render me some options for renting a car?
+NewBooking_SelectCarHire	bottom you show me some options for renting a car?
+NewBooking_SelectCarHire	butt you show me some options for renting a car?
+NewBooking_SelectCarHire	come you have a fleet of luxury vehicles available?
+NewBooking_SelectCarHire	doh you have a fleet of luxury vehicles available?
+NewBooking_SelectCarHire	make you have a fleet of luxury vehicles available?
+NewBooking_SelectCarHire	ut you have a fleet of luxury vehicles available?
+NewBooking_SelectCarHire	Do you have any electric or cross vehicles available?
+NewBooking_SelectCarHire	execute you have any electric or hybrid vehicles available?
+NewBooking_SelectCarHire	exercise you have any electric or hybrid vehicles available?
+NewBooking_SelectCarHire	set you have any electric or hybrid vehicles available?
+NewBooking_SelectCarHire	Do you have any partnerships with major airlines to offer bundled raft?
+NewBooking_SelectCarHire	Do you have any partnerships with major airlines to offer clump deals?
+NewBooking_SelectCarHire	make you have any partnerships with major airlines to offer bundled deals?
+NewBooking_SelectCarHire	serve you have any partnerships with major airlines to offer bundled deals?
+NewBooking_SelectCarHire	Do you offer any discounts on long-term letting?
+NewBooking_SelectCarHire	Do you offer any discounts on long-term renting?
+NewBooking_SelectCarHire	exercise you offer any discounts on long-term rentals?
+NewBooking_SelectCarHire	serve you offer any discounts on long-term rentals?
+NewBooking_SelectCarHire	Do you offer any package administer that include car hire and flights?
+NewBooking_SelectCarHire	Do you offer any package cope that include car hire and flights?
+NewBooking_SelectCarHire	Do you offer any package deals that include car hire and flying?
+NewBooking_SelectCarHire	Do you offer any package share that include car hire and flights?
+NewBooking_SelectCarHire	Do you volunteer car hire insurance policies?
+NewBooking_SelectCarHire	answer you offer car hire insurance policies?
+NewBooking_SelectCarHire	brawl you offer car hire insurance policies?
+NewBooking_SelectCarHire	coif you offer car hire insurance policies?
+NewBooking_SelectCarHire	Do you offer gondola hire services at beach destinations or islands?
+NewBooking_SelectCarHire	Do you proffer car hire services at beach destinations or islands?
+NewBooking_SelectCarHire	behave you offer car hire services at beach destinations or islands?
+NewBooking_SelectCarHire	practice you offer car hire services at beach destinations or islands?
+NewBooking_SelectCarHire	Do you offer car charter services at city centers or downtown locations?
+NewBooking_SelectCarHire	Do you offer car hire help at city centers or downtown locations?
+NewBooking_SelectCarHire	Do you offer car hire services at city meat or downtown locations?
+NewBooking_SelectCarHire	fare you offer car hire services at city centers or downtown locations?
+NewBooking_SelectCarHire	Do you extend car hire services at cruise ports or ferry terminals?
+NewBooking_SelectCarHire	Do you offer car hire serve at cruise ports or ferry terminals?
+NewBooking_SelectCarHire	Do you offer car hire servicing at cruise ports or ferry terminals?
+NewBooking_SelectCarHire	fare you offer car hire services at cruise ports or ferry terminals?
+NewBooking_SelectCarHire	Do you offer car hire services at other localization besides airports?
+NewBooking_SelectCarHire	Do you offer car hire services at other locations likewise airports?
+NewBooking_SelectCarHire	arrange you offer car hire services at other locations besides airports?
+NewBooking_SelectCarHire	fare you offer car hire services at other locations besides airports?
+NewBooking_SelectCarHire	Do you offer auto hire services at ski resorts or mountain locations?
+NewBooking_SelectCarHire	Do you offer car hire services at ski resorts or mountain location?
+NewBooking_SelectCarHire	Do you offer car take services at ski resorts or mountain locations?
+NewBooking_SelectCarHire	cause you offer car hire services at ski resorts or mountain locations?
+NewBooking_SelectCarHire	Do you offer car hire services at take stations or bus terminals?
+NewBooking_SelectCarHire	Do you offer car lease services at train stations or bus terminals?
+NewBooking_SelectCarHire	Do you proffer car hire services at train stations or bus terminals?
+NewBooking_SelectCarHire	answer you offer car hire services at train stations or bus terminals?
+NewBooking_SelectCarHire	Do you offer car hire serve for events like festivals or concerts?
+NewBooking_SelectCarHire	Do you offer car hire services for events wish festivals or concerts?
+NewBooking_SelectCarHire	behave you offer car hire services for events like festivals or concerts?
+NewBooking_SelectCarHire	coiffure you offer car hire services for events like festivals or concerts?
+NewBooking_SelectCarHire	Do you offer car hire services for special events like marriage or parties?
+NewBooking_SelectCarHire	Do you offer car hire services for special events like weddings or company?
+NewBooking_SelectCarHire	Do you offer gondola hire services for special events like weddings or parties?
+NewBooking_SelectCarHire	Do you offer machine hire services for special events like weddings or parties?
+NewBooking_SelectCarHire	How do I cancel or modify my existing book?
+NewBooking_SelectCarHire	How do I cancel or modify my existing hold?
+NewBooking_SelectCarHire	How do I cancel or modify my survive booking?
+NewBooking_SelectCarHire	How do I cancel or qualify my existing booking?
+NewBooking_SelectCarHire	How do I aim assistance with lost luggage issues?
+NewBooking_SelectCarHire	How do I develop assistance with lost luggage issues?
+NewBooking_SelectCarHire	How do I get assistance with recede luggage issues?
+NewBooking_SelectCarHire	How do I perplex assistance with lost luggage issues?
+NewBooking_SelectCarHire	How do I get assistance with lost or stolen baggage?
+NewBooking_SelectCarHire	How do I gravel assistance with lost or stolen luggage?
+NewBooking_SelectCarHire	How do I obtain assistance with lost or stolen luggage?
+NewBooking_SelectCarHire	How do i get assistance with lost or stolen luggage?
+NewBooking_SelectCarHire	How do I make changes to my booking if I have a change of pith?
+NewBooking_SelectCarHire	How do I make changes to my booking if unity have a change of heart?
+NewBooking_SelectCarHire	How do I make vary to my booking if I have a change of heart?
+NewBooking_SelectCarHire	How do I piss changes to my booking if I have a change of heart?
+NewBooking_SelectCarHire	How do I construct changes to my booking if I need more space or amenities?
+NewBooking_SelectCarHire	How do I create changes to my booking if I need more space or amenities?
+NewBooking_SelectCarHire	How do I establish changes to my booking if I need more space or amenities?
+NewBooking_SelectCarHire	How do I make changes to my booking if I need more quad or amenities?
+NewBooking_SelectCarHire	How do I form changes to my booking if I need more space?
+NewBooking_SelectCarHire	How do I make changes to my booking if I necessitate more space?
+NewBooking_SelectCarHire	How do I make changes to my booking if i need more space?
+NewBooking_SelectCarHire	How do I nominate changes to my booking if I need more space?
+NewBooking_SelectCarHire	How do I pay for additional fees corresponding tolls or parking?
+NewBooking_SelectCarHire	How do I pay for additional fees like toll or parking?
+NewBooking_SelectCarHire	How do I pay for additional fees like tolls or park?
+NewBooking_SelectCarHire	How do I yield for additional fees like tolls or parking?
+NewBooking_SelectCarHire	How do I pay for additional services care child seats or GPS devices?
+NewBooking_SelectCarHire	How do I pay for additional services like child fanny or GPS devices?
+NewBooking_SelectCarHire	How do I pay for additional services like fry seats or GPS devices?
+NewBooking_SelectCarHire	How do iodine pay for additional services like child seats or GPS devices?
+NewBooking_SelectCarHire	How do 1 pay for my car rental upfront?
+NewBooking_SelectCarHire	How do I pay for my car letting upfront?
+NewBooking_SelectCarHire	How do I pay for my gondola rental upfront?
+NewBooking_SelectCarHire	How do I salary for my car rental upfront?
+NewBooking_SelectCarHire	How do I pay for price and parking fees associated with my rental?
+NewBooking_SelectCarHire	How do I pay for tolls and parking fees consociate with my rental?
+NewBooking_SelectCarHire	How do ane pay for tolls and parking fees associated with my rental?
+NewBooking_SelectCarHire	How do i pay for tolls and parking fees associated with my rental?
+NewBooking_SelectCarHire	How do I report any issuance with my car rental experience?
+NewBooking_SelectCarHire	How do I report any outlet with my car rental experience?
+NewBooking_SelectCarHire	How do I report any result with my car rental experience?
+NewBooking_SelectCarHire	How do i report any issues with my car rental experience?
+NewBooking_SelectCarHire	How do 1 track the status of my booking?
+NewBooking_SelectCarHire	How do I cross the status of my booking?
+NewBooking_SelectCarHire	How do I track the status of my hold?
+NewBooking_SelectCarHire	How do I track the status of my reservation?
+NewBooking_SelectCarHire	How much does it cost to rent a compact saloon?
+NewBooking_SelectCarHire	How much does it cost to rent a thick sedan?
+NewBooking_SelectCarHire	How much does it cost to rive a compact sedan?
+NewBooking_SelectCarHire	How much does it toll to rent a compact sedan?
+NewBooking_SelectCarHire	1 need to book car hire for my upcoming trip.
+NewBooking_SelectCarHire	I need to book car engage for my upcoming trip.
+NewBooking_SelectCarHire	I need to book car hire for my coming trip.
+NewBooking_SelectCarHire	I need to book car hire for my upcoming activate.
+NewBooking_SelectCarHire	I'll demand a car with good fuel efficiency.
+NewBooking_SelectCarHire	I'll motivation a car with good fuel efficiency.
+NewBooking_SelectCarHire	I'll need a car with soundly fuel efficiency.
+NewBooking_SelectCarHire	I'll need a car with thoroughly fuel efficiency.
+NewBooking_SelectCarHire	Is there an additional fee for airport cartridge?
+NewBooking_SelectCarHire	Is there an additional fee for airport getaway?
+NewBooking_SelectCarHire	Is there an additional tip for airport pickups?
+NewBooking_SelectCarHire	exist there an additional fee for airport pickups?
+NewBooking_SelectCarHire	Is there an age demarcation for renting cars?
+NewBooking_SelectCarHire	Is there an age fix for renting cars?
+NewBooking_SelectCarHire	Is there an age limit for lease cars?
+NewBooking_SelectCarHire	Is there an age limit for renting railcar?
+NewBooking_SelectCarHire	Is there an alternative to add a GPS device to the vehicle rental?
+NewBooking_SelectCarHire	Is there an option to add a GPS device to the vehicle letting?
+NewBooking_SelectCarHire	Is there an option to total a GPS device to the vehicle rental?
+NewBooking_SelectCarHire	cost there an option to add a GPS device to the vehicle rental?
+NewBooking_SelectCarHire	Is there an choice to add a driver's license holder for additional coverage?
+NewBooking_SelectCarHire	Is there an option to add a driver's license bearer for additional coverage?
+NewBooking_SelectCarHire	Is there an option to sum a driver's license holder for additional coverage?
+NewBooking_SelectCarHire	Is there an option to summate a driver's license holder for additional coverage?
+NewBooking_SelectCarHire	Is there an option to add fuel to the fomite upfront?
+NewBooking_SelectCarHire	Is there an option to tot fuel to the vehicle upfront?
+NewBooking_SelectCarHire	comprise there an option to add fuel to the vehicle upfront?
+NewBooking_SelectCarHire	live there an option to add fuel to the vehicle upfront?
+NewBooking_SelectCarHire	Is there an option to ADHD insurance coverage during rental period?
+NewBooking_SelectCarHire	Is there an option to add insurance coverage during rental menstruum?
+NewBooking_SelectCarHire	Is there an option to add insurance coverage during rental point?
+NewBooking_SelectCarHire	follow there an option to add insurance coverage during rental period?
+NewBooking_SelectCarHire	We're looking for a vehicle that can clutches 4 people comfortably.
+NewBooking_SelectCarHire	We're looking for a vehicle that can handgrip 4 people comfortably.
+NewBooking_SelectCarHire	We're looking for a vehicle that can make 4 people comfortably.
+NewBooking_SelectCarHire	We're looking for a vehicle that can reserve 4 people comfortably.
+NewBooking_SelectCarHire	What types of automobile do you have available?
+NewBooking_SelectCarHire	What types of car do you have available?
+NewBooking_SelectCarHire	What types of cars do you have useable?
+NewBooking_SelectCarHire	What types of machine do you have available?
+NewBooking_SelectCarHire	What's the policy on child buttocks for car rentals?
+NewBooking_SelectCarHire	What's the policy on child induct for car rentals?
+NewBooking_SelectCarHire	What's the policy on child seats for automobile rentals?
+NewBooking_SelectCarHire	What's the policy on nestling seats for car rentals?
+NewBooking_SelectCarHire	What's the insurance on damages to the vehicle during rental?
+NewBooking_SelectCarHire	What's the policy on harm to the vehicle during rental?
+NewBooking_SelectCarHire	What's the policy on price to the vehicle during rental?
+NewBooking_SelectCarHire	What's the policy on restitution to the vehicle during rental?
+NewBooking_SelectCarHire	What's the policy on fuel efficiency during lease periods?
+NewBooking_SelectCarHire	What's the policy on fuel efficiency during rental flow?
+NewBooking_SelectCarHire	What's the policy on fuel efficiency during rental stop?
+NewBooking_SelectCarHire	What's the policy on fuel efficiency during renting periods?
+NewBooking_SelectCarHire	What's the insurance on mileage limits during rental periods?
+NewBooking_SelectCarHire	What's the policy on mileage circumscribe during rental periods?
+NewBooking_SelectCarHire	What's the policy on mileage determine during rental periods?
+NewBooking_SelectCarHire	What's the policy on mileage throttle during rental periods?
+NewBooking_SelectCarHire	What's the policy on fall the vehicle before the agreed date?
+NewBooking_SelectCarHire	What's the policy on repay the vehicle before the agreed date?
+NewBooking_SelectCarHire	What's the policy on retort the vehicle before the agreed date?
+NewBooking_SelectCarHire	What's the policy on returning the vehicle before the agree date?
+NewBooking_SelectCarHire	What's the policy on untested drivers renting cars?
+NewBooking_SelectCarHire	What's the policy on young driver renting cars?
+NewBooking_SelectCarHire	What's the policy on young drivers renting auto?
+NewBooking_SelectCarHire	What's the policy on youth drivers renting cars?
+NewBooking_SelectCarHire	What's the function for cancelling a booking due to inclement weather?
+NewBooking_SelectCarHire	What's the operation for cancelling a booking due to inclement weather?
+NewBooking_SelectCarHire	What's the procedure for cancelling a booking due to inclement endure?
+NewBooking_SelectCarHire	What's the procedure for cancelling a booking due to inclement upwind?
+NewBooking_SelectCarHire	What's the procedure for aggregation and dropping off the vehicle if it's already booked?
+NewBooking_SelectCarHire	What's the procedure for collecting and dropping off the vehicle if it's already book?
+NewBooking_SelectCarHire	What's the procedure for garner and dropping off the vehicle if it's already booked?
+NewBooking_SelectCarHire	What's the procedure for hoard and dropping off the vehicle if it's already booked?
+NewBooking_SelectCarHire	What's the procedure for collecting and cast off the vehicle?
+NewBooking_SelectCarHire	What's the procedure for collecting and dismiss off the vehicle?
+NewBooking_SelectCarHire	What's the subprogram for collecting and dropping off the vehicle?
+NewBooking_SelectCarHire	What's the subroutine for collecting and dropping off the vehicle?
+NewBooking_SelectCarHire	What's the procedure for picking up and refund the vehicle?
+NewBooking_SelectCarHire	What's the procedure for picking up and rejoin the vehicle?
+NewBooking_SelectCarHire	What's the procedure for picking up and yield the vehicle?
+NewBooking_SelectCarHire	What's the procedure for plunk up and returning the vehicle?
+NewBooking_SelectCarHire	What's the procedure for reporting any outlet with the vehicle during rental?
+NewBooking_SelectCarHire	What's the procedure for reporting any publish with the vehicle during rental?
+NewBooking_SelectCarHire	What's the procedure for reporting any takings with the vehicle during rental?
+NewBooking_SelectCarHire	What's the procedure for reporting any upshot with the vehicle during rental?
+NewBooking_SelectCarHire	What's the procedure for retrovert the vehicle on time?
+NewBooking_SelectCarHire	What's the procedure for reverting the vehicle on time?
+NewBooking_SelectCarHire	What's the procedure for yield the vehicle on time?
+NewBooking_SelectCarHire	What's the subprogram for returning the vehicle on time?
+NewBooking_SelectCarHire	What's the process for ca-ca changes to my reservation?
+NewBooking_SelectCarHire	What's the process for do changes to my reservation?
+NewBooking_SelectCarHire	What's the process for get changes to my reservation?
+NewBooking_SelectCarHire	What's the sue for making changes to my reservation?
+NewBooking_SelectCarHire	Are there any discounts for book during off-peak seasons?
+NewBooking_SelectCarHire	comprise there any discounts for booking during off-peak seasons?
+NewBooking_SelectCarHire	cost there any discounts for booking during off-peak seasons?
+NewBooking_SelectCarHire	follow there any discounts for booking during off-peak seasons?
+NewBooking_SelectCarHire	Are there any discounts for booking multiple car engage at once?
+NewBooking_SelectCarHire	ar there any discounts for booking multiple car hires at once?
+NewBooking_SelectCarHire	cost there any discounts for booking multiple car hires at once?
+NewBooking_SelectCarHire	personify there any discounts for booking multiple car hires at once?
+NewBooking_SelectCarHire	Are there any discounts for bulk engagement?
+NewBooking_SelectCarHire	be there any discounts for bulk bookings?
+NewBooking_SelectCarHire	cost there any discounts for bulk bookings?
+NewBooking_SelectCarHire	represent there any discounts for bulk bookings?
+NewBooking_SelectCarHire	Are there any discounts for frequent customer?
+NewBooking_SelectCarHire	Are there any discounts for sponsor customers?
+NewBooking_SelectCarHire	Are there any dismiss for frequent customers?
+NewBooking_SelectCarHire	Are there any rebate for frequent customers?
+NewBooking_SelectCarHire	Are there any discount for long-term car rentals?
+NewBooking_SelectCarHire	Are there any discounts for long-term automobile rentals?
+NewBooking_SelectCarHire	Are there any disregard for long-term car rentals?
+NewBooking_SelectCarHire	embody there any discounts for long-term car rentals?
+NewBooking_SelectCarHire	ar there any discounts for students or seniors?
+NewBooking_SelectCarHire	are there any discounts for students or seniors?
+NewBooking_SelectCarHire	be there any discounts for students or seniors?
+NewBooking_SelectCarHire	live there any discounts for students or seniors?
+NewBooking_SelectCarHire	Are there any restrictions on aim in certain areas during peak hours?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain areas during elevation hours?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain expanse during peak hours?
+NewBooking_SelectCarHire	Are there any restrictions on impulsive in certain areas during peak hours?
+NewBooking_SelectCarHire	Are there any restrictions on aim in certain areas?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain sphere?
+NewBooking_SelectCarHire	Are there any restrictions on repel in certain areas?
+NewBooking_SelectCarHire	ar there any restrictions on driving in certain areas?
+NewBooking_SelectCarHire	Are there any limitation on driving in certain cities?
+NewBooking_SelectCarHire	Are there any restrictions on ram in certain cities?
+NewBooking_SelectCarHire	personify there any restrictions on driving in certain cities?
+NewBooking_SelectCarHire	represent there any restrictions on driving in certain cities?
+NewBooking_SelectCarHire	Are there any restrictions on aim in certain countries or territories?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain commonwealth or territories?
+NewBooking_SelectCarHire	Are there any restrictions on driving in sealed countries or territories?
+NewBooking_SelectCarHire	Are there any restrictions on repulse in certain countries or territories?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain commonwealth?
+NewBooking_SelectCarHire	Are there any restrictions on driving in certain country?
+NewBooking_SelectCarHire	Are there any restrictions on motor in certain countries?
+NewBooking_SelectCarHire	Are there any restrictions on tug in certain countries?
+NewBooking_SelectCarHire	ar there any restrictions on luggage size or weight?
+NewBooking_SelectCarHire	cost there any restrictions on luggage size or weight?
+NewBooking_SelectCarHire	follow there any restrictions on luggage size or weight?
+NewBooking_SelectCarHire	represent there any restrictions on luggage size or weight?
+NewBooking_SelectCarHire	Are there any restriction on smoking in the vehicle?
+NewBooking_SelectCarHire	equal there any restrictions on smoking in the vehicle?
+NewBooking_SelectCarHire	follow there any restrictions on smoking in the vehicle?
+NewBooking_SelectCarHire	personify there any restrictions on smoking in the vehicle?
+NewBooking_SelectCarHire	Are there any special deals on luxury cars proper now?
+NewBooking_SelectCarHire	Are there any special hand on luxury cars right now?
+NewBooking_SelectCarHire	Are there any special pile on luxury cars right now?
+NewBooking_SelectCarHire	Are there any special spate on luxury cars right now?
+NewBooking_SelectCarHire	Can I book a car hire for a long-distance misstep?
+NewBooking_SelectCarHire	Can I book a car lease for a long-distance trip?
+NewBooking_SelectCarHire	Can I book a car rent for a long-distance trip?
+NewBooking_SelectCarHire	rump I book a car hire for a long-distance trip?
+NewBooking_SelectCarHire	Can iodine book a car hire for a one-way trip?
+NewBooking_SelectCarHire	canful I book a car hire for a one-way trip?
+NewBooking_SelectCarHire	keister I book a car hire for a one-way trip?
+NewBooking_SelectCarHire	stern I book a car hire for a one-way trip?
+NewBooking_SelectCarHire	Can I book a car hire for a specific date compass?
+NewBooking_SelectCarHire	Can I book a car hire for a specific date run?
+NewBooking_SelectCarHire	Can I book a car hire for a specific date swan?
+NewBooking_SelectCarHire	tin I book a car hire for a specific date range?
+NewBooking_SelectCarHire	Can I book a auto hire for an airport drop-off?
+NewBooking_SelectCarHire	Can I book a car rent for an airport drop-off?
+NewBooking_SelectCarHire	Can I hold a car hire for an airport drop-off?
+NewBooking_SelectCarHire	Can I ledger a car hire for an airport drop-off?
+NewBooking_SelectCarHire	Can I book a car hire for an airport pickup and lessening?
+NewBooking_SelectCarHire	canful I book a car hire for an airport pickup and drop-off?
+NewBooking_SelectCarHire	fanny I book a car hire for an airport pickup and drop-off?
+NewBooking_SelectCarHire	posterior I book a car hire for an airport pickup and drop-off?
+NewBooking_SelectCarHire	Can I Koran a car hire for an airport pickup?
+NewBooking_SelectCarHire	Can I book a car hire for an airdrome pickup?
+NewBooking_SelectCarHire	Can I book a gondola hire for an airport pickup?
+NewBooking_SelectCarHire	tail I book a car hire for an airport pickup?
+NewBooking_SelectCarHire	Can I book a auto hire with a GPS and insurance package?
+NewBooking_SelectCarHire	Can I book a car hire with a GPS and insurance software?
+NewBooking_SelectCarHire	Can I book a motorcar hire with a GPS and insurance package?
+NewBooking_SelectCarHire	butt I book a car hire with a GPS and insurance package?
+NewBooking_SelectCarHire	Can I aim a quote for a car hire with a specific driver profile?
+NewBooking_SelectCarHire	Can I cause a quote for a car hire with a specific driver profile?
+NewBooking_SelectCarHire	Can I scram a quote for a car hire with a specific driver profile?
+NewBooking_SelectCarHire	ass I get a quote for a car hire with a specific driver profile?
+NewBooking_SelectCarHire	Can I get a quote for a car hire with a specific driving immortalise?
+NewBooking_SelectCarHire	Can I get a quote for a car rent with a specific driving record?
+NewBooking_SelectCarHire	Can iodin get a quote for a car hire with a specific driving record?
+NewBooking_SelectCarHire	nates I get a quote for a car hire with a specific driving record?
+NewBooking_SelectCarHire	Can 1 get a quote for a car hire with a specific fuel type preference?
+NewBooking_SelectCarHire	behind I get a quote for a car hire with a specific fuel type preference?
+NewBooking_SelectCarHire	buttocks I get a quote for a car hire with a specific fuel type preference?
+NewBooking_SelectCarHire	crapper I get a quote for a car hire with a specific fuel type preference?
+NewBooking_SelectCarHire	Can I aim a quote for a car hire with a specific location pick-up?
+NewBooking_SelectCarHire	Can I fetch a quote for a car hire with a specific location pick-up?
+NewBooking_SelectCarHire	buns I get a quote for a car hire with a specific location pick-up?
+NewBooking_SelectCarHire	fundament I get a quote for a car hire with a specific location pick-up?
+NewBooking_SelectCarHire	Can I aim a quote for a car hire with a specific mileage limit?
+NewBooking_SelectCarHire	Can I fetch a quote for a car hire with a specific mileage limit?
+NewBooking_SelectCarHire	Can I sustain a quote for a car hire with a specific mileage limit?
+NewBooking_SelectCarHire	fundament I get a quote for a car hire with a specific mileage limit?
+NewBooking_SelectCarHire	Can I come a quote for a car hire with a specific towing capacity?
+NewBooking_SelectCarHire	Can I produce a quote for a car hire with a specific towing capacity?
+NewBooking_SelectCarHire	Can I scram a quote for a car hire with a specific towing capacity?
+NewBooking_SelectCarHire	stool I get a quote for a car hire with a specific towing capacity?
+NewBooking_SelectCarHire	Can I come a quote for a full-size SUV for my trip?
+NewBooking_SelectCarHire	Can I get a quote for a full-size SUV for my misstep?
+NewBooking_SelectCarHire	Can I get a quote for a lifesize SUV for my trip?
+NewBooking_SelectCarHire	Can I scram a quote for a full-size SUV for my trip?
+NewBooking_SelectCarHire	Can I baffle a quote for a mid-range sedan for my trip?
+NewBooking_SelectCarHire	Can I gravel a quote for a mid-range sedan for my trip?
+NewBooking_SelectCarHire	Can I sustain a quote for a mid-range sedan for my trip?
+NewBooking_SelectCarHire	posterior I get a quote for a mid-range sedan for my trip?
+NewBooking_SelectCarHire	Can you recount me about car rental options for this destination?
+NewBooking_SelectCarHire	canful you tell me about car rental options for this destination?
+NewBooking_SelectCarHire	prat you tell me about car rental options for this destination?
+NewBooking_SelectCarHire	tail you tell me about car rental options for this destination?
+NewBooking_SelectCarHire	Do you have any cars that come with a GPS device uncommitted?
+NewBooking_SelectCarHire	Do you have any cars that derive with a GPS device available?
+NewBooking_SelectCarHire	arrange you have any cars that come with a GPS device available?
+NewBooking_SelectCarHire	coiffure you have any cars that come with a GPS device available?
+NewBooking_SelectCarHire	Do you have any cars that come with a child buns available?
+NewBooking_SelectCarHire	Do you have any cars that come with a nestling seat available?
+NewBooking_SelectCarHire	Do you have any cars that follow with a child seat available?
+NewBooking_SelectCarHire	behave you have any cars that come with a child seat available?
+NewBooking_SelectCarHire	Do you have any cars that come with a full tank of fire available?
+NewBooking_SelectCarHire	Do you have any cars that come with a replete tank of fuel available?
+NewBooking_SelectCarHire	Do you have any cars that come with a wide-cut tank of fuel available?
+NewBooking_SelectCarHire	Do you have any cars that descend with a full tank of fuel available?
+NewBooking_SelectCarHire	bash you have any cars that come with a tow bar available?
+NewBooking_SelectCarHire	doh you have any cars that come with a tow bar available?
+NewBooking_SelectCarHire	execute you have any cars that come with a tow bar available?
+NewBooking_SelectCarHire	serve you have any cars that come with a tow bar available?
+NewBooking_SelectCarHire	Do you have any cars that come with tiddler seats available?
+NewBooking_SelectCarHire	dress you have any cars that come with child seats available?
+NewBooking_SelectCarHire	fare you have any cars that come with child seats available?
+NewBooking_SelectCarHire	practice you have any cars that come with child seats available?
+NewBooking_SelectCarHire	Do you have any cars that come with barren Wi-Fi available?
+NewBooking_SelectCarHire	Do you have any cars that come with liberal Wi-Fi available?
+NewBooking_SelectCarHire	Do you have any cars that come with loose Wi-Fi available?
+NewBooking_SelectCarHire	do you have any cars that come with free Wi-Fi available?
+NewBooking_SelectCarHire	Do you have any cars that come with resign fuel?
+NewBooking_SelectCarHire	Do you have any cars that seed with free fuel?
+NewBooking_SelectCarHire	act you have any cars that come with free fuel?
+NewBooking_SelectCarHire	fare you have any cars that come with free fuel?
+NewBooking_SelectCarHire	Do you have any cars that come with exempt parking available?
+NewBooking_SelectCarHire	Do you have any railcar that come with free parking available?
+NewBooking_SelectCarHire	behave you have any cars that come with free parking available?
+NewBooking_SelectCarHire	coiffure you have any cars that come with free parking available?
+NewBooking_SelectCarHire	Do you have any cars that amount with satellite navigation available?
+NewBooking_SelectCarHire	Do you have any cars that fare with satellite navigation available?
+NewBooking_SelectCarHire	answer you have any cars that come with satellite navigation available?
+NewBooking_SelectCarHire	exercise you have any cars that come with satellite navigation available?
+NewBooking_SelectCarHire	Do you have any caller cars available for rent?
+NewBooking_SelectCarHire	Do you have any company railcar available for rent?
+NewBooking_SelectCarHire	Do you have any troupe cars available for rent?
+NewBooking_SelectCarHire	suffice you have any company cars available for rent?
+NewBooking_SelectCarHire	DO you have any economy cars available?
+NewBooking_SelectCarHire	Do you have any economy car available?
+NewBooking_SelectCarHire	Do you have any economy cars uncommitted?
+NewBooking_SelectCarHire	come you have any economy cars available?
+NewBooking_SelectCarHire	Do you have any cross or electric cars available?
+NewBooking_SelectCarHire	arrange you have any hybrid or electric cars available?
+NewBooking_SelectCarHire	perform you have any hybrid or electric cars available?
+NewBooking_SelectCarHire	serve you have any hybrid or electric cars available?
+NewBooking_SelectCarHire	Do you have any former fees for returning a car after hours?
+NewBooking_SelectCarHire	Do you have any late fees for render a car after hours?
+NewBooking_SelectCarHire	Do you have any late fees for retort a car after hours?
+NewBooking_SelectCarHire	Do you have any late fees for returning a gondola after hours?
+NewBooking_SelectCarHire	How do 1 access my car hire booking online and make changes?
+NewBooking_SelectCarHire	How do I access my car hire booking online and gain changes?
+NewBooking_SelectCarHire	How do I access my car hire booking online and shit changes?
+NewBooking_SelectCarHire	How do one access my car hire booking online and make changes?
+NewBooking_SelectCarHire	How do I access my car employ booking online?
+NewBooking_SelectCarHire	How do I access my car hire booking on-line?
+NewBooking_SelectCarHire	How do I access my railcar hire booking online?
+NewBooking_SelectCarHire	How do I admission my car hire booking online?
+NewBooking_SelectCarHire	How do I approach my car hire booking via mobile app?
+NewBooking_SelectCarHire	How do I entree my car hire booking via mobile app?
+NewBooking_SelectCarHire	How do ane access my car hire booking via mobile app?
+NewBooking_SelectCarHire	How do i access my car hire booking via mobile app?
+NewBooking_SelectCarHire	How do I ADD or remove drivers from my car hire booking?
+NewBooking_SelectCarHire	How do I MBD or remove drivers from my car hire booking?
+NewBooking_SelectCarHire	How do I add or remove drivers from my car hire book?
+NewBooking_SelectCarHire	How do ace add or remove drivers from my car hire booking?
+NewBooking_SelectCarHire	How do I cancel or modify my existing car employ booking?
+NewBooking_SelectCarHire	How do I cancel or modify my existing gondola hire booking?
+NewBooking_SelectCarHire	How do I cancel or modify my live car hire booking?
+NewBooking_SelectCarHire	How do I cancel or modify my subsist car hire booking?
+NewBooking_SelectCarHire	How do I build a payment or cancellation request over the phone?
+NewBooking_SelectCarHire	How do I make a payment or cancellation request over the earpiece?
+NewBooking_SelectCarHire	How do I prepare a payment or cancellation request over the phone?
+NewBooking_SelectCarHire	How do ane make a payment or cancellation request over the phone?
+NewBooking_SelectCarHire	How do I clear changes to my existing car hire booking?
+NewBooking_SelectCarHire	How do I establish changes to my existing car hire booking?
+NewBooking_SelectCarHire	How do I make changes to my existing car hire reserve?
+NewBooking_SelectCarHire	How do I make transfer to my existing car hire booking?
+NewBooking_SelectCarHire	How do I pay for my auto hire upfront?
+NewBooking_SelectCarHire	How do I pay for my automobile hire upfront?
+NewBooking_SelectCarHire	How do I pay for my car charter upfront?
+NewBooking_SelectCarHire	How do I yield for my car hire upfront?
+NewBooking_SelectCarHire	How do I request a refund or cancellation of my car engage?
+NewBooking_SelectCarHire	How do I request a refund or cancellation of my car lease?
+NewBooking_SelectCarHire	How do ace request a refund or cancellation of my car hire?
+NewBooking_SelectCarHire	How do single request a refund or cancellation of my car hire?
+NewBooking_SelectCarHire	How do I quest a refund or cancellation of my existing car hire booking?
+NewBooking_SelectCarHire	How do I request a refund or cancellation of my existing car hire engagement?
+NewBooking_SelectCarHire	How do I request a refund or cancellation of my existing car lease booking?
+NewBooking_SelectCarHire	How do single request a refund or cancellation of my existing car hire booking?
+NewBooking_SelectCarHire	How do 1 request a specific make or model of car via phone?
+NewBooking_SelectCarHire	How do I request a specific do or model of car via phone?
+NewBooking_SelectCarHire	How do I request a specific fix or model of car via phone?
+NewBooking_SelectCarHire	How do I request a specific reach or model of car via phone?
+NewBooking_SelectCarHire	How do I request a specific earn or model of car?
+NewBooking_SelectCarHire	How do I request a specific make or pose of car?
+NewBooking_SelectCarHire	How do I request a specific make or simulation of car?
+NewBooking_SelectCarHire	How do I request a specific puddle or model of car?
+NewBooking_SelectCarHire	How many miles per gallon does the economy car contract?
+NewBooking_SelectCarHire	How many miles per gallon does the economy car dumbfound?
+NewBooking_SelectCarHire	How many miles per gallon does the economy car vex?
+NewBooking_SelectCarHire	How many miles per gallon does the economy railcar get?
+NewBooking_SelectCarHire	How much does a car hire insurance insurance cost?
+NewBooking_SelectCarHire	How much does a car hire insurance policy price?
+NewBooking_SelectCarHire	How much does a car take insurance policy cost?
+NewBooking_SelectCarHire	How much does a motorcar hire insurance policy cost?
+NewBooking_SelectCarHire	I need a auto that can fit 4 people comfortably.
+NewBooking_SelectCarHire	I need a car that can check 4 people comfortably.
+NewBooking_SelectCarHire	I need a car that can jibe 4 people comfortably.
+NewBooking_SelectCarHire	I need a car that can primed 4 people comfortably.
+NewBooking_SelectCarHire	I'm looking to Quran a car hire for my upcoming trip.
+NewBooking_SelectCarHire	I'm looking to book a car rent for my upcoming trip.
+NewBooking_SelectCarHire	I'm looking to book a machine hire for my upcoming trip.
+NewBooking_SelectCarHire	I'm wait to book a car hire for my upcoming trip.
+NewBooking_SelectCarHire	What's the average price per day for a lavishness SUV hire?
+NewBooking_SelectCarHire	What's the average price per daylight for a luxury SUV hire?
+NewBooking_SelectCarHire	What's the average price per daytime for a luxury SUV hire?
+NewBooking_SelectCarHire	What's the medium price per day for a luxury SUV hire?
+NewBooking_SelectCarHire	What's the average damage per day for a luxury car hire?
+NewBooking_SelectCarHire	What's the average price per day for a luxury automobile hire?
+NewBooking_SelectCarHire	What's the average price per day for a luxury gondola hire?
+NewBooking_SelectCarHire	What's the middling price per day for a luxury car hire?
+NewBooking_SelectCarHire	What's the average price per daylight for a standard car hire?
+NewBooking_SelectCarHire	What's the average toll per day for a standard car hire?
+NewBooking_SelectCarHire	What's the mediocre price per day for a standard car hire?
+NewBooking_SelectCarHire	What's the medium price per day for a standard car hire?
+NewBooking_SelectCarHire	What's the average price per day for an economy SUV employ?
+NewBooking_SelectCarHire	What's the average price per day for an economy SUV rent?
+NewBooking_SelectCarHire	What's the fair price per day for an economy SUV hire?
+NewBooking_SelectCarHire	What's the ordinary price per day for an economy SUV hire?
+NewBooking_SelectCarHire	What's the average price per day for an economy car take?
+NewBooking_SelectCarHire	What's the average price per day for an economy machine hire?
+NewBooking_SelectCarHire	What's the average price per daylight for an economy car hire?
+NewBooking_SelectCarHire	What's the fair price per day for an economy car hire?
+NewBooking_SelectCarHire	What's the minimum age requirement to rip a car?
+NewBooking_SelectCarHire	What's the minimum age requirement to take a car?
+NewBooking_SelectCarHire	What's the minimum age requirement to tear a car?
+NewBooking_SelectCarHire	What's the minimum geezerhood requirement to rent a car?
+NewBooking_SelectCarHire	What's the insurance on additional drivers and their fees?
+NewBooking_SelectCarHire	What's the policy on additional driver and their fees?
+NewBooking_SelectCarHire	What's the policy on additional drivers and their bung?
+NewBooking_SelectCarHire	What's the policy on extra drivers and their fees?
+NewBooking_SelectCarHire	What's the insurance on additional drivers for car hires?
+NewBooking_SelectCarHire	What's the policy on additional drivers for car lease?
+NewBooking_SelectCarHire	What's the policy on additional drivers for gondola hires?
+NewBooking_SelectCarHire	What's the policy on additional drivers for railcar hires?
+NewBooking_SelectCarHire	What's the policy on fire type and availability?
+NewBooking_SelectCarHire	What's the policy on fuel character and availability?
+NewBooking_SelectCarHire	What's the policy on fuel type and availableness?
+NewBooking_SelectCarHire	What's the policy on fuel typecast and availability?
+NewBooking_SelectCarHire	What's the policy on luggage adjustment and excess baggage fees?
+NewBooking_SelectCarHire	What's the policy on luggage allowance and extra baggage fees?
+NewBooking_SelectCarHire	What's the policy on luggage margin and excess baggage fees?
+NewBooking_SelectCarHire	What's the policy on luggage tolerance and excess baggage fees?
+NewBooking_SelectCarHire	What's the policy on parking fees and care?
+NewBooking_SelectCarHire	What's the policy on parking fees and commit?
+NewBooking_SelectCarHire	What's the policy on parking fees and commove?
+NewBooking_SelectCarHire	What's the policy on parking fees and rouse?
+NewBooking_SelectCarHire	What's the policy on deary in the vehicle?
+NewBooking_SelectCarHire	What's the policy on ducky in the vehicle?
+NewBooking_SelectCarHire	What's the policy on pet in the vehicle?
+NewBooking_SelectCarHire	What's the policy on pets in the fomite?
+NewBooking_SelectCarHire	What's the march for booking a car hire online?
+NewBooking_SelectCarHire	What's the procedure for booking a car hire online?
+NewBooking_SelectCarHire	What's the process for booking a machine hire online?
+NewBooking_SelectCarHire	What's the serve for booking a car hire online?
+NewBooking_SelectCarHire	What's the process for cover an issue with my car hire?
+NewBooking_SelectCarHire	What's the process for reporting an exit with my car hire?
+NewBooking_SelectCarHire	What's the process for reporting an issue with my car engage?
+NewBooking_SelectCarHire	What's the process for reporting an upshot with my car hire?
+NewBooking_SelectCarHire	What's the process for retort a car after the agreed rental period?
+NewBooking_SelectCarHire	What's the process for returning a car after the agreed renting period?
+NewBooking_SelectCarHire	What's the process for returning a car after the hold rental period?
+NewBooking_SelectCarHire	What's the process for revert a car after the agreed rental period?
+NewBooking_SelectCarHire	What's your cheapest car hire option for a 5-day lease?
+NewBooking_SelectCarHire	What's your cheesy car hire option for a 5-day rental?
+NewBooking_SelectCarHire	What's your flashy car hire option for a 5-day rental?
+NewBooking_SelectCarHire	What's your punk car hire option for a 5-day rental?

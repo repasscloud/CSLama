@@ -1,0 +1,80 @@
+Can you confirm my flight departure time?
+Can you confirm my hotel check-in time?
+Can you confirm my travel dates?
+Can you help me plan my itinerary?
+Can you help me plan my travel schedule?
+Can you help me with my corporate travel plans?
+Can you provide me with a breakdown of my costs?
+Can you provide me with a breakdown of my expenses?
+Can you provide me with a copy of my travel documents?
+Can you provide me with a copy of my travel itinerary?
+Can you provide me with a list of nearby attractions?
+Can you provide me with a list of nearby restaurants?
+Can you provide me with a map of the airport terminal?
+Can you show me the airport layout?
+Can you show me the hotel amenities and services?
+Can you show me the hotel amenities?
+Can you show me the hotel location on the map?
+Can you show me the itinerary for my upcoming business trip?
+Can you show me the map for my hotel location?
+Can you show me the nearby public transportation options?
+Can you show me the nearby tourist attractions?
+Can you tell me about my current reservation?
+Can you tell me about my flight status?
+Can you tell me about my travel insurance policy?
+Can you tell me about the airport lounge facilities?
+Can you tell me about the airport taxi services available?
+Can you tell me about the lounge access at my destination?
+Do I have any baggage restrictions or fees?
+Do I have any flight upgrades available?
+Do I have any loyalty program benefits available?
+Do I have any outstanding payments due?
+Do I have any special requests or accommodations?
+Do I have any special requests or needs during the trip?
+Do I have any special requests or needs?
+Do I have any travel documents for this trip?
+Do I have any travel insurance coverage?
+Do I have any upgrade options available?
+Do I have any upgrade options for my trip?
+Do I need to bring any specific items for check-in?
+Do I need to bring my own adapters and converters?
+Do I need to bring my own travel adapter?
+Do I need to complete an arrival card?
+Do I need to complete an electronic arrival/departure card?
+Do I need to provide any additional documentation?
+Do I need to provide identification documents?
+Do I need to provide proof of identity documents?
+Here are 80 training statements for a corporate travel chatbot to recognize when someone wants to view details of an existing booking:
+How do I access my booking history?
+How do I access my booking information?
+How do I make changes to my existing booking?
+How do I make changes to my flight schedule online?
+How do I make changes to my flight schedule?
+How do I make changes to my hotel reservation online?
+How do I make changes to my hotel reservation?
+How do I request a different meal option?
+How do I request a different room type?
+How do I request special assistance?
+How do I request special requests at check-in?
+How do I track my flight status on my phone?
+How do I track my flight status online?
+I need help with my corporate travel arrangements.
+I need to see my upcoming flight details.
+I want to view my hotel reservation details.
+I want to view my meal options for the business trip.
+I want to view my rental car details.
+What are the airport arrival procedures?
+What are the airport security procedures?
+What are the baggage restrictions for this trip?
+What are the check-in times for my flight?
+What are the cultural norms at my destination?
+What are the customs procedures at my destination?
+What are the dress code requirements for business trips?
+What is my status on this trip?
+What is the cancellation policy for my trip?
+What is the cancellation policy for this trip?
+What is the procedure for checking in early?
+What is the procedure for reporting lost or stolen documents?
+What is the process for filing a complaint?
+What is the refund policy for my cancelled trip?
+What is the total cost for my trip?
