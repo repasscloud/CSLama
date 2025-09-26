@@ -1,0 +1,296 @@
+NewBooking_SpecialRequests	Are there any specific industries or sectors you'd like me to centre on?
+NewBooking_SpecialRequests	Are there any specific industries or sectors you'd like me to sharpen on?
+NewBooking_SpecialRequests	Are there any specific industries or sectors you'd same me to focus on?
+NewBooking_SpecialRequests	cost there any specific industries or sectors you'd like me to focus on?
+NewBooking_SpecialRequests	Do you have a opt tone or style in mind (e.g. formal, informal, humorous)?
+NewBooking_SpecialRequests	Do you have a preferred tone or style in mind (e.g-force. formal, informal, humorous)?
+NewBooking_SpecialRequests	Do you have a preferred tone or style in mind (e.gigabyte. formal, informal, humorous)?
+NewBooking_SpecialRequests	perform you have a preferred tone or style in mind (e.g. formal, informal, humorous)?
+NewBooking_SpecialRequests	I'll be happy to assist you with that, but I need more information about your requirements. Could you please supply me with some contingent?
+NewBooking_SpecialRequests	I'll be happy to assist you with that, but I pauperism more information about your essential. Could you please provide me with some details?
+NewBooking_SpecialRequests	I'll be happy to assist you with that, but one want more information about your requirements. Could you please provide me with some details?
+NewBooking_SpecialRequests	I'll be happy to serve you with that, but I need more information about your requirements. Could you please leave me with some details?
+NewBooking_SpecialRequests	Once I have this information, I can leave you with the 80 statements needed to train the chatbot.
+NewBooking_SpecialRequests	Once I have this information, I can provide you with the 80 statements needed to prepare the chatbot.
+NewBooking_SpecialRequests	Once I have this information, I can provide you with the lxxx statements needed to train the chatbot.
+NewBooking_SpecialRequests	Once I have this information, single can provide you with the 80 statements needed to train the chatbot.
+NewBooking_SpecialRequests	Please let me know your requirements, and I'll contract started!
+NewBooking_SpecialRequests	Please let me know your requirements, and I'll engender started!
+NewBooking_SpecialRequests	Please let me know your requirements, and I'll puzzle started!
+NewBooking_SpecialRequests	Please let me know your requirements, and I'll sire started!
+NewBooking_SpecialRequests	What type of limited requests are you looking for me to train the chatbot to recognize?
+NewBooking_SpecialRequests	What type of special requests are you looking for me to prepare the chatbot to recognize?
+NewBooking_SpecialRequests	What type of special requests are you looking for me to train the chatbot to agnise?
+NewBooking_SpecialRequests	What type of special requests are you reckon for me to train the chatbot to recognize?
+NewBooking_SpecialRequests	Are there any special amenities available for business travelers, comparable a desk and printer?
+NewBooking_SpecialRequests	Are there any special amenities available for business travelers, like a desk and pressman?
+NewBooking_SpecialRequests	constitute there any special amenities available for business travelers, like a desk and printer?
+NewBooking_SpecialRequests	exist there any special amenities available for business travelers, like a desk and printer?
+NewBooking_SpecialRequests	Are there any extra amenities available for solo travelers?
+NewBooking_SpecialRequests	are there any special amenities available for solo travelers?
+NewBooking_SpecialRequests	equal there any special amenities available for solo travelers?
+NewBooking_SpecialRequests	exist there any special amenities available for solo travelers?
+NewBooking_SpecialRequests	Are there any extra discounts available for groups or corporate clients?
+NewBooking_SpecialRequests	Are there any special discounts available for groups or collective clients?
+NewBooking_SpecialRequests	Are there any special discounts available for groups or incarnate clients?
+NewBooking_SpecialRequests	embody there any special discounts available for groups or corporate clients?
+NewBooking_SpecialRequests	Are there any special deduction available for students or seniors?
+NewBooking_SpecialRequests	embody there any special discounts available for students or seniors?
+NewBooking_SpecialRequests	equal there any special discounts available for students or seniors?
+NewBooking_SpecialRequests	represent there any special discounts available for students or seniors?
+NewBooking_SpecialRequests	Are there any special packages or cover for honeymooners?
+NewBooking_SpecialRequests	Are there any special packages or deal for honeymooners?
+NewBooking_SpecialRequests	Are there any special packages or sight for honeymooners?
+NewBooking_SpecialRequests	embody there any special packages or deals for honeymooners?
+NewBooking_SpecialRequests	Are there any peculiar rates available for government employees or diplomats?
+NewBooking_SpecialRequests	Are there any special betray available for government employees or diplomats?
+NewBooking_SpecialRequests	Are there any special rates available for authorities employees or diplomats?
+NewBooking_SpecialRequests	cost there any special rates available for government employees or diplomats?
+NewBooking_SpecialRequests	Are there any particular rates for first responders or military personnel?
+NewBooking_SpecialRequests	Are there any special grass for first responders or military personnel?
+NewBooking_SpecialRequests	Are there any special rates for first responder or military personnel?
+NewBooking_SpecialRequests	personify there any special rates for first responders or military personnel?
+NewBooking_SpecialRequests	Can I script a room that can accommodate multiple people?
+NewBooking_SpecialRequests	fire I book a room that can accommodate multiple people?
+NewBooking_SpecialRequests	potty I book a room that can accommodate multiple people?
+NewBooking_SpecialRequests	tin I book a room that can accommodate multiple people?
+NewBooking_SpecialRequests	Can I book an early check-in and tardy check-out?
+NewBooking_SpecialRequests	Can I reserve an early check-in and late check-out?
+NewBooking_SpecialRequests	ass I book an early check-in and late check-out?
+NewBooking_SpecialRequests	fanny I book an early check-in and late check-out?
+NewBooking_SpecialRequests	Can I book an upgrade if I'm volition to pay a higher rate per night?
+NewBooking_SpecialRequests	Can I book an upgrade if I'm willing to compensate a higher rate per night?
+NewBooking_SpecialRequests	Can I reserve an upgrade if I'm willing to pay a higher rate per night?
+NewBooking_SpecialRequests	buns I book an upgrade if I'm willing to pay a higher rate per night?
+NewBooking_SpecialRequests	Can unity book an upgrade if my initial booking was incorrect?
+NewBooking_SpecialRequests	behind I book an upgrade if my initial booking was incorrect?
+NewBooking_SpecialRequests	lav I book an upgrade if my initial booking was incorrect?
+NewBooking_SpecialRequests	pot I book an upgrade if my initial booking was incorrect?
+NewBooking_SpecialRequests	Can I book an raise to a suite if my initial booking was incorrect?
+NewBooking_SpecialRequests	Can I book an upgrade to a suite if my initial booking was wrong?
+NewBooking_SpecialRequests	can I book an upgrade to a suite if my initial booking was incorrect?
+NewBooking_SpecialRequests	canful I book an upgrade to a suite if my initial booking was incorrect?
+NewBooking_SpecialRequests	Can I book multiple flights and request specific seats arrangements?
+NewBooking_SpecialRequests	Can iodine book multiple flights and request specific seating arrangements?
+NewBooking_SpecialRequests	privy I book multiple flights and request specific seating arrangements?
+NewBooking_SpecialRequests	tush I book multiple flights and request specific seating arrangements?
+NewBooking_SpecialRequests	Can I book multiple room and request specific amenities?
+NewBooking_SpecialRequests	Can I playscript multiple rooms and request specific amenities?
+NewBooking_SpecialRequests	bottom I book multiple rooms and request specific amenities?
+NewBooking_SpecialRequests	can I book multiple rooms and request specific amenities?
+NewBooking_SpecialRequests	Can I deepen the date without penalty?
+NewBooking_SpecialRequests	Can I switch the date without penalty?
+NewBooking_SpecialRequests	john I change the date without penalty?
+NewBooking_SpecialRequests	sack I change the date without penalty?
+NewBooking_SpecialRequests	Can I induce a special request through your concierge service?
+NewBooking_SpecialRequests	Can I throw a special request through your concierge service?
+NewBooking_SpecialRequests	Can I urinate a special request through your concierge service?
+NewBooking_SpecialRequests	Can I work a special request through your concierge service?
+NewBooking_SpecialRequests	Can I realize a special request through your customer service team?
+NewBooking_SpecialRequests	Can I work a special request through your customer service team?
+NewBooking_SpecialRequests	Can one make a special request through your customer service team?
+NewBooking_SpecialRequests	tin I make a special request through your customer service team?
+NewBooking_SpecialRequests	Can I constitute a special request through your loyalty program?
+NewBooking_SpecialRequests	Can I have a special request through your loyalty program?
+NewBooking_SpecialRequests	Can I name a special request through your loyalty program?
+NewBooking_SpecialRequests	Can I stool a special request through your loyalty program?
+NewBooking_SpecialRequests	Can I request a room near a scenic eyeshot or a quiet area?
+NewBooking_SpecialRequests	Can I request a room near a scenic view or a quiet expanse?
+NewBooking_SpecialRequests	Can I request a room near a scenic view or a tranquillize area?
+NewBooking_SpecialRequests	Can iodin request a room near a scenic view or a quiet area?
+NewBooking_SpecialRequests	canful I request a room on a specific floor?
+NewBooking_SpecialRequests	rear I request a room on a specific floor?
+NewBooking_SpecialRequests	rump I request a room on a specific floor?
+NewBooking_SpecialRequests	tin I request a room on a specific floor?
+NewBooking_SpecialRequests	bathroom I request a specific type of bed?
+NewBooking_SpecialRequests	lavatory I request a specific type of bed?
+NewBooking_SpecialRequests	potty I request a specific type of bed?
+NewBooking_SpecialRequests	sack I request a specific type of bed?
+NewBooking_SpecialRequests	Do you have any recommendations for nearby eatery with gluten-free options?
+NewBooking_SpecialRequests	Do you have any recommendations for nearby restaurant with gluten-free options?
+NewBooking_SpecialRequests	execute you have any recommendations for nearby restaurants with gluten-free options?
+NewBooking_SpecialRequests	set you have any recommendations for nearby restaurants with gluten-free options?
+NewBooking_SpecialRequests	Do you have any rooms that are accessible from the airport on public transferral?
+NewBooking_SpecialRequests	doh you have any rooms that are accessible from the airport on public transportation?
+NewBooking_SpecialRequests	set you have any rooms that are accessible from the airport on public transportation?
+NewBooking_SpecialRequests	suffice you have any rooms that are accessible from the airport on public transportation?
+NewBooking_SpecialRequests	Do you have any room that are available at short notice?
+NewBooking_SpecialRequests	Do you have any way that are available at short notice?
+NewBooking_SpecialRequests	answer you have any rooms that are available at short notice?
+NewBooking_SpecialRequests	make you have any rooms that are available at short notice?
+NewBooking_SpecialRequests	Do you have any room that are available for same-day check-in?
+NewBooking_SpecialRequests	Do you have any rooms that are useable for same-day check-in?
+NewBooking_SpecialRequests	cause you have any rooms that are available for same-day check-in?
+NewBooking_SpecialRequests	dress you have any rooms that are available for same-day check-in?
+NewBooking_SpecialRequests	Do you have any room that are available for single occupancy?
+NewBooking_SpecialRequests	Do you have any rooms that are available for I occupancy?
+NewBooking_SpecialRequests	answer you have any rooms that are available for single occupancy?
+NewBooking_SpecialRequests	ut you have any rooms that are available for single occupancy?
+NewBooking_SpecialRequests	Do you have any rooms that are equipped with baby gear, corresponding cribs and high chairs?
+NewBooking_SpecialRequests	Do you have any rooms that are equipped with coddle gear, like cribs and high chairs?
+NewBooking_SpecialRequests	come you have any rooms that are equipped with baby gear, like cribs and high chairs?
+NewBooking_SpecialRequests	do you have any rooms that are equipped with baby gear, like cribs and high chairs?
+NewBooking_SpecialRequests	Do you have any rooms that are equipped with extra towels or toiletry?
+NewBooking_SpecialRequests	Do you have any rooms that are equipped with special towels or toiletries?
+NewBooking_SpecialRequests	doh you have any rooms that are equipped with extra towels or toiletries?
+NewBooking_SpecialRequests	manage you have any rooms that are equipped with extra towels or toiletries?
+NewBooking_SpecialRequests	behave you have any rooms that are wheelchair accessible?
+NewBooking_SpecialRequests	exercise you have any rooms that are wheelchair accessible?
+NewBooking_SpecialRequests	make you have any rooms that are wheelchair accessible?
+NewBooking_SpecialRequests	perform you have any rooms that are wheelchair accessible?
+NewBooking_SpecialRequests	Do you have any special fitting for me?
+NewBooking_SpecialRequests	coif you have any special accommodations for me?
+NewBooking_SpecialRequests	doh you have any special accommodations for me?
+NewBooking_SpecialRequests	manage you have any special accommodations for me?
+NewBooking_SpecialRequests	Do you have any particular rates for long-term stays?
+NewBooking_SpecialRequests	Do you have any special fink for long-term stays?
+NewBooking_SpecialRequests	Do you have any special rates for long-term appease?
+NewBooking_SpecialRequests	arrange you have any special rates for long-term stays?
+NewBooking_SpecialRequests	Do you fling free Wi-Fi for all your guests?
+NewBooking_SpecialRequests	Do you offer loose Wi-Fi for all your guests?
+NewBooking_SpecialRequests	Do you offer resign Wi-Fi for all your guests?
+NewBooking_SpecialRequests	answer you offer free Wi-Fi for all your guests?
+NewBooking_SpecialRequests	How do I cancel and rebook my entire actuate if needed?
+NewBooking_SpecialRequests	How do I cancel and rebook my entire trip if necessitate?
+NewBooking_SpecialRequests	How do I cancel and rebook my full trip if needed?
+NewBooking_SpecialRequests	How do iodine cancel and rebook my entire trip if needed?
+NewBooking_SpecialRequests	How do I initiate a exceptional request conversation with your team?
+NewBooking_SpecialRequests	How do I initiate a special postulation conversation with your team?
+NewBooking_SpecialRequests	How do I pundit a special request conversation with your team?
+NewBooking_SpecialRequests	How do unity initiate a special request conversation with your team?
+NewBooking_SpecialRequests	How do I make a special petition on my booking?
+NewBooking_SpecialRequests	How do I pee-pee a special request on my booking?
+NewBooking_SpecialRequests	How do I work a special request on my booking?
+NewBooking_SpecialRequests	How do i make a special request on my booking?
+NewBooking_SpecialRequests	I need a private adjoin room with audio-visual equipment.
+NewBooking_SpecialRequests	I need a private satisfy room with audio-visual equipment.
+NewBooking_SpecialRequests	i need a private meeting room with audio-visual equipment.
+NewBooking_SpecialRequests	unity need a private meeting room with audio-visual equipment.
+NewBooking_SpecialRequests	I'd alike to book an upgrade, but only if possible.
+NewBooking_SpecialRequests	I'd like to book an advance, but only if possible.
+NewBooking_SpecialRequests	I'd like to book an promote, but only if possible.
+NewBooking_SpecialRequests	I'd like to script an upgrade, but only if possible.
+NewBooking_SpecialRequests	I'm celebrating my anniversary, can you gain arrangements?
+NewBooking_SpecialRequests	I'm celebrating my anniversary, can you nominate arrangements?
+NewBooking_SpecialRequests	I'm celebrating my anniversary, can you urinate arrangements?
+NewBooking_SpecialRequests	I'm observe my anniversary, can you make arrangements?
+NewBooking_SpecialRequests	I'm looking to raise my room from standard to executive.
+NewBooking_SpecialRequests	I'm looking to upgrade my board from standard to executive.
+NewBooking_SpecialRequests	I'm looking to upgrade my room from criterion to executive.
+NewBooking_SpecialRequests	I'm looking to upgrade my way from standard to executive.
+NewBooking_SpecialRequests	I'm planning a declamatory event, can you help with group bookings?
+NewBooking_SpecialRequests	I'm planning a large effect, can you help with group bookings?
+NewBooking_SpecialRequests	I'm planning a large outcome, can you help with group bookings?
+NewBooking_SpecialRequests	I'm provision a large event, can you help with group bookings?
+NewBooking_SpecialRequests	Is it possible to ADD extra services like baby-sitting or dry-cleaning?
+NewBooking_SpecialRequests	Is it possible to add extra help like baby-sitting or dry-cleaning?
+NewBooking_SpecialRequests	Is it possible to sum extra services like baby-sitting or dry-cleaning?
+NewBooking_SpecialRequests	represent it possible to add extra services like baby-sitting or dry-cleaning?
+NewBooking_SpecialRequests	Is it possible to format a private dinner or in-room celebration?
+NewBooking_SpecialRequests	Is it possible to order a private dinner or in-room celebration?
+NewBooking_SpecialRequests	equal it possible to arrange a private dinner or in-room celebration?
+NewBooking_SpecialRequests	follow it possible to arrange a private dinner or in-room celebration?
+NewBooking_SpecialRequests	Is it possible to arrange a storm birthday party or special celebration?
+NewBooking_SpecialRequests	Is it possible to arrange a surprise birthday company or special celebration?
+NewBooking_SpecialRequests	Is it possible to arrange a surprise birthday party or special solemnization?
+NewBooking_SpecialRequests	follow it possible to arrange a surprise birthday party or special celebration?
+NewBooking_SpecialRequests	Is it possible to arrange exile from the airport on private car service?
+NewBooking_SpecialRequests	Is it possible to arrange transportation from the airport on private car serving?
+NewBooking_SpecialRequests	Is it possible to put transportation from the airport on private car service?
+NewBooking_SpecialRequests	exist it possible to arrange transportation from the airport on private car service?
+NewBooking_SpecialRequests	Is it possible to arrange transportation from the aerodrome?
+NewBooking_SpecialRequests	Is it possible to arrange transportation from the drome?
+NewBooking_SpecialRequests	Is it possible to do transportation from the airport?
+NewBooking_SpecialRequests	Is it potential to arrange transportation from the airport?
+NewBooking_SpecialRequests	Is it possible to gain last-minute changes to an existing booking?
+NewBooking_SpecialRequests	Is it possible to nominate last-minute changes to an existing booking?
+NewBooking_SpecialRequests	Is it possible to ready last-minute changes to an existing booking?
+NewBooking_SpecialRequests	comprise it possible to make last-minute changes to an existing booking?
+NewBooking_SpecialRequests	Is it too late to ca-ca changes to my booking?
+NewBooking_SpecialRequests	Is it too late to do changes to my booking?
+NewBooking_SpecialRequests	Is it too late to make alter to my booking?
+NewBooking_SpecialRequests	Is it too late to prepare changes to my booking?
+NewBooking_SpecialRequests	Is there anything else I can add to my engagement?
+NewBooking_SpecialRequests	Is there anything else I can sum to my booking?
+NewBooking_SpecialRequests	Is there anything else I can total to my booking?
+NewBooking_SpecialRequests	follow there anything else I can add to my booking?
+NewBooking_SpecialRequests	What are the duplicate fees for making special requests?
+NewBooking_SpecialRequests	What are the extra fees for making special asking?
+NewBooking_SpecialRequests	What are the redundant fees for making special requests?
+NewBooking_SpecialRequests	What are the supererogatory fees for making special requests?
+NewBooking_SpecialRequests	What is the policy on in-room boom and meal times?
+NewBooking_SpecialRequests	What is the policy on in-room dining and meal clip?
+NewBooking_SpecialRequests	What is the policy on in-room dining and meal meter?
+NewBooking_SpecialRequests	What is the policy on in-room dining and meal metre?
+NewBooking_SpecialRequests	What is the insurance on pets allowed in rooms and suites?
+NewBooking_SpecialRequests	What is the policy on PET allowed in rooms and suites?
+NewBooking_SpecialRequests	What is the policy on darling allowed in rooms and suites?
+NewBooking_SpecialRequests	What is the policy on pets allowed in rooms and beseem?
+NewBooking_SpecialRequests	What is the policy on PET in rooms?
+NewBooking_SpecialRequests	What is the policy on deary in rooms?
+NewBooking_SpecialRequests	What is the policy on favourite in rooms?
+NewBooking_SpecialRequests	What is the policy on pets in way?
+NewBooking_SpecialRequests	What is the process for making a peculiar request at check-in?
+NewBooking_SpecialRequests	What is the process for name a special request at check-in?
+NewBooking_SpecialRequests	What is the process for pee-pee a special request at check-in?
+NewBooking_SpecialRequests	What is the process for stimulate a special request at check-in?
+NewBooking_SpecialRequests	What is the process for making a particular request at the end of my stay?
+NewBooking_SpecialRequests	What is the process for making a special request at the closing of my stay?
+NewBooking_SpecialRequests	What is the process for score a special request at the end of my stay?
+NewBooking_SpecialRequests	What is the process for work a special request at the end of my stay?
+NewBooking_SpecialRequests	What is the process for construct a special request on my mobile app?
+NewBooking_SpecialRequests	What is the process for get a special request on my mobile app?
+NewBooking_SpecialRequests	What is the process for reach a special request on my mobile app?
+NewBooking_SpecialRequests	What is the process for seduce a special request on my mobile app?
+NewBooking_SpecialRequests	What is the process for draw a special request on this website?
+NewBooking_SpecialRequests	What is the process for make a special request on this website?
+NewBooking_SpecialRequests	What is the process for realise a special request on this website?
+NewBooking_SpecialRequests	What is the process for work a special request on this website?
+NewBooking_SpecialRequests	Will you accommodate a particular dietary need or restriction, such as gluten-free or vegan?
+NewBooking_SpecialRequests	Will you accommodate a specific dietary ask or restriction, such as gluten-free or vegan?
+NewBooking_SpecialRequests	Will you accommodate a specific dietary postulate or restriction, such as gluten-free or vegan?
+NewBooking_SpecialRequests	volition you accommodate a specific dietary need or restriction, such as gluten-free or vegan?
+NewBooking_SpecialRequests	Will you accommodate a specific dietary pauperism or restriction?
+NewBooking_SpecialRequests	Will you accommodate a specific dietary require or restriction?
+NewBooking_SpecialRequests	Will you conciliate a specific dietary need or restriction?
+NewBooking_SpecialRequests	Will you hold a specific dietary need or restriction?
+NewBooking_SpecialRequests	Will you accommodate a specific mobility motive, such as a walker or wheelchair?
+NewBooking_SpecialRequests	Will you accommodate a specific mobility necessitate, such as a walker or wheelchair?
+NewBooking_SpecialRequests	Will you conciliate a specific mobility need, such as a walker or wheelchair?
+NewBooking_SpecialRequests	leave you accommodate a specific mobility need, such as a walker or wheelchair?
+NewBooking_SpecialRequests	Will you accommodate a particular mobility need, such as a wheelchair or scooter?
+NewBooking_SpecialRequests	Will you accommodate a specific mobility demand, such as a wheelchair or scooter?
+NewBooking_SpecialRequests	Will you accommodate a specific mobility indigence, such as a wheelchair or scooter?
+NewBooking_SpecialRequests	Will you lodge a specific mobility need, such as a wheelchair or scooter?
+NewBooking_SpecialRequests	Will you accommodate a specific room preference, such as a prospect of the park?
+NewBooking_SpecialRequests	Will you accommodate a specific room preference, such as a sight of the park?
+NewBooking_SpecialRequests	Will you accommodate a specific room preference, such as a survey of the park?
+NewBooking_SpecialRequests	Will you oblige a specific room preference, such as a view of the park?
+NewBooking_SpecialRequests	Will you guarantee a still room at 6am?
+NewBooking_SpecialRequests	Will you guarantee a tranquillity room at 6am?
+NewBooking_SpecialRequests	Will you secure a quiet room at 6am?
+NewBooking_SpecialRequests	volition you guarantee a quiet room at 6am?
+NewBooking_SpecialRequests	Will you honor a particular request during peak season?
+NewBooking_SpecialRequests	Will you honor a special request during meridian season?
+NewBooking_SpecialRequests	Will you honor a special request during top season?
+NewBooking_SpecialRequests	leave you honor a special request during peak season?
+NewBooking_SpecialRequests	Will you award a special request for an early check-in or late check-out?
+NewBooking_SpecialRequests	Will you honor a special quest for an early check-in or late check-out?
+NewBooking_SpecialRequests	Will you honor a special request for an early check-in or latterly check-out?
+NewBooking_SpecialRequests	will you honor a special request for an early check-in or late check-out?
+NewBooking_SpecialRequests	Will you honor a special quest for an early morning wake-up call with room service?
+NewBooking_SpecialRequests	Will you honor a special request for an early forenoon wake-up call with room service?
+NewBooking_SpecialRequests	Will you honor a special request for an early morning wake-up call with board service?
+NewBooking_SpecialRequests	Will you honor a special request for an early morning wake-up promise with room service?
+NewBooking_SpecialRequests	Will you honor a special petition for an early morning wake-up call?
+NewBooking_SpecialRequests	Will you honor a special request for an early dawn wake-up call?
+NewBooking_SpecialRequests	Will you honor a special request for an early morning wake-up phone?
+NewBooking_SpecialRequests	Will you respect a special request for an early morning wake-up call?
+NewBooking_SpecialRequests	Will you accolade a special request if it's not in your standard policy?
+NewBooking_SpecialRequests	Will you honor a peculiar request if it's not in your standard policy?
+NewBooking_SpecialRequests	Will you reward a special request if it's not in your standard policy?
+NewBooking_SpecialRequests	leave you honor a special request if it's not in your standard policy?
+NewBooking_SpecialRequests	Will you award a special request if it's outside your normal policy?
+NewBooking_SpecialRequests	Will you honor a special petition if it's outside your normal policy?
+NewBooking_SpecialRequests	Will you honor a special request if it's outside your convention policy?
+NewBooking_SpecialRequests	leave you honor a special request if it's outside your normal policy?

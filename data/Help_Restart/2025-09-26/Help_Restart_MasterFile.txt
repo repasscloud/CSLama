@@ -1,0 +1,448 @@
+Help_Restart	Are there any new necessity or changes to our original conversation?
+Help_Restart	Are there any new requirement or changes to our original conversation?
+Help_Restart	Are there any new requirements or alter to our original conversation?
+Help_Restart	Are there any new requirements or modify to our original conversation?
+Help_Restart	Are there any updates or deepen to our original conversation?
+Help_Restart	Are there any updates or variety to our original conversation?
+Help_Restart	ar there any updates or changes to our original conversation?
+Help_Restart	constitute there any updates or changes to our original conversation?
+Help_Restart	Are there any updates or change to the original conversation?
+Help_Restart	comprise there any updates or changes to the original conversation?
+Help_Restart	live there any updates or changes to the original conversation?
+Help_Restart	personify there any updates or changes to the original conversation?
+Help_Restart	Are you ready to incite forward or would you like to revise something?
+Help_Restart	Are you ready to locomote forward or would you like to revise something?
+Help_Restart	Are you ready to move forward or would you comparable to revise something?
+Help_Restart	Are you ready to strike forward or would you like to revise something?
+Help_Restart	Can you please confirm what you need supporter with next?
+Help_Restart	dismiss you please confirm what you need help with next?
+Help_Restart	displace you please confirm what you need help with next?
+Help_Restart	tooshie you please confirm what you need help with next?
+Help_Restart	behind you please confirm what you're looking for assistance with?
+Help_Restart	can you please confirm what you're looking for assistance with?
+Help_Restart	terminate you please confirm what you're looking for assistance with?
+Help_Restart	tin you please confirm what you're looking for assistance with?
+Help_Restart	Can you please reiterate your question for limpidity?
+Help_Restart	bathroom you please reiterate your question for clarity?
+Help_Restart	butt you please reiterate your question for clarity?
+Help_Restart	sack you please reiterate your question for clarity?
+Help_Restart	buns you please remind me of our conversation from earlier?
+Help_Restart	potty you please remind me of our conversation from earlier?
+Help_Restart	rump you please remind me of our conversation from earlier?
+Help_Restart	tail you please remind me of our conversation from earlier?
+Help_Restart	Can you please rephrase your dubiousness so I understand it correctly?
+Help_Restart	Can you please rephrase your question so I infer it correctly?
+Help_Restart	Can you please rephrase your question so I realize it correctly?
+Help_Restart	buttocks you please rephrase your question so I understand it correctly?
+Help_Restart	Did we lose anything important while taking a break?
+Help_Restart	Did we miss anything important while admit a break?
+Help_Restart	Did we miss anything important while pack a break?
+Help_Restart	exercise we miss anything important while taking a break?
+Help_Restart	Did you experience any consequence with the previous conversation?
+Help_Restart	Did you experience any exit with the previous conversation?
+Help_Restart	Did you experience any issue with the previous conversation?
+Help_Restart	Did you experience any yield with the previous conversation?
+Help_Restart	How can I assist you now that we're indorse on track?
+Help_Restart	How can I assist you now that we're rearwards on track?
+Help_Restart	How can I attend you now that we're back on track?
+Help_Restart	How can ace assist you now that we're back on track?
+Help_Restart	How can I assist you with what you motivation today?
+Help_Restart	How can I assist you with what you necessitate today?
+Help_Restart	How can I attend you with what you need today?
+Help_Restart	How can unity assist you with what you need today?
+Help_Restart	How can I ensure a politic conversation this time around?
+Help_Restart	How can I ensure a quiet conversation this time around?
+Help_Restart	How can I guarantee a smoother conversation this time around?
+Help_Restart	How can iodine ensure a smoother conversation this time around?
+Help_Restart	How can I help you now that we're originate over?
+Help_Restart	How can I help you now that we're protrude over?
+Help_Restart	How can I help you now that we're startle over?
+Help_Restart	How can iodin help you now that we're starting over?
+Help_Restart	How can I improve my intellect of your request?
+Help_Restart	How can I improve my interpret of your request?
+Help_Restart	How can I improve my savvy of your request?
+Help_Restart	How can iodin improve my understanding of your request?
+Help_Restart	How can I provide better funding moving forward?
+Help_Restart	How can I provide better subscribe moving forward?
+Help_Restart	How can I provide better underpin moving forward?
+Help_Restart	How can I provide upright support moving forward?
+Help_Restart	How can I provide better livelihood to ensure a smooth conversation?
+Help_Restart	How can I provide better support to ensure a polish conversation?
+Help_Restart	How can I provide better tolerate to ensure a smooth conversation?
+Help_Restart	How can I provide estimable support to ensure a smooth conversation?
+Help_Restart	I suppose we got off track can you summarize what we discussed so far?
+Help_Restart	I think we got off course can you summarize what we discussed so far?
+Help_Restart	I think we induce off track can you summarize what we discussed so far?
+Help_Restart	unity think we got off track can you summarize what we discussed so far?
+Help_Restart	Let's begin again from where we bulge.
+Help_Restart	Let's begin again from where we get.
+Help_Restart	Let's begin again from where we protrude.
+Help_Restart	Let's get again from where we started.
+Help_Restart	Let's originate again - what do you need assistance with today?
+Help_Restart	Let's part again - what do you need assistance with today?
+Help_Restart	Let's start again - what do you involve assistance with today?
+Help_Restart	Let's start again - what do you penury assistance with today?
+Help_Restart	Let's get again from where we started.
+Help_Restart	Let's initiate again from where we started.
+Help_Restart	Let's originate again from where we started.
+Help_Restart	Let's start again from where we get.
+Help_Restart	Let's beginning fresh - what can I assist you with today?
+Help_Restart	Let's depart fresh - what can I assist you with today?
+Help_Restart	Let's showtime fresh - what can I assist you with today?
+Help_Restart	Let's start fresh - what can single assist you with today?
+Help_Restart	Let's start fresh - what do you penury assistance with today?
+Help_Restart	Let's start fresh - what do you take assistance with today?
+Help_Restart	Let's start impudent - what do you need assistance with today?
+Help_Restart	Let's start reinvigorated - what do you need assistance with today?
+Help_Restart	Let's offset fresh - what do you need help with today?
+Help_Restart	Let's start fresh - what do you demand help with today?
+Help_Restart	Let's start fresh - what do you need assistant with today?
+Help_Restart	Let's start saucy - what do you need help with today?
+Help_Restart	Let's part fresh - where were we before?
+Help_Restart	Let's start new - where were we before?
+Help_Restart	Let's start refreshed - where were we before?
+Help_Restart	Let's start refreshing - where were we before?
+Help_Restart	Let's start from dent - what do you need help with?
+Help_Restart	Let's start from gelt - what do you need help with?
+Help_Restart	Let's start from lolly - what do you need help with?
+Help_Restart	Let's start from scrawl - what do you need help with?
+Help_Restart	Restarting conversation, what was your original doubt?
+Help_Restart	Restarting conversation, what was your original doubtfulness?
+Help_Restart	Restarting conversation, what was your original wonder?
+Help_Restart	resume conversation, what was your original question?
+Help_Restart	Sorry about the confusedness, can we begin again?
+Help_Restart	Sorry about the confusion, can we get again?
+Help_Restart	Sorry about the confusion, can we start again?
+Help_Restart	sorry about the confusion, can we begin again?
+Help_Restart	Sorry about the delay, let me drive back on track.
+Help_Restart	Sorry about the delay, let me fix back on track.
+Help_Restart	Sorry about the delay, let me get back on cross.
+Help_Restart	pitiful about the delay, let me get back on track.
+Help_Restart	Sorry about the interruption, let me cause back on track.
+Help_Restart	Sorry about the interruption, let me flummox back on track.
+Help_Restart	Sorry about the interruption, let me take back on track.
+Help_Restart	drab about the interruption, let me get back on track.
+Help_Restart	Sorry about the miscommunication, countenance me get back on track.
+Help_Restart	Sorry about the miscommunication, let me aim back on track.
+Help_Restart	Sorry about the miscommunication, let me pose back on track.
+Help_Restart	pitiful about the miscommunication, let me get back on track.
+Help_Restart	bad for the miscommunication, let's try again.
+Help_Restart	dark for the miscommunication, let's try again.
+Help_Restart	dreary for the miscommunication, let's try again.
+Help_Restart	grim for the miscommunication, let's try again.
+Help_Restart	What did we discourse previously that's relevant now?
+Help_Restart	What did we discus previously that's relevant now?
+Help_Restart	What did we discuss antecedently that's relevant now?
+Help_Restart	What did we saucer previously that's relevant now?
+Help_Restart	What do you demand help with next?
+Help_Restart	What do you need avail with next?
+Help_Restart	What do you need facilitate with next?
+Help_Restart	What do you need help with future?
+Help_Restart	What would be helpful in moving forward with our give-and-take?
+Help_Restart	What would be helpful in moving frontward with our discussion?
+Help_Restart	What would be helpful in moving frontwards with our discussion?
+Help_Restart	What would be helpful in moving onwards with our discussion?
+Help_Restart	What's the best way to get back on course here?
+Help_Restart	What's the best way to get back on trail here?
+Help_Restart	What's the outdo way to get back on track here?
+Help_Restart	What's the substantially way to get back on track here?
+Help_Restart	Are you looking for a way to depart over on our conversation?
+Help_Restart	Are you sounding for a way to start over on our conversation?
+Help_Restart	be you looking for a way to start over on our conversation?
+Help_Restart	comprise you looking for a way to start over on our conversation?
+Help_Restart	Are you quick to move forward with the booking process?
+Help_Restart	Are you ready to relocation forward with the booking process?
+Help_Restart	Are you ready to run forward with the booking process?
+Help_Restart	comprise you ready to move forward with the booking process?
+Help_Restart	Can we belong back to the beginning of our conversation?
+Help_Restart	Can we get back to the beginning of our conversation?
+Help_Restart	Can we go back to the commence of our conversation?
+Help_Restart	hindquarters we go back to the beginning of our conversation?
+Help_Restart	Can we pluck up where we left off?
+Help_Restart	fire we pick up where we left off?
+Help_Restart	seat we pick up where we left off?
+Help_Restart	tin we pick up where we left off?
+Help_Restart	Can you please confirm if this is the decline information?
+Help_Restart	Can you please confirm if this is the rectify information?
+Help_Restart	posterior you please confirm if this is the correct information?
+Help_Restart	privy you please confirm if this is the correct information?
+Help_Restart	Can you please provide more details or context for this motion?
+Help_Restart	arse you please provide more details or context for this question?
+Help_Restart	dismiss you please provide more details or context for this question?
+Help_Restart	tail you please provide more details or context for this question?
+Help_Restart	bathroom you please provide more information on this topic?
+Help_Restart	derriere you please provide more information on this topic?
+Help_Restart	lavatory you please provide more information on this topic?
+Help_Restart	rear you please provide more information on this topic?
+Help_Restart	buns you please reiterate your request?
+Help_Restart	butt you please reiterate your request?
+Help_Restart	lav you please reiterate your request?
+Help_Restart	toilet you please reiterate your request?
+Help_Restart	Can you please rephrase that in simpler footing for me?
+Help_Restart	behind you please rephrase that in simpler terms for me?
+Help_Restart	keister you please rephrase that in simpler terms for me?
+Help_Restart	seat you please rephrase that in simpler terms for me?
+Help_Restart	canful you provide any additional context or clarification?
+Help_Restart	commode you provide any additional context or clarification?
+Help_Restart	privy you provide any additional context or clarification?
+Help_Restart	stool you provide any additional context or clarification?
+Help_Restart	Can you provide more context for this enquiry?
+Help_Restart	Can you provide more context for this motion?
+Help_Restart	ass you provide more context for this question?
+Help_Restart	prat you provide more context for this question?
+Help_Restart	Can you repeat the death part of what I said?
+Help_Restart	Can you reprize the last part of what I said?
+Help_Restart	ass you repeat the last part of what I said?
+Help_Restart	stern you repeat the last part of what I said?
+Help_Restart	Can you paraphrase that in simpler terms for me?
+Help_Restart	Can you rephrase that in bare terms for me?
+Help_Restart	canful you rephrase that in simpler terms for me?
+Help_Restart	seat you rephrase that in simpler terms for me?
+Help_Restart	How can I assist you in motivate forward from here?
+Help_Restart	How can I assist you in moving onward from here?
+Help_Restart	How can I assist you in run forward from here?
+Help_Restart	How can I attend you in moving forward from here?
+Help_Restart	How can I assist you in depart over?
+Help_Restart	How can I assist you in jump over?
+Help_Restart	How can I assistance you in starting over?
+Help_Restart	How can I help you in starting over?
+Help_Restart	How can I attend you today again?
+Help_Restart	How can ace assist you today again?
+Help_Restart	How can iodin assist you today again?
+Help_Restart	How can single assist you today again?
+Help_Restart	How can I advantageously assist you today?
+Help_Restart	How can I better assist you nowadays?
+Help_Restart	How can I intimately assist you today?
+Help_Restart	How can I substantially assist you today?
+Help_Restart	How can I better brook you today?
+Help_Restart	How can I better sustain you today?
+Help_Restart	How can I better underpin you today?
+Help_Restart	How can iodine better support you today?
+Help_Restart	How can I easily understand your request this time around?
+Help_Restart	How can I full understand your request this time around?
+Help_Restart	How can I skilful understand your request this time around?
+Help_Restart	How can I unspoilt understand your request this time around?
+Help_Restart	How can I make sure I get your request right this metre?
+Help_Restart	How can I score sure I get your request right this time?
+Help_Restart	How can I throw sure I get your request right this time?
+Help_Restart	How can i make sure I get your request right this time?
+Help_Restart	1 think we hit a snag - can we restart?
+Help_Restart	I cogitate we hit a snag - can we restart?
+Help_Restart	I think we off a snag - can we restart?
+Help_Restart	I think we shoot a snag - can we restart?
+Help_Restart	I think we're off on the incorrect track - can we start over?
+Help_Restart	I think we're off on the wrong runway - can we start over?
+Help_Restart	I think we're off on the wrong track - can we get-go over?
+Help_Restart	I think we're off on the wrong track - can we go over?
+Help_Restart	I want to gain sure I get it right - can you explain again?
+Help_Restart	I want to make sure I get it compensate - can you explain again?
+Help_Restart	I want to make sure I stick it right - can you explain again?
+Help_Restart	I want to piss sure I get it right - can you explain again?
+Help_Restart	I want to attain sure I get your request right, can you explain again?
+Help_Restart	I want to crap sure I get your request right, can you explain again?
+Help_Restart	I want to nominate sure I get your request right, can you explain again?
+Help_Restart	iodin want to make sure I get your request right, can you explain again?
+Help_Restart	I want to crap sure I understand your request correctly - can you explain again?
+Help_Restart	I want to do sure I understand your request correctly - can you explain again?
+Help_Restart	I want to hit sure I understand your request correctly - can you explain again?
+Help_Restart	I want to make sure I understand your bespeak correctly - can you explain again?
+Help_Restart	I'd be happy to initiate from scratch and try again.
+Help_Restart	I'd be happy to offset from scratch and try again.
+Help_Restart	I'd be happy to start from gelt and try again.
+Help_Restart	I'd be happy to start from wampum and try again.
+Help_Restart	I'm make to start again from the beginning.
+Help_Restart	I'm ready to kickoff again from the beginning.
+Help_Restart	I'm ready to start again from the first.
+Help_Restart	I'm ready to start again from the source.
+Help_Restart	I'm ready to endeavor again - what's next?
+Help_Restart	I'm ready to hear again - what's next?
+Help_Restart	I'm ready to judge again - what's next?
+Help_Restart	I'm ready to strain again - what's next?
+Help_Restart	Is there anything else you'd comparable to add or change before we proceed?
+Help_Restart	Is there anything else you'd like to summate or change before we proceed?
+Help_Restart	be there anything else you'd like to add or change before we proceed?
+Help_Restart	equal there anything else you'd like to add or change before we proceed?
+Help_Restart	Is there anything specific that's induce confusion?
+Help_Restart	be there anything specific that's causing confusion?
+Help_Restart	live there anything specific that's causing confusion?
+Help_Restart	personify there anything specific that's causing confusion?
+Help_Restart	Is there anything specific that's cause us to start over?
+Help_Restart	Is there anything specific that's causing us to kickoff over?
+Help_Restart	Is there anything specific that's causing us to pop over?
+Help_Restart	comprise there anything specific that's causing us to start over?
+Help_Restart	Is there anything specific you'd care me to focus on?
+Help_Restart	comprise there anything specific you'd like me to focus on?
+Help_Restart	live there anything specific you'd like me to focus on?
+Help_Restart	represent there anything specific you'd like me to focus on?
+Help_Restart	Let me clarify that gunpoint for you again.
+Help_Restart	Let me clarify that indicate for you again.
+Help_Restart	Let me clarify that level for you again.
+Help_Restart	Let me clarify that spot for you again.
+Help_Restart	LET me clarify that point for you.
+Help_Restart	Let me clarify that tip for you.
+Help_Restart	Let me elucidate that point for you.
+Help_Restart	countenance me clarify that point for you.
+Help_Restart	Let me clarify the finally part of my response.
+Help_Restart	Let me clarify the last section of my response.
+Help_Restart	Let me clarify the lowest part of my response.
+Help_Restart	countenance me clarify the last part of my response.
+Help_Restart	Let me get back on rails - what's next?
+Help_Restart	Let me gravel back on track - what's next?
+Help_Restart	Let me make back on track - what's next?
+Help_Restart	Let me scram back on track - what's next?
+Help_Restart	Let me get the conversation started again from the origin.
+Help_Restart	Let me get the conversation started again from the showtime.
+Help_Restart	Let me scram the conversation started again from the beginning.
+Help_Restart	Let me stupefy the conversation started again from the beginning.
+Help_Restart	Let me assay again with a fresh approach.
+Help_Restart	Let me effort again with a fresh approach.
+Help_Restart	Let me judge again with a fresh approach.
+Help_Restart	permit me try again with a fresh approach.
+Help_Restart	Let me try again with a New perspective.
+Help_Restart	Let me try again with a fresh perspective.
+Help_Restart	Let me try again with a new view.
+Help_Restart	get me try again with a new perspective.
+Help_Restart	Let's scratch fresh - no prior knowledge necessary.
+Help_Restart	Let's start fresh - no prior cognition necessary.
+Help_Restart	Let's start newly - no prior knowledge necessary.
+Help_Restart	Let's start smart - no prior knowledge necessary.
+Help_Restart	Let's part fresh with a new approach - what do you need help with now?
+Help_Restart	Let's pop fresh with a new approach - what do you need help with now?
+Help_Restart	Let's start fresh with a new approach - what do you motive help with now?
+Help_Restart	Let's start fresh with a new approach - what do you need supporter with now?
+Help_Restart	Let's kickoff fresh with a new question - what do you need help with now?
+Help_Restart	Let's start fresh with a new question - what do you need serve with now?
+Help_Restart	Let's start fresh with a new question - what do you want help with now?
+Help_Restart	Let's start unfermented with a new question - what do you need help with now?
+Help_Restart	Let's start fresh with a new subject - what do you need help with now?
+Help_Restart	Let's start refreshful with a new topic - what do you need help with now?
+Help_Restart	Let's start smart with a new topic - what do you need help with now?
+Help_Restart	Let's startle fresh with a new topic - what do you need help with now?
+Help_Restart	Let's beginning over with a clean slate - no prior knowledge necessary.
+Help_Restart	Let's originate over with a clean slate - no prior knowledge necessary.
+Help_Restart	Let's start over with a clean slating - no prior knowledge necessary.
+Help_Restart	Let's starting over with a clean slate - no prior knowledge necessary.
+Help_Restart	My apologia for the confusion, let's start over.
+Help_Restart	My apologies for the confusion, let's bulge over.
+Help_Restart	My apologies for the confusion, let's commencement over.
+Help_Restart	My apologies for the confusion, let's scratch over.
+Help_Restart	Please dismiss my previous response.
+Help_Restart	Please disregard my previous answer.
+Help_Restart	Please disregard my previous reaction.
+Help_Restart	Please disregard my previous reply.
+Help_Restart	Please experience free to ask me anything, and we'll start anew.
+Help_Restart	Please feel free to ask me anything, and we'll go anew.
+Help_Restart	Please feel free to postulate me anything, and we'll start anew.
+Help_Restart	Please feel loose to ask me anything, and we'll start anew.
+Help_Restart	Restarting our conversation - please deliver with me.
+Help_Restart	Restarting our conversation - please digest with me.
+Help_Restart	Restarting our conversation - please hold with me.
+Help_Restart	Restarting our conversation - please suffer with me.
+Help_Restart	Sorry about that, let's essay that again.
+Help_Restart	Sorry about that, let's sample that again.
+Help_Restart	gloomy about that, let's try that again.
+Help_Restart	sorry about that, let's try that again.
+Help_Restart	Sorry about the confusion, let's proceed.
+Help_Restart	Sorry about the confusion, let's uphold.
+Help_Restart	drear about the confusion, let's continue.
+Help_Restart	no-account about the confusion, let's continue.
+Help_Restart	Sorry about the miscommunication, let's continue with a impertinent perspective.
+Help_Restart	Sorry about the miscommunication, let's continue with a refreshing perspective.
+Help_Restart	Sorry about the miscommunication, let's cover with a fresh perspective.
+Help_Restart	sorry about the miscommunication, let's continue with a fresh perspective.
+Help_Restart	Sorry about the err, let's continue.
+Help_Restart	Sorry about the mistake, let's proceed.
+Help_Restart	good-for-naught about the mistake, let's continue.
+Help_Restart	grim about the mistake, let's continue.
+Help_Restart	Sorry about the misapprehension, let's continue.
+Help_Restart	Sorry about the misunderstanding, let's extend.
+Help_Restart	Sorry about the misunderstanding, let's proceed.
+Help_Restart	good-for-nothing about the misunderstanding, let's continue.
+Help_Restart	Sorry for the misapprehension, let's continue.
+Help_Restart	Sorry for the mistake, let's uphold.
+Help_Restart	dark for the mistake, let's continue.
+Help_Restart	dreary for the mistake, let's continue.
+Help_Restart	Starting afresh, please answer the initial question.
+Help_Restart	Starting anew, please answer the initial doubtfulness.
+Help_Restart	Starting anew, please answer the initial inquiry.
+Help_Restart	go anew, please answer the initial question.
+Help_Restart	Starting anew, what would you comparable to discuss next?
+Help_Restart	Starting anew, what would you same to discuss next?
+Help_Restart	get anew, what would you like to discuss next?
+Help_Restart	originate anew, what would you like to discuss next?
+Help_Restart	Starting anew, what would you like to bonk next?
+Help_Restart	Starting anew, what would you like to fuck next?
+Help_Restart	Starting anew, what would you like to know adjacent?
+Help_Restart	Starting anew, what would you wish to know next?
+Help_Restart	pop fresh with your request, please proceed.
+Help_Restart	start fresh with your request, please proceed.
+Help_Restart	starting fresh with your request, please proceed.
+Help_Restart	startle fresh with your request, please proceed.
+Help_Restart	Starting from scrape - what do you need help with now?
+Help_Restart	Starting from scratch - what do you motive help with now?
+Help_Restart	Starting from shekels - what do you need help with now?
+Help_Restart	pop from scratch - what do you need help with now?
+Help_Restart	Starting from boodle with a new question - what do you need help with now?
+Help_Restart	Starting from cabbage with a new question - what do you need help with now?
+Help_Restart	Starting from lucre with a new question - what do you need help with now?
+Help_Restart	jump from scratch with a new question - what do you need help with now?
+Help_Restart	Starting from cacography with a new request - what do you need help with now?
+Help_Restart	Starting from dough with a new request - what do you need help with now?
+Help_Restart	Starting from scratch with a freshly request - what do you need help with now?
+Help_Restart	starting from scratch with a new request - what do you need help with now?
+Help_Restart	Starting from the beginning, what would you care to know next?
+Help_Restart	Starting from the beginning, what would you like to cognize next?
+Help_Restart	Starting from the beginning, what would you like to know future?
+Help_Restart	Starting from the beginning, what would you like to recognize next?
+Help_Restart	Starting from the lead, please answer the initial question.
+Help_Restart	Starting from the pinnacle, please answer the initial question.
+Help_Restart	Starting from the superlative, please answer the initial question.
+Help_Restart	Starting from the top, please solvent the initial question.
+Help_Restart	Starting over with a fairly slate - what's next?
+Help_Restart	Starting over with a sporty slate - what's next?
+Help_Restart	bulge over with a clean slate - what's next?
+Help_Restart	part over with a clean slate - what's next?
+Help_Restart	Starting over with a clean slate, what do you need helper with now?
+Help_Restart	Starting over with a clean slate, what do you need supporter with now?
+Help_Restart	Starting over with a fairly slate, what do you need help with now?
+Help_Restart	startle over with a clean slate, what do you need help with now?
+Help_Restart	Was there something specific that didn't croak as planned?
+Help_Restart	Was there something specific that didn't ecstasy as planned?
+Help_Restart	Was there something specific that didn't move as planned?
+Help_Restart	Was there something specific that didn't proceed as planned?
+Help_Restart	Was there something specific you'd comparable me to know?
+Help_Restart	Was there something specific you'd like me to bang?
+Help_Restart	Was there something specific you'd like me to screw?
+Help_Restart	embody there something specific you'd like me to know?
+Help_Restart	What was that doubt again, just to clarify?
+Help_Restart	What was that doubtfulness again, just to clarify?
+Help_Restart	What was that interview again, just to clarify?
+Help_Restart	What was that wonder again, just to clarify?
+Help_Restart	What's the best way for us to move forth from here?
+Help_Restart	What's the best way for us to movement forward from here?
+Help_Restart	What's the best way for us to travel forward from here?
+Help_Restart	What's the honest way for us to move forward from here?
+Help_Restart	Would you comparable me to repeat back my previous response to make sure I got it right?
+Help_Restart	Would you like me to repeat back my previous reaction to make sure I got it right?
+Help_Restart	Would you like me to repeat back my previous response to make sure I acquire it right?
+Help_Restart	Would you like me to repeat back my previous response to make sure I take it right?
+Help_Restart	Would you alike me to repeat back my previous response?
+Help_Restart	Would you corresponding me to repeat back my previous response?
+Help_Restart	Would you like me to double back my previous response?
+Help_Restart	Would you like me to repeat support my previous response?
+Help_Restart	Would you like me to repeat back what I've empathize so far?
+Help_Restart	Would you like me to repeat back what I've read so far?
+Help_Restart	Would you like me to repeat back what I've sympathize so far?
+Help_Restart	Would you like me to repeat back what I've understand so far?
+Help_Restart	Would you ilk me to summarize our conversation so far?
+Help_Restart	Would you like me to summarise our conversation so far?
+Help_Restart	Would you like me to summarize our conversation so Interahamwe?
+Help_Restart	Would you wish me to summarize our conversation so far?
+Help_Restart	Would you comparable me to summarize what we've discussed so far?
+Help_Restart	Would you like me to sum what we've discussed so far?
+Help_Restart	Would you like me to summarize what we've discussed so FAR?
+Help_Restart	Would you same me to summarize what we've discussed so far?
+Help_Restart	Would you care to begin over?
+Help_Restart	Would you like to Begin over?
+Help_Restart	Would you like to start over?
+Help_Restart	Would you similar to begin over?
