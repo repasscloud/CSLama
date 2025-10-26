@@ -1,0 +1,56 @@
+Can you display all upcoming business trips with estimated costs and dates.
+Can you display all upcoming business trips with estimated costs?
+Can you list all my upcoming business trips?
+Can you list all upcoming flights for my account?
+Can you list all upcoming flights with estimated arrival times?
+Can you provide a copy of my hotel confirmation email from last year?
+Can you provide a detailed report of my business travel expenses so far?
+Can you provide a detailed report of my business travel expenses?
+Can you provide a summary of my business travel expenses so far?
+Can you provide me with a copy of my boarding pass?
+Can you retrieve my travel records for the past year?
+Can you show me my upcoming flight details?
+Could you display my travel expense reports for this quarter?
+Could you please display my recent travel records?
+Here are 80 statements to train a corporate travel chatbot:
+I booked a ticket last week, can you find it?
+I need access to my booking history.
+I need to see a breakdown of my business travel expenses by category.
+I need to see a breakdown of my business travel expenses by date.
+I need to see a detailed report of my personal travel expenses.
+I need to see all bookings made by our company in 2022.
+I need to view all bookings made by employees in the IT department.
+I need to view all bookings made by employees in the marketing department.
+I need to view all bookings made in Europe this year.
+I need to view all bookings made under our company's ID number.
+I need to view my travel records from 2023 onwards.
+My company booked a suite last year, can you show it?
+My flight is cancelled, can you provide compensation options?
+My flight is delayed, can you provide updates on the new schedule?
+My name is David, can you show me my flight itinerary for tomorrow?
+My name is Emily, can you show me my flights for next month?
+My name is James, can you show me my flight itinerary for tomorrow?
+My name is Jane, can you show me my flights for next month?
+My name is John, can you retrieve my flight itinerary?
+My name is Michael, can you show me my flight itinerary for tomorrow?
+My name is Rachel, can you show me my flights for next month?
+My name is Sarah, can you show me my flights for next month?
+Show me all bookings for this quarter with estimated costs and dates.
+Show me all bookings for this quarter with estimated costs.
+Show me all bookings made by employees in the IT department.
+Show me all bookings made by employees in the sales department.
+Show me all bookings made in Asia this year.
+Show me all bookings made in Europe this year.
+Show me all the bookings for our company in 2024.
+Show me all the bookings for this month.
+Show me my hotel booking confirmation email from last year.
+Show me my hotel booking details including rates and dates.
+What's my booking number again?
+What's the contact information for my flight attendants?
+What's the contact information for our company's travel agent?
+What's the contact information for our company's travel partner?
+What's the cost of my booking including meals and activities?
+What's the cost of my booking including taxes and fees?
+What's the status of my booking at the time of check-in?
+What's the status of my booking at the time of payment?
+What's the status of my current reservation?

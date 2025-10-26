@@ -1,0 +1,644 @@
+Help_LiveAgent	Can I beget a refund for my trip?
+Help_LiveAgent	Can I develop a refund for my trip?
+Help_LiveAgent	bum I get a refund for my trip?
+Help_LiveAgent	dismiss I get a refund for my trip?
+Help_LiveAgent	Can I contract a same-day flight change without extra fee?
+Help_LiveAgent	Can I get a same-day escape change without extra fee?
+Help_LiveAgent	Can I get a same-day flight exchange without extra fee?
+Help_LiveAgent	lavatory I get a same-day flight change without extra fee?
+Help_LiveAgent	Can I arrive a same-day upgrade without paying extra?
+Help_LiveAgent	Can I baffle a same-day upgrade without paying extra?
+Help_LiveAgent	Can I commence a same-day upgrade without paying extra?
+Help_LiveAgent	Can single get a same-day upgrade without paying extra?
+Help_LiveAgent	Can I get an airport couch access card through your platform?
+Help_LiveAgent	Can I get an airport lounge access card through your program?
+Help_LiveAgent	Can I get an airport lounge access menu through your platform?
+Help_LiveAgent	Can I get an airport lounge access poster through your platform?
+Help_LiveAgent	Can I capture an airport lounge access card without paying extra?
+Help_LiveAgent	Can I make an airport lounge access card without paying extra?
+Help_LiveAgent	fire I get an airport lounge access card without paying extra?
+Help_LiveAgent	hindquarters I get an airport lounge access card without paying extra?
+Help_LiveAgent	Can I get an airport transfer wag through your platform?
+Help_LiveAgent	Can I have an airport transfer card through your platform?
+Help_LiveAgent	Can I scram an airport transfer card through your platform?
+Help_LiveAgent	dismiss I get an airport transfer card through your platform?
+Help_LiveAgent	Can I get an early morning wake-up holler at the airport?
+Help_LiveAgent	Can I get an early morning wake-up promise at the airport?
+Help_LiveAgent	Can I get an early sunup wake-up call at the airport?
+Help_LiveAgent	ass I get an early morning wake-up call at the airport?
+Help_LiveAgent	Can I get an acclivity on my seat without paying extra?
+Help_LiveAgent	Can I get an upgrade on my fundament without paying extra?
+Help_LiveAgent	Can I incur an upgrade on my seat without paying extra?
+Help_LiveAgent	buns I get an upgrade on my seat without paying extra?
+Help_LiveAgent	Can you assist me with my actuate details?
+Help_LiveAgent	Can you assist me with my trip-up details?
+Help_LiveAgent	behind you assist me with my trip details?
+Help_LiveAgent	prat you assist me with my trip details?
+Help_LiveAgent	Can you explain the luggage policy clearly?
+Help_LiveAgent	keister you explain the baggage policy clearly?
+Help_LiveAgent	rear you explain the baggage policy clearly?
+Help_LiveAgent	tin you explain the baggage policy clearly?
+Help_LiveAgent	Can you explain your change policy distinctly?
+Help_LiveAgent	Can you explain your switch policy clearly?
+Help_LiveAgent	john you explain your change policy clearly?
+Help_LiveAgent	toilet you explain your change policy clearly?
+Help_LiveAgent	Can you help me with go insurance options?
+Help_LiveAgent	Can you help me with locomotion insurance options?
+Help_LiveAgent	Can you service me with travel insurance options?
+Help_LiveAgent	canful you help me with travel insurance options?
+Help_LiveAgent	Can you process a return for my trip immediately?
+Help_LiveAgent	hindquarters you process a refund for my trip immediately?
+Help_LiveAgent	throne you process a refund for my trip immediately?
+Help_LiveAgent	tin you process a refund for my trip immediately?
+Help_LiveAgent	Can you provide an itinerary for my trigger?
+Help_LiveAgent	hindquarters you provide an itinerary for my trip?
+Help_LiveAgent	john you provide an itinerary for my trip?
+Help_LiveAgent	toilet you provide an itinerary for my trip?
+Help_LiveAgent	Do you have any assistance available for travel with deary?
+Help_LiveAgent	Do you have any assistance available for travel with ducky?
+Help_LiveAgent	coiffe you have any assistance available for travel with pets?
+Help_LiveAgent	come you have any assistance available for travel with pets?
+Help_LiveAgent	Do you have any assistance available for travelers with shaver?
+Help_LiveAgent	Do you have any assistance uncommitted for travelers with children?
+Help_LiveAgent	execute you have any assistance available for travelers with children?
+Help_LiveAgent	serve you have any assistance available for travelers with children?
+Help_LiveAgent	brawl you have any assistance available for travelers with disabilities?
+Help_LiveAgent	doh you have any assistance available for travelers with disabilities?
+Help_LiveAgent	fare you have any assistance available for travelers with disabilities?
+Help_LiveAgent	suffice you have any assistance available for travelers with disabilities?
+Help_LiveAgent	Do you have any assistance available for travelers with medical shape?
+Help_LiveAgent	Do you have any assistance uncommitted for travelers with medical conditions?
+Help_LiveAgent	act you have any assistance available for travelers with medical conditions?
+Help_LiveAgent	practice you have any assistance available for travelers with medical conditions?
+Help_LiveAgent	Do you have any softwood on business class tickets?
+Help_LiveAgent	Do you have any spate on business class tickets?
+Help_LiveAgent	bash you have any deals on business class tickets?
+Help_LiveAgent	exercise you have any deals on business class tickets?
+Help_LiveAgent	Do you have any deals on business class raise?
+Help_LiveAgent	Do you have any deals on business year upgrades?
+Help_LiveAgent	Do you have any mountain on business class upgrades?
+Help_LiveAgent	Do you have any share on business class upgrades?
+Help_LiveAgent	Do you have any care on luxury travel packages?
+Help_LiveAgent	act you have any deals on luxury travel packages?
+Help_LiveAgent	bash you have any deals on luxury travel packages?
+Help_LiveAgent	doh you have any deals on luxury travel packages?
+Help_LiveAgent	Do you have any discount for frequent flyers?
+Help_LiveAgent	Do you have any discounts for frequent throwaway?
+Help_LiveAgent	Do you have any discounts for patronise flyers?
+Help_LiveAgent	ut you have any discounts for frequent flyers?
+Help_LiveAgent	Do you have any last-minute treat on flights?
+Help_LiveAgent	act you have any last-minute deals on flights?
+Help_LiveAgent	behave you have any last-minute deals on flights?
+Help_LiveAgent	doh you have any last-minute deals on flights?
+Help_LiveAgent	DO you have any promotions for students/seniors?
+Help_LiveAgent	Do you have any promotions for student/seniors?
+Help_LiveAgent	do you have any promotions for students/seniors?
+Help_LiveAgent	suffice you have any promotions for students/seniors?
+Help_LiveAgent	Do you have any limited offers for new customers?
+Help_LiveAgent	Do you have any particular offers for new customers?
+Help_LiveAgent	Do you have any special offering for new customers?
+Help_LiveAgent	Do you have any special offers for newly customers?
+Help_LiveAgent	Do you have any travel peak for my destination?
+Help_LiveAgent	coiffure you have any travel tips for my destination?
+Help_LiveAgent	doh you have any travel tips for my destination?
+Help_LiveAgent	practice you have any travel tips for my destination?
+Help_LiveAgent	Help me book a hotel room most the airport.
+Help_LiveAgent	Help me book a hotel room skinny the airport.
+Help_LiveAgent	Help me book a hotel room virtually the airport.
+Help_LiveAgent	facilitate me book a hotel room near the airport.
+Help_LiveAgent	Help me hold a taxi to the airport.
+Help_LiveAgent	Help me playscript a taxi to the airport.
+Help_LiveAgent	assist me book a taxi to the airport.
+Help_LiveAgent	avail me book a taxi to the airport.
+Help_LiveAgent	Help me find a car rental agency about the airport.
+Help_LiveAgent	Help me find a car rental agency near the drome.
+Help_LiveAgent	Help me rule a car rental agency near the airport.
+Help_LiveAgent	Help me uncovering a car rental agency near the airport.
+Help_LiveAgent	Help me discovery a currency exchange near the airport.
+Help_LiveAgent	Help me find a currency exchange approximate the airport.
+Help_LiveAgent	Help me find a currency exchange near the airdrome.
+Help_LiveAgent	Help me see a currency exchange near the airport.
+Help_LiveAgent	Help me find a restore near my destination
+Help_LiveAgent	Help me regain a doctor near my destination
+Help_LiveAgent	Help me retrieve a doctor near my destination
+Help_LiveAgent	assist me find a doctor near my destination
+Help_LiveAgent	Help me find a Dr. near the airport.
+Help_LiveAgent	Help me find a doctor most the airport.
+Help_LiveAgent	Help me get a doctor near the airport.
+Help_LiveAgent	avail me find a doctor near the airport.
+Help_LiveAgent	assist me find a family-friendly restaurant near the airport
+Help_LiveAgent	assistance me find a family-friendly restaurant near the airport
+Help_LiveAgent	facilitate me find a family-friendly restaurant near the airport
+Help_LiveAgent	serve me find a family-friendly restaurant near the airport
+Help_LiveAgent	Help me breakthrough a flight from LA to NYC today.
+Help_LiveAgent	Help me encounter a flight from LA to NYC today.
+Help_LiveAgent	Help me retrieve a flight from LA to NYC today.
+Help_LiveAgent	Help me uncovering a flight from LA to NYC today.
+Help_LiveAgent	Help me bump a restaurant near the airport.
+Help_LiveAgent	Help me determine a restaurant near the airport.
+Help_LiveAgent	Help me find a restaurant approximate the airport.
+Help_LiveAgent	Help me find a restaurant near the drome.
+Help_LiveAgent	Here are 80 command to train a corporate travel chatbot:
+Help_LiveAgent	Here are 80 statement to train a corporate travel chatbot:
+Help_LiveAgent	Here are 80 statements to train a corporate trip chatbot:
+Help_LiveAgent	hither are 80 statements to train a corporate travel chatbot:
+Help_LiveAgent	Hi ane need help with booking a flight.
+Help_LiveAgent	Hi iodine need help with booking a flight.
+Help_LiveAgent	how-do-you-do I need help with booking a flight.
+Help_LiveAgent	hullo I need help with booking a flight.
+Help_LiveAgent	How do I book a box deal?
+Help_LiveAgent	How do I book a package apportion?
+Help_LiveAgent	How do I book a package muckle?
+Help_LiveAgent	How do ane book a package deal?
+Help_LiveAgent	How do I call a lost or stolen passport?
+Help_LiveAgent	How do I title a lost or stolen passport?
+Help_LiveAgent	How do iodine claim a lost or stolen passport?
+Help_LiveAgent	How do one claim a lost or stolen passport?
+Help_LiveAgent	How do I call reimbursement for my trip expenses?
+Help_LiveAgent	How do I claim reimbursement for my jaunt expenses?
+Help_LiveAgent	How do I claim reimbursement for my trigger expenses?
+Help_LiveAgent	How do I claim reimbursement for my trip disbursement?
+Help_LiveAgent	How do I file a complaint about my stick at the hotel?
+Help_LiveAgent	How do I file a complaint about my stop at the hotel?
+Help_LiveAgent	How do I file a complaint about my stoppage at the hotel?
+Help_LiveAgent	How do ace file a complaint about my stay at the hotel?
+Help_LiveAgent	How do I charge a complaint about my travel?
+Help_LiveAgent	How do I file a ailment about my travel?
+Help_LiveAgent	How do I file a charge about my travel?
+Help_LiveAgent	How do ace file a complaint about my travel?
+Help_LiveAgent	How do I file an incident report while jaunt?
+Help_LiveAgent	How do I file an incident reputation while traveling?
+Help_LiveAgent	How do I file an incident theme while traveling?
+Help_LiveAgent	How do i file an incident report while traveling?
+Help_LiveAgent	How do I purchase go insurance through your platform?
+Help_LiveAgent	How do I purchase locomotion insurance through your platform?
+Help_LiveAgent	How do I purchase travel insurance through your chopine?
+Help_LiveAgent	How do unity purchase travel insurance through your platform?
+Help_LiveAgent	I have a meeting in Chicago can you al-Qur'an me a hotel?
+Help_LiveAgent	I have a meeting in Chicago can you hold me a hotel?
+Help_LiveAgent	I have a meeting in Chicago can you script me a hotel?
+Help_LiveAgent	I have a see in Chicago can you book me a hotel?
+Help_LiveAgent	I need to eff if my trip is covered under company policy.
+Help_LiveAgent	I need to know if my trip is insure under company policy.
+Help_LiveAgent	I need to live if my trip is covered under company policy.
+Help_LiveAgent	ane need to know if my trip is covered under company policy.
+Help_LiveAgent	I'm having ail canceling my trip please assist.
+Help_LiveAgent	I'm having bother canceling my trip please assist.
+Help_LiveAgent	I'm having disoblige canceling my trip please assist.
+Help_LiveAgent	I'm having unhinge canceling my trip please assist.
+Help_LiveAgent	I'm having ail with booking, please help.
+Help_LiveAgent	I'm having hassle with booking, please help.
+Help_LiveAgent	I'm having pain with booking, please help.
+Help_LiveAgent	I'm having trouble with booking, please assistant.
+Help_LiveAgent	Is it possible to add an extra can to my reservation?
+Help_LiveAgent	Is it possible to add an extra derriere to my reservation?
+Help_LiveAgent	Is it possible to add an extra fanny to my reservation?
+Help_LiveAgent	Is it possible to bestow an extra seat to my reservation?
+Help_LiveAgent	Is it possible to Bible a same-day hotel reservation?
+Help_LiveAgent	Is it possible to book a same-day hotel reserve?
+Help_LiveAgent	constitute it possible to book a same-day hotel reservation?
+Help_LiveAgent	follow it possible to book a same-day hotel reservation?
+Help_LiveAgent	Is it possible to change my proceeds date?
+Help_LiveAgent	Is it possible to change my render date?
+Help_LiveAgent	Is it possible to change my retrovert date?
+Help_LiveAgent	Is it possible to change my takings date?
+Help_LiveAgent	Is there an option to book a hotel room at a specific clip?
+Help_LiveAgent	Is there an option to book a hotel room at a specific clock?
+Help_LiveAgent	Is there an option to playscript a hotel room at a specific time?
+Help_LiveAgent	Is there an pick to book a hotel room at a specific time?
+Help_LiveAgent	Is there an option to book a hotel way at check-in time?
+Help_LiveAgent	comprise there an option to book a hotel room at check-in time?
+Help_LiveAgent	cost there an option to book a hotel room at check-in time?
+Help_LiveAgent	embody there an option to book a hotel room at check-in time?
+Help_LiveAgent	Is there an choice to book a hotel room through your app?
+Help_LiveAgent	Is there an option to Book a hotel room through your app?
+Help_LiveAgent	Is there an option to ledger a hotel room through your app?
+Help_LiveAgent	Is there an option to leger a hotel room through your app?
+Help_LiveAgent	Is there an option to book a hotel room with a fitness centre?
+Help_LiveAgent	Is there an option to book a hotel room with a fitness midway?
+Help_LiveAgent	Is there an option to book a hotel room with a fitness snapper?
+Help_LiveAgent	Is there an option to record a hotel room with a fitness center?
+Help_LiveAgent	Is there an option to Word a hotel room with a spa service?
+Help_LiveAgent	Is there an option to book a hotel board with a spa service?
+Help_LiveAgent	equal there an option to book a hotel room with a spa service?
+Help_LiveAgent	personify there an option to book a hotel room with a spa service?
+Help_LiveAgent	Is there an alternative to book a hotel room with a specific amenity?
+Help_LiveAgent	Is there an option to hold a hotel room with a specific amenity?
+Help_LiveAgent	Is there an option to volume a hotel room with a specific amenity?
+Help_LiveAgent	cost there an option to book a hotel room with a specific amenity?
+Help_LiveAgent	Is there an option to Koran a hotel room with a specific view?
+Help_LiveAgent	Is there an option to book a hotel room with a specific aspect?
+Help_LiveAgent	Is there an option to book a hotel room with a specific position?
+Help_LiveAgent	embody there an option to book a hotel room with a specific view?
+Help_LiveAgent	Is there an option to Word a hotel room with breakfast included?
+Help_LiveAgent	Is there an pick to book a hotel room with breakfast included?
+Help_LiveAgent	constitute there an option to book a hotel room with breakfast included?
+Help_LiveAgent	embody there an option to book a hotel room with breakfast included?
+Help_LiveAgent	Is there an option to raise my seat?
+Help_LiveAgent	Is there an option to upgrade my induct?
+Help_LiveAgent	Is there an option to upgrade my stern?
+Help_LiveAgent	be there an option to upgrade my seat?
+Help_LiveAgent	Is there any assistance available for confused luggage?
+Help_LiveAgent	Is there any assistance available for mixed-up luggage?
+Help_LiveAgent	Is there any assistance useable for lost luggage?
+Help_LiveAgent	personify there any assistance available for lost luggage?
+Help_LiveAgent	My flight is delayed what's the future step?
+Help_LiveAgent	My flight is delayed what's the next ill-treat?
+Help_LiveAgent	My flight is delayed what's the next maltreat?
+Help_LiveAgent	My trajectory is delayed what's the next step?
+Help_LiveAgent	Need a reservation for 10 mass please
+Help_LiveAgent	Need a reservation for 10 multitude please
+Help_LiveAgent	pauperization a reservation for 10 people please
+Help_LiveAgent	take a reservation for 10 people please
+Help_LiveAgent	Need assistance with book a flight from Asia
+Help_LiveAgent	necessitate assistance with booking a flight from Asia
+Help_LiveAgent	need assistance with booking a flight from Asia
+Help_LiveAgent	penury assistance with booking a flight from Asia
+Help_LiveAgent	Need aid with booking a flight from Canada
+Help_LiveAgent	involve assistance with booking a flight from Canada
+Help_LiveAgent	motive assistance with booking a flight from Canada
+Help_LiveAgent	require assistance with booking a flight from Canada
+Help_LiveAgent	Need assistance with reserve a last-minute flight
+Help_LiveAgent	Need help with booking a last-minute flight
+Help_LiveAgent	demand assistance with booking a last-minute flight
+Help_LiveAgent	involve assistance with booking a last-minute flight
+Help_LiveAgent	Need assistance with commute my airline
+Help_LiveAgent	Need help with changing my airline
+Help_LiveAgent	postulate assistance with changing my airline
+Help_LiveAgent	want assistance with changing my airline
+Help_LiveAgent	Need help with booking a group circuit
+Help_LiveAgent	Need help with booking a group go
+Help_LiveAgent	Need supporter with booking a group tour
+Help_LiveAgent	ask help with booking a group tour
+Help_LiveAgent	Need help with booking a last-minute spark
+Help_LiveAgent	indigence help with booking a last-minute trip
+Help_LiveAgent	pauperization help with booking a last-minute trip
+Help_LiveAgent	penury help with booking a last-minute trip
+Help_LiveAgent	Need help with booking a private car avail
+Help_LiveAgent	Need help with booking a private gondola service
+Help_LiveAgent	Need help with booking a private motorcar service
+Help_LiveAgent	want help with booking a private car service
+Help_LiveAgent	Need help with booking a individual transfer
+Help_LiveAgent	Need help with booking a private channelize
+Help_LiveAgent	Need help with booking a private transferral
+Help_LiveAgent	Need help with booking a private transpose
+Help_LiveAgent	Need aid with booking a rental car
+Help_LiveAgent	Need facilitate with booking a rental car
+Help_LiveAgent	Need help with booking a rental machine
+Help_LiveAgent	Need help with engagement a rental car
+Help_LiveAgent	Need help with printing my boarding clear
+Help_LiveAgent	Need help with printing my boarding exceed
+Help_LiveAgent	Need help with printing my boarding flip
+Help_LiveAgent	Need help with printing my boarding notch
+Help_LiveAgent	Need to change my diagnose on my ticket
+Help_LiveAgent	Need to shift my name on my ticket
+Help_LiveAgent	indigence to change my name on my ticket
+Help_LiveAgent	want to change my name on my ticket
+Help_LiveAgent	What's the insurance on cancellations for my ticket?
+Help_LiveAgent	What's the policy on cancellation for my ticket?
+Help_LiveAgent	What's the policy on cancellations for my fine?
+Help_LiveAgent	What's the policy on cancellations for my tag?
+Help_LiveAgent	What's the policy on rebooking escape due to weather conditions?
+Help_LiveAgent	What's the policy on rebooking flights due to weather circumstance?
+Help_LiveAgent	What's the policy on rebooking flights due to weather discipline?
+Help_LiveAgent	What's the policy on rebooking flights due to weather precondition?
+Help_LiveAgent	What's the litigate for canceling my trip completely?
+Help_LiveAgent	What's the procedure for canceling my trip completely?
+Help_LiveAgent	What's the process for canceling my trip all?
+Help_LiveAgent	What's the process for offset my trip completely?
+Help_LiveAgent	What's the action for checking in online?
+Help_LiveAgent	What's the appendage for checking in online?
+Help_LiveAgent	What's the process for control in online?
+Help_LiveAgent	What's the process for see in online?
+Help_LiveAgent	What's the appendage for contacting your customer support team?
+Help_LiveAgent	What's the process for contacting your customer reinforcement team?
+Help_LiveAgent	What's the serve for contacting your customer support team?
+Help_LiveAgent	What's the summons for contacting your customer support team?
+Help_LiveAgent	What's the condition of my flight now?
+Help_LiveAgent	What's the status of my escape now?
+Help_LiveAgent	What's the status of my flying now?
+Help_LiveAgent	What's the status of my trajectory now?
+Help_LiveAgent	What's the await time for customer support?
+Help_LiveAgent	What's the wait time for customer accompaniment?
+Help_LiveAgent	What's the wait time for customer digest?
+Help_LiveAgent	What's the wait time for customer patronise?
+Help_LiveAgent	Can you assist me in finding a good hotel mint?
+Help_LiveAgent	Can you assist me in finding a skillful hotel deal?
+Help_LiveAgent	john you assist me in finding a good hotel deal?
+Help_LiveAgent	potty you assist me in finding a good hotel deal?
+Help_LiveAgent	Can you assist me in finding a good restaurant approximate my hotel for breakfast.
+Help_LiveAgent	Can you assist me in finding a soundly restaurant near my hotel for breakfast.
+Help_LiveAgent	Can you assist me in incur a good restaurant near my hotel for breakfast.
+Help_LiveAgent	nates you assist me in finding a good restaurant near my hotel for breakfast.
+Help_LiveAgent	Can you assist me in finding a beneficial restaurant near my hotel.
+Help_LiveAgent	Can you assist me in finding a goodness restaurant near my hotel.
+Help_LiveAgent	Can you assist me in finding a well restaurant near my hotel.
+Help_LiveAgent	stool you assist me in finding a good restaurant near my hotel.
+Help_LiveAgent	Can you assistance me with a special request?
+Help_LiveAgent	buttocks you assist me with a special request?
+Help_LiveAgent	fire you assist me with a special request?
+Help_LiveAgent	lavatory you assist me with a special request?
+Help_LiveAgent	Can you assist me with a travel complaint to the airline company's customer service squad and provide rebooking assistance?
+Help_LiveAgent	Can you assist me with a travel complaint to the airline company's customer service team and provide rebooking help?
+Help_LiveAgent	Can you assist me with a travel ill to the airline company's customer service team and provide rebooking assistance?
+Help_LiveAgent	posterior you assist me with a travel complaint to the airline company's customer service team and provide rebooking assistance?
+Help_LiveAgent	Can you assist me with a go complaint to the airline company's customer service.
+Help_LiveAgent	Can you assist me with a travel complaint to the airline company's customer avail.
+Help_LiveAgent	Can you assist me with a traveling complaint to the airline company's customer service.
+Help_LiveAgent	hindquarters you assist me with a travel complaint to the airline company's customer service.
+Help_LiveAgent	bathroom you assist me with a travel-related expense claim?
+Help_LiveAgent	behind you assist me with a travel-related expense claim?
+Help_LiveAgent	bottom you assist me with a travel-related expense claim?
+Help_LiveAgent	fire you assist me with a travel-related expense claim?
+Help_LiveAgent	Can you explain the procedure for changing flights?
+Help_LiveAgent	Can you explain the process for deepen flights?
+Help_LiveAgent	Can you explicate the process for changing flights?
+Help_LiveAgent	can you explain the process for changing flights?
+Help_LiveAgent	Can you explain the appendage for filing a claim with my credit card company.
+Help_LiveAgent	buttocks you explain the process for filing a claim with my credit card company.
+Help_LiveAgent	terminate you explain the process for filing a claim with my credit card company.
+Help_LiveAgent	tin you explain the process for filing a claim with my credit card company.
+Help_LiveAgent	Can you explain the process for filing a claim with my cite card insurance company?
+Help_LiveAgent	hindquarters you explain the process for filing a claim with my credit card insurance company?
+Help_LiveAgent	rump you explain the process for filing a claim with my credit card insurance company?
+Help_LiveAgent	tooshie you explain the process for filing a claim with my credit card insurance company?
+Help_LiveAgent	Can you explain the process for filing a call with my insurance company?
+Help_LiveAgent	rump you explain the process for filing a claim with my insurance company?
+Help_LiveAgent	stern you explain the process for filing a claim with my insurance company?
+Help_LiveAgent	toilet you explain the process for filing a claim with my insurance company?
+Help_LiveAgent	Can you explain the process for come a refund on my hotel booking?
+Help_LiveAgent	Can you explain the process for getting a refund on my hotel reserve?
+Help_LiveAgent	posterior you explain the process for getting a refund on my hotel booking?
+Help_LiveAgent	sack you explain the process for getting a refund on my hotel booking?
+Help_LiveAgent	Can you explain the process for drive assistance with lost luggage.
+Help_LiveAgent	Can you explain the process for getting assistance with baffled luggage.
+Help_LiveAgent	Can you explain the process for getting assistance with bemused luggage.
+Help_LiveAgent	can you explain the process for getting assistance with lost luggage.
+Help_LiveAgent	Can you assistant me book a last-minute trip?
+Help_LiveAgent	Can you help me playscript a last-minute trip?
+Help_LiveAgent	john you help me book a last-minute trip?
+Help_LiveAgent	rump you help me book a last-minute trip?
+Help_LiveAgent	Can you facilitate me book a same-day trip.
+Help_LiveAgent	Can you service me book a same-day trip.
+Help_LiveAgent	can you help me book a same-day trip.
+Help_LiveAgent	stern you help me book a same-day trip.
+Help_LiveAgent	Can you provide more entropy on airline fees?
+Help_LiveAgent	derriere you provide more information on airline fees?
+Help_LiveAgent	john you provide more information on airline fees?
+Help_LiveAgent	nates you provide more information on airline fees?
+Help_LiveAgent	john you provide more information on local customs in my destination country, can you explain?
+Help_LiveAgent	nates you provide more information on local customs in my destination country, can you explain?
+Help_LiveAgent	pot you provide more information on local customs in my destination country, can you explain?
+Help_LiveAgent	sack you provide more information on local customs in my destination country, can you explain?
+Help_LiveAgent	Can you cater more information on local customs in my destination country.
+Help_LiveAgent	Can you furnish more information on local customs in my destination country.
+Help_LiveAgent	commode you provide more information on local customs in my destination country.
+Help_LiveAgent	fire you provide more information on local customs in my destination country.
+Help_LiveAgent	Can you provide more information on local healthcare alternative while traveling abroad.
+Help_LiveAgent	Can you provide more information on local healthcare options while move abroad.
+Help_LiveAgent	Can you provide more information on local healthcare options while travelling abroad.
+Help_LiveAgent	prat you provide more information on local healthcare options while traveling abroad.
+Help_LiveAgent	Can you provide more information on local transportation options while move abroad.
+Help_LiveAgent	can you provide more information on local transportation options while traveling abroad.
+Help_LiveAgent	stool you provide more information on local transportation options while traveling abroad.
+Help_LiveAgent	tush you provide more information on local transportation options while traveling abroad.
+Help_LiveAgent	Can you leave more information on travel restrictions during my trip.
+Help_LiveAgent	buns you provide more information on travel restrictions during my trip.
+Help_LiveAgent	rear you provide more information on travel restrictions during my trip.
+Help_LiveAgent	rump you provide more information on travel restrictions during my trip.
+Help_LiveAgent	I have a conference and postulate to book flights.
+Help_LiveAgent	I have a conference and want to book flights.
+Help_LiveAgent	I have a league and need to book flights.
+Help_LiveAgent	unity have a conference and need to book flights.
+Help_LiveAgent	1 have a medical emergency and need assistance.
+Help_LiveAgent	I have a medical emergency and necessitate assistance.
+Help_LiveAgent	I have a medical emergency and pauperization assistance.
+Help_LiveAgent	single have a medical emergency and need assistance.
+Help_LiveAgent	I have a interrogation about my airline ticket's refund policy.
+Help_LiveAgent	I have a question about my airline ticket's repayment policy.
+Help_LiveAgent	I have a wonder about my airline ticket's refund policy.
+Help_LiveAgent	iodin have a question about my airline ticket's refund policy.
+Help_LiveAgent	I have a question about my locomote insurance policy's coverage for pre-existing conditions.
+Help_LiveAgent	I have a question about my locomotion insurance policy's coverage for pre-existing conditions.
+Help_LiveAgent	I have a question about my travel insurance policy's coverage for pre-existing term.
+Help_LiveAgent	i have a question about my travel insurance policy's coverage for pre-existing conditions.
+Help_LiveAgent	I have a doubt about my travel insurance policy's coverage for trip cancellations.
+Help_LiveAgent	I have a head about my travel insurance policy's coverage for trip cancellations.
+Help_LiveAgent	I have a question about my trip insurance policy's coverage for trip cancellations.
+Help_LiveAgent	iodin have a question about my travel insurance policy's coverage for trip cancellations.
+Help_LiveAgent	I have a oppugn about my travel insurance policy's coverage limits.
+Help_LiveAgent	I have a question about my locomotion insurance policy's coverage limits.
+Help_LiveAgent	I have a question about my travel insurance policy's reporting limits.
+Help_LiveAgent	I have a wonder about my travel insurance policy's coverage limits.
+Help_LiveAgent	I have a dubiousness about my travel insurance policy.
+Help_LiveAgent	I have a motion about my travel insurance policy.
+Help_LiveAgent	I have a oppugn about my travel insurance policy.
+Help_LiveAgent	I have a wonder about my travel insurance policy.
+Help_LiveAgent	1 have a question about my travel visa requirements.
+Help_LiveAgent	I have a query about my travel visa requirements.
+Help_LiveAgent	I have a question about my travel visa necessary.
+Help_LiveAgent	I have a question about my travel visa requirement.
+Help_LiveAgent	I need assistance with a travelling complaint to the airline company's customer service team.
+Help_LiveAgent	I need help with a travel complaint to the airline company's customer service team.
+Help_LiveAgent	I penury assistance with a travel complaint to the airline company's customer service team.
+Help_LiveAgent	ace need assistance with a travel complaint to the airline company's customer service team.
+Help_LiveAgent	I motive assistance with a travel complaint to the airline company.
+Help_LiveAgent	I need assistance with a locomote complaint to the airline company.
+Help_LiveAgent	I need assistance with a travel charge to the airline company.
+Help_LiveAgent	I need assistance with a travel complaint to the airline troupe.
+Help_LiveAgent	I need aid with a travel complaint.
+Help_LiveAgent	I penury assistance with a travel complaint.
+Help_LiveAgent	I take assistance with a travel complaint.
+Help_LiveAgent	iodine need assistance with a travel complaint.
+Help_LiveAgent	I need aid booking a business-class flight on short notice.
+Help_LiveAgent	I need help booking a business-class flight on light notice.
+Help_LiveAgent	I need help booking a business-class flight on short remark.
+Help_LiveAgent	ane need help booking a business-class flight on short notice.
+Help_LiveAgent	I need help booking a hotel room at abruptly notice.
+Help_LiveAgent	I need help booking a hotel room at short posting.
+Help_LiveAgent	I need help booking a hotel room at short-change notice.
+Help_LiveAgent	iodine need help booking a hotel room at short notice.
+Help_LiveAgent	I demand help booking a hotel room quickly.
+Help_LiveAgent	I need help booking a hotel room cursorily.
+Help_LiveAgent	I take help booking a hotel room quickly.
+Help_LiveAgent	ane need help booking a hotel room quickly.
+Help_LiveAgent	I need avail booking a hotel room with a specific amenity.
+Help_LiveAgent	I need help book a hotel room with a specific amenity.
+Help_LiveAgent	I require help booking a hotel room with a specific amenity.
+Help_LiveAgent	ace need help booking a hotel room with a specific amenity.
+Help_LiveAgent	I demand to change my flight due to personal reasons.
+Help_LiveAgent	I need to change my flight due to personal reason.
+Help_LiveAgent	I need to change my flight due to personal reasonableness.
+Help_LiveAgent	I need to change my flight imputable to personal reasons.
+Help_LiveAgent	I'd corresponding to cancel my trip due to unforeseen circumstances.
+Help_LiveAgent	I'd ilk to cancel my trip due to unforeseen circumstances.
+Help_LiveAgent	I'd like to cancel my trip due to unforeseen circumstance.
+Help_LiveAgent	I'd like to offset my trip due to unforeseen circumstances.
+Help_LiveAgent	I'm having number with my travel documents.
+Help_LiveAgent	I'm having publication with my travel documents.
+Help_LiveAgent	I'm having subject with my travel documents.
+Help_LiveAgent	I'm having topic with my travel documents.
+Help_LiveAgent	I'm having discommode with my credit card while abroad.
+Help_LiveAgent	I'm having hassle with my credit card while abroad.
+Help_LiveAgent	I'm having trouble with my credit lineup while abroad.
+Help_LiveAgent	I'm having trouble with my credit notice while abroad.
+Help_LiveAgent	I'm having cark with my travel itinerary.
+Help_LiveAgent	I'm having distract with my travel itinerary.
+Help_LiveAgent	I'm having trouble with my go itinerary.
+Help_LiveAgent	I'm having trouble with my locomotion itinerary.
+Help_LiveAgent	I'm not certain about the local customs in my destination country.
+Help_LiveAgent	I'm not certainly about the local customs in my destination country.
+Help_LiveAgent	I'm not sure about the local customs in my destination area.
+Help_LiveAgent	I'm not sure about the local customs in my terminus country.
+Help_LiveAgent	I'm not sure what is included in my airline fine price.
+Help_LiveAgent	I'm not sure what is included in my airline tag price.
+Help_LiveAgent	I'm not sure what is included in my airline ticket terms.
+Help_LiveAgent	I'm not sure what is included in my airway ticket price.
+Help_LiveAgent	I'm not certain what type of insurance I have.
+Help_LiveAgent	I'm not sure what case of insurance I have.
+Help_LiveAgent	I'm not sure what typecast of insurance I have.
+Help_LiveAgent	I'm not surely what type of insurance I have.
+Help_LiveAgent	I'm worried about my health insurance coverage in my address country.
+Help_LiveAgent	I'm worried about my health insurance reporting in my destination country.
+Help_LiveAgent	I'm worried about my wellness insurance coverage in my destination country.
+Help_LiveAgent	I'm worry about my health insurance coverage in my destination country.
+Help_LiveAgent	I'm concern about my health insurance coverage while traveling.
+Help_LiveAgent	I'm worried about my health insurance coverage while go.
+Help_LiveAgent	I'm worried about my health insurance coverage while locomote.
+Help_LiveAgent	I'm worried about my health insurance coverage while travel.
+Help_LiveAgent	I'm distressed about my health while traveling abroad.
+Help_LiveAgent	I'm disturbed about my health while traveling abroad.
+Help_LiveAgent	I'm vex about my health while traveling abroad.
+Help_LiveAgent	I'm worried about my health while traveling afield.
+Help_LiveAgent	I'm distressed about my safety in my destination country.
+Help_LiveAgent	I'm worried about my condom in my destination country.
+Help_LiveAgent	I'm worried about my guard in my destination country.
+Help_LiveAgent	I'm worried about my rubber in my destination country.
+Help_LiveAgent	I'm worried about my safety while traveling alone abroad, can you render guidance?
+Help_LiveAgent	I'm worried about my safety while traveling alone abroad, can you supply guidance?
+Help_LiveAgent	I'm worried about my safety while traveling solo abroad, can you provide guidance?
+Help_LiveAgent	I'm worried about my safety while traveling unequaled abroad, can you provide guidance?
+Help_LiveAgent	I'm worried about my guard while traveling alone abroad.
+Help_LiveAgent	I'm worried about my rubber while traveling alone abroad.
+Help_LiveAgent	I'm worried about my safe while traveling alone abroad.
+Help_LiveAgent	I'm worried about my safety while traveling alone afield.
+Help_LiveAgent	I've forget my hotel reservation confirmation number.
+Help_LiveAgent	I've forgotten my hotel reservation confirmation act.
+Help_LiveAgent	I've forgotten my hotel reservation confirmation amount.
+Help_LiveAgent	I've forgotten my hotel reservation confirmation numeral.
+Help_LiveAgent	I've bury my passport number and can't travel without it.
+Help_LiveAgent	I've forgotten my passport bit and can't travel without it.
+Help_LiveAgent	I've forgotten my passport number and can't traveling without it.
+Help_LiveAgent	I've forgotten my passport turn and can't travel without it.
+Help_LiveAgent	I've forgotten my pass number.
+Help_LiveAgent	I've forgotten my passport figure.
+Help_LiveAgent	I've forgotten my passport issue.
+Help_LiveAgent	I've forgotten my passport routine.
+Help_LiveAgent	I've doomed my passport and need replacement urgently.
+Help_LiveAgent	I've lost my passport and involve replacement urgently.
+Help_LiveAgent	I've lost my passport and need permutation urgently.
+Help_LiveAgent	I've lost my passport and postulate replacement urgently.
+Help_LiveAgent	I've lost my passport, can you avail?
+Help_LiveAgent	I've lost my passport, can you helper?
+Help_LiveAgent	I've mixed-up my passport, can you help?
+Help_LiveAgent	I've preoccupied my passport, can you help?
+Help_LiveAgent	I've befuddled my travel adapter and need replacement urgently.
+Help_LiveAgent	I've bemused my travel adapter and need replacement urgently.
+Help_LiveAgent	I've lost my locomote adapter and need replacement urgently.
+Help_LiveAgent	I've missed my travel adapter and need replacement urgently.
+Help_LiveAgent	I've confounded my travel adapter.
+Help_LiveAgent	I've doomed my travel adapter.
+Help_LiveAgent	I've lost my travelling adapter.
+Help_LiveAgent	I've missed my travel adapter.
+Help_LiveAgent	I've bemused my travel documents, can you assist me?
+Help_LiveAgent	I've disoriented my travel documents, can you assist me?
+Help_LiveAgent	I've lost my locomote documents, can you assist me?
+Help_LiveAgent	I've missed my travel documents, can you assist me?
+Help_LiveAgent	I've misplaced my travel adapter and indigence replacement.
+Help_LiveAgent	I've misplaced my travel adapter and involve replacement.
+Help_LiveAgent	I've misplaced my travel adapter and need surrogate.
+Help_LiveAgent	I've misplaced my travel adapter and require replacement.
+Help_LiveAgent	I've misplace my travel documents and need replacement urgently.
+Help_LiveAgent	I've misplaced my travel document and need replacement urgently.
+Help_LiveAgent	I've misplaced my travel documents and motivation replacement urgently.
+Help_LiveAgent	I've misplaced my travel documents and need alternate urgently.
+Help_LiveAgent	I've lose my travel itinerary.
+Help_LiveAgent	I've mislay my travel itinerary.
+Help_LiveAgent	I've misplaced my jaunt itinerary.
+Help_LiveAgent	I've misplaced my trip itinerary.
+Help_LiveAgent	My escape is delayed again.
+Help_LiveAgent	My flight is detain again.
+Help_LiveAgent	My flight is retard again.
+Help_LiveAgent	My flying is delayed again.
+Help_LiveAgent	My escape was cancelled due to bad weather and I need rebooking assistance.
+Help_LiveAgent	My flight was cancelled due to bad weather and I necessitate rebooking assistance.
+Help_LiveAgent	My flight was cancelled due to bad weather and I postulate rebooking assistance.
+Help_LiveAgent	My flight was cancelled due to bad weather and iodine need rebooking assistance.
+Help_LiveAgent	My flight was cancelled due to forged weather, can you rebook me?
+Help_LiveAgent	My flight was cancelled due to spoilt weather, can you rebook me?
+Help_LiveAgent	My flight was off due to bad weather, can you rebook me?
+Help_LiveAgent	My flight was scrub due to bad weather, can you rebook me?
+Help_LiveAgent	My flight was cancelled due to bad brave.
+Help_LiveAgent	My flight was cancelled due to unsound weather.
+Help_LiveAgent	My flight was cancelled referable to bad weather.
+Help_LiveAgent	My flight was scratch due to bad weather.
+Help_LiveAgent	My escape was delayed due to bad weather and I'm frustrated.
+Help_LiveAgent	My flight was delayed due to bad weather and I'm baffle.
+Help_LiveAgent	My flight was delayed due to bad weather and I'm thwarted.
+Help_LiveAgent	My flight was delayed due to defective weather and I'm frustrated.
+Help_LiveAgent	My flight was check due to bad weather, can you explain the reason?
+Help_LiveAgent	My flight was delayed due to bad weather, can you explain the argue?
+Help_LiveAgent	My flight was delayed due to bad weather, can you explain the grounds?
+Help_LiveAgent	My flight was delayed due to tough weather, can you explain the reason?
+Help_LiveAgent	My flight was overbooked and I involve assistance.
+Help_LiveAgent	My flight was overbooked and I need assist.
+Help_LiveAgent	My flight was overbooked and one need assistance.
+Help_LiveAgent	My flying was overbooked and I need assistance.
+Help_LiveAgent	My hotel room is not as account online, can you help?
+Help_LiveAgent	My hotel room is not as delineate online, can you help?
+Help_LiveAgent	My hotel room is not as describe online, can you help?
+Help_LiveAgent	My hotel room is not as described online, can you assistant?
+Help_LiveAgent	My hotel room is not as draw online.
+Help_LiveAgent	My hotel room is not as line online.
+Help_LiveAgent	My hotel room is not as report online.
+Help_LiveAgent	My hotel room is not as trace online.
+Help_LiveAgent	My call has been hacked while abroad and I need assistance.
+Help_LiveAgent	My headphone has been hacked while abroad and I need assistance.
+Help_LiveAgent	My phone has been hacked while abroad and I need help.
+Help_LiveAgent	My phone has been whoop while abroad and I need assistance.
+Help_LiveAgent	My earphone is not working and I need assistance with international roaming.
+Help_LiveAgent	My phone is not mold and I need assistance with international roaming.
+Help_LiveAgent	My phone is not working and I need assistance with international range.
+Help_LiveAgent	My phone is not working and I need assistance with international stray.
+Help_LiveAgent	My phone is not exploit while abroad.
+Help_LiveAgent	My phone is not ferment while abroad.
+Help_LiveAgent	My phone is not forge while abroad.
+Help_LiveAgent	My phone is not running while abroad.
+Help_LiveAgent	My rental automobile company cancelled my reservation at the last minute.
+Help_LiveAgent	My rental car company cancelled my reservation at the last instant.
+Help_LiveAgent	My rental car company cancelled my reservation at the live minute.
+Help_LiveAgent	My rental motorcar company cancelled my reservation at the last minute.
+Help_LiveAgent	My rental car company agitate me incorrectly, can you assist?
+Help_LiveAgent	My rental car company appoint me incorrectly, can you assist?
+Help_LiveAgent	My rental car company charged me incorrectly, can you attend?
+Help_LiveAgent	My rental car company send me incorrectly, can you assist?
+Help_LiveAgent	My rental car companion is unhelpful and I need assistance.
+Help_LiveAgent	My rental car company is unhelpful and I involve assistance.
+Help_LiveAgent	My rental car company is unhelpful and I take assistance.
+Help_LiveAgent	My rental car company is unhelpful and i need assistance.
+Help_LiveAgent	My letting car company is unhelpful.
+Help_LiveAgent	My rental car caller is unhelpful.
+Help_LiveAgent	My rental car party is unhelpful.
+Help_LiveAgent	My rental machine company is unhelpful.
+Help_LiveAgent	My letting car is not as described online, can you help?
+Help_LiveAgent	My rental car is not as described online, can you facilitate?
+Help_LiveAgent	My rental car is not as described online, can you helper?
+Help_LiveAgent	My rental car is not as draw online, can you help?
+Help_LiveAgent	My rental car is not as account online.
+Help_LiveAgent	My rental car is not as line online.
+Help_LiveAgent	My rental car is not as name online.
+Help_LiveAgent	My renting car is not as described online.
+Help_LiveAgent	My lease car is not working properly, can you help?
+Help_LiveAgent	My rental car is not make properly, can you help?
+Help_LiveAgent	My rental car is not working properly, can you supporter?
+Help_LiveAgent	My renting car is not working properly, can you help?
