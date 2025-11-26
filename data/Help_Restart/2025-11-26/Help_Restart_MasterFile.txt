@@ -1,0 +1,560 @@
+Help_Restart	Can 1 ask a new question?
+Help_Restart	Can I ask a new doubtfulness?
+Help_Restart	stern I ask a new question?
+Help_Restart	toilet I ask a new question?
+Help_Restart	Can I ask another head now?
+Help_Restart	Can I postulate another question now?
+Help_Restart	pot I ask another question now?
+Help_Restart	privy I ask another question now?
+Help_Restart	Can I ask another enquiry?
+Help_Restart	Can I ask another interview?
+Help_Restart	ass I ask another question?
+Help_Restart	crapper I ask another question?
+Help_Restart	dismiss I ask for guidance on starting anew?
+Help_Restart	displace I ask for guidance on starting anew?
+Help_Restart	fundament I ask for guidance on starting anew?
+Help_Restart	tail I ask for guidance on starting anew?
+Help_Restart	Can I ask for supporter with something new?
+Help_Restart	bathroom I ask for help with something new?
+Help_Restart	lavatory I ask for help with something new?
+Help_Restart	stool I ask for help with something new?
+Help_Restart	Can I retrieve my previous response online?
+Help_Restart	displace I find my previous response online?
+Help_Restart	potty I find my previous response online?
+Help_Restart	throne I find my previous response online?
+Help_Restart	Can I get a clean start now?
+Help_Restart	Can I get a invigorated start now?
+Help_Restart	Can I let a fresh start now?
+Help_Restart	butt I get a fresh start now?
+Help_Restart	Can I contract a fresh start?
+Help_Restart	Can I get a fresh depart?
+Help_Restart	Can I get a unfermented start?
+Help_Restart	Can I take a fresh start?
+Help_Restart	Can I cause a new start today?
+Help_Restart	can I get a new start today?
+Help_Restart	fanny I get a new start today?
+Help_Restart	stool I get a new start today?
+Help_Restart	Can I convey a new start?
+Help_Restart	Can I get a Modern start?
+Help_Restart	Can I mystify a new start?
+Help_Restart	rear I get a new start?
+Help_Restart	Can I come started fresh today?
+Help_Restart	Can I get started refreshful today?
+Help_Restart	john I get started fresh today?
+Help_Restart	sack I get started fresh today?
+Help_Restart	Can I outset again from the beginning?
+Help_Restart	Can I scratch again from the beginning?
+Help_Restart	Can single start again from the beginning?
+Help_Restart	john I start again from the beginning?
+Help_Restart	Can you aid me with something new?
+Help_Restart	dismiss you help me with something new?
+Help_Restart	fire you help me with something new?
+Help_Restart	fundament you help me with something new?
+Help_Restart	Do 1 need to begin over again?
+Help_Restart	Do I necessitate to begin over again?
+Help_Restart	Do I need to commence over again?
+Help_Restart	fare I need to begin over again?
+Help_Restart	Do you have any advice for jump over?
+Help_Restart	act you have any advice for starting over?
+Help_Restart	cause you have any advice for starting over?
+Help_Restart	perform you have any advice for starting over?
+Help_Restart	answer you have any advice on restarting?
+Help_Restart	brawl you have any advice on restarting?
+Help_Restart	dress you have any advice on restarting?
+Help_Restart	manage you have any advice on restarting?
+Help_Restart	Do you have any advice on originate fresh?
+Help_Restart	Do you have any advice on starting tonic?
+Help_Restart	arrange you have any advice on starting fresh?
+Help_Restart	brawl you have any advice on starting fresh?
+Help_Restart	Do you have any advice on bulge from scratch?
+Help_Restart	Do you have any advice on starting from clams?
+Help_Restart	Do you have any advice on starting from lucre?
+Help_Restart	doh you have any advice on starting from scratch?
+Help_Restart	act you have any guidance on restarting?
+Help_Restart	doh you have any guidance on restarting?
+Help_Restart	execute you have any guidance on restarting?
+Help_Restart	manage you have any guidance on restarting?
+Help_Restart	Do you have any direction on starting fresh?
+Help_Restart	Do you have any guidance on starting new?
+Help_Restart	Do you have any guidance on starting sweet?
+Help_Restart	practice you have any guidance on starting fresh?
+Help_Restart	Do you have any guidance on starting from fret?
+Help_Restart	Do you have any guidance on starting from simoleons?
+Help_Restart	Do you have any guidance on startle from scratch?
+Help_Restart	suffice you have any guidance on starting from scratch?
+Help_Restart	Do you have any prompting for restarting?
+Help_Restart	Do you have any suggestions for restart?
+Help_Restart	act you have any suggestions for restarting?
+Help_Restart	make you have any suggestions for restarting?
+Help_Restart	Do you have any hint for starting anew?
+Help_Restart	Do you have any suggestions for pop anew?
+Help_Restart	cause you have any suggestions for starting anew?
+Help_Restart	coiffe you have any suggestions for starting anew?
+Help_Restart	Do you heed if we restart?
+Help_Restart	Do you idea if we restart?
+Help_Restart	exercise you mind if we restart?
+Help_Restart	manage you mind if we restart?
+Help_Restart	Fresh offset, please.
+Help_Restart	Fresh pop, please.
+Help_Restart	brisk start, please.
+Help_Restart	refreshing start, please.
+Help_Restart	From where did our conversation expire awry?
+Help_Restart	From where did our conversation go skew-whiff?
+Help_Restart	From where did our conversation last awry?
+Help_Restart	From where did our conversation survive awry?
+Help_Restart	From where did we depart in our conversation?
+Help_Restart	From where did we deviate in our conversation?
+Help_Restart	From where did we diverge in our conversation?
+Help_Restart	From where did we vary in our conversation?
+Help_Restart	From where did we depart?
+Help_Restart	From where did we deviate?
+Help_Restart	From where did we diverge?
+Help_Restart	From where did we vary?
+Help_Restart	From where did we draw stuck in our conversation?
+Help_Restart	From where did we get stay in our conversation?
+Help_Restart	From where did we perplex stuck in our conversation?
+Help_Restart	From where did we sustain stuck in our conversation?
+Help_Restart	From where did we come stuck?
+Help_Restart	From where did we commence stuck?
+Help_Restart	From where did we flummox stuck?
+Help_Restart	From where did we let stuck?
+Help_Restart	From where did we allow off before?
+Help_Restart	From where did we forget off before?
+Help_Restart	From where did we provide off before?
+Help_Restart	From where did we will off before?
+Help_Restart	Help me reinitiate our conversation action.
+Help_Restart	Help me reinitiate our conversation march.
+Help_Restart	Help me reinitiate our conversation operation.
+Help_Restart	Help me reinitiate our conversation summons.
+Help_Restart	assist me reinitiate the conversation again.
+Help_Restart	avail me reinitiate the conversation again.
+Help_Restart	serve me reinitiate the conversation again.
+Help_Restart	supporter me reinitiate the conversation again.
+Help_Restart	Help me reinitiate the conversation operation again.
+Help_Restart	Help me reinitiate the conversation serve again.
+Help_Restart	Help me reinitiate the conversation summons again.
+Help_Restart	assistant me reinitiate the conversation process again.
+Help_Restart	Help me reinitiate the conversation nowadays.
+Help_Restart	aid me reinitiate the conversation today.
+Help_Restart	facilitate me reinitiate the conversation today.
+Help_Restart	helper me reinitiate the conversation today.
+Help_Restart	Help me reinitiate the serve again.
+Help_Restart	Help me reinitiate the treat again.
+Help_Restart	Help me reinitiate the work again.
+Help_Restart	helper me reinitiate the process again.
+Help_Restart	Help me reinitiate the operation today.
+Help_Restart	assist me reinitiate the process today.
+Help_Restart	helper me reinitiate the process today.
+Help_Restart	service me reinitiate the process today.
+Help_Restart	Help me reinitiate the outgrowth.
+Help_Restart	Help me reinitiate the serve.
+Help_Restart	facilitate me reinitiate the process.
+Help_Restart	helper me reinitiate the process.
+Help_Restart	How do iodine rebegin the conversation?
+Help_Restart	How do one rebegin the conversation?
+Help_Restart	How do single rebegin the conversation?
+Help_Restart	How do unity rebegin the conversation?
+Help_Restart	How do ace rebegin this conversation today?
+Help_Restart	How do i rebegin this conversation today?
+Help_Restart	How do iodine rebegin this conversation today?
+Help_Restart	How do single rebegin this conversation today?
+Help_Restart	How do 1 rebegin this conversation?
+Help_Restart	How do iodine rebegin this conversation?
+Help_Restart	How do one rebegin this conversation?
+Help_Restart	How do unity rebegin this conversation?
+Help_Restart	How do I rebegin this appendage again?
+Help_Restart	How do I rebegin this litigate again?
+Help_Restart	How do I rebegin this outgrowth again?
+Help_Restart	How do ane rebegin this process again?
+Help_Restart	How do I rebegin this action today?
+Help_Restart	How do I rebegin this march today?
+Help_Restart	How do I rebegin this outgrowth today?
+Help_Restart	How do one rebegin this process today?
+Help_Restart	How do ace reinitiate the conversation?
+Help_Restart	How do iodin reinitiate the conversation?
+Help_Restart	How do iodine reinitiate the conversation?
+Help_Restart	How do unity reinitiate the conversation?
+Help_Restart	How do we Begin this conversation?
+Help_Restart	How do we commence this conversation?
+Help_Restart	How do we get this conversation?
+Help_Restart	How do we start this conversation?
+Help_Restart	I need a strip slate.
+Help_Restart	I require a clean slate.
+Help_Restart	ane need a clean slate.
+Help_Restart	i need a clean slate.
+Help_Restart	I'd like to explore other option.
+Help_Restart	I'd like to research other options.
+Help_Restart	I'd same to explore other options.
+Help_Restart	I'd similar to explore other options.
+Help_Restart	Is there a direction to restart our conversation now?
+Help_Restart	Is there a fashion to restart our conversation now?
+Help_Restart	Is there a means to restart our conversation now?
+Help_Restart	Is there a way to re-start our conversation now?
+Help_Restart	Is there a room to restart our conversation process?
+Help_Restart	Is there a way to restart our conversation sue?
+Help_Restart	constitute there a way to restart our conversation process?
+Help_Restart	represent there a way to restart our conversation process?
+Help_Restart	Is there a fashion to restart our conversation?
+Help_Restart	Is there a room to restart our conversation?
+Help_Restart	live there a way to restart our conversation?
+Help_Restart	personify there a way to restart our conversation?
+Help_Restart	Let's Begin anew.
+Help_Restart	Let's begin afresh.
+Help_Restart	Let's commence anew.
+Help_Restart	Let's start anew.
+Help_Restart	Let's initiate again from the beginning.
+Help_Restart	Let's pop again from the beginning.
+Help_Restart	Let's start again from the first.
+Help_Restart	Let's start again from the get-go.
+Help_Restart	Let's begin anew, please.
+Help_Restart	Let's bulge anew, please.
+Help_Restart	Let's initiate anew, please.
+Help_Restart	Let's protrude anew, please.
+Help_Restart	Let's get fresh, please.
+Help_Restart	Let's start refreshed, please.
+Help_Restart	Let's start refreshing, please.
+Help_Restart	Let's start unused, please.
+Help_Restart	Let's beginning fresh.
+Help_Restart	Let's start bracing.
+Help_Restart	Let's start clean.
+Help_Restart	Let's start new.
+Help_Restart	Let's initiate from scratch, please.
+Help_Restart	Let's start from engrave, please.
+Help_Restart	Let's start from lettuce, please.
+Help_Restart	Let's start from scraping, please.
+Help_Restart	Let's pop from scratch.
+Help_Restart	Let's protrude from scratch.
+Help_Restart	Let's start from dinero.
+Help_Restart	Let's start from wampum.
+Help_Restart	Let's beginning with something new today.
+Help_Restart	Let's go with something new today.
+Help_Restart	Let's originate with something new today.
+Help_Restart	Let's scratch with something new today.
+Help_Restart	Let's get-go with something new.
+Help_Restart	Let's offset with something new.
+Help_Restart	Let's start with something unexampled.
+Help_Restart	Let's startle with something new.
+Help_Restart	Ready to initiate again?
+Help_Restart	Ready to jump again?
+Help_Restart	Ready to pop again?
+Help_Restart	set to start again?
+Help_Restart	What's the Best way to restart our conversation?
+Help_Restart	What's the best direction to restart our conversation?
+Help_Restart	What's the honorable way to restart our conversation?
+Help_Restart	What's the outflank way to restart our conversation?
+Help_Restart	Where can I ascertain help with something new?
+Help_Restart	Where can I find assistance with something new?
+Help_Restart	Where can I find serve with something new?
+Help_Restart	Where can I incur help with something new?
+Help_Restart	Where can I discover my previous answer?
+Help_Restart	Where can I notice my previous answer?
+Help_Restart	Where can I rule my previous answer?
+Help_Restart	Where can ane find my previous answer?
+Help_Restart	Where can I ascertain my previous response online?
+Help_Restart	Where can I find my former response online?
+Help_Restart	Where can I rule my previous response online?
+Help_Restart	Where can I witness my previous response online?
+Help_Restart	Where can I find my former response?
+Help_Restart	Where can I find my previous answer?
+Help_Restart	Where can i find my previous response?
+Help_Restart	Where can iodine find my previous response?
+Help_Restart	Where did we exit off before?
+Help_Restart	Where did we give off before?
+Help_Restart	Where did we result off before?
+Help_Restart	Where did we will off before?
+Help_Restart	Are you quick to move forward with booking a flight and hotel room together now?
+Help_Restart	Are you ready to incite forward with booking a flight and hotel room together now?
+Help_Restart	Are you ready to motivate forward with booking a flight and hotel room together now?
+Help_Restart	follow you ready to move forward with booking a flight and hotel room together now?
+Help_Restart	Are you ready to motility forward with booking a flight and hotel room together?
+Help_Restart	Are you ready to move forward with reservation a flight and hotel room together?
+Help_Restart	Are you ready to movement forward with booking a flight and hotel room together?
+Help_Restart	exist you ready to move forward with booking a flight and hotel room together?
+Help_Restart	Are you ready to move forrad with booking a flight now?
+Help_Restart	Are you ready to move forward with booking a escape now?
+Help_Restart	Are you ready to relocation forward with booking a flight now?
+Help_Restart	live you ready to move forward with booking a flight now?
+Help_Restart	Are you ready to act forward with booking a flight?
+Help_Restart	Are you ready to affect forward with booking a flight?
+Help_Restart	Are you ready to run forward with booking a flight?
+Help_Restart	personify you ready to move forward with booking a flight?
+Help_Restart	Are you cook to proceed with booking a hotel room?
+Help_Restart	are you ready to proceed with booking a hotel room?
+Help_Restart	constitute you ready to proceed with booking a hotel room?
+Help_Restart	embody you ready to proceed with booking a hotel room?
+Help_Restart	Are you ease having issues with your flight reservation?
+Help_Restart	Are you still having offspring with your flight reservation?
+Help_Restart	Are you still having publication with your flight reservation?
+Help_Restart	equal you still having issues with your flight reservation?
+Help_Restart	Are you distillery having trouble with your booking or itinerary?
+Help_Restart	Are you nevertheless having trouble with your booking or itinerary?
+Help_Restart	Are you still having difficulty with your booking or itinerary?
+Help_Restart	Are you still having disquiet with your booking or itinerary?
+Help_Restart	Are you distillery having trouble with your booking?
+Help_Restart	Are you still having inconvenience with your booking?
+Help_Restart	Are you still having problem with your booking?
+Help_Restart	ar you still having trouble with your booking?
+Help_Restart	Are you still looking for a flight alternative that meets your needs?
+Help_Restart	Are you still looking for a flight option that meets your indigence?
+Help_Restart	Are you still looking for a flight option that meets your motivation?
+Help_Restart	Are you still looking for a flight option that touch your needs?
+Help_Restart	Are you ease looking for a specific flight schedule?
+Help_Restart	Are you still seem for a specific flight schedule?
+Help_Restart	exist you still looking for a specific flight schedule?
+Help_Restart	represent you still looking for a specific flight schedule?
+Help_Restart	Can I assist you with detect alternative transportation options within your city?
+Help_Restart	Can I assist you with finding alternate transportation options within your city?
+Help_Restart	buttocks I assist you with finding alternative transportation options within your city?
+Help_Restart	dismiss I assist you with finding alternative transportation options within your city?
+Help_Restart	Can I assist you with finding alternative deportation options?
+Help_Restart	Can one assist you with finding alternative transportation options?
+Help_Restart	buttocks I assist you with finding alternative transportation options?
+Help_Restart	canful I assist you with finding alternative transportation options?
+Help_Restart	Can I assist you with bump an alternative flight?
+Help_Restart	Can I assist you with feel an alternative flight?
+Help_Restart	can I assist you with finding an alternative flight?
+Help_Restart	pot I assist you with finding an alternative flight?
+Help_Restart	Can I assist you with earn changes to your hotel reservation?
+Help_Restart	Can I assist you with making modify to your hotel reservation?
+Help_Restart	Can I assist you with making vary to your hotel reservation?
+Help_Restart	fanny I assist you with making changes to your hotel reservation?
+Help_Restart	Can I continue from where we bar discussing hotels?
+Help_Restart	Can I continue from where we barricade discussing hotels?
+Help_Restart	bathroom I continue from where we stopped discussing hotels?
+Help_Restart	john I continue from where we stopped discussing hotels?
+Help_Restart	Can I continue with the hunting for flights if needed?
+Help_Restart	Can I continue with the search for flight if needed?
+Help_Restart	Can I continue with the search for flights if necessitate?
+Help_Restart	bottom I continue with the search for flights if needed?
+Help_Restart	Can I draw back to your original inquiry about travel dates?
+Help_Restart	Can I get back to your pilot inquiry about travel dates?
+Help_Restart	Can I gravel back to your original inquiry about travel dates?
+Help_Restart	dismiss I get back to your original inquiry about travel dates?
+Help_Restart	Can I get punt to your original question about accommodations again?
+Help_Restart	Can I perplex back to your original question about accommodations again?
+Help_Restart	Can unity get back to your original question about accommodations again?
+Help_Restart	buns I get back to your original question about accommodations again?
+Help_Restart	Can I get back to your original inquiry about flights again?
+Help_Restart	bottom I get back to your original question about flights again?
+Help_Restart	bum I get back to your original question about flights again?
+Help_Restart	derriere I get back to your original question about flights again?
+Help_Restart	Can I aim back to your original question about travel dates again?
+Help_Restart	Can I receive back to your original question about travel dates again?
+Help_Restart	fundament I get back to your original question about travel dates again?
+Help_Restart	privy I get back to your original question about travel dates again?
+Help_Restart	Can I get back to your original interrogate about travel plans?
+Help_Restart	Can I pose back to your original question about travel plans?
+Help_Restart	Can I produce back to your original question about travel plans?
+Help_Restart	rear I get back to your original question about travel plans?
+Help_Restart	Can I pick up where we allow off on the flight details?
+Help_Restart	Can I pick up where we left off on the flight detail?
+Help_Restart	throne I pick up where we left off on the flight details?
+Help_Restart	tush I pick up where we left off on the flight details?
+Help_Restart	Can I showtime over and ask about your travel plans again?
+Help_Restart	Can I start over and ask about your travel contrive again?
+Help_Restart	Can I start over and involve about your travel plans again?
+Help_Restart	buttocks I start over and ask about your travel plans again?
+Help_Restart	Did I forget something important from our last claver?
+Help_Restart	Did I forget something important from our last confabulate?
+Help_Restart	answer I forget something important from our last chat?
+Help_Restart	serve I forget something important from our last chat?
+Help_Restart	Did I miss something in our premature conversation about travel?
+Help_Restart	Did I miss something in our previous conversation about jaunt?
+Help_Restart	Did one miss something in our previous conversation about travel?
+Help_Restart	cause I miss something in our previous conversation about travel?
+Help_Restart	Do you need assistance finding a flight option that meets your budget?
+Help_Restart	Do you need help finding a flying option that meets your budget?
+Help_Restart	do you need help finding a flight option that meets your budget?
+Help_Restart	practise you need help finding a flight option that meets your budget?
+Help_Restart	Do you need help do a change to your flight reservation?
+Help_Restart	Do you need help making a change to your escape reservation?
+Help_Restart	Do you need help making a interchange to your flight reservation?
+Help_Restart	dress you need help making a change to your flight reservation?
+Help_Restart	Do you need aid making a change to your hotel reservation?
+Help_Restart	Do you need help create a change to your hotel reservation?
+Help_Restart	Do you need help earn a change to your hotel reservation?
+Help_Restart	Do you need help making a vary to your hotel reservation?
+Help_Restart	Do you indigence help rebooking a different hotel?
+Help_Restart	Do you need assistant rebooking a different hotel?
+Help_Restart	Do you need serve rebooking a different hotel?
+Help_Restart	Do you require help rebooking a different hotel?
+Help_Restart	Do you need help with realise a change to your itinerary?
+Help_Restart	Do you need helper with making a change to your itinerary?
+Help_Restart	act you need help with making a change to your itinerary?
+Help_Restart	make you need help with making a change to your itinerary?
+Help_Restart	Do you want me to explain the process for fix changes to bookings again?
+Help_Restart	Do you want me to explain the process for give changes to bookings again?
+Help_Restart	Do you want me to explain the process for making alter to bookings again?
+Help_Restart	Do you want me to explain the process for produce changes to bookings again?
+Help_Restart	Do you want me to reiterate the policy on cancellations involve flights and hotels?
+Help_Restart	Do you want me to reiterate the policy on cancellations regarding escape and hotels?
+Help_Restart	Do you wishing me to reiterate the policy on cancellations regarding flights and hotels?
+Help_Restart	perform you want me to reiterate the policy on cancellations regarding flights and hotels?
+Help_Restart	Do you neediness me to reiterate the policy on cancellations?
+Help_Restart	execute you want me to reiterate the policy on cancellations?
+Help_Restart	serve you want me to reiterate the policy on cancellations?
+Help_Restart	suffice you want me to reiterate the policy on cancellations?
+Help_Restart	Do you want me to iterate the information about travel insurance?
+Help_Restart	behave you want me to repeat the information about travel insurance?
+Help_Restart	do you want me to repeat the information about travel insurance?
+Help_Restart	exercise you want me to repeat the information about travel insurance?
+Help_Restart	Do you want me to review the details of your trip ace more time?
+Help_Restart	Do you want me to review the point of your trip one more time?
+Help_Restart	doh you want me to review the details of your trip one more time?
+Help_Restart	set you want me to review the details of your trip one more time?
+Help_Restart	Hi again, can I assistant with your booking query?
+Help_Restart	Hi again, can I help with your booking question?
+Help_Restart	Hi again, can I serve with your booking query?
+Help_Restart	Hi again, can iodin help with your booking query?
+Help_Restart	Hi, I'm back with some more head about my booking.
+Help_Restart	Hi, I'm back with some more oppugn about my booking.
+Help_Restart	Hi, I'm backward with some more questions about my booking.
+Help_Restart	Hi, I'm hind with some more questions about my booking.
+Help_Restart	HI, can we revisit the topic of hotel room selection?
+Help_Restart	Hawai'i, can we revisit the topic of hotel room selection?
+Help_Restart	Hi, can we revisit the theme of hotel room selection?
+Help_Restart	howdy, can we revisit the topic of hotel room selection?
+Help_Restart	Hi, can we initiate fresh and discuss budget options again?
+Help_Restart	Hi, can we start brisk and discuss budget options again?
+Help_Restart	Hi, can we start new and discuss budget options again?
+Help_Restart	Hi, can we start sweet and discuss budget options again?
+Help_Restart	Hawai'i, can we start fresh and talk about budget again?
+Help_Restart	Hi, can we scratch fresh and talk about budget again?
+Help_Restart	Hi, can we start fresh and spill about budget again?
+Help_Restart	Hi, can we start unfermented and talk about budget again?
+Help_Restart	Hi, can we offset fresh and talk about budget options again?
+Help_Restart	Hi, can we start fresh and tattle about budget options again?
+Help_Restart	Hi, can we start freshly and talk about budget options again?
+Help_Restart	Hi, can we startle fresh and talk about budget options again?
+Help_Restart	Hi, can we depart fresh and talk about flights again?
+Help_Restart	Hi, can we start brisk and talk about flights again?
+Help_Restart	Hi, can we start fresh and talk about flight again?
+Help_Restart	Hi, can we start saucy and talk about flights again?
+Help_Restart	Hi, can we go over and discuss travel options again?
+Help_Restart	Hi, can we pop over and discuss travel options again?
+Help_Restart	Hi, can we start over and saucer travel options again?
+Help_Restart	hullo, can we start over and discuss travel options again?
+Help_Restart	Hi, can we showtime over and talk about budget again?
+Help_Restart	Hi, can we start over and speak about budget again?
+Help_Restart	Hi, can we startle over and talk about budget again?
+Help_Restart	hi, can we start over and talk about budget again?
+Help_Restart	Hi, can we bulge over and talk about flights again?
+Help_Restart	Hi, can we originate over and talk about flights again?
+Help_Restart	Hi, can we scratch over and talk about flights again?
+Help_Restart	Hi, can we start over and lecture about flights again?
+Help_Restart	Is there anything else 1 can do for you regarding your trip?
+Help_Restart	Is there anything else I can do for you regarding your spark?
+Help_Restart	Is there anything else one can do for you regarding your trip?
+Help_Restart	live there anything else I can do for you regarding your trip?
+Help_Restart	Is there anything else I can do to aid with your travel plans today?
+Help_Restart	Is there anything else I can do to help with your jaunt plans today?
+Help_Restart	Is there anything else I can do to help with your move plans today?
+Help_Restart	live there anything else I can do to help with your travel plans today?
+Help_Restart	Is there anything else I can do to assist with your travel plans?
+Help_Restart	Is there anything else I can do to help with your travel project?
+Help_Restart	Is there anything else unity can do to help with your travel plans?
+Help_Restart	equal there anything else I can do to help with your travel plans?
+Help_Restart	Is there anything else I can avail you with regarding travel accommodations?
+Help_Restart	Is there anything else I can help you with regarding travel adjustment?
+Help_Restart	Is there anything else ace can help you with regarding travel accommodations?
+Help_Restart	cost there anything else I can help you with regarding travel accommodations?
+Help_Restart	Is there anything else I can assistant you with regarding travel documents?
+Help_Restart	Is there anything else I can help you with regarding go documents?
+Help_Restart	Is there anything else I can help you with regarding move documents?
+Help_Restart	Is there anything else I can supporter you with regarding travel documents?
+Help_Restart	Is there anything else I can assistant you with regarding travel insurance?
+Help_Restart	Is there anything else I can help you with regarding go insurance?
+Help_Restart	Is there anything else one can help you with regarding travel insurance?
+Help_Restart	represent there anything else I can help you with regarding travel insurance?
+Help_Restart	Is there anything else on your brain regarding travel arrangements?
+Help_Restart	Is there anything else on your mind regarding travel arranging?
+Help_Restart	Is there anything else on your mind see travel arrangements?
+Help_Restart	cost there anything else on your mind regarding travel arrangements?
+Help_Restart	Is there anything new you'd like to ADHD to the conversation?
+Help_Restart	Is there anything novel you'd like to add to the conversation?
+Help_Restart	Is there anything raw you'd like to add to the conversation?
+Help_Restart	Is there anything unexampled you'd like to add to the conversation?
+Help_Restart	Is there anything specific you'd like me to concentrate on this time?
+Help_Restart	Is there anything specific you'd like me to sharpen on this time?
+Help_Restart	be there anything specific you'd like me to focus on this time?
+Help_Restart	constitute there anything specific you'd like me to focus on this time?
+Help_Restart	Is there something I lack in our previous conversation about accommodations?
+Help_Restart	Is there something ace missed in our previous conversation about accommodations?
+Help_Restart	equal there something I missed in our previous conversation about accommodations?
+Help_Restart	live there something I missed in our previous conversation about accommodations?
+Help_Restart	Is there something specific that's not clear in our conversation so far regard travel plans?
+Help_Restart	Is there something specific that's not clear in our conversation so far view travel plans?
+Help_Restart	Is there something specific that's not realise in our conversation so far regarding travel plans?
+Help_Restart	embody there something specific that's not clear in our conversation so far regarding travel plans?
+Help_Restart	Is there something specific that's not absolved in our conversation so far?
+Help_Restart	Is there something specific that's not authorize in our conversation so far?
+Help_Restart	Is there something specific that's not crystallize in our conversation so far?
+Help_Restart	Is there something specific that's not well-defined in our conversation so far?
+Help_Restart	Is there something specific you'd like me to focus on this clock regarding travel plans?
+Help_Restart	Is there something specific you'd like me to focus on this time regarding travel plan?
+Help_Restart	comprise there something specific you'd like me to focus on this time regarding travel plans?
+Help_Restart	constitute there something specific you'd like me to focus on this time regarding travel plans?
+Help_Restart	Sorry to break but did you need further assistance?
+Help_Restart	drear to interrupt but did you need further assistance?
+Help_Restart	good-for-nothing to interrupt but did you need further assistance?
+Help_Restart	sad to interrupt but did you need further assistance?
+Help_Restart	Sorry, did I befuddle you with the itinerary details?
+Help_Restart	Sorry, did I confuse you with the itinerary point?
+Help_Restart	Sorry, did ace confuse you with the itinerary details?
+Help_Restart	Sorry, did i confuse you with the itinerary details?
+Help_Restart	Sorry, did I not address something correctly in our conclusion conversation about flights?
+Help_Restart	Sorry, did I not address something correctly in our survive conversation about flights?
+Help_Restart	Sorry, did I not handle something correctly in our last conversation about flights?
+Help_Restart	Sorry, did ane not address something correctly in our last conversation about flights?
+Help_Restart	Sorry, did I not address something aright in our last conversation?
+Help_Restart	Sorry, did I not address something correctly in our final conversation?
+Help_Restart	bad, did I not address something correctly in our last conversation?
+Help_Restart	meritless, did I not address something correctly in our last conversation?
+Help_Restart	Sorry, did I not fully empathise your question earlier in our conversation about flights?
+Help_Restart	Sorry, did I not fully understand your question former in our conversation about flights?
+Help_Restart	blue, did I not fully understand your question earlier in our conversation about flights?
+Help_Restart	grim, did I not fully understand your question earlier in our conversation about flights?
+Help_Restart	Sorry, did I not fully read your question earlier in our conversation?
+Help_Restart	Sorry, did I not fully understand your interrogate earlier in our conversation?
+Help_Restart	distressing, did I not fully understand your question earlier in our conversation?
+Help_Restart	lamentable, did I not fully understand your question earlier in our conversation?
+Help_Restart	Sorry, did I not fully understand your question originally?
+Help_Restart	dark, did I not fully understand your question earlier?
+Help_Restart	lamentable, did I not fully understand your question earlier?
+Help_Restart	sorry, did I not fully understand your question earlier?
+Help_Restart	Would you like me to clarify the damage of your policy?
+Help_Restart	Would you like me to clarify the price of your policy?
+Help_Restart	Would you like me to clarify the terms of your insurance?
+Help_Restart	Would you wish me to clarify the terms of your policy?
+Help_Restart	Would you like me to explain the appendage for cancellations again?
+Help_Restart	Would you like me to explain the procedure for cancellations again?
+Help_Restart	Would you like me to explain the process for cancellation again?
+Help_Restart	Would you like me to explain the sue for cancellations again?
+Help_Restart	Would you alike me to explain the process for making changes to bookings again?
+Help_Restart	Would you like me to explain the process for reach changes to bookings again?
+Help_Restart	Would you like me to explain the process for realise changes to bookings again?
+Help_Restart	Would you same me to explain the process for making changes to bookings again?
+Help_Restart	Would you alike me to provide more options for flights and hotels?
+Help_Restart	Would you like me to allow more options for flights and hotels?
+Help_Restart	Would you like me to provide more options for trajectory and hotels?
+Help_Restart	Would you like me to supply more options for flights and hotels?
+Help_Restart	Would you like me to provide more alternative for flights?
+Help_Restart	Would you like me to provide more options for flying?
+Help_Restart	Would you same me to provide more options for flights?
+Help_Restart	Would you similar me to provide more options for flights?
+Help_Restart	Would you alike me to reiterate the policy on changes to bookings?
+Help_Restart	Would you comparable me to reiterate the policy on changes to bookings?
+Help_Restart	Would you like me to reiterate the policy on switch to bookings?
+Help_Restart	Would you like me to repeat the policy on changes to bookings?
+Help_Restart	Would you care me to repeat the information about flight schedules again?
+Help_Restart	Would you like me to reiterate the information about flight schedules again?
+Help_Restart	Would you like me to repeat the data about flight schedules again?
+Help_Restart	Would you like me to repeat the information about escape schedules again?
+Help_Restart	Would you like me to reexamination the details of your booking one more time before proceeding?
+Help_Restart	Would you like me to reexamine the details of your booking one more time before proceeding?
+Help_Restart	Would you like me to refresh the details of your booking one more time before proceeding?
+Help_Restart	Would you like me to revaluation the details of your booking one more time before proceeding?
+Help_Restart	Would you like to review the contingent of your booking again?
+Help_Restart	Would you like to review the details of your reserve again?
+Help_Restart	Would you like to review the item of your booking again?
+Help_Restart	Would you wish to review the details of your booking again?

@@ -1,0 +1,78 @@
+Can I get a summary of my trip plans?
+Can I get an update on the status of my travel documents?
+Can I get an update on the status of my visa application?
+Can I get help with finding alternative accommodations due to cleanliness concerns?
+Can I get help with finding alternative flights or accommodations due to weather conditions?
+Can I get help with finding alternative flights or accommodations near me?
+Can I get help with finding alternative flights or accommodations?
+Can I get help with flight changes or schedule adjustments?
+Can I view my booking summary and total cost online?
+Can I view my flight schedule and travel plans online?
+Can I view my receipts and expenses?
+Can I view my travel itinerary and flight schedule online?
+Can I view my travel itinerary online?
+Can you provide my flight details?
+Can you show me what's in my reservation?
+Can you tell me about my travel insurance coverage?
+Do I have any layovers or connections?
+Do you have any information about airport lounges and amenities near me?
+Do you have any information about airport lounges or amenities?
+Do you have any information about airport security procedures for [country]?
+Do you have any information about airport security procedures?
+Do you have any information about airport transfers?
+Do you have any information about baggage fees?
+Do you have any recommendations for local attractions and activities near my stay?
+Do you have any recommendations for local restaurants and dining options near my stay?
+Do you have any recommendations for local restaurants near my stay?
+Do you have any recommendations for local transportation near my stay?
+Do you have any recommendations for local transportation options near my stay?
+Do you have any updates on my travel schedule?
+Here are 80 statements to train a corporate travel chatbot:
+How can I get a refund for my trip cancellation?
+How can I request a change of flight schedule or date due to personal reasons?
+How can I request a change of flight schedule or date?
+How can I request a hotel room upgrade or change?
+How can I request a special assistance or accommodation due to disability?
+How can I request a special meal or dietary accommodation due to food allergies?
+How can I request a special meal or dietary accommodation?
+How do I access my booking information?
+How do I check in for my flight?
+How do I claim reimbursement for business expenses?
+How do I make changes to my reservation?
+I need help with my travel arrangement.
+I want to see my itinerary, please.
+I'd like to view my booking details.
+I'm having trouble with my hotel room.
+Is there a way to access my booking confirmation email and details online?
+Is there a way to access my booking confirmation email and details?
+Is there a way to access my booking confirmation email?
+Is there a way to access my booking history and past reservations online?
+Is there a way to access my booking history and past reservations?
+Is there a way to access my booking history?
+Is there a way to access my travel documents and paperwork online?
+Is there a way to access my travel documents and paperwork?
+Is there a way to access my travel insurance policy details online?
+Is there a way to access my travel insurance policy details?
+Is there a way to cancel my booking?
+Is there a way to request a change of accommodations?
+My flight is delayed, what should I do?
+My flight is overbooked, what should I do?
+My hotel room is not clean, what can I do?
+My hotel room is not ready, what can I do?
+My trip is cancelled, what should I do next?
+My trip is delayed, how can I get compensation?
+What are the accommodations like for my stay?
+What are the hotel's check-in and check-out times?
+What are the hotel's policies on room service and amenities during peak season?
+What are the hotel's policies on room service and amenities?
+What are the requirements for visa application and renewal in [country]?
+What are the requirements for visa application and renewal?
+What's the check-in time for my stay?
+What's the cost of my trip so far?
+What's the policy on baggage fees and size restrictions?
+What's the policy on cancellations and refunds?
+What's the policy on lost or stolen luggage and compensation?
+What's the policy on lost or stolen luggage?
+What's the policy on refunds and cancellations during off-peak season?
+What's the policy on refunds and cancellations during peak season?
+What's the status of my flight and hotel?

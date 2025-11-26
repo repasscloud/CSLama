@@ -1,0 +1,324 @@
+NewBooking_SelectHotel	I can't fulfill that quest. Is there something else I can help you with?
+NewBooking_SelectHotel	I can't fulfill that request. represent there something else I can help you with?
+NewBooking_SelectHotel	I can't meet that request. Is there something else I can help you with?
+NewBooking_SelectHotel	I can't satisfy that request. Is there something else I can help you with?
+NewBooking_SelectHotel	Are there any address on hotel rooms right now?
+NewBooking_SelectHotel	Are there any deals on hotel rooms compensate now?
+NewBooking_SelectHotel	Are there any deals on hotel way right now?
+NewBooking_SelectHotel	Are there any hatful on hotel rooms right now?
+NewBooking_SelectHotel	Are there any administer on luxury hotel suites?
+NewBooking_SelectHotel	Are there any contend on luxury hotel suites?
+NewBooking_SelectHotel	Are there any deals on luxury hotel accommodate?
+NewBooking_SelectHotel	Are there any distribute on luxury hotel suites?
+NewBooking_SelectHotel	Are there any consider on weekend getaways at your hotels?
+NewBooking_SelectHotel	Are there any distribute on weekend getaways at your hotels?
+NewBooking_SelectHotel	Are there any pot on weekend getaways at your hotels?
+NewBooking_SelectHotel	constitute there any deals on weekend getaways at your hotels?
+NewBooking_SelectHotel	Are there any discounts for long-term abide?
+NewBooking_SelectHotel	Are there any discounts for long-term detain?
+NewBooking_SelectHotel	Are there any rebate for long-term stays?
+NewBooking_SelectHotel	be there any discounts for long-term stays?
+NewBooking_SelectHotel	Are there any rebate for military personnel?
+NewBooking_SelectHotel	are there any discounts for military personnel?
+NewBooking_SelectHotel	be there any discounts for military personnel?
+NewBooking_SelectHotel	live there any discounts for military personnel?
+NewBooking_SelectHotel	Are there any discounts for students or vernal travelers?
+NewBooking_SelectHotel	Are there any disregard for students or young travelers?
+NewBooking_SelectHotel	comprise there any discounts for students or young travelers?
+NewBooking_SelectHotel	follow there any discounts for students or young travelers?
+NewBooking_SelectHotel	Are there any hotels that extend free parking?
+NewBooking_SelectHotel	Are there any hotels that offer absolve parking?
+NewBooking_SelectHotel	Are there any hotels that offer detached parking?
+NewBooking_SelectHotel	be there any hotels that offer free parking?
+NewBooking_SelectHotel	Are there any hotels that fling pets allowed?
+NewBooking_SelectHotel	Are there any hotels that offer dearie allowed?
+NewBooking_SelectHotel	Are there any hotels that offer pets leave?
+NewBooking_SelectHotel	comprise there any hotels that offer pets allowed?
+NewBooking_SelectHotel	Are there any hotels with a gym or fitness nub?
+NewBooking_SelectHotel	Are there any hotels with a gym or fittingness center?
+NewBooking_SelectHotel	be there any hotels with a gym or fitness center?
+NewBooking_SelectHotel	follow there any hotels with a gym or fitness center?
+NewBooking_SelectHotel	Can you avail me find a hotel near the airport?
+NewBooking_SelectHotel	lavatory you help me find a hotel near the airport?
+NewBooking_SelectHotel	tail you help me find a hotel near the airport?
+NewBooking_SelectHotel	tooshie you help me find a hotel near the airport?
+NewBooking_SelectHotel	Can you help me recover a hotel that fits our budget?
+NewBooking_SelectHotel	Can you help me witness a hotel that fits our budget?
+NewBooking_SelectHotel	privy you help me find a hotel that fits our budget?
+NewBooking_SelectHotel	seat you help me find a hotel that fits our budget?
+NewBooking_SelectHotel	Can you recommend a hotel with a beautiful garden regard?
+NewBooking_SelectHotel	Can you recommend a hotel with a beautiful garden thought?
+NewBooking_SelectHotel	derriere you recommend a hotel with a beautiful garden view?
+NewBooking_SelectHotel	privy you recommend a hotel with a beautiful garden view?
+NewBooking_SelectHotel	buns you recommend a hotel with a relaxing atmosphere?
+NewBooking_SelectHotel	butt you recommend a hotel with a relaxing atmosphere?
+NewBooking_SelectHotel	nates you recommend a hotel with a relaxing atmosphere?
+NewBooking_SelectHotel	potty you recommend a hotel with a relaxing atmosphere?
+NewBooking_SelectHotel	Can you recommend a hotel with a scenic rooftop prospect?
+NewBooking_SelectHotel	john you recommend a hotel with a scenic rooftop view?
+NewBooking_SelectHotel	tail you recommend a hotel with a scenic rooftop view?
+NewBooking_SelectHotel	tush you recommend a hotel with a scenic rooftop view?
+NewBooking_SelectHotel	Can you recommend a hotel with a shuttle serve from the airport?
+NewBooking_SelectHotel	bum you recommend a hotel with a shuttle service from the airport?
+NewBooking_SelectHotel	canful you recommend a hotel with a shuttle service from the airport?
+NewBooking_SelectHotel	pot you recommend a hotel with a shuttle service from the airport?
+NewBooking_SelectHotel	arse you recommend a hotel with a shuttle service?
+NewBooking_SelectHotel	rear you recommend a hotel with a shuttle service?
+NewBooking_SelectHotel	stool you recommend a hotel with a shuttle service?
+NewBooking_SelectHotel	tail you recommend a hotel with a shuttle service?
+NewBooking_SelectHotel	behind you recommend a hotel with a spa?
+NewBooking_SelectHotel	bottom you recommend a hotel with a spa?
+NewBooking_SelectHotel	prat you recommend a hotel with a spa?
+NewBooking_SelectHotel	tush you recommend a hotel with a spa?
+NewBooking_SelectHotel	Can you recommend a hotel with unspoiled Wi-Fi?
+NewBooking_SelectHotel	bum you recommend a hotel with good Wi-Fi?
+NewBooking_SelectHotel	butt you recommend a hotel with good Wi-Fi?
+NewBooking_SelectHotel	commode you recommend a hotel with good Wi-Fi?
+NewBooking_SelectHotel	Can you recommend some honest hotels in this area?
+NewBooking_SelectHotel	Can you recommend some sound hotels in this area?
+NewBooking_SelectHotel	hindquarters you recommend some good hotels in this area?
+NewBooking_SelectHotel	seat you recommend some good hotels in this area?
+NewBooking_SelectHotel	Can you prove me available rooms in that area?
+NewBooking_SelectHotel	Can you show me available rooms in that region?
+NewBooking_SelectHotel	Can you testify me available rooms in that area?
+NewBooking_SelectHotel	seat you show me available rooms in that area?
+NewBooking_SelectHotel	Can you show me available rooms in the city focus?
+NewBooking_SelectHotel	Can you show me available rooms in the city gist?
+NewBooking_SelectHotel	buns you show me available rooms in the city center?
+NewBooking_SelectHotel	throne you show me available rooms in the city center?
+NewBooking_SelectHotel	Can you show me available board in the city suburbs?
+NewBooking_SelectHotel	Can you show me uncommitted rooms in the city suburbs?
+NewBooking_SelectHotel	lav you show me available rooms in the city suburbs?
+NewBooking_SelectHotel	stern you show me available rooms in the city suburbs?
+NewBooking_SelectHotel	Can you show me available suite in the countryside?
+NewBooking_SelectHotel	Can you testify me available rooms in the countryside?
+NewBooking_SelectHotel	john you show me available rooms in the countryside?
+NewBooking_SelectHotel	privy you show me available rooms in the countryside?
+NewBooking_SelectHotel	Can you picture me available rooms in the downtown area?
+NewBooking_SelectHotel	displace you show me available rooms in the downtown area?
+NewBooking_SelectHotel	hindquarters you show me available rooms in the downtown area?
+NewBooking_SelectHotel	posterior you show me available rooms in the downtown area?
+NewBooking_SelectHotel	Can you render me available rooms in the historic district?
+NewBooking_SelectHotel	Can you show me useable rooms in the historic district?
+NewBooking_SelectHotel	buns you show me available rooms in the historic district?
+NewBooking_SelectHotel	seat you show me available rooms in the historic district?
+NewBooking_SelectHotel	Can you shew me available rooms in the suburbs?
+NewBooking_SelectHotel	bathroom you show me available rooms in the suburbs?
+NewBooking_SelectHotel	derriere you show me available rooms in the suburbs?
+NewBooking_SelectHotel	seat you show me available rooms in the suburbs?
+NewBooking_SelectHotel	backside you suggest some family-friendly hotels?
+NewBooking_SelectHotel	fanny you suggest some family-friendly hotels?
+NewBooking_SelectHotel	posterior you suggest some family-friendly hotels?
+NewBooking_SelectHotel	prat you suggest some family-friendly hotels?
+NewBooking_SelectHotel	Do you have any budget-friendly alternative?
+NewBooking_SelectHotel	Do you have any budget-friendly option?
+NewBooking_SelectHotel	fare you have any budget-friendly options?
+NewBooking_SelectHotel	perform you have any budget-friendly options?
+NewBooking_SelectHotel	Do you have any hotels with a eatery on site?
+NewBooking_SelectHotel	Do you have any hotels with a restaurant on place?
+NewBooking_SelectHotel	bash you have any hotels with a restaurant on site?
+NewBooking_SelectHotel	suffice you have any hotels with a restaurant on site?
+NewBooking_SelectHotel	Do you have any hotel with accessible rooms?
+NewBooking_SelectHotel	Do you have any hotels with accessible room?
+NewBooking_SelectHotel	Do you have any hotels with approachable rooms?
+NewBooking_SelectHotel	serve you have any hotels with accessible rooms?
+NewBooking_SelectHotel	behave you have any hotels with an on-site arcade or game room?
+NewBooking_SelectHotel	coiffe you have any hotels with an on-site arcade or game room?
+NewBooking_SelectHotel	coiffure you have any hotels with an on-site arcade or game room?
+NewBooking_SelectHotel	doh you have any hotels with an on-site arcade or game room?
+NewBooking_SelectHotel	Do you have any hotels with an on-site business kernel?
+NewBooking_SelectHotel	Do you have any hotels with an on-site business mall?
+NewBooking_SelectHotel	Do you have any hotels with an on-site business marrow?
+NewBooking_SelectHotel	brawl you have any hotels with an on-site business center?
+NewBooking_SelectHotel	DO you have any hotels with an on-site cinema or movie theater?
+NewBooking_SelectHotel	Do you have any hotels with an on-site cinema or flick theater?
+NewBooking_SelectHotel	Do you have any hotels with an on-site cinema or movie theatre?
+NewBooking_SelectHotel	exercise you have any hotels with an on-site cinema or movie theater?
+NewBooking_SelectHotel	Do you have any hotels with an on-site convenience fund?
+NewBooking_SelectHotel	Do you have any hotels with an on-site convenience stock?
+NewBooking_SelectHotel	Do you have any hotels with an on-site convenience storehouse?
+NewBooking_SelectHotel	dress you have any hotels with an on-site convenience store?
+NewBooking_SelectHotel	Do you have any hotels with an on-site laundry installation?
+NewBooking_SelectHotel	dress you have any hotels with an on-site laundry facility?
+NewBooking_SelectHotel	execute you have any hotels with an on-site laundry facility?
+NewBooking_SelectHotel	manage you have any hotels with an on-site laundry facility?
+NewBooking_SelectHotel	Do you have any hotel with an on-site restaurant?
+NewBooking_SelectHotel	coif you have any hotels with an on-site restaurant?
+NewBooking_SelectHotel	coiffe you have any hotels with an on-site restaurant?
+NewBooking_SelectHotel	practice you have any hotels with an on-site restaurant?
+NewBooking_SelectHotel	Do you have any hotels with an on-site souvenir frequent or gift shop?
+NewBooking_SelectHotel	Do you have any hotels with an on-site souvenir shop or gift patronize?
+NewBooking_SelectHotel	Do you have any hotels with an on-site souvenir shop or gift workshop?
+NewBooking_SelectHotel	serve you have any hotels with an on-site souvenir shop or gift shop?
+NewBooking_SelectHotel	Do you have any hotels with an on-site spa and wellness concentrate?
+NewBooking_SelectHotel	Do you have any hotels with an on-site spa and wellness focus?
+NewBooking_SelectHotel	Do you have any hotels with an on-site spa and wellness rivet?
+NewBooking_SelectHotel	coiffe you have any hotels with an on-site spa and wellness center?
+NewBooking_SelectHotel	DO you have any hotels with an outdoor pool?
+NewBooking_SelectHotel	bash you have any hotels with an outdoor pool?
+NewBooking_SelectHotel	coiffe you have any hotels with an outdoor pool?
+NewBooking_SelectHotel	perform you have any hotels with an outdoor pool?
+NewBooking_SelectHotel	coiffe you have any luxury hotels available?
+NewBooking_SelectHotel	coiffure you have any luxury hotels available?
+NewBooking_SelectHotel	do you have any luxury hotels available?
+NewBooking_SelectHotel	fare you have any luxury hotels available?
+NewBooking_SelectHotel	I need to Book a hotel for a group of friends.
+NewBooking_SelectHotel	I need to book a hotel for a radical of friends.
+NewBooking_SelectHotel	I need to script a hotel for a group of friends.
+NewBooking_SelectHotel	iodine need to book a hotel for a group of friends.
+NewBooking_SelectHotel	I need to Bible a hotel for my bachelor/bachelorette party.
+NewBooking_SelectHotel	I need to playscript a hotel for my bachelor/bachelorette party.
+NewBooking_SelectHotel	I pauperization to book a hotel for my bachelor/bachelorette party.
+NewBooking_SelectHotel	ane need to book a hotel for my bachelor/bachelorette party.
+NewBooking_SelectHotel	I involve to book a hotel for my company meeting.
+NewBooking_SelectHotel	I need to book a hotel for my caller meeting.
+NewBooking_SelectHotel	I need to book a hotel for my company contact.
+NewBooking_SelectHotel	I need to book a hotel for my company encounter.
+NewBooking_SelectHotel	1 need to book a hotel for my event planning team.
+NewBooking_SelectHotel	I need to Word a hotel for my event planning team.
+NewBooking_SelectHotel	I need to book a hotel for my consequence planning team.
+NewBooking_SelectHotel	I take to book a hotel for my event planning team.
+NewBooking_SelectHotel	I motivation to book a hotel for my honeymoon.
+NewBooking_SelectHotel	I pauperization to book a hotel for my honeymoon.
+NewBooking_SelectHotel	I postulate to book a hotel for my honeymoon.
+NewBooking_SelectHotel	iodin need to book a hotel for my honeymoon.
+NewBooking_SelectHotel	I demand to book a hotel for my solo trip.
+NewBooking_SelectHotel	I involve to book a hotel for my solo trip.
+NewBooking_SelectHotel	I need to Quran a hotel for my solo trip.
+NewBooking_SelectHotel	I need to book a hotel for my solo misstep.
+NewBooking_SelectHotel	I want to Quran a room with a kitchenette or cooking facilities.
+NewBooking_SelectHotel	I want to book a room with a kitchenette or cooking adeptness.
+NewBooking_SelectHotel	I want to book a room with a kitchenette or ready facilities.
+NewBooking_SelectHotel	I want to book a room with a kitchenette or wangle facilities.
+NewBooking_SelectHotel	I privation to book a room with a private balcony.
+NewBooking_SelectHotel	I want to Word a room with a private balcony.
+NewBooking_SelectHotel	I want to book a way with a private balcony.
+NewBooking_SelectHotel	single want to book a room with a private balcony.
+NewBooking_SelectHotel	1 want to book a room with a private office.
+NewBooking_SelectHotel	I want to Scripture a room with a private office.
+NewBooking_SelectHotel	I want to book a room with a private berth.
+NewBooking_SelectHotel	one want to book a room with a private office.
+NewBooking_SelectHotel	I want to book a room with a break bedroom.
+NewBooking_SelectHotel	I want to book a room with a differentiate bedroom.
+NewBooking_SelectHotel	I wishing to book a room with a separate bedroom.
+NewBooking_SelectHotel	unity want to book a room with a separate bedroom.
+NewBooking_SelectHotel	I want to book a room with a eyeshot.
+NewBooking_SelectHotel	I want to book a room with a perspective.
+NewBooking_SelectHotel	I want to book a way with a view.
+NewBooking_SelectHotel	single want to book a room with a view.
+NewBooking_SelectHotel	I'm appear for a hotel room tonight.
+NewBooking_SelectHotel	I'm depend for a hotel room tonight.
+NewBooking_SelectHotel	I'm face for a hotel room tonight.
+NewBooking_SelectHotel	I'm looking for a hotel way tonight.
+NewBooking_SelectHotel	I'm appear for a hotel room with a microwave.
+NewBooking_SelectHotel	I'm depend for a hotel room with a microwave.
+NewBooking_SelectHotel	I'm look for a hotel room with a microwave.
+NewBooking_SelectHotel	I'm seem for a hotel room with a microwave.
+NewBooking_SelectHotel	I'm attend for a last-minute hotel booking.
+NewBooking_SelectHotel	I'm await for a last-minute hotel booking.
+NewBooking_SelectHotel	I'm count for a last-minute hotel booking.
+NewBooking_SelectHotel	I'm sounding for a last-minute hotel booking.
+NewBooking_SelectHotel	I'm locomote alone and need a safe hotel.
+NewBooking_SelectHotel	I'm traveling alone and involve a safe hotel.
+NewBooking_SelectHotel	I'm traveling alone and motive a safe hotel.
+NewBooking_SelectHotel	I'm traveling alone and require a safe hotel.
+NewBooking_SelectHotel	Is there a disengage breakfast option at any of your hotels?
+NewBooking_SelectHotel	Is there a free breakfast pick at any of your hotels?
+NewBooking_SelectHotel	Is there a gratuitous breakfast option at any of your hotels?
+NewBooking_SelectHotel	Is there a relieve breakfast option at any of your hotels?
+NewBooking_SelectHotel	Is there a hotel that cater to seniors?
+NewBooking_SelectHotel	Is there a hotel that caters to elder?
+NewBooking_SelectHotel	exist there a hotel that caters to seniors?
+NewBooking_SelectHotel	represent there a hotel that caters to seniors?
+NewBooking_SelectHotel	Is there a hotel that bid a complimentary welcome package?
+NewBooking_SelectHotel	Is there a hotel that offers a complimentary welcome bundle?
+NewBooking_SelectHotel	Is there a hotel that proffer a complimentary welcome package?
+NewBooking_SelectHotel	equal there a hotel that offers a complimentary welcome package?
+NewBooking_SelectHotel	Is there a hotel that fling airport transfers?
+NewBooking_SelectHotel	Is there a hotel that offering airport transfers?
+NewBooking_SelectHotel	Is there a hotel that offers airport transferee?
+NewBooking_SelectHotel	embody there a hotel that offers airport transfers?
+NewBooking_SelectHotel	Is there a hotel that fling pet-sitting services?
+NewBooking_SelectHotel	Is there a hotel that offers pet-sitting Service?
+NewBooking_SelectHotel	Is there a hotel that offers pet-sitting serving?
+NewBooking_SelectHotel	represent there a hotel that offers pet-sitting services?
+NewBooking_SelectHotel	We're fete our anniversary at a hotel.
+NewBooking_SelectHotel	We're lionise our anniversary at a hotel.
+NewBooking_SelectHotel	We're lionize our anniversary at a hotel.
+NewBooking_SelectHotel	We're observe our anniversary at a hotel.
+NewBooking_SelectHotel	We're celebrate our birthday at a hotel.
+NewBooking_SelectHotel	We're fete our birthday at a hotel.
+NewBooking_SelectHotel	We're lionize our birthday at a hotel.
+NewBooking_SelectHotel	We're observe our birthday at a hotel.
+NewBooking_SelectHotel	We're looking for a group grade at your hotel.
+NewBooking_SelectHotel	We're looking for a group value at your hotel.
+NewBooking_SelectHotel	We're search for a group rate at your hotel.
+NewBooking_SelectHotel	We're sounding for a group rate at your hotel.
+NewBooking_SelectHotel	We're await for a hotel room with a separate living area.
+NewBooking_SelectHotel	We're looking for a hotel room with a separate living expanse.
+NewBooking_SelectHotel	We're looking for a hotel room with a separate subsist area.
+NewBooking_SelectHotel	We're wait for a hotel room with a separate living area.
+NewBooking_SelectHotel	We're appear for a quiet hotel room without an elevator.
+NewBooking_SelectHotel	We're await for a quiet hotel room without an elevator.
+NewBooking_SelectHotel	We're calculate for a quiet hotel room without an elevator.
+NewBooking_SelectHotel	We're looking for a tranquillise hotel room without an elevator.
+NewBooking_SelectHotel	We're bet for a quiet hotel room.
+NewBooking_SelectHotel	We're looking for a quieten hotel room.
+NewBooking_SelectHotel	We're looking for a quietly hotel room.
+NewBooking_SelectHotel	We're looking for a unruffled hotel room.
+NewBooking_SelectHotel	We're contrive a corporate retreat at a hotel.
+NewBooking_SelectHotel	We're planning a corporal retreat at a hotel.
+NewBooking_SelectHotel	We're planning a corporate crawfish at a hotel.
+NewBooking_SelectHotel	We're planning a incorporated retreat at a hotel.
+NewBooking_SelectHotel	We're planning a category vacation at a hotel.
+NewBooking_SelectHotel	We're planning a folk vacation at a hotel.
+NewBooking_SelectHotel	We're planning a kin vacation at a hotel.
+NewBooking_SelectHotel	We're preparation a family vacation at a hotel.
+NewBooking_SelectHotel	We're contrive a romantic getaway at a hotel.
+NewBooking_SelectHotel	We're planning a amatory getaway at a hotel.
+NewBooking_SelectHotel	We're planning a romanticistic getaway at a hotel.
+NewBooking_SelectHotel	We're planning a wild-eyed getaway at a hotel.
+NewBooking_SelectHotel	We're contrive an anniversary trip at a hotel.
+NewBooking_SelectHotel	We're planning an anniversary travel at a hotel.
+NewBooking_SelectHotel	We're planning an anniversary trigger at a hotel.
+NewBooking_SelectHotel	We're planning an anniversary trip-up at a hotel.
+NewBooking_SelectHotel	What are the best hotels for byplay travel?
+NewBooking_SelectHotel	What are the best hotels for clientele travel?
+NewBooking_SelectHotel	What are the comfortably hotels for business travel?
+NewBooking_SelectHotel	What are the respectable hotels for business travel?
+NewBooking_SelectHotel	What are the cancellation insurance for your hotels?
+NewBooking_SelectHotel	What are the cancellation policies for your hotel?
+NewBooking_SelectHotel	What are the cancellation policies for your hotels?
+NewBooking_SelectHotel	What are the cancellation policy for your hotels?
+NewBooking_SelectHotel	What are the check-in clip for your hotels?
+NewBooking_SelectHotel	What are the check-in clock for your hotels?
+NewBooking_SelectHotel	What are the check-in metre for your hotels?
+NewBooking_SelectHotel	What are the check-in sentence for your hotels?
+NewBooking_SelectHotel	What are your hotel cost per night?
+NewBooking_SelectHotel	What are your hotel prices per Night?
+NewBooking_SelectHotel	What are your hotel terms per night?
+NewBooking_SelectHotel	What are your hotel toll per night?
+NewBooking_SelectHotel	What are your insurance on luggage storage and delivery at the hotel?
+NewBooking_SelectHotel	What are your policies on luggage depot and delivery at the hotel?
+NewBooking_SelectHotel	What are your policies on luggage memory and delivery at the hotel?
+NewBooking_SelectHotel	What are your policies on luggage storage and saving at the hotel?
+NewBooking_SelectHotel	What are your insurance on noise complaints and guest conduct?
+NewBooking_SelectHotel	What are your policies on noise complaint and guest conduct?
+NewBooking_SelectHotel	What are your policies on noise complaints and guest transmit?
+NewBooking_SelectHotel	What are your policies on resound complaints and guest conduct?
+NewBooking_SelectHotel	What are your policies on bundle delivery and pickup at the hotel?
+NewBooking_SelectHotel	What are your policies on package delivery and cartridge at the hotel?
+NewBooking_SelectHotel	What are your policies on package delivery and getaway at the hotel?
+NewBooking_SelectHotel	What are your policies on package pitch and pickup at the hotel?
+NewBooking_SelectHotel	What are your policies on same-day booking?
+NewBooking_SelectHotel	What are your policies on same-day engagement?
+NewBooking_SelectHotel	What are your policies on same-day reservation?
+NewBooking_SelectHotel	What are your policy on same-day bookings?
+NewBooking_SelectHotel	What's the average Price per night for your hotels?
+NewBooking_SelectHotel	What's the average price per night for your hotel?
+NewBooking_SelectHotel	What's the mean price per night for your hotels?
+NewBooking_SelectHotel	What's the modal price per night for your hotels?
+NewBooking_SelectHotel	Where can I discover affordable hotels near me?
+NewBooking_SelectHotel	Where can I find affordable hotels most me?
+NewBooking_SelectHotel	Where can I get affordable hotels near me?
+NewBooking_SelectHotel	Where can I see affordable hotels near me?

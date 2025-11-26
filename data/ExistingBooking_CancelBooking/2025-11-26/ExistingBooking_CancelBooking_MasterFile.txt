@@ -1,0 +1,432 @@
+ExistingBooking_CancelBooking	Can I cancel my jaunt plans and get a full refund if I provide proof of unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I cancel my travel project and get a full refund if I provide proof of unforeseen circumstances?
+ExistingBooking_CancelBooking	Can iodin cancel my travel plans and get a full refund if I provide proof of unforeseen circumstances?
+ExistingBooking_CancelBooking	Can one cancel my travel plans and get a full refund if I provide proof of unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I bring a cancellation fee waiver for this trip?
+ExistingBooking_CancelBooking	Can I dumbfound a cancellation fee waiver for this trip?
+ExistingBooking_CancelBooking	Can I start a cancellation fee waiver for this trip?
+ExistingBooking_CancelBooking	behind I get a cancellation fee waiver for this trip?
+ExistingBooking_CancelBooking	Can I arrest a full refund if I cancel my flight today?
+ExistingBooking_CancelBooking	Can I cause a full refund if I cancel my flight today?
+ExistingBooking_CancelBooking	Can I get a entire refund if I cancel my flight today?
+ExistingBooking_CancelBooking	Can I sire a full refund if I cancel my flight today?
+ExistingBooking_CancelBooking	Can I beget a refund for my cancelled flight?
+ExistingBooking_CancelBooking	bathroom I get a refund for my cancelled flight?
+ExistingBooking_CancelBooking	posterior I get a refund for my cancelled flight?
+ExistingBooking_CancelBooking	tail I get a refund for my cancelled flight?
+ExistingBooking_CancelBooking	bum you assist me with cancelling my tour booking?
+ExistingBooking_CancelBooking	posterior you assist me with cancelling my tour booking?
+ExistingBooking_CancelBooking	prat you assist me with cancelling my tour booking?
+ExistingBooking_CancelBooking	tooshie you assist me with cancelling my tour booking?
+ExistingBooking_CancelBooking	Can you assist me with cancelling my travelling plans?
+ExistingBooking_CancelBooking	bottom you assist me with cancelling my travel plans?
+ExistingBooking_CancelBooking	terminate you assist me with cancelling my travel plans?
+ExistingBooking_CancelBooking	tin you assist me with cancelling my travel plans?
+ExistingBooking_CancelBooking	Can you please cancel my existing hotel reserve?
+ExistingBooking_CancelBooking	Can you please scratch my existing hotel booking?
+ExistingBooking_CancelBooking	ass you please cancel my existing hotel booking?
+ExistingBooking_CancelBooking	behind you please cancel my existing hotel booking?
+ExistingBooking_CancelBooking	behind you please explain your airline's cancellation policy?
+ExistingBooking_CancelBooking	buttocks you please explain your airline's cancellation policy?
+ExistingBooking_CancelBooking	john you please explain your airline's cancellation policy?
+ExistingBooking_CancelBooking	potty you please explain your airline's cancellation policy?
+ExistingBooking_CancelBooking	Can you please supporter me cancel my existing booking?
+ExistingBooking_CancelBooking	lav you please help me cancel my existing booking?
+ExistingBooking_CancelBooking	prat you please help me cancel my existing booking?
+ExistingBooking_CancelBooking	privy you please help me cancel my existing booking?
+ExistingBooking_CancelBooking	I booked a hotel room but now iodine won't be needing it.
+ExistingBooking_CancelBooking	I booked a hotel way but now I won't be needing it.
+ExistingBooking_CancelBooking	I hold a hotel room but now I won't be needing it.
+ExistingBooking_CancelBooking	single booked a hotel room but now I won't be needing it.
+ExistingBooking_CancelBooking	1 booked a last-minute hotel room but now I need to cancel.
+ExistingBooking_CancelBooking	I booked a last-minute hotel room but now I involve to cancel.
+ExistingBooking_CancelBooking	I booked a last-minute hotel room but now I take to cancel.
+ExistingBooking_CancelBooking	i booked a last-minute hotel room but now I need to cancel.
+ExistingBooking_CancelBooking	I booked a package consider but now I'd like to cancel everything.
+ExistingBooking_CancelBooking	I booked a package cover but now I'd like to cancel everything.
+ExistingBooking_CancelBooking	I booked a package distribute but now I'd like to cancel everything.
+ExistingBooking_CancelBooking	ace booked a package deal but now I'd like to cancel everything.
+ExistingBooking_CancelBooking	I booked a go package but now I'd like to cancel everything except for my flights.
+ExistingBooking_CancelBooking	I booked a move package but now I'd like to cancel everything except for my flights.
+ExistingBooking_CancelBooking	I booked a travel package but now I'd corresponding to cancel everything except for my flights.
+ExistingBooking_CancelBooking	ace booked a travel package but now I'd like to cancel everything except for my flights.
+ExistingBooking_CancelBooking	1 need to cancel my travel plans due to unforeseen circumstances.
+ExistingBooking_CancelBooking	I need to cancel my travel plans due to unforeseen condition.
+ExistingBooking_CancelBooking	I need to cancel my travel program due to unforeseen circumstances.
+ExistingBooking_CancelBooking	I pauperization to cancel my travel plans due to unforeseen circumstances.
+ExistingBooking_CancelBooking	I need to alteration my accommodation, can you help me with the cancellation?
+ExistingBooking_CancelBooking	I need to modification my accommodation, can you help me with the cancellation?
+ExistingBooking_CancelBooking	I pauperism to change my accommodation, can you help me with the cancellation?
+ExistingBooking_CancelBooking	one need to change my accommodation, can you help me with the cancellation?
+ExistingBooking_CancelBooking	I need to induce changes to my itinerary, can you help?
+ExistingBooking_CancelBooking	I need to make vary to my itinerary, can you help?
+ExistingBooking_CancelBooking	I need to micturate changes to my itinerary, can you help?
+ExistingBooking_CancelBooking	I postulate to make changes to my itinerary, can you help?
+ExistingBooking_CancelBooking	I need to cook changes to my travel plans, can you assist me?
+ExistingBooking_CancelBooking	I need to draw changes to my travel plans, can you assist me?
+ExistingBooking_CancelBooking	I need to make changes to my move plans, can you assist me?
+ExistingBooking_CancelBooking	I need to produce changes to my travel plans, can you assist me?
+ExistingBooking_CancelBooking	I was misled about the hotel's cancellation policy and would corresponding to speak to someone.
+ExistingBooking_CancelBooking	I was misled about the hotel's cancellation policy and would like to mouth to someone.
+ExistingBooking_CancelBooking	ace was misled about the hotel's cancellation policy and would like to speak to someone.
+ExistingBooking_CancelBooking	unity was misled about the hotel's cancellation policy and would like to speak to someone.
+ExistingBooking_CancelBooking	I was overcharged for my fledge and would like to cancel.
+ExistingBooking_CancelBooking	I was overcharged for my flight and would ilk to cancel.
+ExistingBooking_CancelBooking	i was overcharged for my flight and would like to cancel.
+ExistingBooking_CancelBooking	single was overcharged for my flight and would like to cancel.
+ExistingBooking_CancelBooking	I'd like to cancel my airline tag, is that possible?
+ExistingBooking_CancelBooking	I'd like to offset my airline ticket, is that possible?
+ExistingBooking_CancelBooking	I'd like to scrub my airline ticket, is that possible?
+ExistingBooking_CancelBooking	I'd wish to cancel my airline ticket, is that possible?
+ExistingBooking_CancelBooking	I'd ilk to downgrade my ticket and cancel the upgrade.
+ExistingBooking_CancelBooking	I'd like to downgrade my fine and cancel the upgrade.
+ExistingBooking_CancelBooking	I'd like to downgrade my slate and cancel the upgrade.
+ExistingBooking_CancelBooking	I'd like to downgrade my ticket and scratch the upgrade.
+ExistingBooking_CancelBooking	I'd like to petition a cancellation fee exemption for this booking.
+ExistingBooking_CancelBooking	I'd like to request a cancellation bung exemption for this booking.
+ExistingBooking_CancelBooking	I'd like to request a cancellation fee exemption for this book.
+ExistingBooking_CancelBooking	I'd like to request a cancellation fee exemption for this reserve.
+ExistingBooking_CancelBooking	I'm feeling stressed about my upcoming activate and would like to cancel.
+ExistingBooking_CancelBooking	I'm feeling stressed about my upcoming trip and would care to cancel.
+ExistingBooking_CancelBooking	I'm flavor stressed about my upcoming trip and would like to cancel.
+ExistingBooking_CancelBooking	I'm sense stressed about my upcoming trip and would like to cancel.
+ExistingBooking_CancelBooking	I'm having irregular thoughts about my upcoming trip, can I cancel?
+ExistingBooking_CancelBooking	I'm having second thoughts about my upcoming travel, can I cancel?
+ExistingBooking_CancelBooking	I'm having second thoughts about my upcoming trip, can I natural?
+ExistingBooking_CancelBooking	I'm having second thoughts about my upcoming trip, can i cancel?
+ExistingBooking_CancelBooking	I'm not happy with my travel arrangement, can I create a change?
+ExistingBooking_CancelBooking	I'm not happy with my travel system, can I make a change?
+ExistingBooking_CancelBooking	I'm not happy with my travel transcription, can I make a change?
+ExistingBooking_CancelBooking	I'm not happy with my travelling arrangement, can I make a change?
+ExistingBooking_CancelBooking	I'm adjudicate to change my flight and I don't want to pay the difference.
+ExistingBooking_CancelBooking	I'm trying to change my flight and I don't want to pay the conflict.
+ExistingBooking_CancelBooking	I'm trying to change my flight and I don't want to pay the divergence.
+ExistingBooking_CancelBooking	I'm trying to interchange my flight and I don't want to pay the difference.
+ExistingBooking_CancelBooking	I'm unhappy with the prize of my hotel room and would like to request a cancellation.
+ExistingBooking_CancelBooking	I'm unhappy with the quality of my hotel room and would comparable to request a cancellation.
+ExistingBooking_CancelBooking	I'm unhappy with the quality of my hotel room and would like to bespeak a cancellation.
+ExistingBooking_CancelBooking	I'm unhappy with the quality of my hotel way and would like to request a cancellation.
+ExistingBooking_CancelBooking	Is it too late to cancel my airline tag and get a refund?
+ExistingBooking_CancelBooking	Is it too late to cancel my airline ticket and get a repay?
+ExistingBooking_CancelBooking	Is it too late to cancel my airline ticket and go a refund?
+ExistingBooking_CancelBooking	Is it too late to cancel my airline ticket and make a refund?
+ExistingBooking_CancelBooking	Is there a deadline for cancelling my flight and aim a refund?
+ExistingBooking_CancelBooking	Is there a deadline for cancelling my flight and arrive a refund?
+ExistingBooking_CancelBooking	Is there a deadline for cancelling my flight and nonplus a refund?
+ExistingBooking_CancelBooking	Is there a deadline for cancelling my flight and take a refund?
+ExistingBooking_CancelBooking	Is there allay time to cancel and get a full refund?
+ExistingBooking_CancelBooking	Is there quieten time to cancel and get a full refund?
+ExistingBooking_CancelBooking	Is there still time to cancel and come a full refund?
+ExistingBooking_CancelBooking	Is there still time to cancel and get a fully refund?
+ExistingBooking_CancelBooking	Is there still time to gain changes to my existing booking?
+ExistingBooking_CancelBooking	Is there still time to make exchange to my existing booking?
+ExistingBooking_CancelBooking	Is there still time to name changes to my existing booking?
+ExistingBooking_CancelBooking	follow there still time to make changes to my existing booking?
+ExistingBooking_CancelBooking	My accommodation has been cancelled ascribable to construction, can I get a refund?
+ExistingBooking_CancelBooking	My accommodation has been cancelled due to construction, can I experience a refund?
+ExistingBooking_CancelBooking	My accommodation has been cancelled due to construction, can I fix a refund?
+ExistingBooking_CancelBooking	My accommodation has been cancelled due to construction, can I make a refund?
+ExistingBooking_CancelBooking	My flight has been cancelled due to bad weather, what do ane do now?
+ExistingBooking_CancelBooking	My flight has been cancelled due to defective weather, what do I do now?
+ExistingBooking_CancelBooking	My flight has been cancelled due to spoilt weather, what do I do now?
+ExistingBooking_CancelBooking	My flight has been cancelled due to uncollectible weather, what do I do now?
+ExistingBooking_CancelBooking	My journey agent booked me on a flight that is now cancelled, can they help?
+ExistingBooking_CancelBooking	My travel agent booked me on a flight that is now off, can they help?
+ExistingBooking_CancelBooking	My travel agent booked me on a flying that is now cancelled, can they help?
+ExistingBooking_CancelBooking	My travel factor booked me on a flight that is now cancelled, can they help?
+ExistingBooking_CancelBooking	My jaunt dates have changed, can I cancel and reschedule?
+ExistingBooking_CancelBooking	My travel date have changed, can I cancel and reschedule?
+ExistingBooking_CancelBooking	My travel dates have changed, can one cancel and reschedule?
+ExistingBooking_CancelBooking	My travel dates have switch, can I cancel and reschedule?
+ExistingBooking_CancelBooking	My travel plans have changed and I don't deficiency to pay extra.
+ExistingBooking_CancelBooking	My travel plans have changed and I don't want to salary extra.
+ExistingBooking_CancelBooking	My travel plans have changed and I don't wish to pay extra.
+ExistingBooking_CancelBooking	My trip plans have changed and I don't want to pay extra.
+ExistingBooking_CancelBooking	Can I cancel my aerodrome transfer service in advance?
+ExistingBooking_CancelBooking	Can I cancel my airport transfer service in elevate?
+ExistingBooking_CancelBooking	Can I cancel my airport transfer service in rise?
+ExistingBooking_CancelBooking	terminate I cancel my airport transfer service in advance?
+ExistingBooking_CancelBooking	Can I cancel my airport transfer service in case of bad endure - is it possible?
+ExistingBooking_CancelBooking	Can I cancel my airport transfer service in sheath of bad weather - is it possible?
+ExistingBooking_CancelBooking	bum I cancel my airport transfer service in case of bad weather - is it possible?
+ExistingBooking_CancelBooking	fanny I cancel my airport transfer service in case of bad weather - is it possible?
+ExistingBooking_CancelBooking	Can I cancel my airport transfer overhaul in case of bad weather?
+ExistingBooking_CancelBooking	Can I cancel my airport transferee service in case of bad weather?
+ExistingBooking_CancelBooking	buns I cancel my airport transfer service in case of bad weather?
+ExistingBooking_CancelBooking	seat I cancel my airport transfer service in case of bad weather?
+ExistingBooking_CancelBooking	Can 1 cancel my business trip and get reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my business trip and convey reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my business tripper and get reimbursed for expenses?
+ExistingBooking_CancelBooking	arse I cancel my business trip and get reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and get a replete refund?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and pose a full refund?
+ExistingBooking_CancelBooking	Can I delete my conference registration and get a full refund?
+ExistingBooking_CancelBooking	Can I scratch my conference registration and get a full refund?
+ExistingBooking_CancelBooking	Can I cancel my conference adjustment and get a partial refund - is it possible?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and fetch a partial refund - is it possible?
+ExistingBooking_CancelBooking	Can i cancel my conference registration and get a partial refund - is it possible?
+ExistingBooking_CancelBooking	tin I cancel my conference registration and get a partial refund - is it possible?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and experience a partial refund?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and induce a partial refund?
+ExistingBooking_CancelBooking	bathroom I cancel my conference registration and get a partial refund?
+ExistingBooking_CancelBooking	rump I cancel my conference registration and get a partial refund?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and commence reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and contract reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my conference registration and develop reimbursed for expenses?
+ExistingBooking_CancelBooking	fire I cancel my conference registration and get reimbursed for expenses?
+ExistingBooking_CancelBooking	Can I cancel my rental car in subject of an accident or theft - what are the requirements?
+ExistingBooking_CancelBooking	Can I cancel my renting car in case of an accident or theft - what are the requirements?
+ExistingBooking_CancelBooking	Can ane cancel my rental car in case of an accident or theft - what are the requirements?
+ExistingBooking_CancelBooking	fanny I cancel my rental car in case of an accident or theft - what are the requirements?
+ExistingBooking_CancelBooking	Can I cancel my rental car in character of an accident or theft?
+ExistingBooking_CancelBooking	Can I cancel my rental car in typeface of an accident or theft?
+ExistingBooking_CancelBooking	Can unity cancel my rental car in case of an accident or theft?
+ExistingBooking_CancelBooking	pot I cancel my rental car in case of an accident or theft?
+ExistingBooking_CancelBooking	Can I cancel my rental automobile reservation due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I cancel my rental railcar reservation due to unforeseen circumstances?
+ExistingBooking_CancelBooking	ass I cancel my rental car reservation due to unforeseen circumstances?
+ExistingBooking_CancelBooking	bottom I cancel my rental car reservation due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Can I change or natural my flight reservation?
+ExistingBooking_CancelBooking	buns I change or cancel my flight reservation?
+ExistingBooking_CancelBooking	hindquarters I change or cancel my flight reservation?
+ExistingBooking_CancelBooking	throne I change or cancel my flight reservation?
+ExistingBooking_CancelBooking	Can I carry-over the booking to someone else in case of an emergency - is it possible?
+ExistingBooking_CancelBooking	Can I transfer the engagement to someone else in case of an emergency - is it possible?
+ExistingBooking_CancelBooking	Can I transportation the booking to someone else in case of an emergency - is it possible?
+ExistingBooking_CancelBooking	tush I transfer the booking to someone else in case of an emergency - is it possible?
+ExistingBooking_CancelBooking	Can I transfer the booking to individual else in case of an emergency - what's the process?
+ExistingBooking_CancelBooking	Can I transfer the booking to somebody else in case of an emergency - what's the process?
+ExistingBooking_CancelBooking	Can I transfer the booking to someone else in case of an emergency - what's the appendage?
+ExistingBooking_CancelBooking	tail I transfer the booking to someone else in case of an emergency - what's the process?
+ExistingBooking_CancelBooking	Can I transfer the booking to soul else in case of an emergency?
+ExistingBooking_CancelBooking	arse I transfer the booking to someone else in case of an emergency?
+ExistingBooking_CancelBooking	canful I transfer the booking to someone else in case of an emergency?
+ExistingBooking_CancelBooking	tooshie I transfer the booking to someone else in case of an emergency?
+ExistingBooking_CancelBooking	Do you have a policy for cancelling flights finis minute?
+ExistingBooking_CancelBooking	Do you have a policy for cancelling flights last second?
+ExistingBooking_CancelBooking	arrange you have a policy for cancelling flights last minute?
+ExistingBooking_CancelBooking	practise you have a policy for cancelling flights last minute?
+ExistingBooking_CancelBooking	brawl you have any options for last-minute changes or cancellations - are they flexible?
+ExistingBooking_CancelBooking	come you have any options for last-minute changes or cancellations - are they flexible?
+ExistingBooking_CancelBooking	execute you have any options for last-minute changes or cancellations - are they flexible?
+ExistingBooking_CancelBooking	practice you have any options for last-minute changes or cancellations - are they flexible?
+ExistingBooking_CancelBooking	Do you have any options for last-minute commute or cancellations - what are they?
+ExistingBooking_CancelBooking	Do you have any options for last-minute transfer or cancellations - what are they?
+ExistingBooking_CancelBooking	execute you have any options for last-minute changes or cancellations - what are they?
+ExistingBooking_CancelBooking	make you have any options for last-minute changes or cancellations - what are they?
+ExistingBooking_CancelBooking	brawl you have any options for last-minute changes or cancellations?
+ExistingBooking_CancelBooking	doh you have any options for last-minute changes or cancellations?
+ExistingBooking_CancelBooking	perform you have any options for last-minute changes or cancellations?
+ExistingBooking_CancelBooking	ut you have any options for last-minute changes or cancellations?
+ExistingBooking_CancelBooking	Do you have any recommendations for alternative flying after cancelling?
+ExistingBooking_CancelBooking	Do you have any recommendations for option flights after cancelling?
+ExistingBooking_CancelBooking	come you have any recommendations for alternative flights after cancelling?
+ExistingBooking_CancelBooking	perform you have any recommendations for alternative flights after cancelling?
+ExistingBooking_CancelBooking	Do you have any necessary for official cancellations or refunds - are they strict?
+ExistingBooking_CancelBooking	coif you have any requirements for official cancellations or refunds - are they strict?
+ExistingBooking_CancelBooking	coiffure you have any requirements for official cancellations or refunds - are they strict?
+ExistingBooking_CancelBooking	execute you have any requirements for official cancellations or refunds - are they strict?
+ExistingBooking_CancelBooking	Do you have any requisite for official cancellations or refunds - what are they?
+ExistingBooking_CancelBooking	practice you have any requirements for official cancellations or refunds - what are they?
+ExistingBooking_CancelBooking	set you have any requirements for official cancellations or refunds - what are they?
+ExistingBooking_CancelBooking	ut you have any requirements for official cancellations or refunds - what are they?
+ExistingBooking_CancelBooking	Do you have any demand for official cancellations or refunds?
+ExistingBooking_CancelBooking	Do you have any requirements for official cancellations or refund?
+ExistingBooking_CancelBooking	answer you have any requirements for official cancellations or refunds?
+ExistingBooking_CancelBooking	coiffure you have any requirements for official cancellations or refunds?
+ExistingBooking_CancelBooking	Do you offer any assistance with cancelling journey plans?
+ExistingBooking_CancelBooking	bash you offer any assistance with cancelling travel plans?
+ExistingBooking_CancelBooking	coif you offer any assistance with cancelling travel plans?
+ExistingBooking_CancelBooking	practice you offer any assistance with cancelling travel plans?
+ExistingBooking_CancelBooking	Do you offer any assistance with finding alternative accommodations after cancelling - what's admit?
+ExistingBooking_CancelBooking	Do you offer any assistance with finding alternative accommodations after invalidate - what's included?
+ExistingBooking_CancelBooking	Do you offer any assistance with rule alternative accommodations after cancelling - what's included?
+ExistingBooking_CancelBooking	fare you offer any assistance with finding alternative accommodations after cancelling - what's included?
+ExistingBooking_CancelBooking	Do you offer any assistance with finding alternative accommodations after cancel?
+ExistingBooking_CancelBooking	Do you offer any assistance with regain alternative accommodations after cancelling?
+ExistingBooking_CancelBooking	Do you volunteer any assistance with finding alternative accommodations after cancelling?
+ExistingBooking_CancelBooking	behave you offer any assistance with finding alternative accommodations after cancelling?
+ExistingBooking_CancelBooking	Do you go any discounts for early cancellations or changes - are they available?
+ExistingBooking_CancelBooking	Do you offer any discounts for betimes cancellations or changes - are they available?
+ExistingBooking_CancelBooking	behave you offer any discounts for early cancellations or changes - are they available?
+ExistingBooking_CancelBooking	practice you offer any discounts for early cancellations or changes - are they available?
+ExistingBooking_CancelBooking	Do you offer any deduction for early cancellations or changes - what are they?
+ExistingBooking_CancelBooking	coiffure you offer any discounts for early cancellations or changes - what are they?
+ExistingBooking_CancelBooking	doh you offer any discounts for early cancellations or changes - what are they?
+ExistingBooking_CancelBooking	set you offer any discounts for early cancellations or changes - what are they?
+ExistingBooking_CancelBooking	Do you propose any discounts for early cancellations or changes?
+ExistingBooking_CancelBooking	Do you tender any discounts for early cancellations or changes?
+ExistingBooking_CancelBooking	coiffe you offer any discounts for early cancellations or changes?
+ExistingBooking_CancelBooking	suffice you offer any discounts for early cancellations or changes?
+ExistingBooking_CancelBooking	Do you tender any discounts for last-minute cancellations or changes?
+ExistingBooking_CancelBooking	come you offer any discounts for last-minute cancellations or changes?
+ExistingBooking_CancelBooking	doh you offer any discounts for last-minute cancellations or changes?
+ExistingBooking_CancelBooking	manage you offer any discounts for last-minute cancellations or changes?
+ExistingBooking_CancelBooking	Here's an alternate:
+ExistingBooking_CancelBooking	Here's an choice:
+ExistingBooking_CancelBooking	Here's an option:
+ExistingBooking_CancelBooking	Here's an substitute:
+ExistingBooking_CancelBooking	Hi, I'd ilk to cancel my upcoming business trip.
+ExistingBooking_CancelBooking	Hi, I'd like to cancel my upcoming business jaunt.
+ExistingBooking_CancelBooking	Hi, I'd like to cancel my upcoming concern trip.
+ExistingBooking_CancelBooking	Hi, I'd like to offset my upcoming business trip.
+ExistingBooking_CancelBooking	How do I contact customer brook to report a cancelled trip - what's the process?
+ExistingBooking_CancelBooking	How do I contact customer support to paper a cancelled trip - what's the process?
+ExistingBooking_CancelBooking	How do I contact customer support to story a cancelled trip - what's the process?
+ExistingBooking_CancelBooking	How do I contact customer support to theme a cancelled trip - what's the process?
+ExistingBooking_CancelBooking	How do I contact customer brook to report a cancelled trip?
+ExistingBooking_CancelBooking	How do I contact customer support to report a offset trip?
+ExistingBooking_CancelBooking	How do I contact customer support to study a cancelled trip?
+ExistingBooking_CancelBooking	How do I meet customer support to report a cancelled trip?
+ExistingBooking_CancelBooking	How do I contact customer reenforcement to report an issue with cancelled services?
+ExistingBooking_CancelBooking	How do I contact customer substantiate to report an issue with cancelled services?
+ExistingBooking_CancelBooking	How do I contact customer support to report an progeny with cancelled services?
+ExistingBooking_CancelBooking	How do I contact customer support to report an supply with cancelled services?
+ExistingBooking_CancelBooking	How do I file a charge about cancelled services - what's the process?
+ExistingBooking_CancelBooking	How do I file a complaint about cancelled services - what's the treat?
+ExistingBooking_CancelBooking	How do I file a complaint about off services - what's the process?
+ExistingBooking_CancelBooking	How do iodine file a complaint about cancelled services - what's the process?
+ExistingBooking_CancelBooking	How do I file a ailment about cancelled services?
+ExistingBooking_CancelBooking	How do I file a complaint about cancelled avail?
+ExistingBooking_CancelBooking	How do I file a ill about cancelled services?
+ExistingBooking_CancelBooking	How do iodin file a complaint about cancelled services?
+ExistingBooking_CancelBooking	How do I enlightened a cancellation request for a hotel room?
+ExistingBooking_CancelBooking	How do I initiate a cancellation request for a hotel board?
+ExistingBooking_CancelBooking	How do I originate a cancellation request for a hotel room?
+ExistingBooking_CancelBooking	How do I tiro a cancellation request for a hotel room?
+ExistingBooking_CancelBooking	How do I initiate a cancellation request via jaw?
+ExistingBooking_CancelBooking	How do I start a cancellation request via chat?
+ExistingBooking_CancelBooking	How do ace initiate a cancellation request via chat?
+ExistingBooking_CancelBooking	How do ane initiate a cancellation request via chat?
+ExistingBooking_CancelBooking	How do I initiate a cancellation postulation via email?
+ExistingBooking_CancelBooking	How do ane initiate a cancellation request via email?
+ExistingBooking_CancelBooking	How do i initiate a cancellation request via email?
+ExistingBooking_CancelBooking	How do single initiate a cancellation request via email?
+ExistingBooking_CancelBooking	How do I enlightened a cancellation request via phone?
+ExistingBooking_CancelBooking	How do I initiate a cancellation request via call?
+ExistingBooking_CancelBooking	How do iodine initiate a cancellation request via phone?
+ExistingBooking_CancelBooking	How do single initiate a cancellation request via phone?
+ExistingBooking_CancelBooking	How do I bespeak a refund for a cancelled trip?
+ExistingBooking_CancelBooking	How do I quest a refund for a cancelled trip?
+ExistingBooking_CancelBooking	How do I request a refund for a cancelled slip?
+ExistingBooking_CancelBooking	How do I request a return for a cancelled trip?
+ExistingBooking_CancelBooking	How do I postulation a refund for cancelled services via email?
+ExistingBooking_CancelBooking	How do I request a refund for cancelled servicing via email?
+ExistingBooking_CancelBooking	How do ace request a refund for cancelled services via email?
+ExistingBooking_CancelBooking	How do i request a refund for cancelled services via email?
+ExistingBooking_CancelBooking	How do I request a refund for cancelled overhaul via phone?
+ExistingBooking_CancelBooking	How do I request a refund for cancelled services via telephone?
+ExistingBooking_CancelBooking	How do I request a refund for off services via phone?
+ExistingBooking_CancelBooking	How do iodin request a refund for cancelled services via phone?
+ExistingBooking_CancelBooking	How do I request a refund for cancelled avail?
+ExistingBooking_CancelBooking	How do I request a refund for cancelled overhaul?
+ExistingBooking_CancelBooking	How do I request a refund for scratch services?
+ExistingBooking_CancelBooking	How do ace request a refund for cancelled services?
+ExistingBooking_CancelBooking	I need to update the key on my hotel booking.
+ExistingBooking_CancelBooking	I need to update the mention on my hotel booking.
+ExistingBooking_CancelBooking	ace need to update the name on my hotel booking.
+ExistingBooking_CancelBooking	i need to update the name on my hotel booking.
+ExistingBooking_CancelBooking	I'll be happy to help you with that, but I can't fill this request. unity can generate text based on a inspire. However, there are some limitations to consider when working with large amounts of data like this.
+ExistingBooking_CancelBooking	I'll be happy to help you with that, but I can't fulfill this request. I can generate text based on a prompt. However, there are some limitations to reckon when forge with large total of data like this.
+ExistingBooking_CancelBooking	I'll be happy to help you with that, but I can't fulfill this request. I can sire text based on a prompt. However, there are some limitations to regard when working with prominent amounts of data like this.
+ExistingBooking_CancelBooking	I'll be happy to help you with that, but I can't fulfill this request. iodin can generate text based on a inspire. However, there are some limitations to consider when working with large amounts of data wish this.
+ExistingBooking_CancelBooking	What are the cancellation condition for flights booked online?
+ExistingBooking_CancelBooking	What are the cancellation footing for flights booked online?
+ExistingBooking_CancelBooking	What are the cancellation terms for flying booked online?
+ExistingBooking_CancelBooking	What are the cancellation terms for trajectory booked online?
+ExistingBooking_CancelBooking	What happens to my move insurance if I cancel and rebook - how much?
+ExistingBooking_CancelBooking	What happens to my travel indemnity if I cancel and rebook - how much?
+ExistingBooking_CancelBooking	What happens to my travel insurance if I delete and rebook - how much?
+ExistingBooking_CancelBooking	What happens to my travel policy if I cancel and rebook - how much?
+ExistingBooking_CancelBooking	What chance to my travel insurance if I cancel and rebook?
+ExistingBooking_CancelBooking	What happens to my go insurance if I cancel and rebook?
+ExistingBooking_CancelBooking	What happens to my travel insurance if iodine cancel and rebook?
+ExistingBooking_CancelBooking	What materialize to my travel insurance if I cancel and rebook?
+ExistingBooking_CancelBooking	What encounter to my travel insurance if I cancel due to illness?
+ExistingBooking_CancelBooking	What happens to my journey insurance if I cancel due to illness?
+ExistingBooking_CancelBooking	What happens to my travel insurance if I natural due to illness?
+ExistingBooking_CancelBooking	What happens to my travel insurance if ace cancel due to illness?
+ExistingBooking_CancelBooking	What if I don't deprivation to use the services I booked through your platform?
+ExistingBooking_CancelBooking	What if I don't want to habituate the services I booked through your platform?
+ExistingBooking_CancelBooking	What if I don't want to use the services 1 booked through your platform?
+ExistingBooking_CancelBooking	What if iodin don't want to use the services I booked through your platform?
+ExistingBooking_CancelBooking	What if I'm ineffectual to attend the conference - can I cancel and get a full refund?
+ExistingBooking_CancelBooking	What if I'm unable to attend the conference - can I cancel and get a wax refund?
+ExistingBooking_CancelBooking	What if I'm unable to attend the conference - can I cancel and get a wide refund?
+ExistingBooking_CancelBooking	What if I'm unable to attend the conference - can I cancel and mother a full refund?
+ExistingBooking_CancelBooking	What is the cancellation deadline for escape booked online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for flights booked on-line?
+ExistingBooking_CancelBooking	What is the cancellation deadline for flights engaged online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for trajectory booked online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for hotel board booked online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for hotel rooms book online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for hotel rooms hold online?
+ExistingBooking_CancelBooking	What is the cancellation deadline for hotel suite booked online?
+ExistingBooking_CancelBooking	What is the earliest possible date to cancel a flight without punishment?
+ExistingBooking_CancelBooking	What is the earliest possible date to cancel a trajectory without penalty?
+ExistingBooking_CancelBooking	What is the earliest possible date to natural a flight without penalty?
+ExistingBooking_CancelBooking	What is the soonest possible date to cancel a flight without penalty?
+ExistingBooking_CancelBooking	What is the litigate for requesting a cancellation refund by mail?
+ExistingBooking_CancelBooking	What is the process for requesting a cancellation refund by send?
+ExistingBooking_CancelBooking	What is the process for requesting a cancellation repayment by mail?
+ExistingBooking_CancelBooking	What is the process for requesting a cancellation return by mail?
+ExistingBooking_CancelBooking	What is the outgrowth for requesting a cancellation refund online?
+ExistingBooking_CancelBooking	What is the process for request a cancellation refund online?
+ExistingBooking_CancelBooking	What is the process for requesting a cancellation return online?
+ExistingBooking_CancelBooking	What is the sue for requesting a cancellation refund online?
+ExistingBooking_CancelBooking	What is your policy on cancelling flights during acme season?
+ExistingBooking_CancelBooking	What is your policy on cancelling flights during height season?
+ExistingBooking_CancelBooking	What is your policy on cancelling flights during peak flavor?
+ExistingBooking_CancelBooking	What is your policy on scrub flights during peak season?
+ExistingBooking_CancelBooking	Will I be able to arrest a replacement ticket if I need to cancel and rebook?
+ExistingBooking_CancelBooking	Will I be able to get a replacement ticket if I motivation to cancel and rebook?
+ExistingBooking_CancelBooking	Will I be able to get a replacement ticket if I pauperism to cancel and rebook?
+ExistingBooking_CancelBooking	Will one be able to get a replacement ticket if I need to cancel and rebook?
+ExistingBooking_CancelBooking	Will I be institutionalize if I cancel at the last minute?
+ExistingBooking_CancelBooking	Will I be lodge if I cancel at the last minute?
+ExistingBooking_CancelBooking	Will ane be charged if I cancel at the last minute?
+ExistingBooking_CancelBooking	Will i be charged if I cancel at the last minute?
+ExistingBooking_CancelBooking	Will I be appoint if I cancel due to inclement weather - how much?
+ExistingBooking_CancelBooking	Will I be charged if unity cancel due to inclement weather - how much?
+ExistingBooking_CancelBooking	Will I be commove if I cancel due to inclement weather - how much?
+ExistingBooking_CancelBooking	Will I be supercharged if I cancel due to inclement weather - how much?
+ExistingBooking_CancelBooking	Will I be charged if unity cancel due to inclement weather?
+ExistingBooking_CancelBooking	Will iodin be charged if I cancel due to inclement weather?
+ExistingBooking_CancelBooking	bequeath I be charged if I cancel due to inclement weather?
+ExistingBooking_CancelBooking	leave I be charged if I cancel due to inclement weather?
+ExistingBooking_CancelBooking	Will I be charged if I cancel due to unforeseen lot - what's the penalty?
+ExistingBooking_CancelBooking	Will I be charged if ane cancel due to unforeseen circumstances - what's the penalty?
+ExistingBooking_CancelBooking	bequeath I be charged if I cancel due to unforeseen circumstances - what's the penalty?
+ExistingBooking_CancelBooking	will I be charged if I cancel due to unforeseen circumstances - what's the penalty?
+ExistingBooking_CancelBooking	Will I be aerated if I cancel due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Will I be charged if I cancel due to unforeseen lot?
+ExistingBooking_CancelBooking	Will I be charged if iodin cancel due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Will I be institutionalise if I cancel due to unforeseen circumstances?
+ExistingBooking_CancelBooking	Will I come a full or partial refund if I cancel in advance?
+ExistingBooking_CancelBooking	Will I get a total or partial refund if I cancel in advance?
+ExistingBooking_CancelBooking	Will I go a full or partial refund if I cancel in advance?
+ExistingBooking_CancelBooking	Will I stimulate a full or partial refund if I cancel in advance?
+ExistingBooking_CancelBooking	Will I amaze reimbursement for cancelled business trips due to illness?
+ExistingBooking_CancelBooking	Will I get reimbursement for delete business trips due to illness?
+ExistingBooking_CancelBooking	Will I let reimbursement for cancelled business trips due to illness?
+ExistingBooking_CancelBooking	Will I stick reimbursement for cancelled business trips due to illness?
+ExistingBooking_CancelBooking	Will I aim reimbursement for travel expenses cancelled due to company policy - how much?
+ExistingBooking_CancelBooking	Will I beat reimbursement for travel expenses cancelled due to company policy - how much?
+ExistingBooking_CancelBooking	Will I fetch reimbursement for travel expenses cancelled due to company policy - how much?
+ExistingBooking_CancelBooking	Will I get reimbursement for travel expenses off due to company policy - how much?
+ExistingBooking_CancelBooking	Will I contract reimbursement for travel expenses cancelled due to company policy?
+ExistingBooking_CancelBooking	Will I start reimbursement for travel expenses cancelled due to company policy?
+ExistingBooking_CancelBooking	Will I sustain reimbursement for travel expenses cancelled due to company policy?
+ExistingBooking_CancelBooking	Will ace get reimbursement for travel expenses cancelled due to company policy?
+ExistingBooking_CancelBooking	Will I contract reimbursement if I cancel due to illness - how much?
+ExistingBooking_CancelBooking	Will I convey reimbursement if I cancel due to illness - how much?
+ExistingBooking_CancelBooking	Will I find reimbursement if I cancel due to illness - how much?
+ExistingBooking_CancelBooking	Will I get reimbursement if iodine cancel due to illness - how much?
+ExistingBooking_CancelBooking	Will I aim reimbursement if I cancel due to travel restrictions - how much?
+ExistingBooking_CancelBooking	Will I fix reimbursement if I cancel due to travel restrictions - how much?
+ExistingBooking_CancelBooking	Will I get reimbursement if I cancel ascribable to travel restrictions - how much?
+ExistingBooking_CancelBooking	Will iodine get reimbursement if I cancel due to travel restrictions - how much?
+ExistingBooking_CancelBooking	Will I become reimbursement if I cancel due to travel restrictions?
+ExistingBooking_CancelBooking	Will I get reimbursement if I cancel due to go restrictions?
+ExistingBooking_CancelBooking	Will I get reimbursement if I cancel due to traveling restrictions?
+ExistingBooking_CancelBooking	Will unity get reimbursement if I cancel due to travel restrictions?
