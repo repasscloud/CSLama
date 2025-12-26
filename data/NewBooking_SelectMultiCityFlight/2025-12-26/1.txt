@@ -1,0 +1,59 @@
+Book a flight from Chicago to Miami.
+Book a one-way flight from New York to Los Angeles.
+Book a round-trip flight from Los Angeles to San Francisco with layovers.
+Book a round-trip flight from Los Angeles to San Francisco with reasonable travel times.
+Book a round-trip flight from New York to Chicago with layovers.
+Book flights from New York to Miami and then to Los Angeles.
+Book flights from San Francisco to Sydney and back.
+Book flights from San Francisco to Tokyo and back to Los Angeles.
+Book flights from San Francisco to Tokyo and then to Los Angeles.
+Can I book a multi-destination ticket with an overnight stay?
+Can I book a multi-destination ticket with reasonable travel times?
+Can I book a round-trip flight with connections in Europe?
+Can I book a round-trip ticket with stops in several US cities?
+Can you assist me in finding a non-stop flight between cities?
+Can you help me find a flight that takes me from one city to another?
+Can you help me find a multi-destination flight plan?
+Can you help me find a one-way ticket between cities in the US?
+Can you help me find a round-trip flight with multiple layovers?
+Can you help me find a round-trip ticket between cities in the US?
+Flight itinerary includes an overnight stay before continuing onward.
+Flight itinerary includes layovers and domestic segments.
+Flight itinerary includes layovers and short stays.
+Flight itinerary includes long-haul international segments and domestic connections.
+Flight itinerary includes long-haul international segments and domestic layovers.
+Flight itinerary includes long-haul international segments.
+Flights between Boston and Washington D.C. and then international.
+Flights between two cities, then a layover before continuing onward.
+Flights between two cities, then an international flight without layovers.
+Flights between two cities, then an international flight.
+Flights between two cities, then an overnight stay before continuing.
+Flights from Denver to Phoenix and back.
+I need a multi-city booking with reasonable layover times.
+I need a multi-city booking with reasonable travel times.
+I need assistance planning a complex multi-city vacation package.
+I need assistance planning a multi-city business trip.
+I'm looking for flights from New York to LA.
+Just booked a trip that involves multiple airports.
+Just booked a trip with multiple stops.
+Looking for flights connecting cities in different regions.
+Looking for flights connecting cities in the US.
+Looking for flights that connect cities in different regions.
+Looking for flights that go from one city to another without layovers.
+Looking for flights that involve different modes of transportation.
+Looking for flights that involve different time zones.
+Multiple destinations coming up this month.
+Multiple destinations coming up this week.
+Multiple flight connections are necessary for this business trip.
+Multiple flight connections are necessary for this trip.
+Need a multi-city itinerary with layovers included.
+Need assistance planning a complex multi-city itinerary.
+Need assistance planning a complex multi-city vacation package.
+Need help planning a multi-city vacation package.
+Non-stop flights from Los Angeles to Chicago are not an option.
+Non-stop flights from Los Angeles to San Francisco do not exist.
+Non-stop flights from New York to Miami do not exist.
+Travel plans include flying between cities on separate days.
+What are my layover options between New York and Miami?
+What are my options for a non-stop flight from New York to Chicago?
+What are my options for connecting flights on separate days?

@@ -1,0 +1,78 @@
+Booking reference number: ABC123, can I get an update on my reservation?
+Booking reference number: DEF456, what's the cost per head for our team trip?
+Booking reference number: GHI789, what's the status of my accommodation arrangement?
+Booking reference number: JKL012, can I get a refund on my hotel stay?
+Booking reference number: KLM012, how do I cancel or modify my existing hotel stay?
+Booking reference number: KLM012, how do I track my flight status?
+Booking reference number: MNO345, how do I get a refund on my flight stay?
+Booking reference number: MNO345, how do I track my flight status?
+Booking reference number: MNO345, what's the status of my accommodation arrangement?
+Booking reference number: PQR678, how do I access my flight itinerary?
+Booking reference number: STU901, how do I track my flight status so far?
+Booking reference number: STU901, what's the status of my travel plans so far?
+Booking reference number: STU901, what's the status of my travel plans?
+Booking reference number: VWX234, how do I get a refund on my flight?
+Booking reference number: VWX234, how do I request changes to my existing hotel stay?
+Booking reference number: VWX234, what's the status of my flight reservation?
+Booking reference number: XYZ012, how do I cancel or modify my existing booking?
+Can you confirm my hotel booking in New York City?
+Can you please provide a breakdown of my travel expenses so far?
+Can you please show me my upcoming accommodation arrangements?
+Can you please show me my upcoming flight details?
+Can you provide a detailed breakdown of my travel expenses so far?
+Can you send me a confirmation of my upcoming business trip details?
+Can you send me a confirmation of my upcoming flight details and accommodations?
+Can you send me a confirmation of my upcoming flight details?
+Can you send me a summary of my travel plans so far?
+Can you send me an update on my flight itinerary?
+Can you send me an update on my travel plans so far?
+Can you show me my recent flight history and accommodations?
+Can you show me my recent flight history?
+Can you show me my recent flight reservations?
+Can you show me my recent hotel reservations and accommodations?
+Can you show me my recent hotel reservations?
+Can you show me my upcoming accommodation arrangements in New York City?
+Can you show me what flights we've already paid for?
+Here are 80 statements to train a corporate travel chatbot:
+How do I access my existing flight bookings?
+How do I cancel or change my existing booking?
+How do I request changes to my existing booking?
+I'd like to see what flights I've booked.
+My booking reference number is ABC123, can I get an update on my flight itinerary?
+My booking reference number is ABC123, can I get updates on my flight and hotel stays?
+My booking reference number is ABC123, can you provide updates on my reservation?
+My booking reference number is ABC123, what's the cost per person for our team trip?
+My booking reference number is DEF456, can I get a refund on my flight?
+My booking reference number is DEF456, can I get an update on my hotel arrangement?
+My booking reference number is DEF456, can I get an update on my hotel stay?
+My booking reference number is DEF456, how do I request changes to my existing flight itinerary?
+My company has booked flights and hotels, can I see those arrangements?
+My company has booked flights and hotels, can I see those details?
+My company has booked flights and hotels, can I see those?
+My company has booked flights for our team, can I see those?
+My company has booked flights for the conference, where are we flying to?
+Please confirm my next business trip dates and location.
+Please provide a detailed breakdown of my travel expenses so far.
+Please provide me with a summary of my travel plans.
+View details of my current booking please.
+What flights are booked for our company conference in Las Vegas?
+What flights are booked for our company meeting in Seattle?
+What flights are booked for our company team meeting?
+What flights are booked for our team in January?
+What flights are booked for the meeting in London?
+What flights are booked for the meeting in San Francisco?
+What's the cost per person for our team trip accommodations?
+What's the cost per person for our team trip flights in Los Angeles?
+What's the cost per person for our team trip flights in New York City?
+What's the cost per person for our team trip flights?
+What's the status of my recent booking?
+Where are we flying from for our team trip in Chicago?
+Where are we flying from for our team trip in Los Angeles?
+Where are we flying to for our next business trip?
+Where are we staying for our company team meeting?
+Where are we staying for our next business trip?
+Where are we staying on our upcoming trip?
+Where is my next business trip taking place?
+Where is our company staying in Miami for the conference?
+Where is our company team staying in Boston for the conference?
+Where is our company team staying in Chicago?

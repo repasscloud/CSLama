@@ -1,0 +1,81 @@
+Can I cancel my upcoming business trip?
+Can I get a refund for my canceled trip?
+Can you book a business class flight for me today?
+Can you book a business trip with flexibility in departure dates?
+Can you book a last-minute weekend getaway for me?
+Can you book a layover flight for me on the same day as my original flight?
+Can you book a round-the-world ticket for me?
+Can you book a round-trip business class ticket for me today?
+Can you book a same-day flight with a layover?
+Can you book a weekend getaway for two of us, including flights and accommodations.
+Can you book an early morning business class flight for me today?
+Can you book an overnight layover for me as part of my new itinerary.
+Can you book an upgrade to business class for me as part of your new itinerary.
+Can you find me a suitable alternative flight due to unforeseen circumstances?
+Can you help me compare prices among different airlines.
+Can you help me figure out how long it'll take to get through security.
+Can you help me figure out how much I'll spend on my trip, including all fees.
+Can you help me get the best fare by comparing multiple options?
+Can you look up alternative flights from my original route?
+Can you look up any available flights from my airport to major hubs.
+Can you look up any available seats in first class on a commercial flight.
+Can you look up any available seats on an empty plane?
+Can you look up any last-minute travel deals or sales?
+Can you look up flights from my city that offer in-flight Wi-Fi?
+Can you look up flights that depart in under 2 hours?
+Can you look up flights that offer airport lounge access for free.
+Can you look up flights that offer complimentary meals and snacks on board.
+Can you rebook my domestic flight from Chicago to Los Angeles today.
+Can you rebook my domestic flight since it got delayed.
+Can you rebook my flight from New York to LA today?
+Can you rebook my flight if it gets canceled again?
+Can you rebook my international flight since it got canceled.
+Can you recommend any affordable airlines for short trips.
+Can you recommend any budget airlines with the best in-flight amenities?
+Can you recommend any budget airlines with the most convenient routes.
+Can you recommend the best time to book a flight for optimal prices?
+Can you tell me about any sales or discounts on flights right now?
+Can you tell me how to cancel my frequent flyer miles membership.
+Can you tell me how to check-in for my flight quickly and efficiently?
+Can you tell me how to find the cheapest airlines for business class travel?
+Can you tell me how to pack light and save money on checked bag fees.
+Can you tell me how to request a seat upgrade at the airport.
+Can you tell me the best ways to avoid checked bag fees at the airport?
+Can you tell me the cheapest flights available this week?
+Can you tell me the most affordable airports in the US for domestic travel?
+Here are 80 statements to train a corporate travel chatbot to recognize when someone needs to book a new flight:
+I just lost my luggage, do you have any spare suitcases?
+I need help finding flights for a group of 5 people.
+I need to know if any airlines are offering any promotions or discounts.
+I need to take a business trip next week and want to know availability.
+I need to travel on short notice, what's the earliest I can fly out?
+I want to avoid security lines as much as possible; can you help with that?
+I want to book a round-trip ticket for a friend, what options are there?
+I'm having trouble getting ahold of my airline customer service.
+I'm having trouble with my airline's website, how do I get help?
+I'm running low on vacation days for the year.
+I'm trying to avoid security screening altogether; any tips?
+I'm trying to book a last-minute trip and need help finding a flight.
+I'm trying to find a direct flight from my city.
+I'm trying to get the most affordable flights possible for my family.
+My current flight is full, what options do you have?
+My family is going on vacation and we can't decide which airline to use.
+My flight is delayed due to bad weather; can I get a refund or credit towards my next trip?
+My flight is delayed, can you rebook me for tomorrow?
+My flight is too early in the morning, can you rebook it?
+My flight was canceled due to weather, can you rebook me?
+My friend wants to book a weekend getaway with me; what airline options are there?
+My friend wants to know if it's too late to find last-minute flights.
+My friend wants to know if there are any special travel requirements for a destination she's visiting.
+My friend wants to know if there are any travel restrictions I should be aware of.
+My friend wants to take a spontaneous road trip; can you help with planning.
+My friend wants to travel last-minute and needs your assistance.
+My international flight is going to be over 12 hours long, do I need any special assistance?
+My travel dates have changed, how do I update them?
+My travel insurance is invalid, what do I do now?
+My trip is next month and I'm not sure if I should book now or wait.
+My trip is next week and I haven't booked yet, how can I get started?
+My trip is this month and I'm running low on airline miles; can you help me redeem them?
+My trip is this weekend and I don't know if I should book yet.
+My trip is this weekend and I need a last-minute flight recommendation.
+My usual airline isn't having any flights available today.

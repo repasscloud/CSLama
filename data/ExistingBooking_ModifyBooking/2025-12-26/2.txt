@@ -1,0 +1,64 @@
+Can we make changes to the activities included in our group tour?
+Can we make changes to the activities included in our team-building exercise?
+Can we make changes to the airport transfers for our group trip?
+Can we make changes to the car rental options for our corporate trip?
+Can we make changes to the car rental options for our group trip?
+Can we make changes to the hotel room amenities for our corporate event?
+Can we make changes to the meal plan options for our corporate event?
+Can we make changes to the original itinerary I submitted?
+Can you assist me in changing my travel plans?
+Can you help me alter my existing booking?
+Can you help me resolve an issue with my existing reservation?
+Can you modify my original booking request?
+Here are 80 statements to train a corporate travel chatbot:
+I booked a flight that doesn't match my new schedule.
+I booked a flight that's now cancelled, what are my options?
+I booked a hotel room that doesn't meet my needs.
+I need to cancel my existing booking and rebook for new dates.
+I need to change my flight for tomorrow.
+I need to change my return flight due to unforeseen circumstances.
+I need to change the flight number for tomorrow's departure.
+I need to modify my original booking request with new details.
+I need to modify my original itinerary with new details.
+I need to modify my original travel plans due to unforeseen circumstances.
+I'd like to modify my flight schedule, can you assist?
+I'd like to modify my original itinerary.
+I'm not happy with the hotel room I was assigned.
+I'm not satisfied with the meal options for my upcoming trip.
+Is it possible to make changes to my existing reservation?
+Is there a way to change the flight departure time?
+Is there a way to change the meeting room layout?
+Is there a way to change the meeting rooms for our corporate event?
+Is there a way to modify the activities included in our team-building exercise?
+Is there a way to modify the meeting rooms for our corporate event?
+Is there a way to swap one flight for another in our corporate booking?
+Is there a way to swap one flight for another in our group booking?
+Is there a way to swap one flight for another in our group tour?
+Is there a way to swap one hotel for another in our group booking?
+My colleague's booking is causing an issue, can we change it?
+My colleague's booking needs to be updated due to a change in schedule.
+My company booked me on this flight, can it be changed?
+My company needs to cancel and rebook all flights for our team and make new bookings.
+My company needs to cancel and rebook all flights for our team due to unexpected changes.
+My company needs to cancel and rebook all flights for our team due to unforeseen changes.
+My company needs to cancel and rebook all flights for our team.
+My company needs to make changes to our travel arrangements.
+My name on the booking is misspelled, please correct it.
+My name on the booking was incorrect, can it be updated?
+My travel dates were incorrect, can they be updated with new dates?
+My travel dates were wrong, can they be updated with new dates?
+My travel dates were wrong, please change them for me.
+The accommodation option I chose is not suitable.
+The accommodation option I chose was not as expected.
+The accommodation option I chose was not suitable, please update.
+The dates I chose were wrong, help!
+The hotel room I booked has a problem with the TV connection.
+The hotel room I booked has a problem with the Wi-Fi connection.
+The hotel room I booked has a problem with the air conditioning.
+The hotel room I booked is not located as expected.
+The hotel room I was assigned has a problem with the air conditioning.
+The hotel room I was assigned is not as expected.
+The meal plan I selected was incorrect, can it be updated?
+The meal plan I selected was not suitable for my dietary needs.
+The room type I booked is not what I expected, please update.
+The room type I booked is not what I expected.

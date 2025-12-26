@@ -1,0 +1,81 @@
+Are there any deals on car rentals?
+Are there any deals on flights from my city to another country?
+Are there any deals on flights from my city?
+Are there any deals on flights this month?
+Are there any deals on hotel rooms this month?
+Are there any discounts for students?
+Are there any restrictions on checking in online with multiple passengers?
+Are there any restrictions on checking in online?
+Are there any restrictions on checking in with an infant?
+Are there any restrictions on checking in with pets?
+Are there any travel restrictions due to weather?
+Are there any travel restrictions for my destination?
+Are there any travel tips for my destination?
+Can I book a flight with a layover in another city?
+Can I book a flight with a layover in another time zone?
+Can I book a flight with a specific meal option?
+Can I book a flight with a specific seat selection?
+Can I book a group tour?
+Can I book a hotel room directly on your site?
+Can I book a hotel room with a private balcony?
+Can I book a hotel room with a private dining area?
+Can I book a hotel room with a private gym?
+Can I book a hotel room with a private office?
+Can I book a hotel room with a private spa?
+Can I book a private transfer service?
+Can I book a rental car online?
+Can I book a rental car with an insurance policy?
+Can I book a room with a view?
+Can you book a flight from NYC to LA today?
+Can you recommend a hotel in Paris?
+Can you recommend some popular tourist spots?
+Can you tell me about your company history?
+Can you tell me about your company mission statement?
+Do you have a loyalty program?
+Do you have a travel app?
+Do you have any discounts for military personnel?
+Do you have any partnerships with airlines or travel companies?
+Do you have any partnerships with airlines?
+Do you have any partnerships with travel companies?
+Do you have any travel guides for specific destinations?
+Do you have any travel guides or brochures?
+Do you offer any airport lounge access options?
+Do you offer any travel insurance options for business trips?
+Do you offer any travel insurance options?
+How do I cancel a booking over email?
+How do I cancel a booking over the phone?
+How do I contact customer support?
+How do I file a complaint about a service online?
+How do I file a complaint about a service?
+How do I pay for my trip online?
+How do I request a special meal at a restaurant near the airport?
+How do I request a special meal at the airport?
+How do I request a special request at check-in?
+How do I request a special request at the airport?
+How do I track my booking status?
+How do I track my flight status?
+How long is check-in at the airport?
+I can provide a list of 80 statements for training a corporate travel chatbot to recognize when someone is asking for frequently asked questions.
+Is it possible to book a business class ticket?
+Is there a promo code available for my booking?
+Is there a way to get a complimentary breakfast?
+Is there a way to get a complimentary upgrade to business class?
+Is there a way to get a complimentary upgrade to first class?
+Is there a way to get a complimentary upgrade?
+Is there a way to get a refund for a cancelled booking?
+Is there a way to get a refund for a cancelled flight?
+Is there a way to get a refund for a change of plans?
+Is there a way to save my booking for later?
+Is there a way to save my payment info?
+What are your policies on hotel cancellation?
+What's the best time of year to visit?
+What's the best way to get around the city?
+What's the company culture like for travel agents?
+What's the company policy on employee travel benefits?
+What's the policy on baggage fees?
+What's the policy on baggage handling?
+What's the policy on flight changes due to weather?
+What's the policy on flight layovers?
+What's the policy on luggage size limits?
+What's the process for canceling a booking?
+What's your policy on flight changes?

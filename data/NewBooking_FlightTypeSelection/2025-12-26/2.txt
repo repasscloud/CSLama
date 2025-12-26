@@ -1,0 +1,65 @@
+Are there any bundles that include hotel stays?
+Are there any deals or discounts available for military personnel?
+Are there any deals or discounts available for students?
+Are there any discounts available for last-minute bookings?
+Are there any package deals that include flights and car rentals?
+Are there any packages that include car rentals?
+Are there any packages that include travel insurance?
+Are there any restrictions on electronic devices during takeoff and landing?
+Are there any restrictions on luggage size or weight?
+Are there any restrictions on seat selection in basic economy?
+Are there any special offers for students or seniors?
+Can I book a flight with a specific seat selection?
+Can I book a private flight if my group has specific needs?
+Can I book a private jet if my group has specific needs?
+Can I book a same-day flight if needed?
+Can I get a customized itinerary for our corporate trip?
+Can I get an estimate for a group of 10 people traveling together?
+Can I get an estimate for a one-way flight?
+Can I get an estimate for a round-trip flight in business class?
+Can I get an estimate for a round-trip flight in economy?
+Can I get an upgrade to business class with a higher fare tier?
+Can I get an upgrade to first class if available?
+Can I get an upgrade to first class with a higher fare tier?
+Can I get economy, business, and first class options please?
+Do you have any deals on business class tickets?
+Do you have any partnerships with hotels or rental car companies?
+Do you have flights with lie-flat beds in business class?
+Do you offer any bundles that include hotel stays?
+Do you offer any discounts for military or first responder personnel?
+Do you offer any loyalty program benefits or perks for frequent travelers?
+Do you offer any loyalty program benefits or perks?
+Do you offer any loyalty programs or rewards for frequent travelers?
+Do you offer any packages that include hotel stays and car rentals?
+Do you offer any special assistance for passengers with disabilities?
+Here are 80 statements to train a corporate travel chatbot:
+How do I add baggage to my flight booking?
+How do I choose between economy and business class for my trip?
+How do I know which airport is closest to my destination?
+How do I know which airport to fly into for my destination?
+How do I know which type of flight is right for me?
+How do I know which type of travel insurance is right for me?
+How do I know which type of travel insurance is right for my trip?
+How do I redeem my miles for flights with your airline?
+How do I track my flight status and any changes or updates?
+I have specific seat requirements, can you accommodate them?
+I need to book a flight for our meeting next week.
+I'm looking for a hassle-free travel experience, can you recommend business class?
+I'm looking for a reliable carrier that offers economy seats.
+Is it possible to book a connecting flight if my first flight is delayed?
+Is it possible to book a private jet for our company team?
+Is it possible to change my flight itinerary if needed?
+Is there a difference between economy and premium economy?
+Is there a way to track my flight status and itinerary?
+What are the advantages of booking a flight directly with your airline?
+What are the benefits of booking a flight with your airline's loyalty program?
+What are the benefits of booking in advance for flights?
+What are the differences between economy, business, and first class tickets?
+What are the differences between economy, premium economy, and business class tickets?
+What are the different classes of service offered by your airline?
+What are the perks of upgrading to business class?
+What are the requirements for checking in online and printing my boarding pass?
+What are the requirements for checking in with your airline app?
+What is the difference between economy and basic economy tickets?
+What is the process for checking in online and printing my boarding pass?
+What types of flights do you offer?
